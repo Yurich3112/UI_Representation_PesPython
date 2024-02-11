@@ -1,0 +1,13 @@
+Detected elements for the IconJar application:
+Button (0.78 confidence) at position (961, 818)
+TextView (0.76 confidence) at position (596, 182)
+TextView (0.74 confidence) at position (1096, 211)
+TextView (0.70 confidence) at position (61, 447)
+TextView (0.63 confidence) at position (73, 505)
+TextView (0.59 confidence) at position (595, 519)
+TextView (0.57 confidence) at position (0, 2)
+ImageView (0.54 confidence) at position (156, 209)
+ImageView (0.51 confidence) at position (1093, 103)
+ImageView (0.41 confidence) at position (591, 97)
+TextView (0.38 confidence) at position (1090, 501)
+TextView (0.26 confidence) at position (1113, 180)

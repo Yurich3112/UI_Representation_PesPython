@@ -1,0 +1,62 @@
+Description for the Expenses application:
+Window named 'Expenses' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (530, 0).
+    Button named 'None' with state 'None' at position (590, 0).
+    Button named 'None' with state 'None' at position (1392, 0).
+    Button named 'None' with state 'None' at position (1462, 0).
+    MenuButton named 'None' with state 'None' at position (1534, 0).
+      MenuButton named '' with state 'None' at position (1540, 14).
+    Group named 'None' with state 'None' at position (1644, 0).
+      TextField named 'None' with state '' at position (1650, 14).
+        Button named '' with state 'None' at position (1654, 16).
+  Button named 'None' with state 'None' at position (24, 22).
+  Button named 'None' with state 'None' at position (104, 22).
+  Button named 'None' with state 'None' at position (64, 22).
+  Sheet named 'None' with state 'None' at position (444, 128).
+    Group named 'None' with state 'None' at position (444, 128).
+      Group named 'None' with state 'None' at position (444, 128).
+    Sheet named 'None' with state 'None' at position (444, 128).
+      Group named 'None' with state 'None' at position (444, 128).
+        Group named 'None' with state 'None' at position (444, 128).
+          Group named 'None' with state 'None' at position (444, 128).
+            Button named 'None' with state 'None' at position (468, 140).
+            Heading named 'None' with state 'None' at position (934, 158).
+            Button named 'None' with state 'None' at position (1498, 140).
+          Group named 'None' with state 'None' at position (444, 128).
+            Group named 'None' with state 'None' at position (444, 128).
+              Group named 'None' with state 'None' at position (444, 128).
+                Group named 'None' with state 'None' at position (484, 214).
+                  TabGroup named 'None' with state 'None' at position (480, 234).
+                    RadioButton named 'None' with state '1' at position (480, 234).
+                    RadioButton named 'None' with state '0' at position (1024, 234).
+                Group named 'None' with state '' at position (484, 342).
+                  StaticText named 'None' with state '' at position (484, 342).
+                Group named 'None' with state '' at position (484, 494).
+                  TextField named 'None' with state 'Education' at position (524, 522).
+                  Button named 'None' with state 'None' at position (1484, 522).
+                Group named 'None' with state '' at position (484, 664).
+                  Button named 'None' with state '' at position (484, 664).
+                Group named 'None' with state '' at position (484, 812).
+                  Button named 'None' with state 'Red' at position (500, 828).
+                  Button named 'None' with state 'Deep Orange' at position (620, 828).
+                  Button named 'None' with state 'Orange' at position (740, 828).
+                  Button named 'None' with state 'Yellow' at position (860, 828).
+                  Button named 'None' with state 'Lime' at position (980, 828).
+                  Button named 'None' with state 'Green' at position (1100, 828).
+                  Button named 'None' with state 'Cyan' at position (1220, 828).
+                  Button named 'None' with state 'Teal' at position (1340, 828).
+                  Button named 'None' with state 'Blue' at position (1460, 828).
+                  Button named 'None' with state 'Indigo' at position (500, 936).
+                  Button named 'None' with state 'Pink' at position (620, 936).
+                  Button named 'None' with state 'Purple' at position (740, 936).
+                  Button named 'None' with state 'Brown' at position (860, 936).
+                  Button named 'None' with state 'Gray' at position (980, 936).
+                  Button named 'None' with state 'Gray 2' at position (1100, 936).
+                  Button named 'None' with state 'Gray 3' at position (1220, 936).
+                  Button named 'None' with state 'Gray 4' at position (1340, 936).
+                  Button named 'None' with state 'Rose' at position (1460, 936).
+                Group named 'None' with state '' at position (484, 1040).
+                  Button named 'None' with state '' at position (484, 1040).

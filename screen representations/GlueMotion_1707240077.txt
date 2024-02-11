@@ -1,0 +1,46 @@
+Description for the GlueMotion application:
+Window named 'folder' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 104).
+    StaticText named 'None' with state 'Generate the preview' at position (592, 712).
+    Image named 'None' with state 'None' at position (930, 714).
+    Button named '' with state 'None' at position (40, 1378).
+    Button named '' with state 'None' at position (100, 1378).
+    Button named '' with state 'None' at position (160, 1378).
+    Button named '' with state 'None' at position (220, 1378).
+    Button named '' with state 'None' at position (280, 1378).
+    StaticText named 'None' with state '720p Preview' at position (1348, 1380).
+    Group named 'None' with state 'None' at position (68, 1480).
+    Group named 'None' with state 'None' at position (68, 1480).
+    Group named 'None' with state 'None' at position (40, 1468).
+    Group named 'None' with state 'None' at position (40, 1468).
+    StaticText named 'None' with state 'Choose the Frame Rate' at position (1596, 144).
+    StaticText named 'None' with state 'Preview video at different frame rates' at position (1596, 204).
+    Button named 'Continue' with state 'None' at position (1588, 1508).
+    ScrollArea named 'None' with state 'None' at position (1560, 278).
+      StaticText named 'None' with state 'Duration' at position (1596, 924).
+      StaticText named 'None' with state '0s' at position (2282, 924).
+      StaticText named 'None' with state 'FPS' at position (1596, 1012).
+      TextField named 'None' with state '30,00' at position (2080, 1008).
+      Incrementor named 'None' with state '0.0' at position (2288, 1000).
+        Button named 'None' with state 'None' at position (2288, 1000).
+        Button named 'None' with state 'None' at position (2288, 1028).
+      StaticText named 'None' with state 'Length' at position (1596, 1096).
+      PopUpButton named 'None' with state 'All frames' at position (2074, 1092).
+      ScrollBar named 'None' with state '0.0' at position (1560, 1448).
+      ScrollBar named 'None' with state '0.0' at position (2328, 278).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (174, 0).
+    Group named 'None' with state 'None' at position (662, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x600002f3cd20> {pid=42841}' at position (658, 12).
+        RadioButton named 'None' with state '0' at position (658, 12).
+        RadioButton named 'None' with state '0' at position (832, 12).
+        RadioButton named 'None' with state '0' at position (1006, 12).
+        RadioButton named 'None' with state '0' at position (1180, 12).
+        RadioButton named 'None' with state '1' at position (1354, 12).
+        RadioButton named 'None' with state '0' at position (1528, 12).
+    Button named 'None' with state 'None' at position (2196, 0).
+    MenuButton named 'None' with state 'None' at position (2268, 0).
+      MenuButton named '' with state 'None' at position (2264, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

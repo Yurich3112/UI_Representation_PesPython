@@ -1,0 +1,5 @@
+Detected elements for the GlueMotion application:
+TextView (0.79 confidence) at position (946, 991)
+ImageView (0.74 confidence) at position (901, 601)
+Button (0.57 confidence) at position (1055, 1071)
+TextView (0.51 confidence) at position (1037, 32)

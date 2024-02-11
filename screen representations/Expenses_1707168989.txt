@@ -1,0 +1,34 @@
+Description for the Expenses application:
+Window named 'Expenses' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (530, 0).
+    Button named 'None' with state 'None' at position (590, 0).
+    Button named 'None' with state 'None' at position (1392, 0).
+    Button named 'None' with state 'None' at position (1462, 0).
+    MenuButton named 'None' with state 'None' at position (1534, 0).
+      MenuButton named '' with state 'None' at position (1540, 14).
+    Group named 'None' with state 'None' at position (1644, 0).
+      TextField named 'None' with state '' at position (1650, 14).
+        Button named '' with state 'None' at position (1654, 16).
+  Button named 'None' with state 'None' at position (24, 22).
+  Button named 'None' with state 'None' at position (104, 22).
+  Button named 'None' with state 'None' at position (64, 22).
+  Sheet named 'None' with state 'None' at position (444, 128).
+    Group named 'None' with state 'None' at position (444, 128).
+      Group named 'None' with state 'None' at position (444, 128).
+        Group named 'None' with state 'None' at position (444, 128).
+          Heading named 'None' with state 'None' at position (976, 140).
+          Button named 'None' with state 'None' at position (1502, 140).
+        Group named 'None' with state 'None' at position (444, 128).
+          Group named 'None' with state 'None' at position (444, 128).
+            Group named 'None' with state 'None' at position (444, 128).
+              Group named 'None' with state '1' at position (484, 284).
+                CheckBox named 'None' with state '1' at position (484, 284).
+                CheckBox named 'None' with state '1' at position (1496, 296).
+              Group named 'None' with state '1' at position (484, 426).
+                CheckBox named 'None' with state '1' at position (484, 426).
+                CheckBox named 'None' with state '1' at position (1496, 438).
+              Group named 'None' with state '' at position (484, 570).
+                StaticText named 'None' with state '' at position (484, 570).

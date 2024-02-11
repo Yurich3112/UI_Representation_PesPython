@@ -1,0 +1,50 @@
+Description for the GlueMotion application:
+Window named 'folder' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 104).
+    StaticText named 'None' with state '0%' at position (712, 762).
+    StaticText named 'None' with state 'Click on the blue button to start the export.' at position (514, 872).
+    StaticText named 'None' with state 'Export Content' at position (1596, 144).
+    StaticText named 'None' with state 'Export timelapse frames and videos' at position (1596, 204).
+    Button named 'Export Content' with state 'None' at position (1588, 1508).
+    ScrollArea named 'None' with state 'None' at position (1560, 278).
+      StaticText named 'None' with state 'Filename' at position (1596, 380).
+      StaticText named 'None' with state 'Destination' at position (1596, 442).
+      TextField named 'None' with state 'folder' at position (1788, 378).
+      StaticText named 'None' with state 'No destination' at position (1784, 496).
+      StaticText named 'None' with state 'Author' at position (1596, 1044).
+      StaticText named 'None' with state 'Title' at position (1596, 1128).
+      StaticText named 'None' with state 'Description' at position (1596, 1212).
+      TextField named 'None' with state '' at position (1788, 1042).
+      TextField named 'None' with state '' at position (1788, 1126).
+      TextField named 'None' with state '' at position (1788, 1210).
+      StaticText named 'None' with state 'Contents' at position (1596, 318).
+      PopUpButton named 'None' with state 'Video' at position (1782, 314).
+      Button named 'Choose Destination' with state 'None' at position (1774, 430).
+      StaticText named 'None' with state 'Format' at position (1596, 612).
+      StaticText named 'None' with state 'Codec' at position (1596, 674).
+      PopUpButton named 'None' with state 'HEVC' at position (1782, 672).
+      PopUpButton named 'None' with state 'MOV' at position (1782, 610).
+      PopUpButton named 'None' with state 'Black' at position (1782, 796).
+      StaticText named 'None' with state 'Background' at position (1596, 798).
+      PopUpButton named 'None' with state 'Fill' at position (1782, 858).
+      StaticText named 'None' with state 'Aspect' at position (1596, 860).
+      PopUpButton named 'None' with state 'Keep the Original Resolution' at position (1782, 920).
+      StaticText named 'None' with state 'Resolution' at position (1596, 922).
+      ScrollBar named 'None' with state '0.0' at position (1560, 1488).
+      ScrollBar named 'None' with state '0.0' at position (2328, 278).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (174, 0).
+    Group named 'None' with state 'None' at position (662, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x60000232a640> {pid=42841}' at position (658, 12).
+        RadioButton named 'None' with state '0' at position (658, 12).
+        RadioButton named 'None' with state '0' at position (832, 12).
+        RadioButton named 'None' with state '0' at position (1006, 12).
+        RadioButton named 'None' with state '0' at position (1180, 12).
+        RadioButton named 'None' with state '0' at position (1354, 12).
+        RadioButton named 'None' with state '1' at position (1528, 12).
+    Button named 'None' with state 'None' at position (2196, 0).
+    MenuButton named 'None' with state 'None' at position (2268, 0).
+      MenuButton named '' with state 'None' at position (2264, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

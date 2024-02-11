@@ -1,0 +1,48 @@
+Description for the GlueMotion application:
+Window named 'folder' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 104).
+    StaticText named 'None' with state 'Calculate the chart' at position (610, 712).
+    Image named 'None' with state 'None' at position (910, 714).
+    StaticText named 'None' with state 'Configure Blending' at position (1596, 144).
+    StaticText named 'None' with state 'Enable deflickering and blending options' at position (1596, 204).
+    Button named 'Continue' with state 'None' at position (1588, 1508).
+    ScrollArea named 'None' with state 'None' at position (1560, 278).
+      StaticText named 'None' with state 'Deflickering' at position (1596, 318).
+      PopUpButton named 'None' with state 'None' at position (1782, 314).
+      StaticText named 'None' with state 'Passes' at position (1596, 380).
+      TextField named 'None' with state '2' at position (1788, 378).
+      Incrementor named 'None' with state '0.0' at position (2288, 370).
+        Button named 'None' with state 'None' at position (2288, 370).
+        Button named 'None' with state 'None' at position (2288, 398).
+      StaticText named 'None' with state 'Window' at position (1596, 442).
+      TextField named 'None' with state '30' at position (1788, 440).
+      Incrementor named 'None' with state '0.0' at position (2288, 432).
+        Button named 'None' with state 'None' at position (2288, 432).
+        Button named 'None' with state 'None' at position (2288, 460).
+      StaticText named 'None' with state 'Blending' at position (1596, 644).
+      PopUpButton named 'None' with state 'None' at position (1782, 640).
+      StaticText named 'None' with state 'Window' at position (1596, 706).
+      TextField named 'None' with state '1' at position (1788, 704).
+      Incrementor named 'None' with state '0.0' at position (2288, 696).
+        Button named 'None' with state 'None' at position (2288, 696).
+        Button named 'None' with state 'None' at position (2288, 724).
+      StaticText named 'None' with state 'Enabling this option allows you to correct luminances to avoid flicker effects.' at position (1784, 498).
+      StaticText named 'None' with state 'Enabling this option allows you to transition between images in a smoother way.' at position (1784, 762).
+      ScrollBar named 'None' with state '0.0' at position (1560, 1448).
+      ScrollBar named 'None' with state '0.0' at position (2328, 278).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (174, 0).
+    Group named 'None' with state 'None' at position (662, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x6000002fbcc0> {pid=42841}' at position (658, 12).
+        RadioButton named 'None' with state '0' at position (658, 12).
+        RadioButton named 'None' with state '0' at position (832, 12).
+        RadioButton named 'None' with state '0' at position (1006, 12).
+        RadioButton named 'None' with state '1' at position (1180, 12).
+        RadioButton named 'None' with state '0' at position (1354, 12).
+        RadioButton named 'None' with state '0' at position (1528, 12).
+    Button named 'None' with state 'None' at position (2196, 0).
+    MenuButton named 'None' with state 'None' at position (2268, 0).
+      MenuButton named '' with state 'None' at position (2264, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

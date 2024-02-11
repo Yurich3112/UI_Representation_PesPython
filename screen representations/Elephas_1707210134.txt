@@ -1,0 +1,10 @@
+Detected elements for the Elephas application:
+Button (0.84 confidence) at position (1144, 1181)
+Button (0.84 confidence) at position (1460, 1188)
+TextView (0.58 confidence) at position (69, 394)
+TextView (0.56 confidence) at position (76, 680)
+TextView (0.53 confidence) at position (55, 1196)
+TextView (0.52 confidence) at position (819, 5)
+TextView (0.41 confidence) at position (95, 474)
+TextView (0.39 confidence) at position (70, 578)
+TextView (0.31 confidence) at position (514, 153)

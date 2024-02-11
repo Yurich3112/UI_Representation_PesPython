@@ -1,0 +1,6 @@
+Detected elements for the GoodTask application:
+Button (0.65 confidence) at position (776, 1067)
+Button (0.60 confidence) at position (366, 1070)
+Button (0.59 confidence) at position (124, 1065)
+TextView (0.42 confidence) at position (73, 943)
+Button (0.42 confidence) at position (1156, 1068)

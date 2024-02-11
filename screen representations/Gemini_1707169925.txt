@@ -1,0 +1,3 @@
+Detected elements for the Gemini application:
+TextView (0.68 confidence) at position (108, 360)
+TextView (0.67 confidence) at position (982, 379)

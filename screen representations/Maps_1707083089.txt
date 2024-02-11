@@ -1,0 +1,55 @@
+Description for the Maps application:
+Window named 'Lviv — Lviv Oblast' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          TextField named 'None' with state '' at position (30, 74).
+          Group named 'None' with state 'None' at position (0, 154).
+            Heading named 'None' with state 'None' at position (20, 154).
+            StaticText named 'None' with state 'None' at position (20, 202).
+            StaticText named 'None' with state 'None' at position (20, 274).
+            Heading named 'None' with state 'None' at position (20, 346).
+            Group named 'None' with state 'None' at position (20, 394).
+              Button named 'None' with state 'None' at position (32, 394).
+          Button named 'None' with state 'None' at position (32, 1482).
+        Splitter named 'None' with state '27.5390625' at position (564, 0).
+        Group named 'None' with state 'None' at position (566, 0).
+        Button named 'None' with state 'None' at position (590, 1452).
+        Button named 'None' with state 'Heading: 0 degrees North' at position (1926, 1414).
+        Button named 'None' with state 'None' at position (1810, 1462).
+        Button named 'None' with state 'None' at position (1858, 1462).
+        Image named 'None' with state 'None' at position (0, 0).
+          GenericElement named 'None' with state 'None' at position (1312, 78).
+          GenericElement named 'None' with state 'None' at position (1446, 114).
+          GenericElement named 'None' with state 'None' at position (800, 160).
+          GenericElement named 'None' with state 'None' at position (1198, 366).
+          GenericElement named 'None' with state 'None' at position (1478, 368).
+          GenericElement named 'None' with state 'None' at position (554, 478).
+          GenericElement named 'None' with state 'None' at position (764, 556).
+          GenericElement named 'None' with state 'None' at position (628, 568).
+          GenericElement named 'None' with state 'None' at position (1598, 798).
+          GenericElement named 'None' with state 'None' at position (960, 848).
+          GenericElement named 'None' with state 'None' at position (1536, 944).
+          GenericElement named 'None' with state 'None' at position (1332, 1020).
+          GenericElement named 'None' with state 'None' at position (1840, 1104).
+          GenericElement named 'None' with state 'None' at position (1548, 1312).
+          GenericElement named 'None' with state 'None' at position (764, 1458).
+        Button named 'None' with state 'None' at position (1810, 1462).
+        Button named 'None' with state 'None' at position (1858, 1462).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (574, 0).
+    Button named 'None' with state 'None' at position (1486, 0).
+    Button named 'None' with state 'None' at position (1552, 0).
+    CheckBox named 'None' with state '0' at position (1622, 0).
+    CheckBox named 'None' with state '0' at position (1702, 0).
+    CheckBox named 'None' with state '0' at position (1778, 0).
+    MenuButton named 'None' with state 'None' at position (1844, 0).
+      MenuButton named '' with state 'None' at position (1850, 14).
+    Button named 'None' with state 'None' at position (1908, 0).
+    Button named 'None' with state 'None' at position (1974, 0).
+  Button named 'None' with state 'None' at position (24, 22).
+  Button named 'None' with state 'None' at position (104, 22).
+    Group named 'None' with state 'None' at position (104, 22).
+  Button named 'None' with state 'None' at position (64, 22).
+  StaticText named 'None' with state 'Lviv — Lviv Oblast' at position (646, 0).

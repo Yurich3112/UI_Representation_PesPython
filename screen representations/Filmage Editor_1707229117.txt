@@ -1,0 +1,151 @@
+Description for the Filmage Editor application:
+Window named 'Untitled 1.flmg' with state 'None' at position (0, 0).
+  Image named 'None' with state 'None' at position (40, 92).
+  StaticText named 'None' with state 'Media' at position (100, 102).
+  Button named '' with state 'None' at position (40, 76).
+  Image named 'None' with state 'None' at position (208, 92).
+  StaticText named 'None' with state 'Resources' at position (268, 102).
+  Button named '' with state 'None' at position (208, 76).
+  Image named 'None' with state 'None' at position (432, 92).
+  StaticText named 'None' with state 'Effects' at position (492, 102).
+  Button named '' with state 'None' at position (432, 76).
+  StaticText named 'None' with state 'Viewer' at position (2356, 102).
+  Image named 'None' with state 'None' at position (2312, 96).
+  Button named '' with state 'None' at position (2304, 88).
+  Image named 'None' with state 'None' at position (2348, 80).
+  StaticText named 'None' with state 'Export' at position (2718, 102).
+  Image named 'None' with state 'None' at position (2678, 96).
+  Button named '' with state 'None' at position (2652, 88).
+  Image named 'None' with state 'None' at position (2586, 96).
+  StaticText named 'None' with state '16:9' at position (2490, 100).
+  Button named '' with state 'None' at position (2484, 88).
+  StaticText named 'None' with state '' at position (1802, 180).
+  StaticText named 'None' with state '00:00:00:00' at position (1452, 776).
+  Button named '' with state 'None' at position (2776, 776).
+  StaticText named 'None' with state '00:00:00:00' at position (2616, 776).
+  Image named 'None' with state 'None' at position (1922, 444).
+  StaticText named 'None' with state 'Effects' at position (56, 184).
+  StaticText named 'None' with state 'Transitions' at position (106, 240).
+  Image named 'None' with state 'None' at position (60, 236).
+  Button named '' with state 'None' at position (50, 228).
+  StaticText named 'None' with state 'Animation' at position (106, 296).
+  Image named 'None' with state 'None' at position (60, 292).
+  Button named '' with state 'None' at position (50, 284).
+  Image named 'None' with state 'None' at position (92, 292).
+  Image named 'None' with state 'None' at position (60, 348).
+  StaticText named 'None' with state 'Filter' at position (106, 352).
+  Button named '' with state 'None' at position (50, 340).
+  Image named 'None' with state 'None' at position (92, 348).
+  Image named 'None' with state 'None' at position (92, 404).
+  StaticText named 'None' with state 'Special Effects' at position (106, 408).
+  Image named 'None' with state 'None' at position (60, 404).
+  Button named '' with state 'None' at position (50, 396).
+  StaticText named 'None' with state 'Mask' at position (106, 464).
+  Image named 'None' with state 'None' at position (60, 460).
+  Button named '' with state 'None' at position (50, 452).
+  Button named 'All' with state 'None' at position (488, 192).
+  Button named 'Favorite' with state 'None' at position (636, 192).
+  TextField named 'None' with state '' at position (1164, 198).
+  Button named '' with state 'None' at position (1304, 192).
+  ScrollArea named 'None' with state 'None' at position (448, 252).
+    List named 'None' with state 'None' at position (448, 252).
+      List named 'None' with state 'None' at position (488, 284).
+        Group named 'None' with state 'None' at position (488, 284).
+          Image named 'None' with state 'None' at position (488, 284).
+          StaticText named 'None' with state 'Fade to White' at position (484, 408).
+        Group named 'None' with state 'None' at position (712, 284).
+          Image named 'None' with state 'None' at position (712, 284).
+          StaticText named 'None' with state 'Fade to Black' at position (708, 408).
+        Group named 'None' with state 'None' at position (936, 284).
+          Image named 'None' with state 'None' at position (936, 284).
+          StaticText named 'None' with state 'Blend' at position (932, 408).
+        Group named 'None' with state 'None' at position (1160, 284).
+          Image named 'None' with state 'None' at position (1160, 284).
+          StaticText named 'None' with state 'Spin' at position (1156, 408).
+        Group named 'None' with state 'None' at position (488, 462).
+          Image named 'None' with state 'None' at position (488, 462).
+          StaticText named 'None' with state 'Wipe Left' at position (484, 586).
+        Group named 'None' with state 'None' at position (712, 462).
+          Image named 'None' with state 'None' at position (712, 462).
+          StaticText named 'None' with state 'Wipe Right' at position (708, 586).
+        Group named 'None' with state 'None' at position (936, 462).
+          Image named 'None' with state 'None' at position (936, 462).
+          StaticText named 'None' with state 'Horizontal Blur' at position (932, 586).
+        Group named 'None' with state 'None' at position (1160, 462).
+          Image named 'None' with state 'None' at position (1160, 462).
+          StaticText named 'None' with state 'Vertical Blur' at position (1156, 586).
+        Group named 'None' with state 'None' at position (488, 640).
+          Image named 'None' with state 'None' at position (488, 640).
+          StaticText named 'None' with state 'Cross Zoom' at position (484, 764).
+        Group named 'None' with state 'None' at position (712, 640).
+          Image named 'None' with state 'None' at position (712, 640).
+          StaticText named 'None' with state 'Spotlight' at position (708, 764).
+        Group named 'None' with state 'None' at position (936, 640).
+          Image named 'None' with state 'None' at position (936, 640).
+          StaticText named 'None' with state 'Clock Wipe' at position (932, 764).
+  Button named '' with state 'None' at position (80, 1058).
+  ScrollArea named 'None' with state 'None' at position (446, 1028).
+    StaticText named 'None' with state '00:00:00:00' at position (440, 1050).
+    StaticText named 'None' with state '00:00:30:00' at position (654, 1050).
+    StaticText named 'None' with state '00:01:00:00' at position (868, 1050).
+    StaticText named 'None' with state '00:01:30:00' at position (1082, 1050).
+    StaticText named 'None' with state '00:02:00:00' at position (1298, 1050).
+    StaticText named 'None' with state '00:02:30:00' at position (1512, 1050).
+    StaticText named 'None' with state '00:03:00:00' at position (1726, 1050).
+    StaticText named 'None' with state '00:03:30:00' at position (1940, 1050).
+    StaticText named 'None' with state '00:04:00:00' at position (2156, 1050).
+    StaticText named 'None' with state '00:04:30:00' at position (2370, 1050).
+    StaticText named 'None' with state '00:05:00:00' at position (2584, 1050).
+    StaticText named 'None' with state '00:05:30:00' at position (2800, 1050).
+    StaticText named 'None' with state '00:06:00:00' at position None.
+    StaticText named 'None' with state '00:06:30:00' at position None.
+    StaticText named 'None' with state '00:07:00:00' at position None.
+    StaticText named 'None' with state '00:07:30:00' at position None.
+    StaticText named 'None' with state '00:08:00:00' at position None.
+    StaticText named 'None' with state '00:08:30:00' at position None.
+    StaticText named 'None' with state '00:09:00:00' at position None.
+    StaticText named 'None' with state '00:09:30:00' at position None.
+    StaticText named 'None' with state '00:10:00:00' at position None.
+    StaticText named 'None' with state '00:10:30:00' at position None.
+    StaticText named 'None' with state '00:11:00:00' at position None.
+  ScrollArea named 'None' with state 'None' at position (446, 1128).
+    StaticText named 'None' with state 'Drag media and effects here to create your video.' at position (1334, 1344).
+  ScrollArea named 'None' with state 'None' at position (40, 1128).
+    Button named '' with state 'None' at position (70, 1492).
+    Button named '' with state 'None' at position (140, 1492).
+    Button named '' with state 'None' at position (210, 1492).
+    Button named '' with state 'None' at position (70, 1336).
+    Button named '' with state 'None' at position (140, 1336).
+    Button named '' with state 'None' at position (210, 1336).
+    Button named '' with state 'None' at position (280, 1336).
+    Button named '' with state 'None' at position (70, 1184).
+    Button named '' with state 'None' at position (140, 1184).
+    Button named '' with state 'None' at position (210, 1184).
+    Button named '' with state 'None' at position (280, 1184).
+  Image named 'None' with state 'None' at position (430, 1080).
+  Button named '' with state 'None' at position (76, 964).
+  Button named '' with state 'None' at position (164, 964).
+  Button named '' with state 'None' at position (228, 964).
+  Button named '' with state 'None' at position (448, 964).
+  Button named '' with state 'None' at position (512, 964).
+  Button named '' with state 'None' at position (576, 964).
+  Button named '' with state 'None' at position (668, 964).
+  Button named '' with state 'None' at position (740, 964).
+  Button named '' with state 'None' at position (812, 964).
+  Button named '' with state 'None' at position (884, 964).
+  Button named '' with state 'None' at position (2270, 964).
+  Button named '' with state 'None' at position (2342, 964).
+  Button named '' with state 'None' at position (2414, 964).
+  Button named '' with state 'None' at position (2486, 964).
+  Button named '' with state 'None' at position (2704, 964).
+  Button named '' with state 'None' at position (2780, 960).
+  Image named 'None' with state 'None' at position (2776, 960).
+  Image named 'None' with state 'None' at position (2794, 966).
+  Image named 'None' with state 'None' at position (2808, 966).
+  StaticText named 'None' with state 'Untitled 1.flmg' at position (400, 10).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state '' at position (1430, 10).

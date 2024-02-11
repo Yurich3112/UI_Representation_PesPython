@@ -1,0 +1,136 @@
+Description for the GoodTask application:
+Window named 'GoodTask' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    Button named '' with state 'None' at position (24, 930).
+    Button named '' with state 'None' at position (294, 936).
+    Button named '' with state 'None' at position (344, 936).
+    StaticText named 'None' with state '6' at position (392, 958).
+    Button named '' with state 'None' at position (394, 936).
+    Button named '' with state 'None' at position (462, 936).
+    Button named '' with state 'None' at position (512, 932).
+    ScrollArea named 'None' with state 'None' at position (0, 76).
+      Table named 'None' with state 'None' at position (0, 76).
+        Row named 'None' with state 'None' at position (0, 76).
+          Cell named 'None' with state 'None' at position (32, 76).
+            StaticText named 'None' with state 'Smart Lists' at position (44, 106).
+            Image named 'None' with state 'None' at position (472, 106).
+            Button named '' with state 'None' at position (414, 102).
+        Row named 'None' with state 'None' at position (0, 146).
+          Cell named 'None' with state 'None' at position (32, 146).
+            Image named 'None' with state 'None' at position (32, 140).
+            StaticText named 'None' with state 'All Lists' at position (94, 154).
+            StaticText named 'None' with state '2' at position (490, 154).
+        Row named 'None' with state 'None' at position (0, 196).
+          Cell named 'None' with state 'None' at position (32, 196).
+            Image named 'None' with state 'None' at position (32, 184).
+            StaticText named 'None' with state 'Today' at position (94, 204).
+            StaticText named 'None' with state '0' at position (488, 204).
+        Row named 'None' with state 'None' at position (0, 246).
+          Cell named 'None' with state 'None' at position (32, 246).
+            Image named 'None' with state 'None' at position (32, 234).
+            StaticText named 'None' with state 'High Priorities' at position (94, 254).
+            StaticText named 'None' with state '0' at position (488, 254).
+        Row named 'None' with state 'None' at position (0, 296).
+          Cell named 'None' with state 'None' at position (32, 296).
+            Image named 'None' with state 'None' at position (32, 282).
+            StaticText named 'None' with state 'Overdue' at position (94, 304).
+            StaticText named 'None' with state '1' at position (494, 304).
+        Row named 'None' with state 'None' at position (0, 346).
+          Cell named 'None' with state 'None' at position (32, 346).
+            Image named 'None' with state 'None' at position (32, 334).
+            StaticText named 'None' with state 'Within 3 days' at position (94, 354).
+            StaticText named 'None' with state '1' at position (494, 354).
+        Row named 'None' with state 'None' at position (0, 396).
+          Cell named 'None' with state 'None' at position (32, 396).
+            Image named 'None' with state 'None' at position (32, 380).
+            StaticText named 'None' with state 'Recent' at position (94, 404).
+            StaticText named 'None' with state '2' at position (490, 404).
+        Row named 'None' with state 'None' at position (0, 446).
+          Cell named 'None' with state 'None' at position (32, 446).
+            Image named 'None' with state 'None' at position (32, 434).
+            StaticText named 'None' with state '#Later' at position (94, 454).
+            StaticText named 'None' with state '0' at position (488, 454).
+        Row named 'None' with state 'None' at position (0, 496).
+          Cell named 'None' with state 'None' at position (32, 496).
+            Image named 'None' with state 'None' at position (32, 484).
+            StaticText named 'None' with state '5 Scheduled tasks' at position (94, 504).
+            StaticText named 'None' with state '2' at position (490, 504).
+        Row named 'None' with state 'None' at position (0, 546).
+          Cell named 'None' with state 'None' at position (32, 546).
+            Image named 'None' with state 'None' at position (32, 534).
+            StaticText named 'None' with state '10 Recently Completed Tasks' at position (94, 554).
+            StaticText named 'None' with state '0' at position (488, 554).
+        Row named 'None' with state 'None' at position (0, 596).
+          Cell named 'None' with state 'None' at position (32, 596).
+            StaticText named 'None' with state 'Lists' at position (44, 626).
+            Image named 'None' with state 'None' at position (472, 626).
+            Button named '' with state 'None' at position (414, 622).
+        Row named 'None' with state 'None' at position (0, 666).
+          Cell named 'None' with state 'None' at position (32, 666).
+            Image named 'None' with state 'None' at position (32, 660).
+            StaticText named 'None' with state 'Reminders' at position (94, 674).
+            StaticText named 'None' with state '2' at position (490, 674).
+        Column named 'None' with state 'None' at position (20, 76).
+    Splitter named 'None' with state '280.0' at position (560, 76).
+    Group named 'None' with state 'None' at position (562, 0).
+      ScrollArea named 'None' with state 'None' at position (562, 76).
+        List named 'None' with state 'None' at position (0, 76).
+          List named 'None' with state 'None' at position (0, 96).
+            Group named 'None' with state 'None' at position (0, 96).
+            Group named 'None' with state 'None' at position None.
+              ScrollArea named 'None' with state 'None' at position None.
+                Table named 'None' with state 'None' at position None.
+                  Row named 'None' with state 'None' at position None.
+                    Cell named 'None' with state 'None' at position None.
+                      Button named '' with state '' at position None.
+                      StaticText named 'None' with state 'dentist' at position None.
+                      StaticText named 'None' with state 'Overdue: 17 Years ago' at position None.
+                      Image named 'None' with state 'None' at position None.
+                  Column named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'Today  Tue, 6 February' at position None.
+              StaticText named 'None' with state '1' at position None.
+              Button named '' with state 'None' at position None.
+            Group named 'None' with state 'None' at position (0, 96).
+              ScrollArea named 'None' with state 'None' at position (0, 196).
+                Table named 'None' with state 'None' at position (0, 196).
+                  Column named 'None' with state 'None' at position (0, 196).
+              StaticText named 'None' with state 'Tomorrow  Wed, 7 February' at position (0, 122).
+              StaticText named 'None' with state '0' at position (606, 122).
+              Button named '' with state 'None' at position (288, 844).
+            Group named 'None' with state 'None' at position (706, 96).
+              ScrollArea named 'None' with state 'None' at position (716, 196).
+                Table named 'None' with state 'None' at position (716, 196).
+                  Row named 'None' with state 'None' at position (716, 196).
+                    Cell named 'None' with state 'None' at position (728, 196).
+                      Button named '' with state '' at position (740, 196).
+                      StaticText named 'None' with state 'dinner ' at position (830, 220).
+                      StaticText named 'None' with state 'Sun, 18 February, 19:00' at position (1086, 226).
+                      Image named 'None' with state 'None' at position (1346, 226).
+                  Column named 'None' with state 'None' at position (716, 196).
+              StaticText named 'None' with state 'Later' at position (738, 122).
+              StaticText named 'None' with state '1' at position (1352, 122).
+              Button named '' with state 'None' at position (1028, 844).
+            Group named 'None' with state 'None' at position (1446, 96).
+              ScrollArea named 'None' with state 'None' at position (1456, 196).
+                Table named 'None' with state 'None' at position (1456, 196).
+                  Column named 'None' with state 'None' at position (1456, 196).
+              StaticText named 'None' with state 'No Due Date' at position (1478, 122).
+              StaticText named 'None' with state '0' at position None.
+              Button named '' with state 'None' at position None.
+        ScrollBar named 'None' with state '0.688' at position (562, 928).
+          ValueIndicator named 'None' with state '0.688' at position (1020, 936).
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position (1352, 936).
+          Button named 'None' with state 'None' at position (562, 936).
+      StaticText named 'None' with state 'Reminders' at position (994, 964).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (152, 0).
+    Button named 'None' with state 'None' at position (224, 0).
+    Button named 'None' with state 'None' at position (588, 0).
+    Button named 'None' with state 'None' at position (668, 0).
+    Button named 'None' with state 'None' at position (748, 0).
+    Button named 'None' with state 'None' at position (814, 0).
+  Button named 'None' with state 'None' at position (24, 22).
+  Button named 'None' with state 'None' at position (104, 22).
+  Button named 'None' with state 'None' at position (64, 22).

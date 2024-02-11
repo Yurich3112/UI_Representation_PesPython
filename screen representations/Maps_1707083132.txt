@@ -1,0 +1,76 @@
+Description for the Maps application:
+Window named 'Lviv — Lviv Oblast' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        TextField named 'None' with state 'ukrainian catho' at position (30, 74).
+        Group named 'None' with state 'None' at position (0, 154).
+          Heading named 'None' with state 'None' at position (20, 154).
+          StaticText named 'None' with state 'None' at position (20, 202).
+          StaticText named 'None' with state 'None' at position (20, 274).
+          Heading named 'None' with state 'None' at position (20, 346).
+          Group named 'None' with state 'None' at position (20, 394).
+            Button named 'None' with state 'None' at position (32, 394).
+          Heading named 'None' with state 'None' at position (20, 424).
+          StaticText named 'None' with state 'None' at position (20, 472).
+          Group named 'None' with state 'None' at position (20, 544).
+            Button named 'None' with state 'None' at position (32, 544).
+        Button named 'None' with state 'None' at position (32, 1482).
+      Splitter named 'None' with state '27.5390625' at position (564, 0).
+      Group named 'None' with state 'None' at position (566, 0).
+      Button named 'None' with state 'None' at position (590, 1452).
+      Button named 'None' with state 'Heading: 0 degrees North' at position (1926, 1414).
+      GenericElement named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (1810, 1462).
+      Button named 'None' with state 'None' at position (1858, 1462).
+      Image named 'None' with state 'None' at position (0, 0).
+        GenericElement named 'None' with state 'None' at position (966, 50).
+        GenericElement named 'None' with state 'None' at position (1278, 840).
+      GenericElement named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (1810, 1462).
+      Button named 'None' with state 'None' at position (1858, 1462).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (574, 0).
+    Button named 'None' with state 'None' at position (1486, 0).
+    Button named 'None' with state 'None' at position (1552, 0).
+    CheckBox named 'None' with state '0' at position (1622, 0).
+    CheckBox named 'None' with state '0' at position (1702, 0).
+    CheckBox named 'None' with state '0' at position (1778, 0).
+    MenuButton named 'None' with state 'None' at position (1844, 0).
+      MenuButton named '' with state 'None' at position (1850, 14).
+    Button named 'None' with state 'None' at position (1908, 0).
+    Button named 'None' with state 'None' at position (1974, 0).
+  Button named 'None' with state 'None' at position (24, 22).
+  Button named 'None' with state 'None' at position (104, 22).
+    Group named 'None' with state 'None' at position (104, 22).
+      Group named 'None' with state 'None' at position (104, 22).
+  Button named 'None' with state 'None' at position (64, 22).
+  StaticText named 'None' with state 'Lviv — Lviv Oblast' at position (646, 0).
+  Popover named 'None' with state 'None' at position (544, 384).
+    Group named 'None' with state 'None' at position (570, 410).
+      Group named 'None' with state 'None' at position (570, 410).
+        Group named 'None' with state 'None' at position (570, 410).
+          Group named 'None' with state 'None' at position (570, 410).
+            StaticText named 'None' with state 'None' at position (624, 442).
+            StaticText named 'None' with state 'None' at position (624, 546).
+            TextArea named 'None' with state 'Colleges & Universities' at position (624, 582).
+            Button named 'None' with state 'None' at position (618, 642).
+            Button named 'None' with state 'None' at position (902, 642).
+            StaticText named 'None' with state 'None' at position (624, 764).
+            Button named 'None' with state 'None' at position (1128, 762).
+            Group named 'None' with state 'None' at position (618, 822).
+              StaticText named 'None' with state 'None' at position (650, 846).
+              TextArea named 'None' with state '+380 (32) 240 99 40' at position (650, 878).
+              StaticText named 'None' with state 'None' at position (650, 962).
+              TextArea named 'None' with state 'ucu.edu.ua' at position (650, 994).
+              StaticText named 'None' with state 'None' at position (650, 1078).
+              TextArea named 'None' with state 'Kozelnytska Street, 2А
+Lviv, Lviv Oblast
+79026
+Ukraine' at position (650, 1110).
+            Group named 'None' with state 'None' at position (618, 1310).
+              StaticText named 'None' with state 'None' at position (718, 1342).
+              StaticText named 'None' with state 'None' at position (718, 1438).
+          Group named 'None' with state 'None' at position (1126, 410).
+            Button named 'None' with state 'None' at position (1142, 442).

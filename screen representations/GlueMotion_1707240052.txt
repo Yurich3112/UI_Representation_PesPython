@@ -1,0 +1,171 @@
+Description for the GlueMotion application:
+Window named 'folder' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 104).
+    StaticText named 'None' with state '1 / 2' at position (750, 1380).
+    Button named '' with state 'None' at position (40, 1378).
+    Button named '' with state 'None' at position (100, 1378).
+    Button named '' with state 'None' at position (160, 1378).
+    Button named '' with state 'None' at position (220, 1378).
+    Button named '' with state 'None' at position (280, 1378).
+    MenuButton named 'More' with state 'None' at position (1416, 1378).
+    Group named 'None' with state 'None' at position (68, 1480).
+    Group named 'None' with state 'None' at position (68, 1480).
+    Group named 'None' with state 'None' at position (40, 1468).
+    Group named 'None' with state 'None' at position (40, 1468).
+    StaticText named 'None' with state 'Adjust Colors' at position (1596, 144).
+    StaticText named 'None' with state 'Adjust colors using keyframes' at position (1596, 204).
+    Button named 'Continue' with state 'None' at position (1588, 1508).
+    ScrollArea named 'None' with state 'None' at position (1560, 278).
+      Button named 'White Balance' with state 'None' at position (1642, 302).
+      DisclosureTriangle named 'None' with state '0' at position (1600, 304).
+      Button named '' with state 'None' at position (2048, 294).
+      Button named '' with state 'None' at position (2102, 294).
+      Button named '' with state 'None' at position (2168, 294).
+      Button named '' with state 'None' at position (2212, 294).
+      Button named 'None' with state '0' at position (2252, 298).
+      StaticText named 'None' with state 'Neutral Temp' at position (1636, 392).
+      StaticText named 'None' with state 'Neutral Tint' at position (1636, 444).
+      StaticText named 'None' with state 'Target Temp' at position (1636, 496).
+      StaticText named 'None' with state 'Target Tint' at position (1636, 548).
+      Slider named 'None' with state '6500.0' at position (1820, 386).
+        ValueIndicator named 'None' with state '6500.0' at position (2010, 386).
+      StaticText named 'None' with state '0%' at position (2240, 392).
+      Slider named 'None' with state '0.0' at position (1820, 438).
+        ValueIndicator named 'None' with state '0.0' at position (2010, 438).
+      StaticText named 'None' with state '0%' at position (2240, 444).
+      Slider named 'None' with state '6500.0' at position (1820, 490).
+        ValueIndicator named 'None' with state '6500.0' at position (2010, 490).
+      StaticText named 'None' with state '0%' at position (2240, 496).
+      Slider named 'None' with state '0.0' at position (1820, 542).
+        ValueIndicator named 'None' with state '0.0' at position (2010, 542).
+      StaticText named 'None' with state '0%' at position (2240, 548).
+      Button named 'Motion' with state 'None' at position (1642, 384).
+      DisclosureTriangle named 'None' with state '0' at position (1600, 386).
+      Button named '' with state 'None' at position (2048, 384).
+      Button named '' with state 'None' at position (2102, 384).
+      Button named '' with state 'None' at position (2168, 384).
+      Button named '' with state 'None' at position (2212, 384).
+      Button named 'None' with state '0' at position (2252, 380).
+      StaticText named 'None' with state 'Zoom' at position (1636, 474).
+      StaticText named 'None' with state 'Shift X' at position (1636, 526).
+      StaticText named 'None' with state 'Shift Y' at position (1636, 578).
+      Slider named 'None' with state '1.0' at position (1820, 468).
+        ValueIndicator named 'None' with state '1.0' at position (2200, 468).
+      Slider named 'None' with state '0.0' at position (1820, 520).
+        ValueIndicator named 'None' with state '0.0' at position (2010, 520).
+      Slider named 'None' with state '0.0' at position (1820, 572).
+        ValueIndicator named 'None' with state '0.0' at position (2010, 572).
+      StaticText named 'None' with state '100%' at position (2240, 474).
+      StaticText named 'None' with state '0%' at position (2240, 526).
+      StaticText named 'None' with state '0%' at position (2240, 578).
+      Button named 'Noise Reduction' with state 'None' at position (1642, 466).
+      DisclosureTriangle named 'None' with state '0' at position (1600, 468).
+      Button named '' with state 'None' at position (2048, 466).
+      Button named '' with state 'None' at position (2102, 466).
+      Button named '' with state 'None' at position (2168, 466).
+      Button named '' with state 'None' at position (2212, 466).
+      Button named 'None' with state '0' at position (2252, 462).
+      StaticText named 'None' with state 'Level' at position (1636, 556).
+      StaticText named 'None' with state 'Sharpness' at position (1636, 608).
+      Slider named 'None' with state '0.0' at position (1820, 550).
+        ValueIndicator named 'None' with state '0.0' at position (1820, 550).
+      Slider named 'None' with state '0.0' at position (1820, 602).
+        ValueIndicator named 'None' with state '0.0' at position (1820, 602).
+      StaticText named 'None' with state '0%' at position (2240, 556).
+      StaticText named 'None' with state '0%' at position (2240, 608).
+      Button named 'Color Controls' with state 'None' at position (1642, 548).
+      DisclosureTriangle named 'None' with state '0' at position (1600, 550).
+      Button named '' with state 'None' at position (2048, 548).
+      Button named '' with state 'None' at position (2102, 548).
+      Button named '' with state 'None' at position (2168, 548).
+      Button named '' with state 'None' at position (2212, 548).
+      Button named 'None' with state '0' at position (2252, 544).
+      StaticText named 'None' with state 'Brightness' at position (1636, 638).
+      StaticText named 'None' with state 'Contrast' at position (1636, 690).
+      StaticText named 'None' with state 'Saturation' at position (1636, 742).
+      Slider named 'None' with state '0.0' at position (1820, 632).
+        ValueIndicator named 'None' with state '0.0' at position (2010, 632).
+      Slider named 'None' with state '1.0' at position (1820, 684).
+        ValueIndicator named 'None' with state '1.0' at position (2010, 684).
+      Slider named 'None' with state '1.0' at position (1820, 736).
+        ValueIndicator named 'None' with state '1.0' at position (2200, 736).
+      StaticText named 'None' with state '0%' at position (2240, 638).
+      StaticText named 'None' with state '0%' at position (2240, 690).
+      StaticText named 'None' with state '100%' at position (2240, 742).
+      Button named 'Light Correction' with state 'None' at position (1642, 630).
+      DisclosureTriangle named 'None' with state '0' at position (1600, 632).
+      Button named '' with state 'None' at position (2048, 630).
+      Button named '' with state 'None' at position (2102, 630).
+      Button named '' with state 'None' at position (2168, 630).
+      Button named '' with state 'None' at position (2212, 630).
+      Button named 'None' with state '0' at position (2252, 626).
+      StaticText named 'None' with state 'Highlight' at position (1636, 720).
+      StaticText named 'None' with state 'Shadow' at position (1636, 772).
+      Slider named 'None' with state '1.0' at position (1820, 714).
+        ValueIndicator named 'None' with state '1.0' at position (2200, 714).
+      Slider named 'None' with state '0.0' at position (1820, 766).
+        ValueIndicator named 'None' with state '0.0' at position (1820, 766).
+      StaticText named 'None' with state '100%' at position (2240, 720).
+      StaticText named 'None' with state '-100%' at position (2240, 772).
+      Button named 'Exposure Correction' with state 'None' at position (1642, 712).
+      DisclosureTriangle named 'None' with state '0' at position (1600, 714).
+      Button named '' with state 'None' at position (2048, 712).
+      Button named '' with state 'None' at position (2102, 712).
+      Button named '' with state 'None' at position (2168, 712).
+      Button named '' with state 'None' at position (2212, 712).
+      Button named 'None' with state '0' at position (2252, 708).
+      StaticText named 'None' with state 'EV' at position (1636, 802).
+      Slider named 'None' with state '0.0' at position (1820, 796).
+        ValueIndicator named 'None' with state '0.0' at position (2010, 796).
+      StaticText named 'None' with state '0%' at position (2240, 802).
+      Button named 'Gamma Correction' with state 'None' at position (1642, 794).
+      DisclosureTriangle named 'None' with state '0' at position (1600, 796).
+      Button named '' with state 'None' at position (2048, 794).
+      Button named '' with state 'None' at position (2102, 794).
+      Button named '' with state 'None' at position (2168, 794).
+      Button named '' with state 'None' at position (2212, 794).
+      Button named 'None' with state '0' at position (2252, 790).
+      StaticText named 'None' with state 'Power' at position (1636, 884).
+      Slider named 'None' with state '1.0' at position (1820, 878).
+        ValueIndicator named 'None' with state '1.0' at position (2002, 878).
+      StaticText named 'None' with state '50%' at position (2240, 884).
+      Button named 'Hue Correction' with state 'None' at position (1642, 876).
+      DisclosureTriangle named 'None' with state '0' at position (1600, 878).
+      Button named '' with state 'None' at position (2048, 876).
+      Button named '' with state 'None' at position (2102, 876).
+      Button named '' with state 'None' at position (2168, 876).
+      Button named '' with state 'None' at position (2212, 876).
+      Button named 'None' with state '0' at position (2252, 872).
+      StaticText named 'None' with state 'Angle' at position (1636, 966).
+      Slider named 'None' with state '0.0' at position (1820, 960).
+        ValueIndicator named 'None' with state '0.0' at position (2010, 960).
+      StaticText named 'None' with state '0%' at position (2240, 966).
+      Button named 'Sepia Tone' with state 'None' at position (1642, 958).
+      DisclosureTriangle named 'None' with state '0' at position (1600, 960).
+      Button named '' with state 'None' at position (2048, 958).
+      Button named '' with state 'None' at position (2102, 958).
+      Button named '' with state 'None' at position (2168, 958).
+      Button named '' with state 'None' at position (2212, 958).
+      Button named 'None' with state '0' at position (2252, 954).
+      StaticText named 'None' with state 'Intensity' at position (1636, 1048).
+      Slider named 'None' with state '0.0' at position (1820, 1042).
+        ValueIndicator named 'None' with state '0.0' at position (1820, 1042).
+      StaticText named 'None' with state '0%' at position (2240, 1048).
+      ScrollBar named 'None' with state '0.0' at position (1560, 1448).
+      ScrollBar named 'None' with state '0.0' at position (2328, 278).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (174, 0).
+    Group named 'None' with state 'None' at position (662, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x600003a55b00> {pid=42841}' at position (658, 12).
+        RadioButton named 'None' with state '0' at position (658, 12).
+        RadioButton named 'None' with state '0' at position (832, 12).
+        RadioButton named 'None' with state '1' at position (1006, 12).
+        RadioButton named 'None' with state '0' at position (1180, 12).
+        RadioButton named 'None' with state '0' at position (1354, 12).
+        RadioButton named 'None' with state '0' at position (1528, 12).
+    Button named 'None' with state 'None' at position (2196, 0).
+    MenuButton named 'None' with state 'None' at position (2268, 0).
+      MenuButton named '' with state 'None' at position (2264, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

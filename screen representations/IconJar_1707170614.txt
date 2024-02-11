@@ -1,0 +1,67 @@
+Description for the IconJar application:
+Window named 'All Icons' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Outline named 'None' with state 'None' at position (0, 104).
+        Row named 'None' with state 'None' at position (0, 104).
+          Cell named 'None' with state 'None' at position (20, 104).
+        Row named 'None' with state 'None' at position (0, 128).
+          Cell named 'None' with state 'None' at position (20, 128).
+        Row named 'None' with state 'None' at position (0, 184).
+          Cell named 'None' with state 'None' at position (20, 184).
+        Row named 'None' with state 'None' at position (0, 240).
+          Cell named 'None' with state 'None' at position (20, 240).
+        Row named 'None' with state 'None' at position (0, 296).
+          Cell named 'None' with state 'None' at position (20, 296).
+        Row named 'None' with state 'None' at position (0, 360).
+          Cell named 'None' with state 'None' at position (20, 360).
+            DisclosureTriangle named 'None' with state '0' at position (26, 360).
+        Row named 'None' with state 'None' at position (0, 416).
+          Cell named 'None' with state 'None' at position (20, 416).
+        Column named 'None' with state 'None' at position (20, 104).
+    TextField named 'None' with state '' at position (18, 1322).
+    Splitter named 'None' with state '222.0' at position (444, 104).
+    ScrollArea named 'None' with state 'None' at position (446, 2).
+      ScrollBar named 'None' with state '0.001191056010626522' at position (1886, 104).
+        ValueIndicator named 'None' with state '0.001191056010626522' at position (1894, 106).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (1894, 160).
+        Button named 'None' with state 'None' at position (1894, 104).
+      Slider named 'None' with state '60.0' at position (976, 1310).
+        ValueIndicator named 'None' with state '60.0' at position (1014, 1308).
+      PopUpButton named 'None' with state '60pt' at position (1302, 1304).
+      Button named '' with state 'None' at position (942, 1316).
+      Button named '' with state 'None' at position (1236, 1312).
+    Splitter named 'None' with state '736.0' at position (1918, 104).
+    ScrollArea named 'None' with state 'None' at position (1920, 202).
+      TextField named 'None' with state '' at position (1952, 238).
+      TextField named 'None' with state '' at position (1952, 310).
+      PopUpButton named 'None' with state 'No License' at position (1952, 380).
+      StaticText named 'None' with state '7737 Icons' at position (2166, 464).
+      StaticText named 'None' with state 'Icon Count' at position (1952, 464).
+      StaticText named 'None' with state 'Import Date' at position (1952, 506).
+      StaticText named 'None' with state '06 Feb 2024' at position (2166, 506).
+      StaticText named 'None' with state '3,7 MB' at position (2166, 548).
+      StaticText named 'None' with state 'File Size' at position (1952, 548).
+      StaticText named 'None' with state 'Selection' at position (1952, 590).
+      StaticText named 'None' with state '85 Sets' at position (2166, 590).
+      Group named 'None' with state 'None' at position (2008, 662).
+        Button named 'None' with state 'None' at position (2008, 662).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (174, 0).
+    MenuButton named 'None' with state 'None' at position (316, 0).
+      MenuButton named '' with state 'None' at position (314, 12).
+    Group named 'None' with state 'None' at position (1106, 0).
+      TextField named 'None' with state '' at position (1112, 22).
+        Button named '' with state 'None' at position (1116, 30).
+    MenuButton named 'None' with state 'None' at position (1772, 0).
+      MenuButton named '' with state 'None' at position (1770, 12).
+    Button named 'None' with state 'None' at position (1912, 0).
+    Button named 'None' with state 'None' at position (1984, 0).
+    Button named 'None' with state 'None' at position (2088, 0).
+    Button named 'None' with state 'None' at position (2192, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'All Icons' at position (462, 0).

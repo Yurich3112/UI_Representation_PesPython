@@ -1,0 +1,58 @@
+Description for the GarageBand application:
+Window named 'Choose a Project' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 56).
+      Outline named 'None' with state 'None' at position (2, 56).
+        Row named 'None' with state 'None' at position (2, 56).
+          Cell named 'None' with state 'None' at position (22, 56).
+        Row named 'None' with state 'None' at position (2, 64).
+          Cell named 'None' with state 'None' at position (22, 64).
+            Image named 'None' with state '<NSImage 0x60000329e620 Size={14, 16} RepProvider=<NSImageSymbolRepProvider: 0x600000e96400> symbol = doc>' at position (40, 76).
+            StaticText named 'None' with state 'New Project' at position (78, 76).
+        Row named 'None' with state 'None' at position (2, 120).
+          Cell named 'None' with state 'None' at position (22, 120).
+            Image named 'None' with state '<NSImage 0x60000329c5a0 Size={15, 15} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8960> symbol = clock>' at position (38, 134).
+            StaticText named 'None' with state 'Recent' at position (78, 132).
+        Row named 'None' with state 'None' at position (2, 176).
+          Cell named 'None' with state 'None' at position (22, 176).
+            Image named 'None' with state '<NSImage 0x60000329e940 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea9650> symbol = Glyphs/music.note.square>' at position (38, 190).
+            StaticText named 'None' with state 'Learn to Play' at position (78, 188).
+        Row named 'None' with state 'None' at position (2, 232).
+          Cell named 'None' with state 'None' at position (22, 232).
+            Image named 'None' with state '<NSImage 0x60000329f160 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8c00> symbol = star.square>' at position (38, 246).
+            StaticText named 'None' with state 'Lesson Store' at position (78, 244).
+        Row named 'None' with state 'None' at position (2, 288).
+          Cell named 'None' with state 'None' at position (22, 288).
+            Image named 'None' with state '<NSImage 0x60000323a8a0 Size={18, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000eb4270> symbol = folder>' at position (36, 302).
+            StaticText named 'None' with state 'Project Templates' at position (78, 300).
+        Column named 'None' with state 'None' at position (22, 56).
+    Splitter named 'None' with state '220.0' at position (440, 56).
+    Group named 'None' with state 'None' at position (442, 0).
+      ScrollArea named 'None' with state 'None' at position (442, 56).
+        List named 'None' with state 'None' at position (442, 56).
+          List named 'None' with state 'None' at position (506, 90).
+            Group named 'None' with state 'None' at position (506, 90).
+              Group named 'None' with state 'None' at position (544, 90).
+              Group named 'None' with state 'None' at position (544, 90).
+                Image named 'None' with state '<NSImage 0x60000329f200 Size={150, 98} RepProvider=<NSImageMultiURLReferencingRepProvider:0x6000002ae1e0 urls:(
+    "file:///Applications/GarageBand.app/Contents/Frameworks/MAResources.framework/Resources/icon_newprojectdialog_template_empty_project_tracks@2x.tif",
+    "file:///Applications/GarageBand.app/Contents/Frameworks/MAResources.framework/Resources/icon_newprojectdialog_template_empty_project_tracks.tif"
+) reps:(
+    "NSBitmapImageRep 0x6000068a9570 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x14ee19460> CGImageSource=0x60000059b240",
+    "NSBitmapImageRep 0x60000685f560 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x60000045fa40"
+)>>' at position (544, 90).
+                Button named '' with state 'None' at position (544, 90).
+              Group named 'None' with state 'None' at position (544, 90).
+              Group named 'None' with state 'None' at position (588, 308).
+              StaticText named 'None' with state 'Empty Project' at position (594, 310).
+      StaticText named 'None' with state '' at position (1254, 416).
+      DisclosureTriangle named 'None' with state '0' at position (462, 892).
+      StaticText named 'None' with state 'Details' at position (504, 888).
+      StaticText named 'None' with state 'Create an empty project' at position (1108, 888).
+      Button named 'Open an existing project…' with state 'None' at position (468, 976).
+      Button named 'Choose' with state 'None' at position (1860, 976).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'Choose a Project' at position (1148, 10).

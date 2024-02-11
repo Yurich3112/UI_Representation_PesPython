@@ -1,0 +1,112 @@
+Description for the GarageBand application:
+Window named 'Choose a Project' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 56).
+      Outline named 'None' with state 'None' at position (2, 56).
+        Row named 'None' with state 'None' at position (2, 56).
+          Cell named 'None' with state 'None' at position (22, 56).
+        Row named 'None' with state 'None' at position (2, 64).
+          Cell named 'None' with state 'None' at position (22, 64).
+            Image named 'None' with state '<NSImage 0x60000329e620 Size={14, 16} RepProvider=<NSImageSymbolRepProvider: 0x600000e96400> symbol = doc>' at position (40, 76).
+            StaticText named 'None' with state 'New Project' at position (78, 76).
+        Row named 'None' with state 'None' at position (2, 120).
+          Cell named 'None' with state 'None' at position (22, 120).
+            Image named 'None' with state '<NSImage 0x60000329c5a0 Size={15, 15} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8960> symbol = clock>' at position (38, 134).
+            StaticText named 'None' with state 'Recent' at position (78, 132).
+        Row named 'None' with state 'None' at position (2, 176).
+          Cell named 'None' with state 'None' at position (22, 176).
+            Image named 'None' with state '<NSImage 0x60000329e940 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea9650> symbol = Glyphs/music.note.square>' at position (38, 190).
+            StaticText named 'None' with state 'Learn to Play' at position (78, 188).
+        Row named 'None' with state 'None' at position (2, 232).
+          Cell named 'None' with state 'None' at position (22, 232).
+            Image named 'None' with state '<NSImage 0x60000329f160 Size={15, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000ea8c00> symbol = star.square>' at position (38, 246).
+            StaticText named 'None' with state 'Lesson Store' at position (78, 244).
+        Row named 'None' with state 'None' at position (2, 288).
+          Cell named 'None' with state 'None' at position (22, 288).
+            Image named 'None' with state '<NSImage 0x60000323a8a0 Size={18, 14} RepProvider=<NSImageSymbolRepProvider: 0x600000eb4270> symbol = folder>' at position (36, 302).
+            StaticText named 'None' with state 'Project Templates' at position (78, 300).
+        Column named 'None' with state 'None' at position (22, 56).
+    Splitter named 'None' with state '220.0' at position (440, 56).
+    Group named 'None' with state 'None' at position (442, 0).
+      ScrollArea named 'None' with state 'None' at position (442, 56).
+        List named 'None' with state 'None' at position (442, 56).
+          List named 'None' with state 'None' at position (506, 90).
+            Group named 'None' with state 'None' at position (506, 90).
+              Group named 'None' with state 'None' at position (544, 90).
+              Group named 'None' with state 'None' at position (544, 90).
+                Image named 'None' with state '<NSImage 0x60000323a080 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x6000001b7640, reps:(
+    "NSBitmapImageRep 0x600006883e20 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x6000004be240",
+    "NSBitmapImageRep 0x600006899260 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c736c20> CGImageSource=0x6000004be240"
+)>>' at position (544, 90).
+                Button named '' with state 'None' at position (544, 90).
+              StaticText named 'None' with state 'Keyboard Collection' at position (556, 310).
+            Group named 'None' with state 'None' at position (906, 90).
+              Group named 'None' with state 'None' at position (944, 90).
+              Group named 'None' with state 'None' at position (944, 90).
+                Image named 'None' with state '<NSImage 0x60000329f480 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x6000001b1e20, reps:(
+    "NSBitmapImageRep 0x600002a69e30 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x60000042c700",
+    "NSBitmapImageRep 0x600002a69110 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c7362a0> CGImageSource=0x60000042c700"
+)>>' at position (944, 90).
+                Button named '' with state 'None' at position (944, 90).
+              StaticText named 'None' with state 'Amp Collection' at position (986, 310).
+            Group named 'None' with state 'None' at position (1306, 90).
+              Group named 'None' with state 'None' at position (1344, 90).
+              Group named 'None' with state 'None' at position (1344, 90).
+                Image named 'None' with state '<NSImage 0x60000329ce60 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x6000001235b0, reps:(
+    "NSBitmapImageRep 0x6000068931e0 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x6000003aeb20",
+    "NSBitmapImageRep 0x6000068934f0 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c71b230> CGImageSource=0x6000003aeb20"
+)>>' at position (1344, 90).
+                Button named '' with state 'None' at position (1344, 90).
+              StaticText named 'None' with state 'Voice' at position (1450, 310).
+            Group named 'None' with state 'None' at position (1706, 90).
+              Group named 'None' with state 'None' at position (1744, 90).
+              Group named 'None' with state 'None' at position (1744, 90).
+                Image named 'None' with state '<NSImage 0x6000032b33e0 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x600000109200, reps:(
+    "NSBitmapImageRep 0x600006893800 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x60000042cb00",
+    "NSBitmapImageRep 0x6000068939c0 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x13c748680> CGImageSource=0x60000042cb00"
+)>>' at position (1744, 90).
+                Button named '' with state 'None' at position (1744, 90).
+              StaticText named 'None' with state 'Hip-Hop' at position (1830, 310).
+            Group named 'None' with state 'None' at position (506, 402).
+              Group named 'None' with state 'None' at position (544, 402).
+              Group named 'None' with state 'None' at position (544, 402).
+                Image named 'None' with state '<NSImage 0x600003292d00 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x600000108850, reps:(
+    "NSBitmapImageRep 0x600006894150 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x60000039b3e0",
+    "NSBitmapImageRep 0x600006894310 Size={300, 196} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb7baa0> CGImageSource=0x60000039b3e0"
+)>>' at position (544, 402).
+                Button named '' with state 'None' at position (544, 402).
+              StaticText named 'None' with state 'Electronic' at position (620, 622).
+            Group named 'None' with state 'None' at position (906, 402).
+              Group named 'None' with state 'None' at position (944, 402).
+              Group named 'None' with state 'None' at position (944, 402).
+                Image named 'None' with state '<NSImage 0x60000326f840 Size={150, 98} RepProvider=<NSImageArrayRepProvider: 0x600000108730, reps:(
+    "NSBitmapImageRep 0x600006895030 Size={150, 98} ColorSpace=(not yet loaded) BPS=8 BPP=(not yet loaded) Pixels=150x98 Alpha=YES Planar=NO Format=(not yet loaded) CurrentBacking=nil (faulting) CGImageSource=0x6000004902e0",
+    "NSBitmapImageRep 0x600006894e70 Size={150, 98} ColorSpace=sRGB IEC61966-2.1 colorspace BPS=8 BPP=32 Pixels=300x196 Alpha=YES Planar=NO Format=0 CurrentBacking=<CGImageRef: 0x12cb77610> CGImageSource=0x6000004902e0"
+)>>' at position (944, 402).
+                Button named '' with state 'None' at position (944, 402).
+              Group named 'None' with state 'None' at position (944, 402).
+              Group named 'None' with state 'None' at position (1008, 620).
+              StaticText named 'None' with state 'Songwriter' at position (1014, 622).
+      StaticText named 'None' with state '' at position (1254, 416).
+      DisclosureTriangle named 'None' with state '1' at position (462, 892).
+      StaticText named 'None' with state 'Details' at position (504, 888).
+      StaticText named 'None' with state 'An ideal writing studio with drums, guitar amps and vocal tracks' at position (868, 888).
+      Group named 'None' with state '96' at position (888, 990).
+        Slider named 'None' with state '96.0' at position (918, 990).
+      Button named 'Tap Tempo' with state 'None' at position (1032, 978).
+      PopUpButton named 'None' with state 'C' at position (846, 1042).
+      RadioButton named 'Major' with state '1' at position (1042, 1044).
+      RadioButton named 'Minor' with state '0' at position (1186, 1044).
+      Group named 'None' with state '4/4' at position (888, 1102).
+        Slider named 'None' with state '1028.0' at position (914, 1102).
+        Slider named 'None' with state '1028.0' at position (938, 1102).
+      PopUpButton named 'None' with state 'System Setting' at position (846, 1174).
+      PopUpButton named 'None' with state 'System Setting' at position (1472, 1174).
+      Button named 'Open an existing project…' with state 'None' at position (468, 1308).
+      Button named 'Choose' with state 'None' at position (1860, 1308).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'Choose a Project' at position (1148, 10).

@@ -1,0 +1,31 @@
+Description for the Expenses application:
+Window named 'Expenses' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          Group named 'None' with state 'None' at position (0, 0).
+            Group named 'None' with state 'None' at position (0, 0).
+              StaticText named 'None' with state 'None' at position (32, 738).
+        Group named 'None' with state 'None' at position (0, 1460).
+          Group named 'None' with state 'None' at position (32, 1460).
+            Button named 'None' with state 'None' at position (32, 1482).
+            Button named 'None' with state 'None' at position (450, 1480).
+      Splitter named 'None' with state '25.390625' at position (520, 0).
+      Group named 'None' with state 'None' at position (522, 0).
+        Group named 'None' with state 'None' at position (522, 76).
+        Group named 'None' with state 'None' at position (522, 0).
+          Group named 'None' with state 'None' at position (522, 0).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (530, 0).
+    Button named 'None' with state 'None' at position (590, 0).
+    Button named 'None' with state 'None' at position (1392, 0).
+    Button named 'None' with state 'None' at position (1462, 0).
+    MenuButton named 'None' with state 'None' at position (1534, 0).
+      MenuButton named '' with state 'None' at position (1540, 14).
+    Group named 'None' with state 'None' at position (1644, 0).
+      TextField named 'None' with state '' at position (1650, 14).
+        Button named '' with state 'None' at position (1654, 16).
+  Button named 'None' with state 'None' at position (24, 22).
+  Button named 'None' with state 'None' at position (104, 22).
+  Button named 'None' with state 'None' at position (64, 22).

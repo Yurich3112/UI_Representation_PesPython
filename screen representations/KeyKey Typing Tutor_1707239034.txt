@@ -1,0 +1,181 @@
+Description for the KeyKey Typing Tutor application:
+Window named '' with state 'None' at position (0, 0).
+  Image named 'None' with state 'None' at position (578, 152).
+  StaticText named 'None' with state 'char/min' at position (702, 230).
+  StaticText named 'None' with state '0' at position (702, 144).
+  StaticText named 'None' with state '+4' at position (756, 174).
+  StaticText named 'None' with state '+4' at position (1236, 174).
+  StaticText named 'None' with state '%' at position (1200, 188).
+  StaticText named 'None' with state '100' at position (1072, 144).
+  Image named 'None' with state 'None' at position (948, 152).
+  StaticText named 'None' with state 'accuracy' at position (1072, 230).
+  StaticText named 'None' with state '+4' at position (1496, 174).
+  Image named 'None' with state 'None' at position (1318, 152).
+  StaticText named 'None' with state 'typos' at position (1442, 230).
+  StaticText named 'None' with state '0' at position (1442, 144).
+  StaticText named 'None' with state 'at tee e eat e tea tata tee at ate o tee tate too to ate tata too t toe to ate at tee tattoo e too t' at position (98, 412).
+  Button named '' with state 'None' at position (0, 1156).
+  Button named '' with state 'None' at position (2116, 1156).
+  Button named '' with state 'None' at position (2116, 0).
+  Button named '`' with state 'None' at position (330, 558).
+  Button named '1' with state 'None' at position (438, 558).
+  Button named '2' with state 'None' at position (546, 558).
+  Button named '3' with state 'None' at position (654, 558).
+  Button named '4' with state 'None' at position (762, 558).
+  Button named '5' with state 'None' at position (870, 558).
+  Button named '6' with state 'None' at position (978, 558).
+  Button named '7' with state 'None' at position (1086, 558).
+  Button named '8' with state 'None' at position (1194, 558).
+  Button named '9' with state 'None' at position (1304, 558).
+  Button named '0' with state 'None' at position (1410, 558).
+  Button named '=' with state 'None' at position (1626, 558).
+  Button named '-' with state 'None' at position (1518, 558).
+  Button named 'q' with state 'None' at position (490, 666).
+  Button named 'w' with state 'None' at position (598, 666).
+  Button named 'e' with state 'None' at position (706, 666).
+  Button named 'r' with state 'None' at position (814, 666).
+  Button named 't' with state 'None' at position (922, 666).
+  Button named 'y' with state 'None' at position (1030, 666).
+  Button named 'u' with state 'None' at position (1138, 666).
+  Button named 'i' with state 'None' at position (1248, 666).
+  Button named 'o' with state 'None' at position (1354, 666).
+  Button named 'p' with state 'None' at position (1462, 666).
+  Button named '[' with state 'None' at position (1570, 666).
+  Button named ']' with state 'None' at position (1678, 666).
+  Button named '\' with state 'None' at position (1786, 666).
+  Button named '' with state 'None' at position (1790, 990).
+  Button named 'fn' with state 'None' at position (330, 990).
+  Button named '' with state 'None' at position (1574, 990).
+  Button named 'control' with state 'None' at position (438, 990).
+  Button named 'option' with state 'None' at position (1466, 990).
+  Button named 'z' with state 'None' at position (570, 882).
+  Button named 'x' with state 'None' at position (678, 882).
+  Button named 'c' with state 'None' at position (786, 882).
+  Button named 'v' with state 'None' at position (894, 882).
+  Button named 'b' with state 'None' at position (1002, 882).
+  Button named 'n' with state 'None' at position (1112, 882).
+  Button named 'm' with state 'None' at position (1218, 882).
+  Button named ',' with state 'None' at position (1328, 882).
+  Button named '.' with state 'None' at position (1434, 882).
+  Button named 'option' with state 'None' at position (546, 990).
+  Button named '/' with state 'None' at position (1542, 882).
+  Button named 'tab' with state 'None' at position (330, 666).
+  Button named 'shift' with state 'None' at position (330, 882).
+  Button named 'command' with state 'None' at position (654, 990).
+  Button named 'return' with state 'None' at position (1706, 774).
+  Button named 'shift' with state 'None' at position (1650, 882).
+  Button named 'command' with state 'None' at position (1330, 990).
+  Button named ' ' with state 'None' at position (790, 990).
+  Button named '' with state 'None' at position (1682, 1036).
+  Button named 'caps lock' with state 'None' at position (330, 774).
+  Button named 'a' with state 'None' at position (518, 774).
+  Button named 's' with state 'None' at position (626, 774).
+  Button named 'd' with state 'None' at position (734, 774).
+  Button named 'f' with state 'None' at position (842, 774).
+  Button named 'g' with state 'None' at position (950, 774).
+  Button named 'h' with state 'None' at position (1058, 774).
+  Button named 'j' with state 'None' at position (1168, 774).
+  Button named 'k' with state 'None' at position (1274, 774).
+  Button named 'l' with state 'None' at position (1384, 774).
+  Button named ';' with state 'None' at position (1490, 774).
+  Button named ''' with state 'None' at position (1598, 774).
+  Button named 'delete' with state 'None' at position (1734, 558).
+  Button named '' with state 'None' at position (1682, 990).
+  Image named 'None' with state 'None' at position (444, 798).
+  Image named 'None' with state 'None' at position (528, 782).
+  Image named 'None' with state 'None' at position (616, 772).
+  Image named 'None' with state 'None' at position (736, 792).
+  Image named 'None' with state 'None' at position (1106, 1002).
+  Image named 'None' with state 'None' at position (1176, 792).
+  Image named 'None' with state 'None' at position (1276, 772).
+  Image named 'None' with state 'None' at position (1386, 782).
+  Image named 'None' with state 'None' at position (1502, 796).
+  Image named 'None' with state 'None' at position (882, 1002).
+  Image named 'None' with state 'None' at position (0, 0).
+  Button named '' with state 'None' at position (2122, 0).
+  StaticText named 'None' with state 'Progress and speed records' at position (156, 100).
+  StaticText named 'None' with state 'for' at position (158, 218).
+  RadioGroup named 'None' with state '<AXUIElement 0x118f8f3b0> {pid=23731}' at position (210, 212).
+    RadioButton named 'None' with state '1' at position (210, 212).
+  StaticText named 'None' with state 'layout' at position (370, 218).
+  Image named 'None' with state 'None' at position (162, 432).
+  StaticText named 'None' with state 'learning' at position (162, 434).
+  Image named 'None' with state 'None' at position (202, 488).
+  Image named 'None' with state 'None' at position (232, 488).
+  Image named 'None' with state 'None' at position (262, 488).
+  StaticText named 'None' with state 'Lesson 1' at position (156, 382).
+  Image named 'None' with state 'None' at position (324, 432).
+  StaticText named 'None' with state '0' at position (324, 434).
+  Image named 'None' with state 'None' at position (364, 488).
+  Image named 'None' with state 'None' at position (394, 488).
+  Image named 'None' with state 'None' at position (424, 488).
+  StaticText named 'None' with state 'Lesson 2' at position (318, 382).
+  Image named 'None' with state 'None' at position (486, 432).
+  StaticText named 'None' with state '0' at position (486, 434).
+  Image named 'None' with state 'None' at position (526, 488).
+  Image named 'None' with state 'None' at position (556, 488).
+  Image named 'None' with state 'None' at position (586, 488).
+  StaticText named 'None' with state 'Lesson 3' at position (480, 382).
+  Image named 'None' with state 'None' at position (648, 432).
+  StaticText named 'None' with state '0' at position (648, 434).
+  Image named 'None' with state 'None' at position (688, 488).
+  Image named 'None' with state 'None' at position (718, 488).
+  Image named 'None' with state 'None' at position (748, 488).
+  StaticText named 'None' with state 'Lesson 4' at position (642, 382).
+  Image named 'None' with state 'None' at position (810, 432).
+  StaticText named 'None' with state '0' at position (810, 434).
+  Image named 'None' with state 'None' at position (850, 488).
+  Image named 'None' with state 'None' at position (880, 488).
+  Image named 'None' with state 'None' at position (910, 488).
+  StaticText named 'None' with state 'Lesson 5' at position (804, 382).
+  Image named 'None' with state 'None' at position (972, 432).
+  StaticText named 'None' with state '0' at position (972, 434).
+  Image named 'None' with state 'None' at position (1012, 488).
+  Image named 'None' with state 'None' at position (1042, 488).
+  Image named 'None' with state 'None' at position (1072, 488).
+  StaticText named 'None' with state 'Lesson 6' at position (966, 382).
+  Image named 'None' with state 'None' at position (1134, 432).
+  StaticText named 'None' with state '0' at position (1134, 434).
+  Image named 'None' with state 'None' at position (1174, 488).
+  Image named 'None' with state 'None' at position (1204, 488).
+  Image named 'None' with state 'None' at position (1234, 488).
+  StaticText named 'None' with state 'Expert' at position (1128, 382).
+  Image named 'None' with state 'None' at position (1366, 432).
+  StaticText named 'None' with state '0' at position (1366, 434).
+  Image named 'None' with state 'None' at position (1406, 488).
+  Image named 'None' with state 'None' at position (1436, 488).
+  Image named 'None' with state 'None' at position (1466, 488).
+  Image named 'None' with state 'None' at position (1514, 426).
+  StaticText named 'None' with state 'Numbers' at position (1360, 382).
+  Image named 'None' with state 'None' at position (1540, 432).
+  StaticText named 'None' with state '0' at position (1540, 434).
+  Image named 'None' with state 'None' at position (1580, 488).
+  Image named 'None' with state 'None' at position (1610, 488).
+  Image named 'None' with state 'None' at position (1640, 488).
+  Image named 'None' with state 'None' at position (1688, 426).
+  StaticText named 'None' with state 'Capitals' at position (1534, 382).
+  Image named 'None' with state 'None' at position (1714, 432).
+  StaticText named 'None' with state '0' at position (1714, 434).
+  Image named 'None' with state 'None' at position (1754, 488).
+  Image named 'None' with state 'None' at position (1784, 488).
+  Image named 'None' with state 'None' at position (1814, 488).
+  Image named 'None' with state 'None' at position (1862, 426).
+  StaticText named 'None' with state 'Punctuation' at position (1708, 382).
+  StaticText named 'None' with state 'Speed' at position (1946, 948).
+  StaticText named 'None' with state 'Typos' at position (1946, 1006).
+  ScrollArea named 'None' with state 'None' at position (160, 624).
+    ScrollBar named 'None' with state '0.9791666666666666' at position (160, 1022).
+      ValueIndicator named 'None' with state '0.9791666666666666' at position (250, 1030).
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (1886, 1030).
+      Button named 'None' with state 'None' at position (160, 1030).
+  StaticText named 'None' with state 'Results for recent activities' at position (156, 1078).
+  RadioGroup named 'None' with state '<AXUIElement 0x118e57380> {pid=23731}' at position (464, 212).
+    RadioButton named 'None' with state '1' at position (464, 212).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state '' at position (1090, 10).

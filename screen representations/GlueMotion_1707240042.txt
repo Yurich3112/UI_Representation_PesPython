@@ -1,0 +1,63 @@
+Description for the GlueMotion application:
+Window named 'folder' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 104).
+    StaticText named 'None' with state '1 / 2' at position (750, 1380).
+    Button named '' with state 'None' at position (40, 1378).
+    Button named '' with state 'None' at position (100, 1378).
+    Button named '' with state 'None' at position (160, 1378).
+    Button named '' with state 'None' at position (220, 1378).
+    Button named '' with state 'None' at position (280, 1378).
+    MenuButton named 'More' with state 'None' at position (1416, 1378).
+    Group named 'None' with state 'None' at position (68, 1480).
+    Group named 'None' with state 'None' at position (68, 1480).
+    Group named 'None' with state 'None' at position (40, 1468).
+    Group named 'None' with state 'None' at position (40, 1468).
+    StaticText named 'None' with state 'Transform Frames' at position (1596, 144).
+    StaticText named 'None' with state 'Rotate, flip and crop images' at position (1596, 204).
+    Button named 'Continue' with state 'None' at position (1588, 1508).
+    ScrollArea named 'None' with state 'None' at position (1560, 278).
+      Image named 'None' with state 'None' at position (1596, 306).
+      StaticText named 'None' with state 'Rotation' at position (1642, 318).
+      Button named 'Left' with state 'None' at position (1662, 372).
+      Button named 'Right' with state 'None' at position (1662, 426).
+      Image named 'None' with state 'None' at position (1600, 538).
+      StaticText named 'None' with state 'Flip' at position (1642, 546).
+      Button named 'Horizontal' with state 'None' at position (1662, 600).
+      Button named 'Vertical' with state 'None' at position (1662, 654).
+      Image named 'None' with state 'None' at position (1600, 768).
+      StaticText named 'None' with state 'Crop' at position (1642, 774).
+      Image named 'None' with state 'None' at position (1616, 824).
+      Button named 'Original' with state 'None' at position (1662, 828).
+      Button named 'Freeform' with state 'None' at position (1662, 882).
+      Button named 'Square' with state 'None' at position (1662, 936).
+      Button named '16:10' with state 'None' at position (1662, 990).
+      Button named '16:9' with state 'None' at position (1662, 1044).
+      Button named '9:16' with state 'None' at position (1662, 1098).
+      Button named '8:10' with state 'None' at position (1662, 1152).
+      Button named '5:7' with state 'None' at position (1662, 1206).
+      Button named '4:3' with state 'None' at position (1662, 1260).
+      Button named '3:5' with state 'None' at position (1662, 1314).
+      Button named '3:2' with state 'None' at position (1662, 1368).
+      ScrollBar named 'None' with state '0.0' at position (1560, 1448).
+      ScrollBar named 'None' with state '0.0' at position (2328, 278).
+        ValueIndicator named 'None' with state '0.0' at position (2336, 280).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (2336, 1470).
+        Button named 'None' with state 'None' at position (2336, 278).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (174, 0).
+    Group named 'None' with state 'None' at position (662, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x6000038fa220> {pid=42841}' at position (658, 12).
+        RadioButton named 'None' with state '0' at position (658, 12).
+        RadioButton named 'None' with state '1' at position (832, 12).
+        RadioButton named 'None' with state '0' at position (1006, 12).
+        RadioButton named 'None' with state '0' at position (1180, 12).
+        RadioButton named 'None' with state '0' at position (1354, 12).
+        RadioButton named 'None' with state '0' at position (1528, 12).
+    Button named 'None' with state 'None' at position (2196, 0).
+    MenuButton named 'None' with state 'None' at position (2268, 0).
+      MenuButton named '' with state 'None' at position (2264, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

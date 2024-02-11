@@ -1,0 +1,31 @@
+Description for the Filmage Editor application:
+Window named '' with state 'None' at position (0, 0).
+  Button named 'Open Project' with state 'None' at position (60, 240).
+  Image named 'None' with state 'None' at position (50, 96).
+  StaticText named 'None' with state 'Filmage Editor' at position (146, 116).
+  StaticText named 'None' with state 'Create Project' at position (456, 96).
+  Image named 'None' with state 'None' at position (460, 160).
+  Image named 'None' with state 'None' at position (542, 242).
+  Button named '' with state 'None' at position (460, 160).
+  Image named 'None' with state 'None' at position (768, 212).
+  Button named '' with state 'None' at position (716, 160).
+  Image named 'None' with state 'None' at position (1024, 212).
+  Button named '' with state 'None' at position (972, 160).
+  Image named 'None' with state 'None' at position (1280, 212).
+  Button named '' with state 'None' at position (1228, 160).
+  Image named 'None' with state 'None' at position (1536, 212).
+  Button named '' with state 'None' at position (1484, 160).
+  Image named 'None' with state 'None' at position (1792, 212).
+  Button named '' with state 'None' at position (1740, 160).
+  StaticText named 'None' with state 'My Project' at position (456, 464).
+  Button named '' with state 'None' at position (1924, 460).
+  Button named '' with state 'None' at position (1836, 460).
+  TextField named 'None' with state '' at position (1504, 462).
+  Image named 'None' with state 'None' at position (1012, 712).
+  StaticText named 'None' with state 'No Project Files at Present' at position (1042, 978).
+  StaticText named 'None' with state '' at position (160, 10).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state '' at position (1002, 10).

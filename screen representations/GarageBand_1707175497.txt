@@ -1,0 +1,169 @@
+Description for the GarageBand application:
+Window named 'AlarmClock1.band - Tracks' with state 'None' at position (0, 0).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  Image named 'AlarmClock1.band' with state 'None' at position (1316, 10).
+  StaticText named 'None' with state 'AlarmClock1.band - Tracks' at position (1352, 10).
+  Group named 'None' with state 'None' at position (20, 48).
+    Group named 'None' with state 'None' at position (1248, 56).
+      PopUpButton named 'Beats & Project' with state 'Beats & Project' at position (1744, 56).
+      Group named 'None' with state 'None' at position (1250, 56).
+        Slider named 'None' with state '1.0' at position (1284, 70).
+        Slider named 'None' with state '1.0' at position (1412, 70).
+      Slider named 'None' with state '120.0' at position (1488, 60).
+      PopUpButton named 'None' with state '4/4' at position (1616, 66).
+      PopUpButton named 'None' with state 'C major' at position (1616, 106).
+    CheckBox named 'Cycle' with state '0' at position (1148, 74).
+    CheckBox named 'Record' with state '0' at position (1074, 74).
+    CheckBox named 'Play' with state '0' at position (1000, 74).
+    Button named 'Stop' with state '0' at position (926, 74).
+    Button named 'Forward' with state '0' at position (852, 74).
+    Button named 'Rewind' with state '0' at position (778, 74).
+    CheckBox named 'Tuner' with state '0' at position (1800, 74).
+    CheckBox named 'Count In' with state '1' at position (1916, 74).
+    CheckBox named 'Click' with state '1' at position (1982, 74).
+    CheckBox named 'Library' with state '1' at position (24, 74).
+    CheckBox named 'Quick Help' with state '0' at position (140, 74).
+    CheckBox named 'Smart Controls' with state '1' at position (256, 74).
+    CheckBox named 'Editors' with state '0' at position (322, 74).
+    CheckBox named 'Note Pad' with state '0' at position (2866, 74).
+    CheckBox named 'Loop Browser' with state '0' at position (2932, 74).
+    Slider named 'None' with state '0.7086614370346069' at position (2316, 88).
+      ValueIndicator named 'None' with state '0.7086614370346069' at position (2488, 88).
+  Group named 'None' with state 'None' at position (0, 174).
+    Group named 'None' with state 'None' at position (0, 174).
+      Group named 'None' with state 'None' at position (0, 174).
+        Group named 'None' with state 'None' at position (0, 174).
+          StaticText named 'None' with state 'Library' at position (624, 194).
+        SplitGroup named 'None' with state 'None' at position (0, 246).
+          Group named 'None' with state 'None' at position (0, 246).
+          Splitter named 'None' with state '162.0' at position None.
+          Group named 'None' with state 'None' at position (0, 570).
+            TextField named 'None' with state '' at position (16, 584).
+              Button named '' with state 'None' at position (24, 586).
+          Group named 'None' with state 'None' at position (0, 644).
+            Browser named 'None' with state 'None' at position (0, 644).
+              ScrollArea named 'None' with state 'None' at position (0, 644).
+                ScrollArea named 'None' with state 'None' at position (0, 644).
+                  List named 'None' with state 'None' at position (0, 644).
+                    StaticText named 'None' with state 'Voice' at position (0, 644).
+                    StaticText named 'None' with state 'Acoustic Guitar' at position (0, 690).
+                    StaticText named 'None' with state 'downloadable Effects' at position (0, 736).
+                    StaticText named 'None' with state 'Electric Guitar and Bass' at position (0, 782).
+                  ScrollBar named 'None' with state '0.0' at position (418, 644).
+                ScrollArea named 'None' with state 'None' at position (452, 644).
+                  List named 'None' with state 'None' at position (452, 644).
+                    StaticText named 'None' with state 'Echo Strum' at position (452, 644).
+                    StaticText named 'None' with state 'Natural Flat Pick' at position (452, 690).
+                    StaticText named 'None' with state 'Natural Stereo' at position (452, 736).
+                    StaticText named 'None' with state 'Natural Strum' at position (452, 782).
+                    StaticText named 'None' with state 'Sharp Chorus' at position (452, 828).
+                  ScrollBar named 'None' with state '0.0' at position (868, 644).
+                ScrollBar named 'None' with state '0.0' at position (0, 1612).
+          Group named 'None' with state 'None' at position (0, 1642).
+        Group named 'None' with state 'None' at position (0, 1644).
+          Button named 'Revert' with state 'None' at position (18, 1658).
+          Button named 'Delete' with state 'None' at position (1032, 1658).
+          Button named 'Save…' with state 'None' at position (1188, 1658).
+  Group named 'None' with state 'None' at position (1354, 174).
+    SplitGroup named 'None' with state 'None' at position (1354, 174).
+      SplitGroup named 'None' with state 'None' at position (1354, 174).
+        Group named 'None' with state 'None' at position (1354, 174).
+          Button named 'None' with state '0' at position (1354, 174).
+          Button named 'None' with state '0' at position (1354, 250).
+          Button named 'None' with state '0' at position (1378, 252).
+          Button named 'None' with state '0' at position (1354, 302).
+          Button named 'None' with state '0' at position (1372, 190).
+          CheckBox named 'None' with state '0' at position (1916, 190).
+        ScrollArea named 'None' with state 'None' at position (2004, 174).
+          LayoutArea named 'None' with state 'None' at position (2004, 174).
+            Button named 'None' with state '0' at position (2004, 302).
+            Button named 'None' with state '0' at position (2004, 250).
+            LayoutItem named 'None' with state '0' at position (2022, 174).
+            ValueIndicator named 'None' with state '164926744166400' at position (2012, 214).
+            ValueIndicator named 'None' with state '527765581332480' at position None.
+            Slider named 'None' with state '0.09997802972793579' at position (2870, 184).
+              ValueIndicator named 'None' with state '0.09997802972793579' at position (2878, 194).
+          ScrollBar named 'None' with state '0.0' at position (2992, 174).
+      SplitGroup named 'None' with state 'None' at position (1354, 304).
+        ScrollArea named 'None' with state 'None' at position (1354, 304).
+          Group named 'None' with state 'None' at position (1354, 304).
+            LayoutItem named 'None' with state 'None' at position (1354, 304).
+              CheckBox named 'None' with state '0' at position (1454, 434).
+              CheckBox named 'None' with state '0' at position (1498, 434).
+              CheckBox named 'None' with state '0' at position (1548, 434).
+              Slider named 'None' with state '64' at position (1932, 426).
+                ValueIndicator named 'None' with state 'None' at position (1944, 396).
+              Slider named 'None' with state '173' at position (1662, 434).
+                ValueIndicator named 'None' with state 'None' at position (1824, 434).
+              TextField named 'None' with state '0' at position (1448, 386).
+            LayoutItem named 'None' with state 'None' at position (1354, 562).
+              CheckBox named 'None' with state '0' at position (1454, 692).
+              CheckBox named 'None' with state '0' at position (1498, 692).
+              CheckBox named 'None' with state '0' at position (1548, 692).
+              Slider named 'None' with state '64' at position (1932, 684).
+                ValueIndicator named 'None' with state 'None' at position (1944, 654).
+              Slider named 'None' with state '173' at position (1662, 692).
+                ValueIndicator named 'None' with state 'None' at position (1824, 692).
+              TextField named 'None' with state '0' at position (1448, 644).
+          ScrollBar named 'None' with state '0.0' at position (1354, 1152).
+        ScrollArea named 'None' with state 'None' at position (2004, 304).
+          Group named 'None' with state 'None' at position (2004, 304).
+            LayoutArea named 'None' with state '0' at position (2004, 304).
+              LayoutItem named 'None' with state 'None' at position (2022, 306).
+                Button named 'v09044g40000cm5bgbvog65h7qsq3dkg' with state 'None' at position (2026, 314).
+                Handle named 'None' with state 'None' at position (2022, 434).
+                Handle named 'None' with state 'None' at position None.
+                Handle named 'None' with state 'None' at position None.
+            LayoutArea named 'None' with state '0' at position (2004, 562).
+            LayoutArea named 'None' with state '0' at position (2004, 820).
+          ScrollBar named 'None' with state '0.0' at position (2004, 1152).
+            ValueIndicator named 'None' with state '0.0' at position (2006, 1160).
+            Button named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position (2340, 1160).
+            Button named 'None' with state 'None' at position (2004, 1160).
+          ScrollBar named 'None' with state '0.0' at position (2992, 304).
+    Slider named 'None' with state '0.09997802972793579' at position (2870, 184).
+      ValueIndicator named 'None' with state '0.09997802972793579' at position (2878, 194).
+  Group named 'None' with state 'None' at position (1354, 1188).
+    Group named 'None' with state 'None' at position (1354, 1188).
+      RadioGroup named 'None' with state 'None' at position (1374, 1204).
+        RadioButton named 'None' with state '1' at position (1374, 1204).
+        RadioButton named 'None' with state '0' at position (1526, 1204).
+      Button named 'Compare' with state 'None' at position (1686, 1204).
+      RadioGroup named 'None' with state 'None' at position (1998, 1204).
+        RadioButton named 'None' with state '1' at position (1998, 1204).
+        RadioButton named 'None' with state '0' at position (2190, 1204).
+    SplitGroup named 'None' with state 'None' at position (1354, 1262).
+      SplitGroup named 'None' with state 'None' at position (1354, 1262).
+        ScrollArea named 'None' with state 'None' at position (1354, 1262).
+          Group named 'None' with state 'None' at position (1354, 1262).
+            Group named 'None' with state 'None' at position (1354, 1560).
+            CheckBox named '' with state '0' at position (1568, 1500).
+            StaticText named 'None' with state 'Monitoring:' at position (1390, 1502).
+            StaticText named 'None' with state 'Input:' at position (1458, 1446).
+            StaticText named 'None' with state 'Automatic Level Control' at position (1604, 1394).
+            CheckBox named '' with state '0' at position (1568, 1394).
+            Slider named 'None' with state '0.0' at position (1570, 1334).
+              ValueIndicator named 'None' with state '0.0' at position (1570, 1334).
+            StaticText named 'None' with state 'Record Level:' at position (1366, 1340).
+            Button named '' with state 'None' at position (1908, 1284).
+            Button named 'Recording Settings' with state 'None' at position (1390, 1278).
+            CheckBox named '' with state '0' at position (1568, 1444).
+            CheckBox named 'None' with state 'False' at position (1650, 1444).
+              MenuButton named 'None' with state 'None' at position (1650, 1444).
+            Group named 'None' with state 'None' at position (1352, 1634).
+            Button named '' with state 'None' at position (1906, 1662).
+            Slider named 'None' with state '0.0' at position (1628, 1580).
+              ValueIndicator named 'None' with state '0.0' at position (1628, 1580).
+            StaticText named 'None' with state 'Noise Gate' at position (1426, 1580).
+            CheckBox named '' with state '0' at position (1392, 1580).
+            Button named 'Plug-ins' with state 'None' at position (1390, 1652).
+          ScrollBar named 'None' with state '0.0' at position (1972, 1262).
+        ScrollArea named 'None' with state 'None' at position (2004, 1262).
+          Button named '' with state 'None' at position None.
+          LayoutArea named 'None' with state 'None' at position (2004, 1262).

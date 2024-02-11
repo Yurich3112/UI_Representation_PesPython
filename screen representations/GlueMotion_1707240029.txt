@@ -1,0 +1,63 @@
+Description for the GlueMotion application:
+Window named 'folder' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 104).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Table named 'None' with state 'None' at position (0, 160).
+        Row named 'None' with state 'None' at position (0, 170).
+          Cell named 'None' with state 'None' at position (32, 170).
+            StaticText named 'None' with state '1' at position (32, 180).
+          Cell named 'None' with state 'None' at position (166, 170).
+            StaticText named 'None' with state 'IMG_8660' at position (166, 180).
+          Cell named 'None' with state 'None' at position (852, 170).
+            StaticText named 'None' with state '2023/10/11 18:54:21.390' at position (852, 180).
+          Cell named 'None' with state 'None' at position (1206, 170).
+            StaticText named 'None' with state '2023/10/11 18:54:21.390' at position (1206, 180).
+        Row named 'None' with state 'None' at position (0, 218).
+          Cell named 'None' with state 'None' at position (32, 218).
+            StaticText named 'None' with state '2' at position (32, 228).
+          Cell named 'None' with state 'None' at position (166, 218).
+            StaticText named 'None' with state 'IMG_8660-colorized' at position (166, 228).
+          Cell named 'None' with state 'None' at position (852, 218).
+            StaticText named 'None' with state '2024/02/06 11:47:03.266' at position (852, 228).
+          Cell named 'None' with state 'None' at position (1206, 218).
+            StaticText named 'None' with state '2024/02/06 11:47:03.266' at position (1206, 228).
+        Column named 'None' with state 'None' at position (20, 160).
+        Column named 'None' with state 'None' at position (150, 160).
+        Column named 'None' with state 'None' at position (836, 160).
+        Column named 'None' with state 'None' at position (1190, 160).
+        Group named 'None' with state 'None' at position (0, 104).
+          Button named 'Index' with state 'None' at position (20, 104).
+          Button named 'Filename' with state 'None' at position (150, 104).
+          Button named 'Creation Date' with state 'None' at position (836, 104).
+          Button named 'Modification Date' with state 'None' at position (1190, 104).
+    StaticText named 'None' with state 'Import Frames' at position (1596, 144).
+    StaticText named 'None' with state 'Import, browse and sort frames' at position (1596, 204).
+    Button named 'Continue' with state 'None' at position (1588, 1508).
+    ScrollArea named 'None' with state 'None' at position (1560, 278).
+      StaticText named 'None' with state 'Frames' at position (1596, 834).
+      StaticText named 'None' with state '2' at position (2298, 834).
+      StaticText named 'None' with state 'Dimension' at position (1596, 922).
+      StaticText named 'None' with state '1280 x 1920' at position (2148, 922).
+      ScrollBar named 'None' with state '0.0' at position (1560, 1448).
+      ScrollBar named 'None' with state '0.0' at position (2328, 278).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (174, 0).
+    Button named 'None' with state 'None' at position (246, 0).
+    MenuButton named 'None' with state 'None' at position (322, 0).
+      MenuButton named '' with state 'None' at position (318, 12).
+    MenuButton named 'None' with state 'None' at position (406, 0).
+      MenuButton named '' with state 'None' at position (402, 12).
+    Group named 'None' with state 'None' at position (662, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x600002051e90> {pid=42841}' at position (658, 12).
+        RadioButton named 'None' with state '1' at position (658, 12).
+        RadioButton named 'None' with state '0' at position (832, 12).
+        RadioButton named 'None' with state '0' at position (1006, 12).
+        RadioButton named 'None' with state '0' at position (1180, 12).
+        RadioButton named 'None' with state '0' at position (1354, 12).
+        RadioButton named 'None' with state '0' at position (1528, 12).
+    Button named 'None' with state 'None' at position (2196, 0).
+    MenuButton named 'None' with state 'None' at position (2268, 0).
+      MenuButton named '' with state 'None' at position (2264, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
