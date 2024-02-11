@@ -1,0 +1,36 @@
+Description for the Session application:
+Window named 'Session Pomodoro Focus Timer' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    StaticText named 'None' with state '' at position None.
+    Button named 'None' with state 'None' at position None.
+    StaticText named 'None' with state '?' at position (564, 80).
+    Button named 'None' with state 'None' at position (364, 80).
+    StaticText named 'None' with state 'Notes' at position (912, 56).
+    Button named 'None' with state 'None' at position (412, 144).
+    Button named 'None' with state 'None' at position (0, 200).
+    Button named 'None' with state 'None' at position (0, 296).
+    Button named 'None' with state 'None' at position (0, 392).
+    Button named 'None' with state 'None' at position (0, 488).
+    ScrollArea named 'None' with state 'None' at position (880, 134).
+      TextArea named 'None' with state '' at position (880, 134).
+    StaticText named 'None' with state 'Recent Notes' at position (896, 748).
+    Image named 'None' with state 'None' at position (1246, 754).
+    StaticText named 'None' with state 'Current category only' at position (1280, 748).
+    StaticText named 'None' with state '29:13' at position (416, 878).
+    Button named 'None' with state 'None' at position (192, 930).
+    StaticText named 'None' with state '?' at position (588, 944).
+    Button named 'None' with state 'None' at position (340, 944).
+    Button named 'None' with state 'None' at position (680, 930).
+    StaticText named 'None' with state 'No recent notes found. If there's any, it will be shown here.' at position (924, 1040).
+    Button named 'None' with state 'None' at position (540, 1152).
+    Button named 'None' with state 'None' at position (0, 1224).
+    Button named 'None' with state 'None' at position (96, 0).
+    Button named 'None' with state 'None' at position (294, 1212).
+    Button named 'None' with state 'None' at position (414, 1204).
+    Button named 'None' with state 'None' at position (550, 1212).
+    Button named 'None' with state 'None' at position (540, 1240).
+    Button named 'None' with state 'None' at position (1160, 1288).
+    Button named 'None' with state 'None' at position (1224, 1288).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

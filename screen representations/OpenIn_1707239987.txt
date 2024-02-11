@@ -1,0 +1,28 @@
+Description for the OpenIn application:
+Window named 'OpenIn Settings' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 160).
+    Group named 'None' with state 'None' at position (0, 160).
+      ScrollArea named 'None' with state 'None' at position (0, 160).
+        StaticText named 'None' with state 'Backups' at position (62, 204).
+        Button named 'None' with state 'None' at position (1500, 200).
+        Group named 'None' with state 'None' at position (34, 256).
+          ScrollArea named 'None' with state 'None' at position (40, 260).
+            Table named 'None' with state 'None' at position (40, 260).
+              Column named 'None' with state 'None' at position None.
+        StaticText named 'None' with state 'OpenIn can create a backup of the configurations and history. You can export backups, move to another Mac, import them and restore. If iCloud is enabled on system, all backups will be synced with your iCloud account.' at position (40, 352).
+        Button named 'None' with state 'None' at position (1312, 418).
+        Button named 'None' with state 'None' at position (1440, 418).
+  Toolbar named 'None' with state 'None' at position (0, 56).
+    Button named 'General' with state 'None' at position (388, 56).
+    Button named 'Browsers' with state 'None' at position (500, 56).
+    Button named 'Mail apps' with state 'None' at position (624, 56).
+    Button named 'Call apps' with state 'None' at position (750, 56).
+    Button named 'Files' with state 'None' at position (874, 56).
+    Button named 'Backups' with state 'None' at position (986, 56).
+    Button named 'About' with state 'None' at position (1102, 56).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'OpenIn Settings' at position (692, 10).

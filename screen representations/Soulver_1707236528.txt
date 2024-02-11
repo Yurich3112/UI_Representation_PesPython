@@ -1,0 +1,13 @@
+Detected elements for the Soulver application:
+TextView (0.70 confidence) at position (106, 103)
+TextView (0.53 confidence) at position (919, 619)
+TextView (0.50 confidence) at position (913, 199)
+TextView (0.47 confidence) at position (99, 216)
+TextView (0.40 confidence) at position (114, 419)
+TextView (0.39 confidence) at position (112, 283)
+TextView (0.36 confidence) at position (116, 621)
+TextView (0.36 confidence) at position (914, 279)
+TextView (0.34 confidence) at position (911, 414)
+TextView (0.33 confidence) at position (21, 220)
+Button (0.30 confidence) at position (934, 1291)
+TextView (0.26 confidence) at position (910, 482)

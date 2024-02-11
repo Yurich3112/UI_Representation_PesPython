@@ -1,0 +1,24 @@
+Description for the Merlin Project application:
+Window named 'Get Started' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Welcome to Merlin Project Express' at position (368, 116).
+  Image named 'None' with state 'None' at position (40, 26).
+  StaticText named 'None' with state 'Project management with a bit of magic' at position (580, 210).
+  Button named 'Continue' with state 'None' at position (720, 1132).
+  Image named 'None' with state 'None' at position (160, 418).
+  StaticText named 'None' with state 'Create the flow of your tasks, determine duration and dependencies, and define milestones.' at position (312, 472).
+  StaticText named 'None' with state 'Work Breakdown & Gantt Chart' at position (312, 426).
+  Image named 'None' with state 'None' at position (160, 586).
+  StaticText named 'None' with state 'Create your team and assign them to your tasks. Optionally, calculate labor costs per activity, phase, or entire project.' at position (312, 624).
+  StaticText named 'None' with state 'Resources & Assignments' at position (312, 578).
+  Image named 'None' with state 'None' at position (160, 756).
+  StaticText named 'None' with state 'Attach any number of files and documents of any kind to tasks or resources in your project.' at position (312, 810).
+  StaticText named 'None' with state 'Attachments' at position (312, 764).
+  Image named 'None' with state 'None' at position (160, 916).
+  StaticText named 'None' with state 'Mark activities and design them as you like - individually or by rules.' at position (312, 970).
+  StaticText named 'None' with state 'Styling' at position (312, 924).
+  Image named 'None' with state 'None' at position None.
+  StaticText named 'None' with state 'Help us improve our products by automatically sending us anonymous diagnostic and usage data. This also allows us to consider your personal use case for future developments.' at position None.
+  CheckBox named 'Send diagnostics and usage data to ProjectWizards' with state '0' at position None.
+  StaticText named 'None' with state 'You can deactivate this setting at any time in the app settings.' at position None.
+  Button named 'Privacy Policy' with state 'None' at position None.
+  StaticText named 'None' with state 'Get Started' at position (850, 10).

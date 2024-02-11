@@ -1,0 +1,84 @@
+Description for the OpenIn application:
+Window named 'OpenIn Settings' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 160).
+    Group named 'None' with state 'None' at position (0, 160).
+      ScrollArea named 'None' with state 'None' at position (0, 160).
+        Heading named 'None' with state 'None' at position (60, 204).
+        Button named 'None' with state 'None' at position (1500, 200).
+        Group named 'None' with state 'None' at position (34, 256).
+          StaticText named 'None' with state 'Enabled' at position (60, 280).
+          CheckBox named 'None' with state '1' at position (1488, 282).
+          StaticText named 'None' with state 'OpenIn is not set as default application for https:// URLs' at position (62, 358).
+          Button named 'None' with state 'None' at position (1466, 356).
+        Heading named 'None' with state 'None' at position (60, 474).
+        Group named 'None' with state 'None' at position (34, 522).
+          ScrollArea named 'None' with state 'None' at position (60, 546).
+            Table named 'None' with state 'None' at position (60, 546).
+              Row named 'None' with state 'None' at position (60, 546).
+                Cell named 'None' with state 'None' at position (72, 546).
+                  Image named 'None' with state 'None' at position (82, 568).
+                  Image named 'None' with state 'None' at position (128, 558).
+                  Image named 'None' with state 'None' at position (150, 576).
+                  StaticText named 'None' with state 'Firefox (Private)' at position (176, 558).
+              Row named 'None' with state 'None' at position (60, 602).
+                Cell named 'None' with state 'None' at position (72, 602).
+                  Image named 'None' with state 'None' at position (82, 624).
+                  Image named 'None' with state 'None' at position (128, 614).
+                  StaticText named 'None' with state 'Firefox' at position (176, 614).
+              Row named 'None' with state 'None' at position (60, 658).
+                Cell named 'None' with state 'None' at position (72, 658).
+                  Image named 'None' with state 'None' at position (82, 680).
+                  Image named 'None' with state 'None' at position (128, 670).
+                  StaticText named 'None' with state 'Google Chrome' at position (176, 670).
+              Row named 'None' with state 'None' at position (60, 714).
+                Cell named 'None' with state 'None' at position (72, 714).
+                  Image named 'None' with state 'None' at position (82, 736).
+                  Image named 'None' with state 'None' at position (128, 726).
+                  StaticText named 'None' with state 'Safari' at position (176, 726).
+              Row named 'None' with state 'None' at position (60, 770).
+                Cell named 'None' with state 'None' at position (72, 770).
+                  Image named 'None' with state 'None' at position (82, 792).
+                  Image named 'None' with state 'None' at position (128, 782).
+                  Image named 'None' with state 'None' at position (150, 800).
+                  StaticText named 'None' with state 'Safari (Private)' at position (176, 782).
+              Column named 'None' with state 'None' at position (60, 546).
+        Button named 'None' with state 'None' at position (996, 868).
+        Button named 'None' with state 'None' at position (1332, 868).
+        Heading named 'None' with state 'None' at position (60, 966).
+        Group named 'None' with state 'None' at position (34, 1014).
+          ScrollArea named 'None' with state 'None' at position (60, 1038).
+            Table named 'None' with state 'None' at position (60, 1038).
+              Row named 'None' with state 'None' at position (60, 1038).
+                Cell named 'None' with state 'None' at position (72, 1038).
+                  Image named 'None' with state 'None' at position (82, 1060).
+                  StaticText named 'None' with state 'Default' at position (128, 1050).
+              Column named 'None' with state 'None' at position (60, 1038).
+        Button named 'None' with state 'None' at position (1420, 1136).
+        Heading named 'None' with state 'None' at position (60, 1234).
+        Group named 'None' with state 'None' at position (34, 1282).
+          StaticText named 'None' with state 'Resolve Shortened URLs' at position (60, 1306).
+          CheckBox named 'None' with state '1' at position (1488, 1308).
+        Button named 'None' with state 'None' at position None.
+        Heading named 'None' with state 'None' at position None.
+        Group named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position None.
+        ScrollBar named 'None' with state '0.0' at position (1568, 160).
+          ValueIndicator named 'None' with state '0.0' at position (1576, 162).
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position (1576, 1124).
+          Button named 'None' with state 'None' at position (1576, 160).
+  Toolbar named 'None' with state 'None' at position (0, 56).
+    Button named 'General' with state 'None' at position (388, 56).
+    Button named 'Browsers' with state 'None' at position (500, 56).
+    Button named 'Mail apps' with state 'None' at position (624, 56).
+    Button named 'Call apps' with state 'None' at position (750, 56).
+    Button named 'Files' with state 'None' at position (874, 56).
+    Button named 'Backups' with state 'None' at position (986, 56).
+    Button named 'About' with state 'None' at position (1102, 56).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'OpenIn Settings' at position (692, 10).

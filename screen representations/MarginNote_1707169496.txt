@@ -1,0 +1,12 @@
+Detected elements for the MarginNote application:
+Button (0.71 confidence) at position (864, 156)
+TextView (0.54 confidence) at position (216, 557)
+Button (0.50 confidence) at position (1099, 164)
+ImageButton (0.45 confidence) at position (3, 60)
+ImageView (0.44 confidence) at position (12, 736)
+ImageButton (0.43 confidence) at position (177, 291)
+TextView (0.37 confidence) at position (1890, 85)
+ImageButton (0.36 confidence) at position (214, 374)
+ImageView (0.35 confidence) at position (0, 1351)
+Button (0.31 confidence) at position (0, 1347)
+TextView (0.30 confidence) at position (174, 80)

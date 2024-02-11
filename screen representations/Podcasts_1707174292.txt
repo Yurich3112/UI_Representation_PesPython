@@ -1,0 +1,97 @@
+Description for the Podcasts application:
+Window named '' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          Group named 'None' with state 'None' at position (0, 0).
+            TextField named 'None' with state 'ai house podcast' at position (20, 114).
+            StaticText named 'None' with state 'None' at position (20, 194).
+            StaticText named 'None' with state 'None' at position (20, 242).
+            StaticText named 'None' with state 'None' at position (20, 298).
+            StaticText named 'None' with state 'None' at position (20, 354).
+            Button named 'None' with state 'None' at position (20, 430).
+            StaticText named 'None' with state 'None' at position (20, 478).
+            StaticText named 'None' with state 'None' at position (20, 534).
+            StaticText named 'None' with state 'None' at position (20, 590).
+            StaticText named 'None' with state 'None' at position (20, 646).
+            StaticText named 'None' with state 'None' at position (20, 702).
+            StaticText named 'None' with state 'None' at position (20, 758).
+      Splitter named 'None' with state '21.484375' at position (440, 0).
+      Group named 'None' with state 'None' at position (442, 0).
+        Group named 'None' with state 'None' at position (442, 0).
+          Group named 'None' with state 'None' at position (562, 24).
+            Button named 'None' with state 'None' at position (562, 24).
+            Button named 'None' with state 'None' at position (630, 24).
+            Button named 'None' with state 'None' at position (698, 24).
+          Image named 'None' with state 'None' at position (880, 10).
+          Button named 'None' with state 'None' at position (1576, 36).
+          Slider named 'None' with state '1.0' at position (1594, 36).
+          Button named 'None' with state 'None' at position (1742, 36).
+          Button named 'None' with state 'None' at position (1830, 20).
+          Group named 'None' with state 'None' at position (1898, 26).
+            Button named 'None' with state 'None' at position (1898, 26).
+            Button named 'None' with state 'None' at position (1966, 26).
+        Group named 'None' with state 'None' at position (442, 0).
+          Group named 'None' with state 'None' at position (442, 0).
+            Button named 'None' with state 'Filter' at position (522, 174).
+            Button named 'None' with state 'None' at position (1776, 200).
+            Button named 'None' with state 'None' at position (522, 272).
+            Button named 'None' with state 'None' at position (522, 368).
+            Button named 'None' with state 'None' at position (892, 368).
+            Button named 'None' with state 'None' at position (1264, 368).
+            Button named 'None' with state 'None' at position (1634, 368).
+            Button named 'None' with state 'None' at position (2006, 368).
+            Button named 'None' with state 'None' at position (522, 894).
+            Button named 'None' with state 'None' at position (442, 990).
+            Group named 'None' with state 'None' at position (522, 990).
+              Image named 'None' with state 'None' at position (522, 1010).
+              GenericElement named 'None' with state 'None' at position (782, 1010).
+              StaticText named 'None' with state 'None' at position (738, 1036).
+              Button named 'None' with state 'None' at position (782, 1150).
+            Group named 'None' with state 'None' at position (522, 1258).
+              Image named 'None' with state 'None' at position (522, 1278).
+              GenericElement named 'None' with state 'None' at position (786, 1278).
+              StaticText named 'None' with state 'None' at position (738, 1304).
+              Button named 'None' with state 'None' at position (786, 1414).
+            Group named 'None' with state 'None' at position (522, 1526).
+              Image named 'None' with state 'None' at position None.
+              GenericElement named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+            Group named 'None' with state 'None' at position (1264, 990).
+              Image named 'None' with state 'None' at position (1264, 1010).
+              GenericElement named 'None' with state 'None' at position (1528, 1010).
+              StaticText named 'None' with state 'None' at position (1480, 1036).
+              Button named 'None' with state 'None' at position (1528, 1150).
+            Group named 'None' with state 'None' at position (1264, 1258).
+              Image named 'None' with state 'None' at position (1264, 1278).
+              GenericElement named 'None' with state 'None' at position (1528, 1278).
+              StaticText named 'None' with state 'None' at position (1480, 1304).
+              Button named 'None' with state 'None' at position (1528, 1414).
+            Group named 'None' with state 'None' at position (1264, 1526).
+              Image named 'None' with state 'None' at position None.
+              GenericElement named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+            Group named 'None' with state 'None' at position (2008, 990).
+              Image named 'None' with state 'None' at position (2008, 1010).
+              GenericElement named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+            Group named 'None' with state 'None' at position (2008, 1258).
+              Image named 'None' with state 'None' at position (2008, 1278).
+              GenericElement named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+            Group named 'None' with state 'None' at position (2008, 1526).
+              Image named 'None' with state 'None' at position None.
+              GenericElement named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position (1968, 990).
+  Button named 'None' with state 'None' at position (28, 36).
+  Button named 'None' with state 'None' at position (108, 36).
+    Group named 'None' with state 'None' at position (108, 36).
+      Group named 'None' with state 'None' at position (108, 38).
+  Button named 'None' with state 'None' at position (68, 36).

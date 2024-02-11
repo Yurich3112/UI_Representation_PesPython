@@ -1,0 +1,146 @@
+Description for the Safari application:
+Window named 'Start Page' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 104).
+      Button named '' with state 'None' at position (38, 102).
+      StaticText named 'None' with state 'Bookmarks' at position (92, 104).
+      ScrollArea named 'None' with state 'None' at position (0, 178).
+        Group named 'None' with state 'None' at position (0, 118).
+          TextField named 'None' with state '' at position (24, 126).
+            Button named '' with state 'None' at position (28, 126).
+        Outline named 'None' with state 'None' at position (0, 178).
+          Row named 'None' with state 'None' at position (0, 118).
+            Cell named 'None' with state 'None' at position (20, 118).
+          Row named 'None' with state 'None' at position (0, 178).
+            Cell named 'None' with state 'None' at position (20, 178).
+              TextField named 'None' with state 'None' at position (50, 178).
+                Image named 'None' with state 'None' at position (50, 178).
+                TextField named 'None' with state 'Favourites' at position (92, 188).
+              DisclosureTriangle named 'None' with state '0' at position (24, 178).
+          Row named 'None' with state 'None' at position (0, 230).
+            Cell named 'None' with state 'None' at position (20, 230).
+              TextField named 'None' with state 'None' at position (50, 230).
+                Image named 'None' with state 'None' at position (50, 230).
+                TextField named 'None' with state 'Tab Group Favourites' at position (92, 240).
+              DisclosureTriangle named 'None' with state '0' at position (24, 230).
+          Column named 'None' with state 'None' at position (20, 118).
+        ScrollBar named 'None' with state '1.0' at position (618, 178).
+          ValueIndicator named 'None' with state '1.0' at position (618, 238).
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position (618, 1716).
+          Button named 'None' with state 'None' at position (618, 178).
+    Splitter named 'None' with state '325.0' at position (650, 104).
+    TabGroup named 'None' with state 'None' at position (652, 0).
+      ScrollArea named 'None' with state 'None' at position (652, 104).
+        List named 'None' with state 'None' at position (652, 104).
+          List named 'None' with state 'None' at position (1010, 232).
+            Group named 'None' with state 'None' at position (1010, 232).
+              Unknown named 'None' with state 'None' at position (1010, 232).
+                Button named 'Favourites' with state 'None' at position (1010, 232).
+            Button named 'None' with state 'None' at position (1010, 316).
+              Image named 'None' with state 'None' at position (1010, 316).
+              Image named 'None' with state 'None' at position (990, 296).
+              Button named 'None' with state 'Apple' at position (1006, 458).
+            Button named 'None' with state 'None' at position (1154, 316).
+              Image named 'None' with state 'None' at position (1154, 316).
+              Image named 'None' with state 'None' at position (1134, 296).
+              Button named 'None' with state 'Yandex' at position (1150, 458).
+            Button named 'None' with state 'None' at position (1298, 316).
+              Image named 'None' with state 'None' at position (1298, 316).
+              Image named 'None' with state 'None' at position (1278, 296).
+              Button named 'None' with state 'Bing' at position (1294, 458).
+            Button named 'None' with state 'None' at position (1442, 316).
+              Image named 'None' with state 'None' at position (1442, 316).
+              Image named 'None' with state 'None' at position (1422, 296).
+              Button named 'None' with state 'Google' at position (1438, 458).
+          List named 'None' with state 'None' at position (1010, 592).
+            Group named 'None' with state 'None' at position (1010, 592).
+              Unknown named 'None' with state 'None' at position (1010, 592).
+                Button named 'Shared with You' with state 'None' at position (1010, 592).
+            Button named 'None' with state 'None' at position (1010, 676).
+              Image named 'None' with state 'None' at position (1010, 676).
+              Image named 'None' with state 'None' at position (990, 656).
+              Image named 'None' with state 'None' at position (1042, 724).
+              StaticText named 'None' with state 'Links shared with you in Messages can automatically appear
+here, along with shared links that you pin.' at position (1038, 794).
+          List named 'None' with state 'None' at position (1010, 990).
+            Group named 'None' with state 'None' at position (1010, 990).
+              Unknown named 'None' with state 'None' at position (1010, 990).
+                Button named 'Privacy Report' with state 'None' at position (1010, 990).
+            Button named 'None' with state 'None' at position (1010, 1074).
+              Image named 'None' with state 'None' at position (1010, 1074).
+              Image named 'None' with state 'None' at position (1050, 1104).
+              StaticText named 'None' with state 'Safari has not encountered any trackers in the last seven days.' at position (1166, 1114).
+              Image named 'None' with state 'None' at position (990, 1054).
+          List named 'None' with state 'None' at position (1010, 1260).
+            Group named 'None' with state 'None' at position (1010, 1260).
+              Unknown named 'None' with state 'None' at position (1010, 1260).
+                Button named 'Siri Suggestions' with state 'None' at position (1010, 1260).
+            Button named 'None' with state 'None' at position (1010, 1344).
+              Image named 'None' with state 'None' at position (1010, 1344).
+              Image named 'None' with state 'None' at position (990, 1324).
+              Image named 'None' with state 'None' at position (1042, 1392).
+              StaticText named 'None' with state 'Websites found in Mail, News and more will appear here when available.
+This section may be hidden if there is no content to display.' at position (1038, 1462).
+          List named 'None' with state 'None' at position (1010, 1658).
+            Group named 'None' with state 'None' at position (1010, 1658).
+              Unknown named 'None' with state 'None' at position (1010, 1658).
+                Button named 'Reading List' with state 'None' at position (1010, 1658).
+            Button named 'None' with state 'None' at position None.
+              Image named 'None' with state 'None' at position None.
+              Image named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'Tutorial #17: Transformers III Training' at position None.
+              Image named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'borealisai.com' at position None.
+            Button named 'None' with state 'None' at position None.
+              Image named 'None' with state 'None' at position None.
+              Image named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'https://ucl-eu-west-2-moodle-sitedata.s3.eu-west-2.amazonaws.com/56/f5/56f588f19ad4f5a1c9d45aeb109532e045479eba?response-content-disposition=inline%3B%20filename%3D%22Lecture03_part2.pdf%22&response-content-type=applicat' at position None.
+              Image named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'ucl-eu-west-2-moodle-sitedata.s3.eu-west-2.amazonaws.com' at position None.
+            Button named 'None' with state 'None' at position None.
+              Image named 'None' with state 'None' at position None.
+              Image named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'https://ucl-eu-west-2-moodle-sitedata.s3.eu-west-2.amazonaws.com/cb/ab/cbabd17f9d249fb0aa3b42907771643254eb8cfd?response-content-disposition=inline%3B%20filename%3D%22Lecture03_Part01.pdf%22&response-content-type=applica' at position None.
+              Image named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'ucl-eu-west-2-moodle-sitedata.s3.eu-west-2.amazonaws.com' at position None.
+            Button named 'None' with state 'None' at position None.
+              Image named 'None' with state 'None' at position None.
+              Image named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'https://s3.us-west-2.amazonaws.com/temporary.notion-static.com/Export-cb133698-31dd-484c-ab5d-1d99c0be9891/Fitting_Probability_Models.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Crede' at position None.
+              Image named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 's3.us-west-2.amazonaws.com' at position None.
+            Button named 'None' with state 'None' at position None.
+              Image named 'None' with state 'None' at position None.
+              Image named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 'https://s3.us-west-2.amazonaws.com/temporary.notion-static.com/Export-911a32f4-2912-46f1-9de2-38bde7d168a5/Intro_to_Probability.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=' at position None.
+              Image named 'None' with state 'None' at position None.
+              StaticText named 'None' with state 's3.us-west-2.amazonaws.com' at position None.
+        ScrollBar named 'None' with state '0.0' at position (2616, 104).
+          ValueIndicator named 'None' with state '0.0' at position (2624, 106).
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position (2624, 1364).
+          Button named 'None' with state 'None' at position (2624, 104).
+      Button named '' with state 'None' at position (2544, 1632).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (174, 0).
+      Button named '' with state 'None' at position (170, 12).
+      MenuButton named '' with state 'None' at position (550, 12).
+    Group named 'None' with state 'None' at position (668, 0).
+      Group named 'None' with state 'None' at position (664, 12).
+        Button named 'None' with state 'None' at position (664, 12).
+        Button named 'None' with state 'None' at position (744, 12).
+    Group named 'None' with state 'None' at position (1106, 0).
+      Button named 'Show Search Menu' with state 'None' at position (1448, 24).
+      TextField named 'None' with state '' at position (1158, 36).
+    Button named 'None' with state 'None' at position (2406, 0).
+    Button named 'None' with state 'None' at position (2480, 0).
+      Button named '' with state 'None' at position (2476, 12).
+        Button named '' with state 'None' at position (2476, 12).
+    Button named 'None' with state 'None' at position (2552, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

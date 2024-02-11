@@ -1,0 +1,158 @@
+Description for the Setapp application:
+Window named '' with state 'None' at position (0, 0).
+  Table named 'None' with state 'None' at position (20, 170).
+    Row named 'None' with state 'None' at position (20, 170).
+      Cell named 'None' with state 'None' at position (32, 170).
+        Image named 'None' with state 'None' at position (38, 182).
+        StaticText named 'None' with state 'My Explorer' at position (88, 182).
+    Row named 'None' with state 'None' at position (20, 250).
+      Cell named 'None' with state 'None' at position (32, 250).
+        Image named 'None' with state 'None' at position (38, 262).
+        StaticText named 'None' with state 'Favorites' at position (88, 262).
+    Row named 'None' with state 'None' at position (20, 330).
+      Cell named 'None' with state 'None' at position (32, 330).
+        Image named 'None' with state 'None' at position (38, 342).
+        StaticText named 'None' with state 'On This Mac' at position (88, 342).
+    Row named 'None' with state 'None' at position (20, 410).
+      Cell named 'None' with state 'None' at position (32, 410).
+        Image named 'None' with state 'None' at position (38, 422).
+        StaticText named 'None' with state 'Collections' at position (88, 422).
+    Row named 'None' with state 'None' at position (20, 490).
+      Cell named 'None' with state 'None' at position (32, 490).
+        Image named 'None' with state 'None' at position (38, 502).
+        StaticText named 'None' with state 'How-tos' at position (88, 502).
+    Row named 'None' with state 'None' at position (20, 570).
+      Cell named 'None' with state 'None' at position (32, 570).
+        Image named 'None' with state 'None' at position (38, 582).
+        StaticText named 'None' with state 'App Guides' at position (88, 582).
+    Row named 'None' with state 'None' at position (20, 650).
+      Cell named 'None' with state 'None' at position (32, 650).
+        Image named 'None' with state 'None' at position (38, 662).
+        StaticText named 'None' with state 'All Apps' at position (88, 662).
+    Row named 'None' with state 'None' at position (20, 706).
+      Cell named 'None' with state 'None' at position (32, 706).
+        Image named 'None' with state 'None' at position (38, 718).
+        StaticText named 'None' with state 'Optimize' at position (88, 718).
+    Row named 'None' with state 'None' at position (20, 762).
+      Cell named 'None' with state 'None' at position (32, 762).
+        Image named 'None' with state 'None' at position (38, 774).
+        StaticText named 'None' with state 'Work' at position (88, 774).
+    Row named 'None' with state 'None' at position (20, 818).
+      Cell named 'None' with state 'None' at position (32, 818).
+        Image named 'None' with state 'None' at position (38, 830).
+        StaticText named 'None' with state 'Create' at position (88, 830).
+    Row named 'None' with state 'None' at position (20, 874).
+      Cell named 'None' with state 'None' at position (32, 874).
+        Image named 'None' with state 'None' at position (38, 886).
+        StaticText named 'None' with state 'Develop' at position (88, 886).
+    Column named 'None' with state 'None' at position (20, 170).
+  Unknown named 'None' with state 'None' at position (332, 38).
+    Image named 'None' with state 'None' at position (336, 38).
+  Unknown named 'None' with state 'None' at position (276, 38).
+    Image named 'None' with state 'None' at position (280, 38).
+  Group named 'None' with state 'None' at position (390, 10).
+    Group named 'None' with state 'None' at position (390, 152).
+      Group named 'None' with state 'None' at position (390, 152).
+        ScrollArea named '' with state '' at position (390, 152).
+          WebArea named '' with state '' at position (390, 152).
+            Group named '' with state '' at position (570, 152).
+              Group named '' with state '' at position (570, 232).
+                Heading named 'Clobbr' with state '1' at position (570, 232).
+                  StaticText named '' with state 'Clobbr' at position (570, 236).
+                Button named 'Copy link' with state '' at position (1814, 240).
+              Group named '' with state '' at position (570, 344).
+                Group named '' with state '' at position (570, 344).
+                  StaticText named '' with state 'No-nonsense API endpoint testing' at position (570, 346).
+                Group named '' with state '' at position (570, 424).
+                  StaticText named '' with state 'Our devs at Setapp love this app for a reason. Meet Clobbr, a powerful yet easy-to-use tool to load- and speed-test your API endpoints. Clobbr stores your data locally, doesn't require an account, and looks delightful. What more could we ask for?' at position (570, 426).
+                Link named 'Clobbr Load test API endpoints Clobbr 90 % Mac' with state '' at position (570, 604).
+                  Image named '' with state '' at position (570, 604).
+                  Group named '' with state '' at position (760, 610).
+                    StaticText named '' with state 'Load test API endpoints' at position (760, 612).
+                  Group named '' with state '' at position (760, 652).
+                    StaticText named '' with state 'Clobbr' at position (760, 652).
+                  Group named '' with state '' at position (800, 716).
+                    StaticText named '' with state '90' at position (800, 718).
+                    StaticText named '' with state '%' at position (830, 718).
+                  StaticText named '' with state 'Mac' at position (884, 718).
+                Link named 'View app' with state '' at position (1816, 638).
+                  Group named '' with state '' at position (1856, 646).
+                    StaticText named '' with state 'View app' at position (1856, 648).
+                Heading named 'Paste a URL, configure, go' with state '5' at position (570, 884).
+                  StaticText named '' with state 'Paste a URL, configure, go' at position (570, 888).
+                Group named '' with state '' at position (570, 960).
+                  StaticText named '' with state 'Whether you're testing REST, GraphQL, or cloud functions, Clobbr will do the job. Simply enter a URL, tweak the options, and start testing. You can quickly switch between parallel and sequence testing, change the HTTP method, set timeouts and the number of iterations.' at position (570, 962).
+                Group named '' with state '' at position (570, 1120).
+                  Group named '' with state '' at position (570, 1120).
+                    Button named '' with state '' at position None.
+                Heading named 'Add headers with ease' with state '5' at position None.
+                  StaticText named '' with state 'Add headers with ease' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'Configuring headers for your request is just as easy. Once you've entered a URL, click the Configure button and jump to the Headers tab. Besides adding everything manually, you can use scripts for dynamic headers.' at position None.
+                Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    Button named '' with state '' at position None.
+                Heading named 'Set request payload' with state '5' at position None.
+                  StaticText named '' with state 'Set request payload' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'Need to send any data with your request? Go to the Payload tab and use Clobbr's built-in JSON editor. Autocomplete, validation, and syntax highlighting are here for you.' at position None.
+                Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    Button named '' with state '' at position None.
+                Heading named 'Analyze performance and share results' with state '5' at position None.
+                  StaticText named '' with state 'Analyze performance and share results' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'Catch any concurrency and performance issues early on with Clobb's detailed analytics. Click "History & analysis" to dive into key metrics and see how they changed over time.' at position None.
+                Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    Button named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'Want to highlight potential issues to your team? Click the Share button to get a link with your test results chart. All your data stays locally, and you can also hide the request URL.' at position None.
+                Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    Button named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'Hope this guide will help you solve tasks faster, and enjoy solving them, too! Check out more guides picked for you below.' at position None.
+              Link named 'Clobbr Load test API endpoints Clobbr 90% Mac' with state '' at position None.
+                Image named '' with state '' at position None.
+                StaticText named '' with state 'Load test API endpoints' at position None.
+                StaticText named '' with state 'Clobbr' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state '90%' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'Mac' at position None.
+              Link named 'View app' with state '' at position None.
+                StaticText named '' with state 'View app' at position None.
+              StaticText named '' with state 'More reads for you' at position None.
+              Link named 'See all' with state '' at position None.
+                StaticText named '' with state 'See all' at position None.
+              Link named 'Dash All the API docs you need' with state '' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'Dash' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'All the API docs you need' at position None.
+              Link named 'DevUtils Code faster, worry less' with state '' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'DevUtils' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'Code faster, worry less' at position None.
+            ScrollArea named '' with state '' at position (390, 152).
+              WebArea named '' with state '' at position (390, 152).
+              ScrollBar named '' with state '0.0' at position (360, 152).
+          ScrollBar named '' with state '0.0' at position (2158, 152).
+  Button named 'None' with state 'None' at position (2090, 14).
+    Image named 'None' with state 'None' at position (2090, 50).
+  Link named 'None' with state 'None' at position (1704, 64).
+    StaticText named 'None' with state 'Team member' at position (1744, 64).
+  Button named 'None' with state 'None' at position (1964, 58).
+    Image named 'None' with state 'None' at position (1964, 58).
+    StaticText named 'None' with state '24' at position (1982, 48).
+  Group named 'None' with state 'None' at position (742, 0).
+    Button named 'None' with state 'None' at position (740, 50).
+  Group named 'None' with state 'None' at position (490, 36).
+    TextField named 'None' with state '' at position (546, 62).
+  Button named 'None' with state 'None' at position (40, 40).
+  Button named 'None' with state 'None' at position (120, 40).
+    Group named 'None' with state 'None' at position (120, 40).
+      Group named 'None' with state 'None' at position (120, 40).
+  Button named 'None' with state 'None' at position (80, 40).

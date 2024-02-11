@@ -1,0 +1,107 @@
+Description for the Numbers application:
+Window named 'clustered_queries_06.numbers' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 196).
+  ScrollArea named 'None' with state 'None' at position (0, 196).
+    ScrollBar named 'None' with state '0.0' at position (0, 1686).
+      ValueIndicator named 'None' with state '0.0' at position (2, 1694).
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (1762, 1694).
+      Button named 'None' with state 'None' at position (0, 1694).
+    ScrollBar named 'None' with state '7.00726565857974e-05' at position (1946, 196).
+      ValueIndicator named 'None' with state '7.00726565857974e-05' at position (1954, 198).
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (1954, 250).
+      Button named 'None' with state 'None' at position (1954, 196).
+  Button named '' with state 'None' at position (0, 136).
+  ScrollArea named 'None' with state 'None' at position (94, 140).
+    StaticText named 'None' with state 'Sheet 1' at position (152, 152).
+  Button named '' with state 'None' at position (1978, 138).
+  Button named '' with state 'None' at position (2024, 138).
+  ScrollArea named 'None' with state 'None' at position None.
+    StaticText named 'None' with state 'Text' at position None.
+    StaticText named 'None' with state 'types viruses computer' at position None.
+  Button named '' with state 'None' at position None.
+  Button named '' with state 'None' at position None.
+  RadioGroup named 'None' with state '<AXUIElement 0x11f6e0f80> {pid=2094}' at position (1980, 140).
+    RadioButton named 'None' with state '0' at position (1980, 140).
+    RadioButton named 'None' with state '0' at position (2120, 140).
+    RadioButton named 'None' with state '1' at position (2254, 140).
+    RadioButton named 'None' with state '0' at position (2388, 140).
+  Button named 'Table Style 1' with state 'None' at position (2012, 228).
+  RadioGroup named 'None' with state '<AXUIElement 0x10f62f190> {pid=2094}' at position (2028, 360).
+    RadioButton named 'None' with state '1' at position (2028, 360).
+    RadioButton named 'None' with state '0' at position (2230, 360).
+  ScrollArea named 'None' with state 'None' at position (1980, 426).
+    StaticText named 'None' with state 'Font' at position (2008, 472).
+    StaticText named 'None' with state 'Character Styles' at position (2008, 714).
+    PopUpButton named 'None' with state 'Helvetica Neue' at position (2006, 526).
+    PopUpButton named 'None' with state 'Bold' at position (2006, 584).
+    Group named 'None' with state 'None' at position (2006, 644).
+      CheckBox named 'None' with state '1' at position (2006, 644).
+      CheckBox named 'None' with state '0' at position (2092, 644).
+      CheckBox named 'None' with state '0' at position (2172, 644).
+      CheckBox named 'None' with state '0' at position (2252, 644).
+    Button named 'Character Style' with state 'None' at position (2210, 700).
+    TextField named 'None' with state '10 pt' at position (2368, 586).
+    Incrementor named 'None' with state '10.0' at position (2456, 578).
+      Button named 'None' with state 'None' at position (2456, 578).
+      Button named 'None' with state 'None' at position (2456, 606).
+    Button named '' with state 'None' at position (2354, 638).
+    PopUpButton named 'None' with state 'Text Colour' at position (1992, 810).
+    ColorWell named 'None' with state 'None' at position (2356, 802).
+    Group named 'None' with state 'None' at position (2006, 898).
+      CheckBox named 'None' with state '0' at position (2006, 898).
+      CheckBox named 'None' with state '0' at position (2108, 898).
+      CheckBox named 'None' with state '0' at position (2204, 898).
+      CheckBox named 'None' with state '0' at position (2298, 898).
+      CheckBox named 'None' with state '1' at position (2392, 898).
+    Group named 'None' with state 'None' at position (2006, 1014).
+      CheckBox named 'None' with state '1' at position (2006, 1014).
+      CheckBox named 'None' with state '0' at position (2170, 1014).
+      CheckBox named 'None' with state '0' at position (2328, 1014).
+    Group named 'None' with state 'None' at position (2006, 956).
+      CheckBox named 'None' with state '0' at position (2006, 956).
+      CheckBox named 'None' with state '0' at position (2250, 956).
+    CheckBox named 'Wrap text in cell' with state '0' at position (2008, 1078).
+    DisclosureTriangle named 'None' with state '0' at position (2004, 1186).
+    StaticText named 'None' with state 'Spacing' at position (2038, 1198).
+    PopUpButton named 'None' with state '1.0 - Single' at position (2232, 1192).
+  Toolbar named 'None' with state 'None' at position (0, 56).
+    MenuButton named 'None' with state 'None' at position (4, 56).
+      RadioGroup named 'None' with state 'None' at position (10, 54).
+        MenuButton named 'None' with state 'None' at position (10, 54).
+      StaticText named 'None' with state 'View' at position (22, 106).
+    MenuButton named 'Zoom' with state 'None' at position (108, 56).
+      MenuButton named '125%' with state 'None' at position (114, 54).
+      StaticText named 'None' with state 'Zoom' at position (140, 106).
+    MenuButton named 'None' with state 'None' at position (458, 56).
+      RadioGroup named 'None' with state 'None' at position (500, 54).
+        MenuButton named 'None' with state 'None' at position (500, 54).
+      StaticText named 'None' with state 'Add Category' at position (464, 106).
+    Button named 'Pivot Table' with state 'None' at position (632, 56).
+    MenuButton named 'None' with state 'None' at position (986, 56).
+      RadioGroup named 'None' with state 'None' at position (992, 54).
+        MenuButton named 'None' with state 'None' at position (992, 54).
+      StaticText named 'None' with state 'Insert' at position (1000, 106).
+    CheckBox named 'Table' with state '0' at position (1090, 56).
+    CheckBox named 'Chart' with state '0' at position (1186, 56).
+    Button named 'Text' with state 'None' at position (1282, 56).
+    CheckBox named 'Shape' with state '0' at position (1378, 56).
+    MenuButton named 'None' with state 'None' at position (1474, 56).
+      RadioGroup named 'None' with state 'None' at position (1480, 54).
+        MenuButton named 'None' with state 'None' at position (1480, 54).
+      StaticText named 'None' with state 'Media' at position (1486, 106).
+    Button named 'Comment' with state 'None' at position (1578, 56).
+    CheckBox named 'Collaborate' with state '0' at position (1918, 56).
+    Group named 'None' with state '<AXUIElement 0x11f6e3740> {pid=2094}' at position (2278, 56).
+      RadioButton named 'None' with state '1' at position (2284, 56).
+      RadioButton named 'None' with state '0' at position (2398, 56).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  MenuButton named '' with state 'None' at position (1486, 10).
+  Image named 'clustered_queries_06.numbers' with state 'None' at position (1034, 10).
+  StaticText named 'None' with state 'clustered_queries_06.numbers' at position (1070, 10).

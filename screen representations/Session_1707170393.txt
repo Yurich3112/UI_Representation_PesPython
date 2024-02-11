@@ -1,0 +1,31 @@
+Description for the Session application:
+Window named 'Session Pomodoro Focus Timer' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    StaticText named 'None' with state '' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position (1488, 104).
+    Button named 'None' with state 'None' at position (0, 200).
+    Button named 'None' with state 'None' at position (0, 296).
+    Button named 'None' with state 'None' at position (0, 392).
+    Button named 'None' with state 'None' at position (0, 488).
+    ScrollArea named 'None' with state 'None' at position (96, 56).
+      StaticText named 'None' with state 'Let's pause and reflect.' at position (714, 120).
+      StaticText named 'None' with state 'What have you learned in this Session?' at position (492, 150).
+      Button named 'None' with state 'None' at position (568, 224).
+      Button named 'None' with state 'None' at position (768, 224).
+      Button named 'None' with state 'None' at position (968, 224).
+      StaticText named 'None' with state 'CATEGORY' at position (476, 436).
+      Button named 'None' with state 'None' at position (628, 426).
+      StaticText named 'None' with state 'INTENT' at position (476, 524).
+      TextField named 'None' with state 'work' at position (628, 522).
+      Image named 'None' with state 'None' at position (1172, 526).
+      Button named 'None' with state 'None' at position (428, 584).
+      ScrollArea named 'None' with state 'None' at position (428, 672).
+        TextArea named 'None' with state '' at position (428, 672).
+    Button named 'None' with state 'None' at position (608, 1170).
+    Button named 'None' with state 'None' at position (0, 1224).
+    StaticText named 'None' with state '00:54' at position (804, 1266).
+    StaticText named 'None' with state 'Inactivity countdown to automatically submit session.' at position (648, 1312).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

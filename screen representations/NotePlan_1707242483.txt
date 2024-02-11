@@ -1,0 +1,103 @@
+Description for the NotePlan application:
+Window named 'Main Window' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 80).
+      Outline named 'None' with state 'None' at position (0, 80).
+        Row named 'None' with state 'None' at position (0, 80).
+          Cell named 'None' with state 'None' at position (20, 80).
+            StaticText named 'None' with state 'NotePlan' at position (28, 84).
+        Row named 'None' with state 'None' at position (0, 118).
+          Cell named 'None' with state 'None' at position (20, 118).
+            Image named 'None' with state 'None' at position (50, 126).
+            StaticText named 'None' with state 'Search' at position (94, 130).
+        Row named 'None' with state 'None' at position (0, 174).
+          Cell named 'None' with state 'None' at position (20, 174).
+            Image named 'None' with state 'None' at position (50, 182).
+            StaticText named 'None' with state 'Filters' at position (94, 186).
+            DisclosureTriangle named 'None' with state '0' at position (24, 174).
+        Row named 'None' with state 'None' at position (0, 256).
+          Cell named 'None' with state 'None' at position (20, 256).
+            StaticText named 'None' with state 'Calendar Notes' at position (28, 260).
+        Row named 'None' with state 'None' at position (0, 294).
+          Cell named 'None' with state 'None' at position (20, 294).
+            Image named 'None' with state 'None' at position (50, 302).
+            StaticText named 'None' with state 'Daily' at position (94, 306).
+        Row named 'None' with state 'None' at position (0, 350).
+          Cell named 'None' with state 'None' at position (20, 350).
+            Image named 'None' with state 'None' at position (50, 358).
+            StaticText named 'None' with state 'Weekly' at position (94, 362).
+        Row named 'None' with state 'None' at position (0, 406).
+          Cell named 'None' with state 'None' at position (20, 406).
+            Image named 'None' with state 'None' at position (50, 414).
+            StaticText named 'None' with state '7-Day' at position (94, 418).
+        Row named 'None' with state 'None' at position (0, 488).
+          Cell named 'None' with state 'None' at position (20, 488).
+            StaticText named 'None' with state 'Notes' at position (28, 492).
+        Row named 'None' with state 'None' at position (0, 526).
+          Cell named 'None' with state 'None' at position (20, 526).
+            Image named 'None' with state 'None' at position (50, 534).
+            TextField named 'None' with state 'Demo Project' at position (94, 538).
+            DisclosureTriangle named 'None' with state '0' at position (24, 526).
+        Row named 'None' with state 'None' at position (0, 608).
+          Cell named 'None' with state 'None' at position (20, 608).
+            StaticText named 'None' with state 'Smart Folders' at position (28, 612).
+        Row named 'None' with state 'None' at position (0, 646).
+          Cell named 'None' with state 'None' at position (20, 646).
+            Image named 'None' with state 'None' at position (50, 654).
+            StaticText named 'None' with state 'Recent' at position (94, 658).
+            DisclosureTriangle named 'None' with state '0' at position (24, 646).
+        Row named 'None' with state 'None' at position (0, 702).
+          Cell named 'None' with state 'None' at position (20, 702).
+            Image named 'None' with state 'None' at position (50, 710).
+            StaticText named 'None' with state 'Archive' at position (94, 714).
+        Row named 'None' with state 'None' at position (0, 758).
+          Cell named 'None' with state 'None' at position (20, 758).
+            Image named 'None' with state 'None' at position (50, 766).
+            StaticText named 'None' with state 'Templates' at position (94, 770).
+        Row named 'None' with state 'None' at position (0, 814).
+          Cell named 'None' with state 'None' at position (20, 814).
+            Image named 'None' with state 'None' at position (50, 822).
+            StaticText named 'None' with state 'Trash' at position (94, 826).
+        Row named 'None' with state 'None' at position (0, 896).
+          Cell named 'None' with state 'None' at position (20, 896).
+            StaticText named 'None' with state 'Tags' at position (28, 900).
+        Row named 'None' with state 'None' at position (0, 934).
+          Cell named 'None' with state 'None' at position (20, 934).
+            Image named 'None' with state 'None' at position (50, 942).
+            StaticText named 'None' with state 'Mentions (2)' at position (94, 946).
+            DisclosureTriangle named 'None' with state '0' at position (24, 934).
+        Row named 'None' with state 'None' at position (0, 990).
+          Cell named 'None' with state 'None' at position (20, 990).
+            Image named 'None' with state 'None' at position (50, 998).
+            StaticText named 'None' with state 'Hashtags (2)' at position (94, 1002).
+            DisclosureTriangle named 'None' with state '0' at position (24, 990).
+        Column named 'None' with state 'None' at position (20, 80).
+    Button named '   Note/Folder' with state 'None' at position (0, 1494).
+    Button named '' with state 'None' at position (308, 1500).
+    Button named '' with state 'None' at position (352, 1500).
+    Button named '' with state 'None' at position (396, 1498).
+    Button named '' with state 'None' at position (448, 1498).
+    Splitter named 'None' with state '250.0' at position (500, 76).
+    StaticText named 'None' with state '   Mentions' at position (604, 56).
+    ScrollArea named 'None' with state 'None' at position (608, 168).
+      Table named 'None' with state 'None' at position (608, 168).
+        Row named 'None' with state 'None' at position (608, 188).
+          Cell named 'None' with state 'None' at position (640, 198).
+            StaticText named 'None' with state '  Tim' at position (640, 202).
+        Row named 'None' with state 'None' at position (608, 256).
+          Cell named 'None' with state 'None' at position (640, 266).
+            StaticText named 'None' with state '  client' at position (640, 270).
+        Row named 'None' with state 'None' at position (608, 324).
+          Cell named 'None' with state 'None' at position (640, 334).
+            StaticText named 'None' with state '  client/acme' at position (640, 338).
+        Row named 'None' with state 'None' at position (608, 392).
+          Cell named 'None' with state 'None' at position (640, 402).
+            StaticText named 'None' with state '  client/acme/dan' at position (640, 406).
+        Column named 'None' with state 'None' at position (628, 168).
+    Splitter named 'None' with state '848.0' at position None.
+  Toolbar named 'None' with state 'None' at position (0, 0).
+  Button named 'None' with state 'None' at position (24, 22).
+  Button named 'None' with state 'None' at position (104, 22).
+    Group named 'None' with state 'None' at position (104, 22).
+      Group named 'None' with state 'None' at position (104, 22).
+  Button named 'None' with state 'None' at position (64, 22).

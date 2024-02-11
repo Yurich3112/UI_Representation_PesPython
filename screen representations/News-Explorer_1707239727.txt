@@ -1,0 +1,457 @@
+Description for the News-Explorer application:
+Window named 'Machine Learning Blog | ML@CMU | Carnegie Mellon University – 1 article' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Outline named 'None' with state 'None' at position (0, 104).
+        Row named 'None' with state 'None' at position (0, 104).
+          Cell named 'None' with state 'None' at position (20, 104).
+            StaticText named 'None' with state 'Smart Filters' at position (28, 108).
+        Row named 'None' with state 'None' at position (0, 142).
+          Cell named 'None' with state 'None' at position (20, 142).
+            Image named 'None' with state 'None' at position (32, 150).
+            StaticText named 'None' with state 'Latest News' at position (76, 154).
+            StaticText named 'None' with state '1' at position (396, 154).
+        Row named 'None' with state 'None' at position (0, 198).
+          Cell named 'None' with state 'None' at position (20, 198).
+            Image named 'None' with state 'None' at position (32, 206).
+            StaticText named 'None' with state 'Unread Items' at position (76, 210).
+            StaticText named 'None' with state '99' at position (396, 210).
+        Row named 'None' with state 'None' at position (0, 254).
+          Cell named 'None' with state 'None' at position (20, 254).
+            Image named 'None' with state 'None' at position (32, 262).
+            StaticText named 'None' with state 'Favorites' at position (76, 266).
+        Row named 'None' with state 'None' at position (0, 336).
+          Cell named 'None' with state 'None' at position (20, 336).
+            StaticText named 'None' with state 'Subscriptions' at position (28, 340).
+        Row named 'None' with state 'None' at position (0, 374).
+          Cell named 'None' with state 'None' at position (20, 374).
+            Image named 'None' with state 'None' at position (32, 382).
+            StaticText named 'None' with state '"machine learning" - Google News' at position (76, 386).
+            StaticText named 'None' with state '27' at position (396, 386).
+        Row named 'None' with state 'None' at position (0, 430).
+          Cell named 'None' with state 'None' at position (20, 430).
+            Image named 'None' with state 'None' at position (32, 438).
+            StaticText named 'None' with state 'Blog' at position (76, 442).
+        Row named 'None' with state 'None' at position (0, 486).
+          Cell named 'None' with state 'None' at position (20, 486).
+            Image named 'None' with state 'None' at position (32, 494).
+            StaticText named 'None' with state 'Machine Learning' at position (76, 498).
+            StaticText named 'None' with state '4' at position (396, 498).
+        Row named 'None' with state 'None' at position (0, 542).
+          Cell named 'None' with state 'None' at position (20, 542).
+            Image named 'None' with state 'None' at position (32, 550).
+            StaticText named 'None' with state 'Machine Learning' at position (76, 554).
+        Row named 'None' with state 'None' at position (0, 598).
+          Cell named 'None' with state 'None' at position (20, 598).
+            Image named 'None' with state 'None' at position (32, 606).
+            StaticText named 'None' with state 'Machine Learning (Theory)' at position (76, 610).
+            StaticText named 'None' with state '9' at position (396, 610).
+        Row named 'None' with state 'None' at position (0, 654).
+          Cell named 'None' with state 'None' at position (20, 654).
+            Image named 'None' with state 'None' at position (32, 662).
+            StaticText named 'None' with state 'Machine learning : nature.com subject feeds' at position (76, 666).
+            StaticText named 'None' with state '24' at position (396, 666).
+        Row named 'None' with state 'None' at position (0, 710).
+          Cell named 'None' with state 'None' at position (20, 710).
+            Image named 'None' with state 'None' at position (32, 718).
+            StaticText named 'None' with state 'Machine Learning Blog' at position (76, 722).
+        Row named 'None' with state 'None' at position (0, 766).
+          Cell named 'None' with state 'None' at position (20, 766).
+            Image named 'None' with state 'None' at position (32, 774).
+            StaticText named 'None' with state 'Machine Learning Blog | ML@CMU | Carnegie Mellon University' at position (76, 778).
+        Row named 'None' with state 'None' at position (0, 822).
+          Cell named 'None' with state 'None' at position (20, 822).
+            Image named 'None' with state 'None' at position (32, 830).
+            StaticText named 'None' with state 'Machine Learning Times' at position (76, 834).
+            StaticText named 'None' with state '6' at position (396, 834).
+        Row named 'None' with state 'None' at position (0, 878).
+          Cell named 'None' with state 'None' at position (20, 878).
+            Image named 'None' with state 'None' at position (32, 886).
+            StaticText named 'None' with state 'machine learning | TechCrunch' at position (76, 890).
+            StaticText named 'None' with state '20' at position (396, 890).
+        Row named 'None' with state 'None' at position (0, 934).
+          Cell named 'None' with state 'None' at position (20, 934).
+            Image named 'None' with state 'None' at position (32, 942).
+            StaticText named 'None' with state 'MachineLearningMastery.com' at position (76, 946).
+            StaticText named 'None' with state '9' at position (396, 946).
+        Column named 'None' with state 'None' at position (20, 104).
+    Button named '' with state 'None' at position (22, 1342).
+    CheckBox named '' with state '1' at position (314, 1342).
+    CheckBox named '' with state '0' at position (368, 1342).
+    CheckBox named '' with state '0' at position (418, 1342).
+    Button named '' with state 'None' at position (68, 1340).
+    Splitter named 'None' with state '239.0' at position (478, 104).
+    ScrollArea named 'None' with state 'None' at position (480, 104).
+      Table named 'None' with state 'None' at position (480, 104).
+        Row named 'None' with state 'None' at position (480, 124).
+          Cell named 'None' with state 'None' at position (480, 124).
+            StaticText named 'None' with state '1 month ago' at position (508, 110).
+        Row named 'None' with state 'None' at position (480, 170).
+          Cell named 'None' with state 'None' at position (512, 170).
+            StaticText named 'None' with state 'Machine Learning Blog | ML@CMU | Carnegie Mellon University' at position (662, 378).
+            StaticText named 'None' with state 'On Noisy Evaluation in Federated Hyperparameter Tuning' at position (662, 188).
+            StaticText named 'None' with state 'Evaluating models in federated networks is challenging due to factors such as client subsampling, data heterogeneity, and privacy. These factors introduce noise that can affect hyperparameter tuning algorithms and lead to suboptimal model selection. Hyperparameter tuning is critical to the success of cross-device federated learning applications. Unfortunately, federated networks face issues of scale, heterogeneity, and privacy, which introduce noise in the tuning process and make it difficult to faithfully evaluate the performance of various hyperparameters. Our work (MLSys’23) explores key sources of noise and surprisingly shows that even small amounts of noise can have a significant impact on tuning methods—reducing the performance of state-of-the-art approaches to that of naive baselines. To address noisy evaluation in such scenarios, we propose a simple and effective approach that leverages public proxy data to boost the evaluation signal. Our work establishes general challenges, baselines, and best practices for future work in federated hyperparameter tuning. Federated Learning: An Overview Cross-device federated learning (FL) is a machine learning setting that considers training a model over a large heterogeneous network of devices such as mobile phones or wearables. Three key factors differentiate FL from traditional centralized learning and distributed learning: Scale. Cross-device refers to FL settings with […]' at position (662, 286).
+            Image named 'None' with state 'None' at position None.
+            Image named 'None' with state 'None' at position (518, 188).
+            StaticText named 'None' with state '29/12/2023, 18:04' at position (846, 378).
+            Image named 'None' with state 'None' at position None.
+        Column named 'None' with state 'None' at position (500, 104).
+    Splitter named 'None' with state '300.0' at position (1080, 104).
+    Group named 'None' with state 'None' at position (1082, 0).
+      Group named 'None' with state 'None' at position (1082, 0).
+        ScrollArea named '' with state '' at position (1082, 104).
+          WebArea named '' with state '' at position (1082, 104).
+            Link named 'Machine Learning Blog | ML@CMU | Carnegie Mellon University ­– Kevin Kuo On Noisy Evaluation in Federated Hyperparameter Tuning Friday, 29 December 2023, 18:04' with state '' at position (1120, 142).
+              Group named '' with state '' at position (1120, 142).
+                StaticText named '' with state 'Machine Learning Blog | ML@CMU | Carnegie Mellon University ­– Kevin Kuo' at position (1120, 148).
+              Group named '' with state '' at position (1120, 190).
+                StaticText named '' with state 'On Noisy Evaluation in Federated Hyperparameter Tuning' at position (1120, 190).
+              Group named '' with state '' at position (1120, 348).
+                StaticText named '' with state 'Friday, 29 December 2023, 18:04' at position (1120, 354).
+            Group named '' with state '' at position (1120, 396).
+              Image named '' with state '' at position (1120, 396).
+            Group named '' with state '' at position (1120, 1144).
+              StaticText named '' with state 'Evaluating models in federated networks is challenging due to factors such as client subsampling, data heterogeneity, and privacy. These factors introduce noise that can affect hyperparameter tuning algorithms and lead to suboptimal model selection.' at position (1120, 1150).
+            Group named '' with state '' at position (1120, 1368).
+              StaticText named '' with state 'Hyperparameter tuning is critical to the success of cross-device federated learning applications. Unfortunately, federated networks face issues of scale, heterogeneity, and privacy, which introduce noise in the tuning process and make it difficult to faithfully evaluate the performance of various hyperparameters. ' at position (1120, 1374).
+              Link named 'Our work (MLSys’23)' with state '' at position None.
+                StaticText named '' with state 'Our work (MLSys’23)' at position None.
+              StaticText named '' with state ' explores key sources of noise and surprisingly shows that even small amounts of noise can have a significant impact on tuning methods—reducing the performance of state-of-the-art approaches to that of naive baselines. To address noisy evaluation in such scenarios, we propose a simple and effective approach that leverages public proxy data to boost the evaluation signal. Our work establishes general challenges, baselines, and best practices for future work in federated hyperparameter tuning.' at position None.
+            Heading named 'Federated Learning: An Overview' with state '2' at position None.
+              StaticText named '' with state 'Federated Learning: An Overview' at position None.
+            Group named '' with state '' at position None.
+              Image named '' with state '' at position None.
+              StaticText named '' with state 'In federated learning (FL), user data remains on the device and only model updates are communicated. (Source: Wikipedia)' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'C' at position None.
+              StaticText named '' with state 'ross-device federated learning' at position None.
+              StaticText named '' with state ' (FL) is a machine learning setting that considers training a model over a ' at position None.
+              StaticText named '' with state 'large heterogeneous network' at position None.
+              StaticText named '' with state ' of devices such as mobile phones or wearables. Three key factors differentiate FL from traditional centralized learning and distributed learning:' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Scale' at position None.
+              StaticText named '' with state '. ' at position None.
+              StaticText named '' with state 'Cross-device' at position None.
+              StaticText named '' with state ' refers to FL settings with ' at position None.
+              StaticText named '' with state 'many clients' at position None.
+              StaticText named '' with state ' with potentially' at position None.
+              StaticText named '' with state 'limited local resources' at position None.
+              StaticText named '' with state ' e.g. training a language model across hundreds to millions of mobile phones. These devices have various resource constraints, such as limited upload speed, number of local examples, or computational capability.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Heterogeneity.' at position None.
+              StaticText named '' with state ' Traditional distributed ML assumes each worker/client has a random (identically distributed) sample of the training data. In contrast, in FL client datasets may be non-identically distributed, with each user’s data being generated by a distinct underlying distribution.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Privacy. ' at position None.
+              StaticText named '' with state 'FL offers a baseline level of privacy since raw user data remains local on each client. However, FL is still vulnerable to post-hoc attacks where the public output of the FL algorithm (e.g. a model or its hyperparameters) can be reverse-engineered and leak private user information. A common approach to mitigate such vulnerabilities is to use ' at position None.
+              StaticText named '' with state 'differential privacy' at position None.
+              StaticText named '' with state ', which aims to mask the contribution of each client. However, differential privacy introduces noise in the aggregate evaluation signal, which can make it difficult to effectively select models.' at position None.
+            Heading named 'Federated Hyperparameter Tuning' with state '3' at position None.
+              StaticText named '' with state 'Federated Hyperparameter Tuning' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Appropriately selecting ' at position None.
+              StaticText named '' with state 'hyperparameters ' at position None.
+              StaticText named '' with state '(HPs) is critical to training quality models in FL. Hyperparameters are ' at position None.
+              StaticText named '' with state 'user-specified parameters ' at position None.
+              StaticText named '' with state 'that dictate the process of model training such as the learning rate, local batch size, and number of clients sampled at each round. The problem of tuning HPs is general to machine learning (not just FL). Given an HP search space and search budget, HP tuning methods aim to find a configuration in the search space that optimizes some measure of quality within a constrained budget.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Let’s first look at an end-to-end FL pipeline that considers both the processes of training and hyperparameter tuning. In cross-device FL, we split the clients into two pools for training and validation. Given a hyperparameter configuration \((\lambda_s, \lambda_c)\), we train a model using the training clients (explained in section “FL Training”). We then evaluate this model on the validation clients, obtaining an error rate/accuracy metric. We can then use the error rate to adjust the hyperparameters and train a new model.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'A standard pipeline for tuning hyperparameters in cross-device FL.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'The diagram above shows two vectors of hyperparameters \(\lambda_s, \lambda_c\). These correspond to the hyperparameters of two optimizers: one is' at position None.
+              StaticText named '' with state 'server-side' at position None.
+              StaticText named '' with state ' and the other is ' at position None.
+              StaticText named '' with state 'client-side' at position None.
+              StaticText named '' with state '. Next, we describe how these hyperparameters are used during FL training.' at position None.
+            Heading named 'FL Training' with state '2' at position None.
+              StaticText named '' with state 'FL Training' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'A typical FL algorithm consists of several ' at position None.
+              StaticText named '' with state 'rounds' at position None.
+              StaticText named '' with state ' of training where each client performs local training followed by aggregation of the client updates. In our work, we experiment with a general framework called ' at position None.
+              Group named '' with state '' at position None.
+                StaticText named '' with state 'FedOPT' at position None.
+              StaticText named '' with state ' which was presented in' at position None.
+              Link named 'Adaptive Federated Optimization (Reddi et al. 2021)' with state '' at position None.
+                StaticText named '' with state 'Adaptive Federated Optimization (Reddi et al. 2021)' at position None.
+              StaticText named '' with state '. We outline the per-round procedure of ' at position None.
+              Group named '' with state '' at position None.
+                StaticText named '' with state 'FedOPT' at position None.
+              StaticText named '' with state ' below:' at position None.
+            List named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '1' at position None.
+                StaticText named '' with state 'The server broadcasts the model \(\theta\) to a sampled subset of \(K\) clients.' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '2' at position None.
+                StaticText named '' with state 'Each client (in parallel) trains \(\theta\) on their local data \(X_k\) using' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'ClientOPT' at position None.
+                StaticText named '' with state 'and obtains an updated model \(\theta_k\).' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '3' at position None.
+                StaticText named '' with state 'Each client sends \(\theta_k\) back to the server.' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '4' at position None.
+                StaticText named '' with state 'The server averages all the received models \\(\theta’ = \frac{1}{K} \sum_k p_k\theta_k\).' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '5' at position None.
+                StaticText named '' with state 'To update \(\theta\), the server computes the difference \(\theta – \theta’\) and feeds it as a pseudo-gradient into ' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'ServerOPT' at position None.
+                StaticText named '' with state ' (rather than computing a gradient w.r.t. some loss function).' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'The FedOPT framework and the five hyperparameters (\(\lambda_s, \lambda_c\)) we consider tuning. (Source: edited from Wikipedia)' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Steps 2 and 5 of ' at position None.
+              Group named '' with state '' at position None.
+                StaticText named '' with state 'FedOPT' at position None.
+              StaticText named '' with state ' each require a gradient-based' at position None.
+              StaticText named '' with state ' optimization algorithm' at position None.
+              StaticText named '' with state '(called ' at position None.
+              Group named '' with state '' at position None.
+                StaticText named '' with state 'ClientOPT' at position None.
+              StaticText named '' with state ' and ' at position None.
+              Group named '' with state '' at position None.
+                StaticText named '' with state 'ServerOPT' at position None.
+              StaticText named '' with state ') which specify how to update \(\theta\) given some update vector. In our work, we focus on an instantiation of ' at position None.
+              Group named '' with state '' at position None.
+                StaticText named '' with state 'FedOPT' at position None.
+              StaticText named '' with state ' called' at position None.
+              Group named '' with state '' at position None.
+                StaticText named '' with state 'FedAdam' at position None.
+              StaticText named '' with state ', which uses ' at position None.
+              Link named 'Adam (Kingma and Ba 2014)' with state '' at position None.
+                StaticText named '' with state 'Adam (Kingma and Ba 2014)' at position None.
+              StaticText named '' with state ' as ' at position None.
+              Group named '' with state '' at position None.
+                StaticText named '' with state 'ServerOPT' at position None.
+              StaticText named '' with state ' and SGD as' at position None.
+              Group named '' with state '' at position None.
+                StaticText named '' with state 'ClientOPT' at position None.
+              StaticText named '' with state '. We focus on tuning five ' at position None.
+              Group named '' with state '' at position None.
+                StaticText named '' with state 'FedAdam' at position None.
+              StaticText named '' with state ' hyperparameters: two for client training (SGD’s learning rate and batch size) and three for server aggregation (Adam’s learning rate, 1st-moment decay, and 2nd-moment decay).' at position None.
+            Heading named 'FL Evaluation' with state '2' at position None.
+              StaticText named '' with state 'FL Evaluation' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Now, we discuss how ' at position None.
+              StaticText named '' with state 'FL settings introduce noise to model evaluation' at position None.
+              StaticText named '' with state '. Consider the following example below. We have \(K=4\) configurations (grey, blue, red, green) and we want to figure out which configuration has the best average accuracy across \(N=5\) clients. More specifically, each “configuration” is a set of HP values (learning rate, batch size, etc.) that are fed into an ' at position None.
+              StaticText named '' with state 'FL training algorithm' at position None.
+              StaticText named '' with state '(more details in the next section). This produces a model we can evaluate. If we can evaluate every model on every client then our evaluation is ' at position None.
+              StaticText named '' with state 'noiseless' at position None.
+              StaticText named '' with state '. In this case, we would be able to accurately determine that the green model performs the best. However, generating all the evaluations as shown below is not practical, as evaluation costs scale with both the number of configurations and clients.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'HP tuning without noise. Every configuration is evaluated on every client, which allows us to find the best (green) configuration.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Below, we show an evaluation procedure that is more realistic in FL. As the primary challenge in cross-device FL is ' at position None.
+              StaticText named '' with state 'scale' at position None.
+              StaticText named '' with state ', we evaluate models using only a random ' at position None.
+              StaticText named '' with state 'subsample of clients' at position None.
+              StaticText named '' with state '. This is shown in the figure by red ‘X’s and shaded-out phones. We cover three additional sources of noise in FL which can negatively interact with subsampling and introduce even more noise into the evaluation procedure:' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Data heterogeneity.' at position None.
+              StaticText named '' with state ' FL clients may have non-identically distributed data, meaning that the evaluations on various models can differ between clients. This is shown by the different histograms next to each client. Data heterogeneity is intrinsic to FL and is critical for our observations on noisy evaluation; if all clients had identical datasets, there would be no need to sample more than one client.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Systems heterogeneity.' at position None.
+              StaticText named '' with state ' In addition to data heterogeneity, clients may have heterogeneous system capabilities. For example, some clients have better network reception and computational hardware, which allows them to participate in training and evaluation more frequently. This biases performance towards these clients, leading to a poor overall model.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Differential privacy.' at position None.
+              StaticText named '' with state ' Using the evaluation output (i.e. the top-performing model), a malicious party can infer whether or not a particular client participated in the FL procedure. At a high level, differential privacy aims to mask user contributions by adding noise to the aggregate evaluation metric. However, this additional noise can make it difficult to faithfully evaluate HP configurations.' at position None.
+            Group named '' with state '' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'In the figure above, evaluations can lead to suboptimal model selection when we consider client subsampling, data heterogeneity, and differential privacy. The combination of all these factors leads us to incorrectly choose the red model over the green one.' at position None.
+            Heading named 'Experimental Results' with state '2' at position None.
+              StaticText named '' with state 'Experimental Results' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'The first goal of our work is to investigate the impact of four sources of noisy evaluation that we outlined in the section “FL Evaluation”. In more detail, these are our research questions:' at position None.
+            List named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '1' at position None.
+                StaticText named '' with state 'How does ' at position None.
+                StaticText named '' with state 'subsampling ' at position None.
+                StaticText named '' with state 'validation clients affect HP tuning performance?' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '2' at position None.
+                StaticText named '' with state 'How do the following factors interact with/exacerbate issues of subsampling?' at position None.
+                List named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    ListMarker named '' with state '◦' at position None.
+                    StaticText named '' with state 'data heterogeneity' at position None.
+                    StaticText named '' with state ' (shuffling validation clients’ datasets)' at position None.
+                  Group named '' with state '' at position None.
+                    ListMarker named '' with state '◦' at position None.
+                    StaticText named '' with state 'systems heterogeneity' at position None.
+                    StaticText named '' with state ' (biased client subsampling)' at position None.
+                  Group named '' with state '' at position None.
+                    ListMarker named '' with state '◦' at position None.
+                    StaticText named '' with state 'privacy ' at position None.
+                    StaticText named '' with state '(adding Laplace noise to the aggregate evaluation)' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '3' at position None.
+                StaticText named '' with state 'In noisy settings, how do SOTA methods compare to simple baselines?' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Surprisingly, we show that state-of-the-art HP tuning methods can perform catastrophically poorly, even worse than simple baselines (e.g., random search). While we only show results for CIFAR10, results on three other datasets (FEMNIST, StackOverflow, and Reddit) can be found in our paper. CIFAR10 is partitioned such that each client has at most two out of the ten total labels.' at position None.
+            Heading named 'Noise hurts random search' with state '3' at position None.
+              StaticText named '' with state 'Noise hurts random search' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'This section investigates questions 1 and 2 using ' at position None.
+              StaticText named '' with state 'random search (RS)' at position None.
+              StaticText named '' with state ' as the hyperparameter tuning method. RS is a simple baseline that ' at position None.
+              StaticText named '' with state 'randomly samples' at position None.
+              StaticText named '' with state 'several HP configurations, trains a model for each one, and returns the highest-performing model (i.e. the example in “FL Evaluation”, if the configurations were sampled independently from the same distribution). Generally, each hyperparameter value is sampled from a (log) uniform or normal distribution.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Random search with varying only client subsampling (left) and varying both client subsampling and data heterogeneity (right).' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Client subsampling. ' at position None.
+              StaticText named '' with state 'We run RS while varying the client subsampling rate from a single client to the full validation client pool. “Best HPs” indicates the best HPs found across all trials of RS. ' at position None.
+              StaticText named '' with state 'As we subsample less clients (left), random search performs worse (higher error rate).' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Data heterogeneity. ' at position None.
+              StaticText named '' with state 'We run RS on three separate validation partitions with varying degrees of data heterogeneity based on the label distributions on each client. ' at position None.
+              StaticText named '' with state 'Client subsampling generally harms performance but has a greater impact on performance when the data is heterogeneous (IID Fraction = 0 vs. 1).' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Random search with varying systems heterogeneity (left) and privacy budget (right). Both factors interact negatively with client subsampling.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Systems heterogeneity.' at position None.
+              StaticText named '' with state ' We run RS and bias the client sampling to reflect four degrees of systems heterogeneity. Based on the model that is currently being evaluated, we assign a higher probability of sampling clients who perform well on this model. ' at position None.
+              StaticText named '' with state 'Sampling bias leads to worse performance since the biased evaluations are overly optimistic and do not reflect performance over the entire validation pool.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Privacy.' at position None.
+              StaticText named '' with state ' We run RS with 5 different evaluation ' at position None.
+              StaticText named '' with state 'privacy budgets' at position None.
+              StaticText named '' with state ' \(\varepsilon\). We add noise sampled from \(\text{Lap}(M/(\varepsilon |S|))\) to the aggregate evaluation, where \(M\) is the number of evaluations (16), \(\varepsilon\) is the privacy budget (each curve), and \(|S|\) is the number of clients sampled for an evaluation (x-axis). ' at position None.
+              StaticText named '' with state 'A smaller privacy budget requires sampling a larger raw number of clients to achieve reasonable performance.' at position None.
+            Heading named 'Noise hurts complex methods more than RS' with state '3' at position None.
+              StaticText named '' with state 'Noise hurts complex methods more than RS' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Seeing that noise adversely affects random search, we now focus on question 3: Do the same observations hold for more complex tuning methods? In the next experiment, we compare 4 representative HP tuning methods.' at position None.
+            List named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '•' at position None.
+                Link named 'Random Search (RS)' with state '' at position None.
+                  StaticText named '' with state 'Random Search (RS)' at position None.
+                StaticText named '' with state ' is a naive baseline.' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '•' at position None.
+                Link named 'Tree-Structured Parzen Estimator (TPE)' with state '' at position None.
+                  StaticText named '' with state 'Tree-Structured Parzen Estimator (TPE)' at position None.
+                StaticText named '' with state ' is a ' at position None.
+                StaticText named '' with state 'selection-based' at position None.
+                StaticText named '' with state ' method. These methods build a ' at position None.
+                StaticText named '' with state 'surrogate model' at position None.
+                StaticText named '' with state ' that predicts the ' at position None.
+                StaticText named '' with state 'performance of various hyperparameters' at position None.
+                StaticText named '' with state ' rather than predictions for the task at hand (e.g. image or language data).' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '•' at position None.
+                Link named 'Hyperband (HB)' with state '' at position None.
+                  StaticText named '' with state 'Hyperband (HB)' at position None.
+                StaticText named '' with state ' is an ' at position None.
+                StaticText named '' with state 'allocation-based' at position None.
+                StaticText named '' with state ' method. These methods ' at position None.
+                StaticText named '' with state 'allocate more resources to the most promising configurations' at position None.
+                StaticText named '' with state '. Hyperband initially samples a large number of configurations but stops training most of them after the first few rounds.' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '•' at position None.
+                Link named 'Bayesian Optimization + Hyperband (BOHB)' with state '' at position None.
+                  StaticText named '' with state 'Bayesian Optimization + Hyperband (BOHB)' at position None.
+                StaticText named '' with state ' is a combined method that uses both the sampling strategy of TPE and the partial evaluations of HB.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Examples of (a) selection-based and (b) allocation-based HP tuning methods. (a) uses a surrogate model of the search space to sample the next configuration (numbered in order of exploration), while (b) randomly samples many configurations and adaptively allocates resources to the most promising ones. (Source: ' at position None.
+              Link named 'Hyperband (Li et al. 2018)' with state '' at position None.
+                StaticText named '' with state 'Hyperband (Li et al. 2018)' at position None.
+              StaticText named '' with state ')' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'We report the error rate of each HP tuning method (y-axis) at a given budget of rounds (x-axis). ' at position None.
+              StaticText named '' with state 'Surprisingly, we find that the relative ranking of these methods can be reversed when the ' at position None.
+              StaticText named '' with state 'evaluation is noisy. With noise, the performance of all methods degrades, but the degradation is particularly extreme for HB and BOHB. Intuitively, this is because these two methods already inject noise into the HP tuning procedure via early stopping which interacts poorly with additional sources of noise. Therefore, these results indicate a need for HP tuning methods that are specialized for FL, as many of the guiding principles for traditional hyperparameter tuning may not be effective at handling noisy evaluation in FL.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'We compare 4 HP tuning methods in noiseless vs. noisy FL settings. In the noiseless setting (left), we always sample all the validation clients and do not consider privacy. In the noisy setting (right), we sample 1% of validation clients and have a generous privacy budget of \(\varepsilon=100\).' at position None.
+            Heading named 'Proxy evaluation outperforms noisy evaluation' with state '3' at position None.
+              StaticText named '' with state 'Proxy evaluation outperforms noisy evaluation' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'In practical FL settings, a practitioner may have access to ' at position None.
+              StaticText named '' with state 'public proxy data' at position None.
+              StaticText named '' with state 'which can be used to train models and select hyperparameters. However, given two distinct datasets, it is unclear how well hyperparameters can transfer between them. First, we explore the effectiveness of hyperparameter transfer between four datasets. Below, we see that the CIFAR10-FEMNIST and StackOverflow-Reddit pairs (top left, bottom right) show the clearest transfer between the two datasets. One likely reason for this is that these task pairs use the same model architecture: CIFAR10 and FEMNIST are both image classification tasks while StackOverflow and Reddit are next-word prediction tasks.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'We experimented with 4 datasets in our work (CIFAR10, FEMNIST, StackOverflow, and Reddit). For each pair of datasets, we randomly sample 128 configurations and plot each configuration at the coordinates corresponding to the error rate on the two datasets.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Given the appropriate proxy dataset, we show that a simple method called ' at position None.
+              StaticText named '' with state 'one-shot proxy random search' at position None.
+              StaticText named '' with state ' can perform extremely well. The algorithm has two steps:' at position None.
+            List named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '1' at position None.
+                StaticText named '' with state 'Run a random search using the ' at position None.
+                StaticText named '' with state 'proxy data' at position None.
+                StaticText named '' with state ' to both train and evaluate HPs. We assume the proxy data is both ' at position None.
+                StaticText named '' with state 'public and server-side' at position None.
+                StaticText named '' with state ', so we can always evaluate HPs without subsampling clients or adding privacy noise.' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '2' at position None.
+                StaticText named '' with state 'The output configuration from 1. is used to train a model on the ' at position None.
+                StaticText named '' with state 'training client data' at position None.
+                StaticText named '' with state '. Since we pass only a single configuration to this step, ' at position None.
+                StaticText named '' with state 'validation client data' at position None.
+                StaticText named '' with state 'does not affect ' at position None.
+                StaticText named '' with state 'hyperparameter selection at all.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'In each experiment, we choose one of these datasets to be partitioned among the clients and use the other three datasets as server-side proxy datasets. Our results show that ' at position None.
+              StaticText named '' with state 'proxy data can be an effective solution.' at position None.
+              StaticText named '' with state 'Even if the proxy dataset is not an ideal match for the public data, it may be the only available solution under a strict privacy budget.' at position None.
+              StaticText named '' with state ' This is shown in the FEMNIST plot where the orange/red lines (text datasets) perform similarly to the \(\varepsilon=10\) curve.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'We compare tuning HPs using noisy evaluations on the private dataset (with 1% client subsampling and varying the privacy budget \(\varepsilon\) versus noiseless evaluations on the proxy dataset. The proxy HP tuning methods appear as horizontal lines because they are one-shot.' at position None.
+            Heading named 'Conclusion' with state '2' at position None.
+              StaticText named '' with state 'Conclusion' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'In conclusion, our study suggests several best practices for federated HP tuning:' at position None.
+            List named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '•' at position None.
+                StaticText named '' with state 'Use simple HP tuning methods.' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '•' at position None.
+                StaticText named '' with state 'Sample a sufficiently large number of validation clients.' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '•' at position None.
+                StaticText named '' with state 'Evaluate a representative set of clients.' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '•' at position None.
+                StaticText named '' with state 'If available, proxy data can be an effective solution.' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Furthermore, we identify several directions for future work in federated HP tuning:' at position None.
+            List named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '1' at position None.
+                StaticText named '' with state 'Tailoring HP tuning methods for differential privacy and FL.' at position None.
+                StaticText named '' with state ' Early stopping methods are inherently noisy/biased and the large number of evaluations they use is at odds with privacy. Another useful direction is to investigate HP methods specific to noisy evaluation.' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '2' at position None.
+                StaticText named '' with state 'More detailed cost evaluation.' at position None.
+                StaticText named '' with state ' In our work, we only considered the number of training rounds as our resource budget. However, practical FL settings consider a wide variety of costs, such as total communication, amount of local training, or total time to train a model.' at position None.
+              Group named '' with state '' at position None.
+                ListMarker named '' with state '3' at position None.
+                StaticText named '' with state 'Combining proxy and client data for HP tuning.' at position None.
+                StaticText named '' with state ' A key issue of using public proxy data for HP tuning is that the best proxy dataset is not known in advance. One direction to address this is to design methods that combine public and private evaluations to mitigate bias from proxy data and noise from private data. Another promising direction is to rely on the abundance of public data and design a method that can select the best proxy dataset.' at position None.
+          ScrollBar named '' with state '0.0' at position (2294, 208).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    CheckBox named 'None' with state '0' at position (362, 0).
+    Button named 'None' with state 'None' at position (970, 0).
+    CheckBox named 'None' with state '0' at position (1098, 0).
+    Button named 'None' with state 'None' at position (1198, 0).
+    CheckBox named 'None' with state '0' at position (1654, 0).
+    Button named 'None' with state 'None' at position (1754, 0).
+    Group named 'None' with state 'None' at position (1854, 0).
+      TextField named 'None' with state '' at position (1860, 22).
+        Button named '' with state 'None' at position (1864, 30).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Machine Learning Blog | ML@CMU | Carnegie Mellon University' at position (496, 0).
+  StaticText named 'None' with state '1 article' at position (496, 0).

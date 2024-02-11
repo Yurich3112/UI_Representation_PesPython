@@ -1,0 +1,32 @@
+Description for the Merlin Project application:
+Window named 'Big birthday' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'inspector.objects.userDefined.tags' at position None.
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (1420, 0).
+      Group named 'None' with state 'None' at position (1416, 12).
+        Button named 'None' with state 'None' at position (1416, 12).
+        Button named 'None' with state 'None' at position (1490, 12).
+    Group named 'None' with state 'None' at position (1542, 0).
+      Group named 'None' with state 'None' at position (1538, 12).
+        Button named 'None' with state 'None' at position (1538, 12).
+        Button named 'None' with state 'None' at position (1640, 12).
+    Group named 'None' with state 'None' at position (1736, 0).
+      Group named 'None' with state 'None' at position (1732, 12).
+        Button named 'None' with state 'None' at position (1732, 12).
+        Button named 'None' with state 'None' at position (1806, 12).
+    MenuButton named 'None' with state 'None' at position (1858, 0).
+      MenuButton named '' with state 'None' at position (1856, 12).
+    Button named 'None' with state 'None' at position (2018, 0).
+    Button named 'None' with state 'None' at position (2090, 0).
+    Button named 'None' with state 'None' at position (2162, 0).
+    Button named 'None' with state 'None' at position (2234, 0).
+    Group named 'None' with state 'None' at position (2306, 0).
+      Group named 'None' with state 'None' at position (2302, 12).
+        Button named 'None' with state 'None' at position (2302, 12).
+        Button named 'None' with state 'None' at position (2396, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Big birthday' at position (174, 0).

@@ -1,0 +1,13 @@
+Detected elements for the Receipts application:
+TextView (0.71 confidence) at position (925, 562)
+TextView (0.69 confidence) at position (851, 406)
+Button (0.64 confidence) at position (1105, 841)
+ImageView (0.53 confidence) at position (1095, 179)
+ImageButton (0.49 confidence) at position (942, 23)
+TextView (0.47 confidence) at position (1023, 501)
+ImageButton (0.42 confidence) at position (854, 26)
+TextView (0.37 confidence) at position (922, 671)
+TextView (0.36 confidence) at position (1146, 34)
+TextView (0.33 confidence) at position (729, 742)
+ImageButton (0.33 confidence) at position (1804, 20)
+TextView (0.29 confidence) at position (179, 31)

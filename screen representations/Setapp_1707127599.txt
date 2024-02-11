@@ -1,0 +1,152 @@
+Description for the Setapp application:
+Window named '' with state 'None' at position (0, 0).
+  Table named 'None' with state 'None' at position (20, 170).
+    Row named 'None' with state 'None' at position (20, 170).
+      Cell named 'None' with state 'None' at position (32, 170).
+        Image named 'None' with state 'None' at position (38, 182).
+        StaticText named 'None' with state 'My Explorer' at position (88, 182).
+    Row named 'None' with state 'None' at position (20, 250).
+      Cell named 'None' with state 'None' at position (32, 250).
+        Image named 'None' with state 'None' at position (38, 262).
+        StaticText named 'None' with state 'Favorites' at position (88, 262).
+    Row named 'None' with state 'None' at position (20, 330).
+      Cell named 'None' with state 'None' at position (32, 330).
+        Image named 'None' with state 'None' at position (38, 342).
+        StaticText named 'None' with state 'On This Mac' at position (88, 342).
+    Row named 'None' with state 'None' at position (20, 410).
+      Cell named 'None' with state 'None' at position (32, 410).
+        Image named 'None' with state 'None' at position (38, 422).
+        StaticText named 'None' with state 'Collections' at position (88, 422).
+    Row named 'None' with state 'None' at position (20, 490).
+      Cell named 'None' with state 'None' at position (32, 490).
+        Image named 'None' with state 'None' at position (38, 502).
+        StaticText named 'None' with state 'How-tos' at position (88, 502).
+    Row named 'None' with state 'None' at position (20, 570).
+      Cell named 'None' with state 'None' at position (32, 570).
+        Image named 'None' with state 'None' at position (38, 582).
+        StaticText named 'None' with state 'App Guides' at position (88, 582).
+    Row named 'None' with state 'None' at position (20, 650).
+      Cell named 'None' with state 'None' at position (32, 650).
+        Image named 'None' with state 'None' at position (38, 662).
+        StaticText named 'None' with state 'All Apps' at position (88, 662).
+    Row named 'None' with state 'None' at position (20, 706).
+      Cell named 'None' with state 'None' at position (32, 706).
+        Image named 'None' with state 'None' at position (38, 718).
+        StaticText named 'None' with state 'Optimize' at position (88, 718).
+    Row named 'None' with state 'None' at position (20, 762).
+      Cell named 'None' with state 'None' at position (32, 762).
+        Image named 'None' with state 'None' at position (38, 774).
+        StaticText named 'None' with state 'Work' at position (88, 774).
+    Row named 'None' with state 'None' at position (20, 818).
+      Cell named 'None' with state 'None' at position (32, 818).
+        Image named 'None' with state 'None' at position (38, 830).
+        StaticText named 'None' with state 'Create' at position (88, 830).
+    Row named 'None' with state 'None' at position (20, 874).
+      Cell named 'None' with state 'None' at position (32, 874).
+        Image named 'None' with state 'None' at position (38, 886).
+        StaticText named 'None' with state 'Develop' at position (88, 886).
+    Column named 'None' with state 'None' at position (20, 170).
+  Unknown named 'None' with state 'None' at position (332, 38).
+    Image named 'None' with state 'None' at position (336, 38).
+  Unknown named 'None' with state 'None' at position (276, 38).
+    Image named 'None' with state 'None' at position (280, 38).
+  Group named 'None' with state 'None' at position (390, 10).
+    Group named 'None' with state 'None' at position (390, 10).
+      ScrollArea named 'None' with state 'None' at position (390, 10).
+        Image named 'None' with state 'None' at position (490, 212).
+        StaticText named 'None' with state 'SnapMotion' at position (830, 232).
+        StaticText named 'None' with state 'Capture snaps from your videos' at position (830, 322).
+        Button named 'None' with state 'None' at position (830, 402).
+        Button named 'None' with state 'None' at position (1074, 402).
+          StaticText named 'None' with state 'Get iOS App' at position (1094, 412).
+        Button named 'Favorite' with state 'None' at position (1298, 402).
+          Button named 'None' with state 'None' at position (1294, 398).
+        Button named 'Share' with state 'None' at position (1374, 402).
+        Link named 'Version 5.2.0' with state 'None' at position (830, 494).
+        StaticText named 'None' with state '18.5 MB' at position (1020, 494).
+        StaticText named 'None' with state 'Native on Apple silicon' at position (1142, 494).
+        StaticText named 'None' with state '7 languages' at position (1432, 494).
+        Button named 'None' with state 'None' at position (1584, 492).
+          Image named 'None' with state 'None' at position (1584, 492).
+        Link named 'NeededApps' with state 'None' at position (1924, 494).
+        Image named 'None' with state 'None' at position (1930, 250).
+        Link named '99%' with state 'None' at position (1972, 234).
+        Link named '108 ratings' with state 'None' at position (1778, 324).
+        Link named 'Rate the app' with state 'None' at position (1934, 324).
+        Group named 'None' with state 'Want an easy tool to get images out of your videos? Use SnapMotion — a simple tool to help you get just the visuals you need from your video files. Rotate or flip your videos before capture, open quickly from Finder or Photos, and get as many stills as you like with no delay with SnapMotion.
+Capture in top quality
+Open 4K and 8K videos with no lag and get high quality captures with SnapMotion. Forget about haphazard screenshots that take too much time to capture just right and are blurry more often than not. Get frames from your videos in the highest quality possible with handy SnapMotion tools.
+Open videos easily
+Waste no time when opening your videos. Open the files in Finder, Photos, Files directly to SnapMotion. More good news? You can also open your videos to SnapMotion via links, making your snapping easy and fast — no need to move your files or download in advance.' at position None.
+          StaticText named 'None' with state 'Want an easy tool to get images out of your videos? Use SnapMotion — a simple tool to help you get just the visuals you need from your video files. Rotate or flip your videos before capture, open quickly from Finder or Photos, and get as many stills as you like with no delay with SnapMotion.' at position None.
+          StaticText named 'None' with state 'Capture in top quality' at position None.
+          StaticText named 'None' with state 'Open 4K and 8K videos with no lag and get high quality captures with SnapMotion. Forget about haphazard screenshots that take too much time to capture just right and are blurry more often than not. Get frames from your videos in the highest quality possible with handy SnapMotion tools.' at position None.
+          StaticText named 'None' with state 'Open videos easily' at position None.
+          StaticText named 'None' with state 'Waste no time when opening your videos. Open the files in Finder, Photos, Files directly to SnapMotion. More good news? You can also open your videos to SnapMotion via links, making your snapping easy and fast — no need to move your files or download in advance.' at position None.
+        Link named 'Show more' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          ScrollArea named 'None' with state 'None' at position None.
+            List named 'None' with state 'None' at position None.
+        StaticText named 'None' with state 'Screenshots & videos' at position (490, 840).
+        Group named 'None' with state 'None' at position (1884, 830).
+          RadioButton named 'None' with state 'True' at position (1894, 840).
+          RadioButton named 'None' with state 'False' at position (1990, 840).
+        ScrollArea named 'None' with state 'None' at position (390, 920).
+          Image named 'None' with state 'None' at position (490, 936).
+            Image named 'None' with state 'None' at position (490, 936).
+          Image named 'None' with state 'None' at position (1310, 936).
+            Image named 'None' with state 'None' at position (1310, 936).
+          Image named 'None' with state 'None' at position (2130, 936).
+            Image named 'None' with state 'None' at position (2130, 936).
+          Image named 'None' with state 'None' at position None.
+            Image named 'None' with state 'None' at position None.
+          Image named 'None' with state 'None' at position None.
+            Image named 'None' with state 'None' at position None.
+          Image named 'None' with state 'None' at position None.
+            Image named 'None' with state 'None' at position None.
+        StaticText named 'None' with state 'Ratings and reviews' at position None.
+        Image named 'None' with state 'None' at position None.
+        StaticText named 'None' with state '99%' at position None.
+        StaticText named 'None' with state '108 ratings' at position None.
+        Link named 'Rate the app' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+          StaticText named 'None' with state 'See all' at position None.
+          Image named 'None' with state 'None' at position None.
+        ScrollArea named 'None' with state 'None' at position None.
+          List named 'None' with state 'None' at position None.
+          ScrollBar named 'None' with state '0.0' at position None.
+            ValueIndicator named 'None' with state '0.0' at position None.
+            Button named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position None.
+        Image named 'None' with state 'None' at position (490, 640).
+        StaticText named 'None' with state 'Get high-quality snaps from your videos' at position (542, 638).
+        Image named 'None' with state 'None' at position (1310, 640).
+        StaticText named 'None' with state 'Extract numerous images in batch mode' at position (1362, 638).
+        Image named 'None' with state 'None' at position (490, 700).
+        StaticText named 'None' with state 'Open videos from Finder, Photos, links' at position (542, 698).
+        Image named 'None' with state 'None' at position (1310, 700).
+        StaticText named 'None' with state 'Rotate or flip videos before capturing' at position (1362, 698).
+        ScrollBar named 'None' with state '0.0' at position (2158, 152).
+          ValueIndicator named 'None' with state '0.0' at position (2166, 154).
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position (2166, 650).
+          Button named 'None' with state 'None' at position (2166, 152).
+  Button named 'None' with state 'None' at position (2090, 14).
+    Image named 'None' with state 'None' at position (2090, 50).
+  Link named 'None' with state 'None' at position (1704, 64).
+    StaticText named 'None' with state 'Team member' at position (1744, 64).
+  Button named 'None' with state 'None' at position (1964, 58).
+    Image named 'None' with state 'None' at position (1964, 58).
+    StaticText named 'None' with state '24' at position (1982, 48).
+  Group named 'None' with state 'None' at position (742, 0).
+    Button named 'None' with state 'None' at position (740, 50).
+  Group named 'None' with state 'None' at position (490, 36).
+    TextField named 'None' with state '' at position (546, 62).
+  Button named 'None' with state 'None' at position (40, 40).
+  Button named 'None' with state 'None' at position (120, 40).
+    Group named 'None' with state 'None' at position (120, 40).
+      Group named 'None' with state 'None' at position (120, 40).
+  Button named 'None' with state 'None' at position (80, 40).

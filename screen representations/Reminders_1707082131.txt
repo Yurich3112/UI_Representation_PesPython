@@ -1,0 +1,73 @@
+Description for the Reminders application:
+Window named 'Reminders' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    Splitter named 'None' with state '-1.0' at position None.
+    LayoutArea named 'None' with state 'None' at position (0, 0).
+      TextArea named 'None' with state 'None' at position (32, 112).
+      ScrollArea named 'None' with state 'None' at position (0, 210).
+        Outline named 'None' with state 'None' at position (0, 210).
+          Row named 'None' with state 'None' at position (0, 210).
+            Cell named 'None' with state 'None' at position (0, 210).
+              Cell named 'None' with state 'None' at position (30, 210).
+                StaticText named 'None' with state '12 Completed' at position (28, 230).
+                Button named 'Show' with state 'None' at position (1434, 230).
+                  Button named 'Show' with state 'None' at position (1434, 230).
+                MenuButton named 'Clear' with state 'None' at position (228, 230).
+          Row named 'None' with state 'None' at position None.
+            Cell named 'None' with state 'None' at position None.
+          Row named 'None' with state 'None' at position (0, 282).
+            Cell named 'None' with state 'None' at position (0, 282).
+              Group named 'None' with state 'None' at position (30, 282).
+                CheckBox named '' with state '0' at position (32, 294).
+                TextField named 'None' with state 'Put liquid for contact lenses' at position (92, 298).
+                StaticText named 'None' with state '04/04/2021, 08:00' at position (92, 332).
+          Row named 'None' with state 'None' at position (0, 384).
+            Cell named 'None' with state 'None' at position (0, 384).
+              Group named 'None' with state 'None' at position (30, 384).
+                CheckBox named '' with state '0' at position (32, 396).
+                TextField named 'None' with state 'The same time two app' at position (92, 400).
+          Row named 'None' with state 'None' at position (0, 452).
+            Cell named 'None' with state 'None' at position (0, 452).
+              Group named 'None' with state 'None' at position (30, 452).
+                CheckBox named '' with state '0' at position (32, 464).
+                TextField named 'None' with state 'Make a form' at position (92, 468).
+                StaticText named 'None' with state '08/05/2021, 19:00' at position (92, 502).
+          Row named 'None' with state 'None' at position (0, 554).
+            Cell named 'None' with state 'None' at position (0, 554).
+              Group named 'None' with state 'None' at position (30, 554).
+                CheckBox named '' with state '0' at position (32, 566).
+                TextField named 'None' with state 'Get a general practitioner' at position (92, 570).
+                StaticText named 'None' with state '12/12/2022, 15:00' at position (92, 604).
+          Row named 'None' with state 'None' at position (0, 656).
+            Cell named 'None' with state 'None' at position (0, 656).
+              Group named 'None' with state 'None' at position (30, 656).
+                CheckBox named '' with state '0' at position (32, 668).
+                TextField named 'None' with state 'Cauliflower' at position (92, 672).
+                StaticText named 'None' with state '03/07/2023, 17:39' at position (92, 706).
+          Row named 'None' with state 'None' at position (0, 758).
+            Cell named 'None' with state 'None' at position (0, 758).
+              Group named 'None' with state 'None' at position (30, 758).
+                CheckBox named '' with state '0' at position (32, 770).
+                TextField named 'None' with state 'Turn off the rice' at position (92, 774).
+                StaticText named 'None' with state '05/07/2023, 20:32' at position (92, 808).
+          Row named 'None' with state 'None' at position (0, 860).
+            Cell named 'None' with state 'None' at position (0, 860).
+              Group named 'None' with state 'None' at position (30, 860).
+                CheckBox named '' with state '0' at position (32, 872).
+                TextField named 'None' with state 'Recall learning techniques' at position (92, 876).
+                StaticText named 'None' with state '29/08/2023, 19:40' at position (92, 910).
+          Row named 'None' with state 'None' at position (0, 962).
+            Cell named 'None' with state 'None' at position (0, 962).
+              Group named 'None' with state 'None' at position (30, 962).
+                CheckBox named '' with state '0' at position (32, 974).
+                TextField named 'None' with state 'water plants' at position (92, 978).
+                StaticText named 'None' with state '06/01/2024, 11:00' at position (92, 1012).
+          Column named 'None' with state 'None' at position (0, 210).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (1296, 0).
+    Button named 'None' with state 'None' at position (1370, 0).
+    Button named 'None' with state 'None' at position (1448, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

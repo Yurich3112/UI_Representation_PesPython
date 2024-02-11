@@ -1,0 +1,51 @@
+Description for the OpenIn application:
+Window named 'OpenIn Settings' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 160).
+    Group named 'None' with state 'None' at position (0, 160).
+      ScrollArea named 'None' with state 'None' at position (0, 160).
+        Heading named 'None' with state 'None' at position (60, 204).
+        Button named 'None' with state 'None' at position (1500, 200).
+        Group named 'None' with state 'None' at position (34, 256).
+          StaticText named 'None' with state 'Enabled' at position (60, 280).
+          CheckBox named 'None' with state '0' at position (1488, 282).
+        Heading named 'None' with state 'None' at position (60, 392).
+        Group named 'None' with state 'None' at position (34, 440).
+          ScrollArea named 'None' with state 'None' at position (60, 464).
+            Table named 'None' with state 'None' at position (60, 464).
+              Row named 'None' with state 'None' at position (60, 464).
+                Cell named 'None' with state 'None' at position (72, 464).
+                  Image named 'None' with state 'None' at position (82, 486).
+                  Image named 'None' with state 'None' at position (128, 476).
+                  StaticText named 'None' with state 'Mail' at position (176, 476).
+              Row named 'None' with state 'None' at position (60, 520).
+                Cell named 'None' with state 'None' at position (72, 520).
+                  Image named 'None' with state 'None' at position (82, 542).
+                  Image named 'None' with state 'None' at position (128, 532).
+                  StaticText named 'None' with state 'Spark Mail' at position (176, 532).
+              Column named 'None' with state 'None' at position (60, 464).
+        Button named 'None' with state 'None' at position (996, 618).
+        Button named 'None' with state 'None' at position (1332, 618).
+        Heading named 'None' with state 'None' at position (60, 716).
+        Group named 'None' with state 'None' at position (34, 764).
+          ScrollArea named 'None' with state 'None' at position (60, 788).
+            Table named 'None' with state 'None' at position (60, 788).
+              Row named 'None' with state 'None' at position (60, 788).
+                Cell named 'None' with state 'None' at position (72, 788).
+                  Image named 'None' with state 'None' at position (82, 810).
+                  StaticText named 'None' with state 'Default' at position (128, 800).
+              Column named 'None' with state 'None' at position (60, 788).
+        Button named 'None' with state 'None' at position (1420, 886).
+  Toolbar named 'None' with state 'None' at position (0, 56).
+    Button named 'General' with state 'None' at position (388, 56).
+    Button named 'Browsers' with state 'None' at position (500, 56).
+    Button named 'Mail apps' with state 'None' at position (624, 56).
+    Button named 'Call apps' with state 'None' at position (750, 56).
+    Button named 'Files' with state 'None' at position (874, 56).
+    Button named 'Backups' with state 'None' at position (986, 56).
+    Button named 'About' with state 'None' at position (1102, 56).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'OpenIn Settings' at position (692, 10).

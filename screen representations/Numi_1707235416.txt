@@ -1,0 +1,19 @@
+Description for the Numi application:
+Window named 'Numi' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Numi' at position (336, 18).
+  Unknown named 'None' with state 'None' at position (636, 12).
+  Unknown named 'None' with state 'None' at position (680, 14).
+  ScrollArea named 'None' with state 'None' at position (52, 76).
+    TextArea named 'None' with state '# Sample
+8 / (45 - 20%)
+5 inches in cm
+$9 in Euro' at position (52, 76).
+  Unknown named 'None' with state 'None' at position (22, 666).
+  Unknown named 'None' with state 'None' at position (678, 662).
+  StaticText named 'None' with state 'Add calculation' at position (270, 662).
+  Unknown named 'None' with state 'None' at position (350, 658).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+  Button named 'None' with state 'None' at position (24, 22).
+  Button named 'None' with state 'None' at position (104, 22).
+    Group named 'None' with state 'None' at position (104, 22).
+  Button named 'None' with state 'None' at position (64, 22).

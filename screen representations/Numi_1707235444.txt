@@ -1,0 +1,13 @@
+Detected elements for the Numi application:
+TextView (0.77 confidence) at position (224, 713)
+TextView (0.75 confidence) at position (250, 212)
+TextView (0.74 confidence) at position (233, 560)
+TextView (0.70 confidence) at position (254, 494)
+TextView (0.69 confidence) at position (223, 9)
+TextView (0.67 confidence) at position (248, 264)
+TextView (0.66 confidence) at position (220, 381)
+TextView (0.66 confidence) at position (102, 493)
+TextView (0.66 confidence) at position (246, 324)
+TextView (0.63 confidence) at position (243, 620)
+TextView (0.56 confidence) at position (80, 115)
+Button (0.27 confidence) at position (211, 211)

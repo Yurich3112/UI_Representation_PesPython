@@ -1,0 +1,11 @@
+Detected elements for the Mockuuups Studio application:
+Button (0.73 confidence) at position (1892, 74)
+TextView (0.70 confidence) at position (962, 8)
+TextView (0.64 confidence) at position (779, 215)
+TextView (0.60 confidence) at position (643, 220)
+Button (0.55 confidence) at position (1087, 208)
+TextView (0.54 confidence) at position (1468, 223)
+TextView (0.51 confidence) at position (949, 214)
+TextView (0.50 confidence) at position (479, 215)
+TextView (0.45 confidence) at position (1302, 219)
+TextView (0.29 confidence) at position (163, 78)

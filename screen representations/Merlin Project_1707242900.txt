@@ -1,0 +1,32 @@
+Description for the Merlin Project application:
+Window named 'Merlin Project Express' with state 'None' at position (0, 0).
+  ScrollArea named 'None' with state 'None' at position (328, 56).
+    List named 'None' with state 'None' at position (328, 56).
+      List named 'None' with state 'None' at position (328, 96).
+        Group named 'None' with state 'None' at position (328, 96).
+          Image named 'None' with state 'None' at position (416, 112).
+        Group named 'None' with state 'None' at position (694, 96).
+          Image named 'None' with state 'None' at position (782, 112).
+      List named 'None' with state 'None' at position (328, 386).
+        Group named 'None' with state 'None' at position (328, 386).
+        Group named 'None' with state 'None' at position (328, 486).
+          Image named 'None' with state 'None' at position (416, 502).
+        Group named 'None' with state 'None' at position (694, 486).
+          Image named 'None' with state 'None' at position (782, 502).
+        Group named 'None' with state 'None' at position (1060, 486).
+          Image named 'None' with state 'None' at position (1148, 502).
+        Group named 'None' with state 'None' at position (1426, 486).
+          Image named 'None' with state 'None' at position (1514, 502).
+        Group named 'None' with state 'None' at position (328, 786).
+          Image named 'None' with state 'None' at position (416, 802).
+        Group named 'None' with state 'None' at position (694, 786).
+          Image named 'None' with state 'None' at position (782, 802).
+    ScrollBar named 'None' with state '0.0' at position (1734, 56).
+  Button named 'Open existing document…' with state 'None' at position (10, 1418).
+  Button named 'Cancel' with state 'None' at position (1224, 1418).
+  Button named 'Create' with state 'None' at position (1488, 1418).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'Merlin Project Express' at position (734, 10).

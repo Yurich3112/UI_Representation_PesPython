@@ -1,0 +1,55 @@
+Description for the News-Explorer application:
+Window named 'Latest News – 0 articles' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Outline named 'None' with state 'None' at position (0, 104).
+        Row named 'None' with state 'None' at position (0, 104).
+          Cell named 'None' with state 'None' at position (20, 104).
+            StaticText named 'None' with state 'Smart Filters' at position (28, 108).
+        Row named 'None' with state 'None' at position (0, 142).
+          Cell named 'None' with state 'None' at position (20, 142).
+            Image named 'None' with state 'None' at position (32, 150).
+            StaticText named 'None' with state 'Latest News' at position (76, 154).
+        Row named 'None' with state 'None' at position (0, 198).
+          Cell named 'None' with state 'None' at position (20, 198).
+            Image named 'None' with state 'None' at position (32, 206).
+            StaticText named 'None' with state 'Unread Items' at position (76, 210).
+        Row named 'None' with state 'None' at position (0, 254).
+          Cell named 'None' with state 'None' at position (20, 254).
+            Image named 'None' with state 'None' at position (32, 262).
+            StaticText named 'None' with state 'Favorites' at position (76, 266).
+        Column named 'None' with state 'None' at position (20, 104).
+    StaticText named 'None' with state '↓ Use the + button to add new feeds' at position (0, 676).
+    Button named '' with state 'None' at position (22, 1342).
+    CheckBox named '' with state '1' at position (314, 1342).
+    CheckBox named '' with state '0' at position (368, 1342).
+    CheckBox named '' with state '0' at position (418, 1342).
+    Button named '' with state 'None' at position (68, 1340).
+    Splitter named 'None' with state '239.0' at position (478, 104).
+    ScrollArea named 'None' with state 'None' at position (480, 104).
+      Table named 'None' with state 'None' at position (480, 104).
+        Column named 'None' with state 'None' at position (500, 104).
+    Splitter named 'None' with state '300.0' at position (1080, 104).
+    Group named 'None' with state 'None' at position (1082, 0).
+      Group named 'None' with state 'None' at position (1082, 0).
+        ScrollArea named '' with state '' at position (1082, 104).
+          WebArea named '' with state '' at position (1082, 104).
+            Group named '' with state '' at position (1098, 680).
+              StaticText named '' with state 'No Item Selected' at position (1516, 680).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    CheckBox named 'None' with state '0' at position (362, 0).
+    Button named 'None' with state 'None' at position (970, 0).
+    CheckBox named 'None' with state '0' at position (1098, 0).
+    Button named 'None' with state 'None' at position (1198, 0).
+    CheckBox named 'None' with state '0' at position (1654, 0).
+    Button named 'None' with state 'None' at position (1754, 0).
+    Group named 'None' with state 'None' at position (1854, 0).
+      TextField named 'None' with state '' at position (1860, 22).
+        Button named '' with state 'None' at position (1864, 30).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Latest News' at position (496, 0).
+  StaticText named 'None' with state '0 articles' at position (496, 0).

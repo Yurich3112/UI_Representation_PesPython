@@ -1,0 +1,68 @@
+Description for the OpenIn application:
+Window named 'OpenIn Settings' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 160).
+    Group named 'None' with state 'None' at position (0, 160).
+      ScrollArea named 'None' with state 'None' at position (0, 160).
+        Heading named 'None' with state 'None' at position (60, 200).
+        Group named 'None' with state 'None' at position (34, 248).
+          StaticText named 'None' with state '4.1.5' at position (60, 272).
+          StaticText named 'None' with state ' (221064)' at position (116, 272).
+          StaticText named 'None' with state ' Setapp build' at position (236, 272).
+        Heading named 'None' with state 'None' at position (60, 388).
+        Button named 'None' with state 'None' at position (1500, 384).
+        Group named 'None' with state 'None' at position (34, 440).
+          StaticText named 'None' with state 'Start at login' at position (60, 464).
+          CheckBox named 'None' with state '0' at position (1488, 466).
+          StaticText named 'None' with state 'Show menu bar icon' at position (60, 538).
+          CheckBox named 'None' with state '1' at position (1488, 540).
+        Heading named 'None' with state 'None' at position (60, 650).
+        Group named 'None' with state 'None' at position (34, 698).
+          StaticText named 'None' with state 'Check that OpenIn is a default app in background' at position (60, 722).
+          CheckBox named 'None' with state '0' at position (1488, 724).
+        Heading named 'None' with state 'None' at position (60, 834).
+        Group named 'None' with state 'None' at position (34, 882).
+          StaticText named 'None' with state 'Store history of opened links and files' at position (60, 906).
+          PopUpButton named 'None' with state 'Month' at position (1398, 904).
+        Heading named 'None' with state 'None' at position (60, 1018).
+        Group named 'None' with state 'None' at position (34, 1066).
+          StaticText named 'None' with state 'Always show the Window (even with one app)' at position (60, 1090).
+          CheckBox named 'None' with state '0' at position (1488, 1092).
+          RadioGroup named 'None' with state 'None' at position (60, 1164).
+            StaticText named 'None' with state 'Icon Size' at position (60, 1164).
+            RadioButton named 'None' with state '1' at position (1130, 1164).
+            RadioButton named 'None' with state '0' at position (1266, 1164).
+            RadioButton named 'None' with state '0' at position (1432, 1164).
+        Heading named 'None' with state 'None' at position (60, 1276).
+        Group named 'None' with state 'None' at position (34, 1324).
+          StaticText named 'None' with state 'Store JavaScript logs' at position (60, 1348).
+          CheckBox named 'None' with state '0' at position (1488, 1350).
+        ScrollBar named 'None' with state '0.0' at position (1568, 160).
+          ValueIndicator named 'None' with state '0.0' at position (1576, 162).
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position None.
+          Button named 'None' with state 'None' at position (1576, 1284).
+          Button named 'None' with state 'None' at position (1576, 160).
+  Toolbar named 'None' with state 'None' at position (0, 56).
+    Button named 'General' with state 'None' at position (388, 56).
+    Button named 'Browsers' with state 'None' at position (500, 56).
+    Button named 'Mail apps' with state 'None' at position (624, 56).
+    Button named 'Call apps' with state 'None' at position (750, 56).
+    Button named 'Files' with state 'None' at position (874, 56).
+    Button named 'Backups' with state 'None' at position (986, 56).
+    Button named 'About' with state 'None' at position (1102, 56).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'OpenIn Settings' at position (692, 10).
+  Sheet named 'None' with state 'None' at position (0, 160).
+    Group named 'None' with state 'None' at position (0, 160).
+      ScrollArea named 'None' with state 'None' at position (0, 160).
+        Heading named 'None' with state 'None' at position (736, 200).
+        Group named 'None' with state 'None' at position (34, 344).
+          StaticText named 'None' with state 'OpenIn have found some issues that you might want to fix' at position (60, 368).
+        Heading named 'None' with state 'None' at position (370, 480).
+        Group named 'None' with state 'None' at position (34, 560).
+          StaticText named 'None' with state 'Scheme https:' at position (60, 584).
+        Button named 'None' with state 'None' at position (1402, 658).
+      Button named 'None' with state 'None' at position None.

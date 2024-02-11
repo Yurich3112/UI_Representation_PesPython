@@ -1,0 +1,17 @@
+Description for the Session application:
+Window named 'Session Pomodoro Focus Timer' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    StaticText named 'None' with state '' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position (0, 200).
+    StaticText named 'None' with state 'Synchronize your data between devices' at position (622, 208).
+    StaticText named 'None' with state 'Register / login' at position (712, 238).
+    Button named 'None' with state 'None' at position (0, 296).
+    Button named 'None' with state 'None' at position (0, 392).
+    TextField named 'None' with state '' at position (608, 390).
+    Button named 'None' with state 'None' at position (0, 488).
+    Button named 'None' with state 'None' at position (608, 460).
+    Button named 'None' with state 'None' at position (0, 1224).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

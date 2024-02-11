@@ -1,0 +1,7 @@
+Detected elements for the Permute application:
+TextView (0.63 confidence) at position (27, 991)
+TextView (0.56 confidence) at position (21, 1101)
+TextView (0.47 confidence) at position (1431, 994)
+TextView (0.46 confidence) at position (748, 995)
+TextView (0.37 confidence) at position (733, 7)
+Button (0.35 confidence) at position (1437, 1111)

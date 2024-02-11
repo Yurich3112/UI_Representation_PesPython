@@ -1,0 +1,117 @@
+Description for the Session application:
+Window named 'Session Pomodoro Focus Timer' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    StaticText named 'None' with state '' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position (584, 72).
+    StaticText named 'None' with state '?' at position (1032, 72).
+    Button named 'None' with state 'None' at position (648, 72).
+    Button named 'None' with state 'None' at position (1056, 72).
+    Button named 'None' with state 'None' at position (1496, 72).
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position (556, 148).
+    Button named 'None' with state 'None' at position (640, 148).
+    Button named 'None' with state 'None' at position (724, 148).
+    Button named 'None' with state 'None' at position (808, 148).
+    Button named 'None' with state 'None' at position (892, 148).
+    Button named 'None' with state 'None' at position (976, 148).
+    Button named 'None' with state 'None' at position (1060, 148).
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position (0, 200).
+    Button named 'None' with state 'None' at position (0, 296).
+    Image named 'None' with state 'None' at position (1156, 292).
+    StaticText named 'None' with state 'Show notes only' at position (1192, 286).
+    StaticText named 'None' with state 'Filter' at position (1442, 286).
+    Image named 'None' with state 'None' at position (1510, 296).
+    Button named 'None' with state 'None' at position (0, 392).
+    Button named 'None' with state 'None' at position (0, 488).
+    BusyIndicator named 'None' with state 'True' at position None.
+    BusyIndicator named 'None' with state 'True' at position None.
+    Button named 'None' with state 'None' at position (0, 1224).
+    ScrollArea named 'None' with state 'None' at position (96, 350).
+      StaticText named 'None' with state '–' at position (244, 390).
+      StaticText named 'None' with state '–' at position (464, 390).
+      StaticText named 'None' with state '0m' at position (224, 424).
+      StaticText named 'None' with state '0m' at position (444, 424).
+      StaticText named 'None' with state '-' at position (680, 424).
+      StaticText named 'None' with state 'TOTAL FOCUS' at position (186, 470).
+      StaticText named 'None' with state 'AVG FOCUS/DAY' at position (394, 470).
+      StaticText named 'None' with state 'MOST FOCUSED' at position (612, 470).
+      StaticText named 'None' with state '–' at position (244, 532).
+      StaticText named 'None' with state '0m' at position (224, 566).
+      StaticText named 'None' with state '0.0/1' at position (430, 566).
+      StaticText named 'None' with state '-' at position (680, 566).
+      StaticText named 'None' with state 'TOTAL BREAK' at position (186, 612).
+      StaticText named 'None' with state 'FOCUS/BREAK' at position (402, 612).
+      StaticText named 'None' with state 'MOST DISTRACTED' at position (598, 612).
+      Image named 'None' with state 'None' at position (196, 754).
+      StaticText named 'None' with state '0' at position (230, 744).
+      StaticText named 'None' with state '🤩' at position (262, 738).
+      Image named 'None' with state 'None' at position (414, 754).
+      StaticText named 'None' with state '0' at position (448, 744).
+      StaticText named 'None' with state '🙂' at position (482, 738).
+      Image named 'None' with state 'None' at position (632, 754).
+      StaticText named 'None' with state '0' at position (666, 744).
+      StaticText named 'None' with state '😔' at position (700, 738).
+      StaticText named 'None' with state 'Focused ↑' at position (192, 800).
+      StaticText named 'None' with state 'Neutral →' at position (416, 800).
+      StaticText named 'None' with state 'Distracted ↓' at position (618, 800).
+      StaticText named 'None' with state 'Category Distribution' at position (524, 924).
+      StaticText named 'None' with state 'CATEGORY' at position (144, 1000).
+      StaticText named 'None' with state 'RATIO' at position (484, 1000).
+      StaticText named 'None' with state 'TIME SPENT' at position (556, 1000).
+      StaticText named 'None' with state 'CHANGE' at position (716, 1000).
+      Image named 'None' with state 'None' at position (148, 1088).
+      StaticText named 'None' with state 'Break' at position (184, 1082).
+      StaticText named 'None' with state '–' at position (530, 1084).
+      StaticText named 'None' with state '0m' at position (646, 1084).
+      StaticText named 'None' with state '–' at position (786, 1084).
+      StaticText named 'None' with state 'By Intention' at position (630, 1284).
+      StaticText named 'None' with state 'INTENTION' at position (144, 1360).
+      StaticText named 'None' with state 'RATIO' at position (508, 1360).
+      StaticText named 'None' with state 'TIME SPENT' at position (588, 1360).
+      StaticText named 'None' with state 'SESSION' at position (726, 1360).
+      StaticText named 'None' with state '' at position None.
+      StaticText named 'None' with state '' at position None.
+      StaticText named 'None' with state '' at position None.
+      ScrollBar named 'None' with state '0.0' at position (814, 350).
+        ValueIndicator named 'None' with state '0.0' at position (822, 352).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (822, 1276).
+        Button named 'None' with state 'None' at position (822, 350).
+    ScrollArea named 'None' with state 'None' at position (848, 334).
+      OpaqueProviderGroup named 'None' with state 'None' at position (1276, 470).
+        StaticText named 'None' with state '1' at position (1276, 470).
+    BusyIndicator named 'None' with state 'True' at position None.
+    BusyIndicator named 'None' with state 'True' at position None.
+    Button named 'None' with state 'None' at position (1456, 1256).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

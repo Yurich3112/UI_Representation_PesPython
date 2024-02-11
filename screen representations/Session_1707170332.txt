@@ -1,0 +1,16 @@
+Description for the Session application:
+Window named 'Session Pomodoro Focus Timer' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position None.
+    StaticText named 'None' with state 'Breathe out' at position (694, 104).
+    Button named 'None' with state 'None' at position (0, 200).
+    Button named 'None' with state 'None' at position (0, 296).
+    Button named 'None' with state 'None' at position (0, 392).
+    Button named 'None' with state 'None' at position (0, 488).
+    Button named 'None' with state 'None' at position (560, 1092).
+    Button named 'None' with state 'None' at position (560, 1180).
+    Button named 'None' with state 'None' at position (0, 1224).
+    StaticText named 'None' with state 'Prepare for working on: "work"' at position (624, 1306).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

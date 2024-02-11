@@ -1,0 +1,335 @@
+Description for the Safari application:
+Window named 'iasa champ - Google Search' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    Splitter named 'None' with state '-1.0' at position None.
+    TabGroup named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          ScrollArea named '' with state '' at position (0, 104).
+            WebArea named '' with state '' at position (0, 104).
+              Group named '' with state '' at position None.
+              Heading named 'Accessibility links' with state '2' at position (0, 104).
+                StaticText named '' with state 'Accessibility links' at position (0, 104).
+              Link named 'Skip to main content' with state '' at position (22, 220).
+                StaticText named '' with state 'Skip to main content' at position (54, 228).
+              Link named 'Turn off continuous scrolling' with state '' at position (22, 200).
+                StaticText named '' with state 'Turn off continuous scrolling' at position (64, 208).
+              Link named 'Accessibility help' with state '' at position (22, 220).
+                StaticText named '' with state 'Accessibility help' at position (54, 228).
+              Group named '' with state '' at position None.
+              Link named 'Accessibility feedback' with state '' at position (22, 276).
+                StaticText named '' with state 'Accessibility feedback' at position (54, 284).
+              Group named '' with state '' at position (0, 116).
+              Group named '' with state '' at position (0, 154).
+                Link named 'Google' with state '' at position (48, 176).
+                  Image named '' with state '' at position (48, 176).
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                ComboBox named '' with state 'iasa champ' at position (362, 180).
+                  Group named '' with state '' at position (362, 180).
+                    StaticText named '' with state 'iasa champ' at position (362, 184).
+                Button named '' with state '' at position (1420, 158).
+                Button named '' with state '' at position (1526, 158).
+                Button named '' with state '' at position (1614, 158).
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+              Button named '' with state '' at position (2140, 164).
+              Group named '' with state '' at position (2288, 156).
+                Group named '' with state '' at position (2288, 156).
+                  Button named '' with state '' at position (2288, 156).
+                Link named '' with state '' at position (2400, 168).
+                  StaticText named '' with state 'Sign in' at position (2452, 186).
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position (0, 144).
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position (0, 280).
+                Group named '' with state '' at position (320, 280).
+                  Heading named 'Filters and topics' with state '1' at position (320, 280).
+                    StaticText named '' with state 'Filters and topics' at position (320, 280).
+                  Link named 'Images' with state '' at position (320, 280).
+                    StaticText named '' with state 'Images' at position (350, 302).
+                  Link named 'Videos' with state '' at position (482, 280).
+                    StaticText named '' with state 'Videos' at position (512, 302).
+                  Link named '' with state '' at position (640, 280).
+                    StaticText named '' with state 'Places' at position (670, 302).
+                  Link named 'News' with state '' at position (794, 280).
+                    StaticText named '' with state 'News' at position (824, 302).
+                  Link named '' with state '' at position (936, 280).
+                    StaticText named '' with state 'Places sites' at position (966, 302).
+                  Link named 'Books' with state '' at position (1154, 280).
+                    StaticText named '' with state 'Books' at position (1184, 302).
+                  Link named 'Finance' with state '' at position (1302, 280).
+                    StaticText named '' with state 'Finance' at position (1332, 302).
+                  Group named '' with state '' at position None.
+                PopUpButton named 'All filters' with state '' at position (2052, 280).
+                Group named '' with state '' at position (2256, 300).
+                Button named 'Tools' with state '' at position (2264, 280).
+                Group named '' with state '' at position (2396, 280).
+                  PopUpButton named 'SafeSearch' with state '' at position (2396, 280).
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position (360, 394).
+                Group named '' with state '' at position (360, 394).
+                  StaticText named '' with state 'About 248,000 results' at position (360, 418).
+                  StaticText named '' with state ' (0.23 seconds) ' at position (642, 418).
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position (360, 492).
+                Group named '' with state '' at position None.
+                Heading named 'Search Results' with state '1' at position (360, 492).
+                  StaticText named '' with state 'Search Results' at position (360, 492).
+                Group named '' with state '' at position (360, 492).
+                  Link named 'IASA DS Champ IASA DS Champ http://ds-champ.iasa.kpi.ua' with state '' at position (360, 492).
+                    Heading named 'IASA DS Champ' with state '3' at position (360, 568).
+                      StaticText named '' with state 'IASA DS Champ' at position (360, 580).
+                    StaticText named '' with state 'IASA DS Champ' at position (440, 496).
+                    Group named '' with state '' at position (440, 532).
+                      StaticText named '' with state 'http://ds-champ.iasa.kpi.ua' at position (440, 536).
+                  StaticText named '' with state '·' at position (734, 534).
+                  Link named 'Translate this page' with state '' at position (754, 532).
+                    StaticText named '' with state 'Translate this page' at position (754, 536).
+                  Button named 'About this result' with state '' at position (974, 528).
+                StaticText named '' with state 'IASA' at position (360, 644).
+                StaticText named '' with state ' DS ' at position (426, 644).
+                StaticText named '' with state 'Champ' at position (480, 644).
+                StaticText named '' with state ' official website (landing page)' at position (576, 644).
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position (360, 742).
+                  Link named 'IASA Champ '24 Kyiv Polytechnic Institute http://champ.iasa.kpi.ua' with state '' at position (360, 742).
+                    Heading named 'IASA Champ '24' with state '3' at position (360, 818).
+                      StaticText named '' with state 'IASA Champ '24' at position (360, 830).
+                    StaticText named '' with state 'Kyiv Polytechnic Institute' at position (440, 746).
+                    Group named '' with state '' at position (440, 782).
+                      StaticText named '' with state 'http://champ.iasa.kpi.ua' at position (440, 786).
+                  StaticText named '' with state '·' at position (700, 784).
+                  Link named 'Translate this page' with state '' at position (720, 782).
+                    StaticText named '' with state 'Translate this page' at position (720, 786).
+                  Button named 'About this result' with state '' at position (940, 778).
+                StaticText named '' with state 'Head of Project Management and System Analysis Unit at lifecell. Понад 13 років в IT. Пройшла кар'єрний шлях від бізнес-аналітикині до проджект-менеджерки.' at position (360, 894).
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position (360, 1036).
+                  Link named 'IASA Champ '24 stud-point https://stud-point.com › opportunities' with state '' at position (360, 1036).
+                    Heading named 'IASA Champ '24' with state '3' at position (360, 1112).
+                      StaticText named '' with state 'IASA Champ '24' at position (360, 1124).
+                    StaticText named '' with state 'stud-point' at position (440, 1040).
+                    Group named '' with state '' at position (440, 1076).
+                      StaticText named '' with state 'https://stud-point.com' at position (440, 1080).
+                      StaticText named '' with state ' › opportunities' at position (668, 1080).
+                  StaticText named '' with state '·' at position (836, 1078).
+                  Link named 'Translate this page' with state '' at position (856, 1076).
+                    StaticText named '' with state 'Translate this page' at position (856, 1080).
+                  Button named 'About this result' with state '' at position (1074, 1072).
+                StaticText named '' with state 'Jan 19, 2024' at position (360, 1188).
+                StaticText named '' with state ' — ' at position (520, 1188).
+                StaticText named '' with state 'Студрада ІПСА в партнерстві з ІТ-компаніями проводить ' at position (564, 1188).
+                StaticText named '' with state 'IASA Champ' at position (1310, 1188).
+                StaticText named '' with state ' '24, онлайн-змагання для студентів, за двома напрямами: Data Science і ...' at position (360, 1188).
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position (360, 1330).
+                  Link named 'Membership IASA https://www.iasa.org › member-value' with state '' at position (360, 1330).
+                    Heading named 'Membership' with state '3' at position (360, 1406).
+                      StaticText named '' with state 'Membership' at position (360, 1418).
+                    StaticText named '' with state 'IASA' at position (440, 1334).
+                    Group named '' with state '' at position (440, 1370).
+                      StaticText named '' with state 'https://www.iasa.org' at position (440, 1374).
+                      StaticText named '' with state ' › member-value' at position (654, 1374).
+                  Button named 'About this result' with state '' at position (844, 1366).
+                StaticText named '' with state '... ' at position (360, 1482).
+                StaticText named '' with state 'champions' at position (390, 1482).
+                StaticText named '' with state ', national speakers, published authors, and stars of their own story. ' at position (538, 1482).
+                StaticText named '' with state 'IASA' at position (1374, 1482).
+                StaticText named '' with state 'members give their clients hope when times are tough, provide resources ...' at position (360, 1526).
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Link named 'Images' with state '' at position (360, 1652).
+                  StaticText named '' with state 'Images' at position (360, 1666).
+                Button named '' with state '' at position (516, 1678).
+                Heading named 'Guided Search Filters' with state '3' at position (616, 1652).
+                  StaticText named '' with state 'Guided Search Filters' at position (616, 1652).
+                Group named '' with state '' at position (616, 1652).
+                  Group named '' with state '' at position (616, 1652).
+                    Button named '' with state '' at position (1592, 1658).
+                    Group named '' with state '' at position (616, 1646).
+                      Button named 'arabian studies' with state '' at position (844, 1646).
+                      Button named 'data science' with state '' at position (1154, 1646).
+                      Button named 'seminar' with state '' at position (1432, 1646).
+                Group named '' with state '' at position None.
+                  Button named 'IASA DS Champ – Odesa IT Family' with state '' at position None.
+                  Link named 'IASA DS Champ – Odesa IT Family Odesa IT Family' with state '' at position None.
+                    StaticText named '' with state 'IASA DS Champ – Odesa IT Family' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Odesa IT Family' at position None.
+                  Button named 'About this result' with state '' at position None.
+                  Button named 'IASA Champ '24 - STUD-POINT' with state '' at position None.
+                  Link named 'IASA Champ '24 - STUD-POINT stud-point' with state '' at position None.
+                    StaticText named '' with state 'IASA Champ '24 - STUD-POINT' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'stud-point' at position None.
+                  Button named 'About this result' with state '' at position None.
+                  Button named 'IASA DS Champ: Lecture Day 1' with state '' at position None.
+                  Link named 'IASA DS Champ: Lecture Day 1 YouTube' with state '' at position None.
+                    StaticText named '' with state 'IASA DS Champ: Lecture Day 1' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'YouTube' at position None.
+                  Button named 'About this result' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                Button named 'Feedback' with state '' at position None.
+                Button named '6 more images' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Oнлайн-змагання для студентів IASA Champ '24, 26 січня Спільнота програмістів https://dou.ua › calendar' with state '' at position None.
+                    Heading named 'Oнлайн-змагання для студентів IASA Champ '24, 26 січня' with state '3' at position None.
+                      StaticText named '' with state 'Oнлайн-змагання для студентів IASA Champ '24, 26 січня' at position None.
+                    StaticText named '' with state 'Спільнота програмістів' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'https://dou.ua' at position None.
+                      StaticText named '' with state ' › calendar' at position None.
+                  StaticText named '' with state '·' at position None.
+                  Link named 'Translate this page' with state '' at position None.
+                    StaticText named '' with state 'Translate this page' at position None.
+                  Button named 'About this result' with state '' at position None.
+                StaticText named '' with state 'IASA Champ' at position None.
+                StaticText named '' with state ' '24, онлайн-змагання для студентів, за двома напрямами: Data Science і Software Engineering. Метою заходу є залучення ентузіастів до пошуку ...' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'IASA Data Science Champ Happy Monday https://happymonday.ua › event › i...' with state '' at position None.
+                    Heading named 'IASA Data Science Champ' with state '3' at position None.
+                      StaticText named '' with state 'IASA Data Science Champ' at position None.
+                    StaticText named '' with state 'Happy Monday' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'https://happymonday.ua' at position None.
+                      StaticText named '' with state ' › event › i...' at position None.
+                  StaticText named '' with state '·' at position None.
+                  Link named 'Translate this page' with state '' at position None.
+                    StaticText named '' with state 'Translate this page' at position None.
+                  Button named 'About this result' with state '' at position None.
+                StaticText named '' with state 'TELL TO FRIENDS: ' at position None.
+                StaticText named '' with state 'IASA' at position None.
+                StaticText named '' with state ' Data Science ' at position None.
+                StaticText named '' with state 'Champ' at position None.
+                StaticText named '' with state '. online ...' at position None.
+                Group named '' with state '' at position None.
+                Link named 'IASA DS Champ: Lecture Day 1 - YouTube YouTube · IASA Channel 740+ views · 1 year ago' with state '' at position None.
+                  Heading named 'IASA DS Champ: Lecture Day 1 - YouTube' with state '3' at position None.
+                    StaticText named '' with state 'IASA DS Champ: Lecture Day 1 - YouTube' at position None.
+                  StaticText named '' with state 'YouTube · IASA Channel' at position None.
+                  Group named '' with state '' at position None.
+                    StaticText named '' with state '740+ views · 1 year ago' at position None.
+                StaticText named '' with state '·' at position None.
+                Link named 'Translate this page' with state '' at position None.
+                  StaticText named '' with state 'Translate this page' at position None.
+                Group named '' with state '' at position None.
+                  Button named '' with state '' at position None.
+                Link named '' with state '' at position None.
+                StaticText named '' with state 'Вас чекають лекції, що не можна проспати Теорія — фундамент для практики й один із ключових складників ' at position None.
+                StaticText named '' with state 'IASA' at position None.
+                StaticText named '' with state ' DS ' at position None.
+                StaticText named '' with state 'Champ' at position None.
+                StaticText named '' with state ' від СтудРади ІПСА.' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'IASA International Association for the Study of Arabia https://iasarabia.org' with state '' at position None.
+                    Heading named 'IASA' with state '3' at position None.
+                      StaticText named '' with state 'IASA' at position None.
+                    StaticText named '' with state 'International Association for the Study of Arabia' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'https://iasarabia.org' at position None.
+                  Button named 'About this result' with state '' at position None.
+                StaticText named '' with state 'The location is: Institut National d'Histoire de Art, Galerie Vivienne, 6 Rue des Petits ' at position None.
+                StaticText named '' with state 'Champs' at position None.
+                StaticText named '' with state ', 75002, Paris (2nd arrondissement). The opening address ...' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Computer Vision: What's under the Hood It-Jim https://www.it-jim.com › meet-us › computer-vision-w...' with state '' at position None.
+                    Heading named 'Computer Vision: What's under the Hood' with state '3' at position None.
+                      StaticText named '' with state 'Computer Vision: What's under the Hood' at position None.
+                    StaticText named '' with state 'It-Jim' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'https://www.it-jim.com' at position None.
+                      StaticText named '' with state ' › meet-us › computer-vision-w...' at position None.
+                  Button named 'About this result' with state '' at position None.
+                StaticText named '' with state 'This time we are contributing to the ' at position None.
+                StaticText named '' with state 'IASA' at position None.
+                StaticText named '' with state ' Data Science ' at position None.
+                StaticText named '' with state 'champ' at position None.
+                StaticText named '' with state ' – an online team competition for students interested in Data Science, Machine Learning, Deep ...' at position None.
+                Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Heading named 'Related searches' with state '2' at position None.
+                StaticText named '' with state 'Related searches' at position None.
+              Group named '' with state '' at position None.
+                Button named '' with state '' at position None.
+              Link named 'iasa regions' with state '' at position None.
+                Group named '' with state '' at position None.
+                StaticText named '' with state 'iasa ' at position None.
+                StaticText named '' with state 'regions' at position None.
+              Link named 'iasa insurance' with state '' at position None.
+                Group named '' with state '' at position None.
+                StaticText named '' with state 'iasa ' at position None.
+                StaticText named '' with state 'insurance' at position None.
+              Link named 'stud-point' with state '' at position None.
+                Group named '' with state '' at position None.
+                StaticText named '' with state 'stud-point' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              ProgressIndicator named '' with state '50.0' at position None.
+              Heading named 'Page Navigation' with state '1' at position None.
+                StaticText named '' with state 'Page Navigation' at position None.
+              Button named '' with state '' at position None.
+              Button named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+            ScrollBar named '' with state '0.0' at position (2616, 208).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (174, 0).
+      Button named '' with state 'None' at position (170, 12).
+      MenuButton named 'None' with state 'None' at position (236, 12).
+    Group named 'None' with state 'None' at position (298, 0).
+      Group named 'None' with state 'None' at position (294, 12).
+        Button named 'None' with state 'None' at position (294, 12).
+        Button named 'None' with state 'None' at position (374, 12).
+    Group named 'None' with state 'None' at position (780, 0).
+      Button named 'Add page to Reading List' with state 'None' at position (790, 24).
+      Button named 'Show Search Menu' with state 'None' at position (1216, 24).
+      Button named 'secure site certificate' with state 'None' at position (1262, 38).
+      TextField named 'None' with state 'iasa champ' at position (832, 36).
+      Button named 'Translation Available' with state 'None' at position (1768, 24).
+      Button named 'Reload this page' with state 'None' at position (1812, 24).
+    Button named 'None' with state 'None' at position (2406, 0).
+    Button named 'None' with state 'None' at position (2480, 0).
+      Button named '' with state 'None' at position (2476, 12).
+        Button named '' with state 'None' at position (2476, 12).
+    Button named 'None' with state 'None' at position (2552, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

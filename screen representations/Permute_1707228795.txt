@@ -1,0 +1,16 @@
+Description for the Permute application:
+Window named 'Permute' with state 'None' at position (0, 0).
+  ScrollArea named 'Drop zone. There are currently no files in the queue.' with state 'None' at position (0, 0).
+    ScrollArea named 'Drop zone. There are currently no items in the queue.' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 44).
+    Button named 'None' with state 'None' at position (1336, 1202).
+    StaticText named 'None' with state 'No Conversions' at position (642, 1206).
+    Button named 'None' with state 'None' at position (1290, 1202).
+    Button named 'None' with state 'None' at position (1382, 1202).
+    Button named 'None' with state 'None' at position (16, 1200).
+    Button named 'None' with state 'None' at position (58, 1204).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'Permute' at position (654, 10).

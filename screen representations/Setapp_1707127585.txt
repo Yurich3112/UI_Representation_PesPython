@@ -1,0 +1,233 @@
+Description for the Setapp application:
+Window named '' with state 'None' at position (0, 0).
+  Table named 'None' with state 'None' at position (20, 170).
+    Row named 'None' with state 'None' at position (20, 170).
+      Cell named 'None' with state 'None' at position (32, 170).
+        Image named 'None' with state 'None' at position (38, 182).
+        StaticText named 'None' with state 'My Explorer' at position (88, 182).
+    Row named 'None' with state 'None' at position (20, 250).
+      Cell named 'None' with state 'None' at position (32, 250).
+        Image named 'None' with state 'None' at position (38, 262).
+        StaticText named 'None' with state 'Favorites' at position (88, 262).
+    Row named 'None' with state 'None' at position (20, 330).
+      Cell named 'None' with state 'None' at position (32, 330).
+        Image named 'None' with state 'None' at position (38, 342).
+        StaticText named 'None' with state 'On This Mac' at position (88, 342).
+    Row named 'None' with state 'None' at position (20, 410).
+      Cell named 'None' with state 'None' at position (32, 410).
+        Image named 'None' with state 'None' at position (38, 422).
+        StaticText named 'None' with state 'Collections' at position (88, 422).
+    Row named 'None' with state 'None' at position (20, 490).
+      Cell named 'None' with state 'None' at position (32, 490).
+        Image named 'None' with state 'None' at position (38, 502).
+        StaticText named 'None' with state 'How-tos' at position (88, 502).
+    Row named 'None' with state 'None' at position (20, 570).
+      Cell named 'None' with state 'None' at position (32, 570).
+        Image named 'None' with state 'None' at position (38, 582).
+        StaticText named 'None' with state 'App Guides' at position (88, 582).
+    Row named 'None' with state 'None' at position (20, 650).
+      Cell named 'None' with state 'None' at position (32, 650).
+        Image named 'None' with state 'None' at position (38, 662).
+        StaticText named 'None' with state 'All Apps' at position (88, 662).
+    Row named 'None' with state 'None' at position (20, 706).
+      Cell named 'None' with state 'None' at position (32, 706).
+        Image named 'None' with state 'None' at position (38, 718).
+        StaticText named 'None' with state 'Optimize' at position (88, 718).
+    Row named 'None' with state 'None' at position (20, 762).
+      Cell named 'None' with state 'None' at position (32, 762).
+        Image named 'None' with state 'None' at position (38, 774).
+        StaticText named 'None' with state 'Work' at position (88, 774).
+    Row named 'None' with state 'None' at position (20, 818).
+      Cell named 'None' with state 'None' at position (32, 818).
+        Image named 'None' with state 'None' at position (38, 830).
+        StaticText named 'None' with state 'Create' at position (88, 830).
+    Row named 'None' with state 'None' at position (20, 874).
+      Cell named 'None' with state 'None' at position (32, 874).
+        Image named 'None' with state 'None' at position (38, 886).
+        StaticText named 'None' with state 'Develop' at position (88, 886).
+    Column named 'None' with state 'None' at position (20, 170).
+  Unknown named 'None' with state 'None' at position (332, 38).
+    Image named 'None' with state 'None' at position (336, 38).
+  Unknown named 'None' with state 'None' at position (276, 38).
+    Image named 'None' with state 'None' at position (280, 38).
+  Group named 'None' with state 'None' at position (390, 10).
+    ScrollArea named 'None' with state 'None' at position (390, 10).
+      Group named 'None' with state 'None' at position (390, 0).
+        ScrollArea named 'None' with state 'None' at position (390, 0).
+          Group named 'None' with state 'None' at position (0, 0).
+            Image named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Read or listen to 15-minute book summaries' at position None.
+            StaticText named 'None' with state 'New app —  Headway' at position None.
+            Image named 'None' with state 'None' at position (0, 0).
+          Group named 'None' with state 'None' at position (490, 0).
+            StaticText named 'None' with state '7 YEARS OF APPS' at position None.
+            StaticText named 'None' with state 'Find out why these 7 apps are loved by long-time Setappians' at position None.
+            Image named 'None' with state 'None' at position (1490, 0).
+          Group named 'None' with state 'None' at position (2130, 0).
+            StaticText named 'None' with state 'AUTOMATE THE DOCK' at position None.
+            StaticText named 'None' with state 'Get the most out of your Dock' at position None.
+            Image named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'SETAPP TURNS 7' at position None.
+            StaticText named 'None' with state 'Browse the apps long-time users adore' at position None.
+            Image named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'AI TOOLS' at position None.
+            StaticText named 'None' with state 'Browse AI apps in this collection' at position None.
+            Image named 'None' with state 'None' at position None.
+        Group named 'None' with state 'None' at position (470, 168).
+          StaticText named 'None' with state 'Rising stars of Setapp' at position (490, 168).
+          StaticText named 'None' with state 'Enjoy our less popular but highly-rated apps.' at position (490, 238).
+          Link named 'None' with state 'None' at position (490, 338).
+            Image named 'None' with state 'None' at position (526, 338).
+            StaticText named 'None' with state '1' at position (490, 358).
+            StaticText named 'None' with state 'Make sure your text has no errors' at position (526, 494).
+            Image named 'None' with state 'None' at position (530, 552).
+            StaticText named 'None' with state '99%' at position (564, 552).
+            StaticText named 'None' with state '•' at position (626, 552).
+            StaticText named 'None' with state 'Mac' at position (648, 552).
+          Unknown named 'None' with state 'None' at position (2004, 182).
+            Image named 'None' with state 'None' at position (2008, 182).
+          Unknown named 'None' with state 'None' at position (2062, 182).
+            Image named 'None' with state 'None' at position (2066, 182).
+          Image named 'None' with state 'None' at position (1442, 244).
+            Image named 'None' with state 'None' at position (1442, 244).
+          ScrollArea named 'None' with state 'None' at position (470, 684).
+            List named 'None' with state 'None' at position (470, 684).
+              List named 'None' with state 'None' at position (470, 684).
+                Group named 'None' with state 'None' at position (470, 684).
+                  Link named 'None' with state 'None' at position (470, 684).
+                    Image named 'None' with state 'None' at position (526, 704).
+                    StaticText named 'None' with state 'Capture GIFs from your screen' at position (638, 704).
+                    Image named 'None' with state 'None' at position (642, 802).
+                    StaticText named 'None' with state '99%' at position (676, 802).
+                    StaticText named 'None' with state '•' at position (738, 802).
+                    StaticText named 'None' with state 'Mac' at position (760, 802).
+                    StaticText named 'None' with state '2' at position (486, 720).
+                Group named 'None' with state 'None' at position (1030, 684).
+                  Link named 'None' with state 'None' at position (1030, 684).
+                    Image named 'None' with state 'None' at position (1086, 704).
+                    StaticText named 'None' with state 'Turn images into icons' at position (1198, 704).
+                    Image named 'None' with state 'None' at position (1202, 802).
+                    StaticText named 'None' with state '99%' at position (1236, 802).
+                    StaticText named 'None' with state '•' at position (1298, 802).
+                    StaticText named 'None' with state 'Mac' at position (1320, 802).
+                    StaticText named 'None' with state '3' at position (1046, 720).
+                Group named 'None' with state 'None' at position (1590, 684).
+                  Link named 'None' with state 'None' at position (1590, 684).
+                    Image named 'None' with state 'None' at position (1646, 704).
+                    StaticText named 'None' with state 'Get full-screen meeting alerts' at position (1758, 704).
+                    Image named 'None' with state 'None' at position (1762, 802).
+                    StaticText named 'None' with state '99%' at position (1796, 802).
+                    StaticText named 'None' with state '•' at position (1858, 802).
+                    StaticText named 'None' with state 'Mac' at position (1880, 802).
+                    StaticText named 'None' with state '4' at position (1606, 720).
+                Group named 'None' with state 'None' at position (470, 870).
+                  Link named 'None' with state 'None' at position (470, 870).
+                    Image named 'None' with state 'None' at position (526, 890).
+                    StaticText named 'None' with state 'Organize your icon sets' at position (638, 890).
+                    Image named 'None' with state 'None' at position (642, 988).
+                    StaticText named 'None' with state '99%' at position (676, 988).
+                    StaticText named 'None' with state '•' at position (738, 988).
+                    StaticText named 'None' with state 'Mac' at position (760, 988).
+                    StaticText named 'None' with state '5' at position (486, 906).
+                Group named 'None' with state 'None' at position (1030, 870).
+                  Link named 'None' with state 'None' at position (1030, 870).
+                    Image named 'None' with state 'None' at position (1086, 890).
+                    StaticText named 'None' with state 'Plain-text task management' at position (1198, 890).
+                    Image named 'None' with state 'None' at position (1202, 988).
+                    StaticText named 'None' with state '99%' at position (1236, 988).
+                    StaticText named 'None' with state '•' at position (1298, 988).
+                    StaticText named 'None' with state 'Mac' at position (1320, 988).
+                    StaticText named 'None' with state '6' at position (1046, 906).
+                Group named 'None' with state 'None' at position (1590, 870).
+                  Link named 'None' with state 'None' at position (1590, 870).
+                    Image named 'None' with state 'None' at position (1646, 890).
+                    StaticText named 'None' with state 'Capture snaps from your videos' at position (1758, 890).
+                    Image named 'None' with state 'None' at position (1762, 988).
+                    StaticText named 'None' with state '99%' at position (1796, 988).
+                    StaticText named 'None' with state '•' at position (1858, 988).
+                    StaticText named 'None' with state 'Mac, iOS' at position (1880, 988).
+                    StaticText named 'None' with state '7' at position (1606, 906).
+                Group named 'None' with state 'None' at position (470, 1056).
+                  Link named 'None' with state 'None' at position (470, 1056).
+                    Image named 'None' with state 'None' at position (526, 1076).
+                    StaticText named 'None' with state 'Manage multiple DBMS' at position (638, 1076).
+                    Image named 'None' with state 'None' at position (642, 1174).
+                    StaticText named 'None' with state '98%' at position (676, 1174).
+                    StaticText named 'None' with state '•' at position (738, 1174).
+                    StaticText named 'None' with state 'Mac, iOS' at position (760, 1174).
+                    StaticText named 'None' with state '8' at position (486, 1092).
+                Group named 'None' with state 'None' at position (1030, 1056).
+                  Link named 'None' with state 'None' at position (1030, 1056).
+                    Image named 'None' with state 'None' at position (1086, 1076).
+                    StaticText named 'None' with state 'Check your security settings' at position (1198, 1076).
+                    Image named 'None' with state 'None' at position (1202, 1174).
+                    StaticText named 'None' with state '98%' at position (1236, 1174).
+                    StaticText named 'None' with state '•' at position (1298, 1174).
+                    StaticText named 'None' with state 'Mac' at position (1320, 1174).
+                    StaticText named 'None' with state '9' at position (1046, 1092).
+                Group named 'None' with state 'None' at position (1590, 1056).
+                  Link named 'None' with state 'None' at position (1590, 1056).
+                    Image named 'None' with state 'None' at position (1646, 1076).
+                    StaticText named 'None' with state 'Easily manage your files, notes & clipboard data' at position (1758, 1076).
+                    Image named 'None' with state 'None' at position (1762, 1174).
+                    StaticText named 'None' with state '98%' at position (1796, 1174).
+                    StaticText named 'None' with state '•' at position (1858, 1174).
+                    StaticText named 'None' with state 'Mac' at position (1880, 1174).
+                    StaticText named 'None' with state '10' at position (1606, 1092).
+        Group named 'None' with state 'None' at position None.
+          StaticText named 'None' with state 'How-tos' at position None.
+          Button named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'See all' at position None.
+            Image named 'None' with state 'None' at position None.
+          ScrollArea named 'None' with state 'None' at position None.
+            List named 'None' with state 'None' at position None.
+        Group named 'None' with state 'None' at position None.
+          StaticText named 'None' with state 'Recommended for you' at position None.
+          ScrollArea named 'None' with state 'None' at position None.
+            List named 'None' with state 'None' at position None.
+        Group named 'None' with state 'None' at position None.
+          StaticText named 'None' with state 'Collections' at position None.
+          Button named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'See all' at position None.
+            Image named 'None' with state 'None' at position None.
+          ScrollArea named 'None' with state 'None' at position None.
+            List named 'None' with state 'None' at position None.
+        Group named 'None' with state 'None' at position None.
+          StaticText named 'None' with state 'App guides' at position None.
+          Button named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'See all' at position None.
+            Image named 'None' with state 'None' at position None.
+          ScrollArea named 'None' with state 'None' at position None.
+            List named 'None' with state 'None' at position None.
+        Group named 'None' with state 'None' at position None.
+          StaticText named 'None' with state 'New arrivals' at position None.
+          ScrollArea named 'None' with state 'None' at position None.
+            List named 'None' with state 'None' at position None.
+        Group named 'None' with state 'None' at position None.
+          StaticText named 'None' with state 'Recently updated' at position None.
+          ScrollArea named 'None' with state 'None' at position None.
+            List named 'None' with state 'None' at position None.
+      ScrollBar named 'None' with state '0.10839483394833949' at position (2158, 150).
+        ValueIndicator named 'None' with state '0.10839483394833949' at position (2166, 244).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (2166, 496).
+        Button named 'None' with state 'None' at position (2166, 150).
+  Button named 'None' with state 'None' at position (2090, 14).
+    Image named 'None' with state 'None' at position (2090, 50).
+  Link named 'None' with state 'None' at position (1704, 64).
+    StaticText named 'None' with state 'Team member' at position (1744, 64).
+  Button named 'None' with state 'None' at position (1964, 58).
+    Image named 'None' with state 'None' at position (1964, 58).
+    StaticText named 'None' with state '24' at position (1982, 48).
+  Group named 'None' with state 'None' at position (742, 0).
+    Button named 'None' with state 'None' at position (740, 50).
+  Group named 'None' with state 'None' at position (490, 36).
+    TextField named 'None' with state '' at position (546, 62).
+  Button named 'None' with state 'None' at position (40, 40).
+  Button named 'None' with state 'None' at position (120, 40).
+    Group named 'None' with state 'None' at position (120, 40).
+      Group named 'None' with state 'None' at position (120, 40).
+  Button named 'None' with state 'None' at position (80, 40).

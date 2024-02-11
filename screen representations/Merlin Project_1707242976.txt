@@ -1,0 +1,71 @@
+Description for the Merlin Project application:
+Window named 'Simple activity plan with milestones' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Date Presets' at position (1938, 276).
+  Button named '' with state 'None' at position (1904, 278).
+  StaticText named 'None' with state 'Direction' at position (1938, 340).
+  PopUpButton named 'None' with state 'Forward' at position (2160, 336).
+  StaticText named 'None' with state 'Start' at position (1938, 404).
+  TextField named 'None' with state '' at position (2160, 398).
+  StaticText named 'None' with state 'First day of week' at position (1938, 468).
+  PopUpButton named 'None' with state 'Monday' at position (2160, 464).
+  StaticText named 'None' with state 'Work & Duration' at position (1938, 552).
+  Button named '' with state 'None' at position (1904, 554).
+  StaticText named 'None' with state 'Hours per day' at position (1938, 616).
+  TextField named 'None' with state '8' at position (2166, 612).
+  StaticText named 'None' with state 'Hours per week' at position (1938, 680).
+  TextField named 'None' with state '40' at position (2166, 676).
+  StaticText named 'None' with state 'Days per month' at position (1938, 744).
+  TextField named 'None' with state '20' at position (2166, 740).
+  StaticText named 'None' with state 'Calculation Unit' at position (1938, 808).
+  PopUpButton named 'None' with state 'Dynamically' at position (2160, 804).
+  StaticText named 'None' with state 'Default Values' at position (1938, 892).
+  Button named '' with state 'None' at position (1904, 894).
+  StaticText named 'None' with state 'Work' at position (1938, 956).
+  TextField named 'None' with state '1 day ?' at position (2166, 952).
+  StaticText named 'None' with state 'Duration' at position (1938, 1020).
+  TextField named 'None' with state '' at position (2166, 1016).
+  StaticText named 'None' with state 'Status Date' at position (1938, 1104).
+  Button named '' with state 'None' at position (1904, 1106).
+  TextField named 'None' with state '' at position (2160, 1098).
+  StaticText named 'None' with state 'Dynamic Planning' at position (1938, 1104).
+  PopUpButton named 'None' with state 'Off' at position (2168, 1100).
+  StaticText named 'None' with state 'Actual Start/End' at position (1938, 1168).
+  PopUpButton named 'None' with state 'Automatic' at position (2160, 1164).
+  StaticText named 'None' with state 'Resources' at position (1938, 1252).
+  Button named '' with state 'None' at position (1904, 1254).
+  StaticText named 'None' with state 'Initials Style' at position (1938, 1188).
+  PopUpButton named 'None' with state 'F.B.' at position (2098, 1184).
+  StaticText named 'None' with state 'Share their Work' at position (1938, 1252).
+  CheckBox named '' with state '1' at position (2156, 1250).
+  StaticText named 'None' with state 'Currency Symbol' at position (1938, 1336).
+  TextField named 'None' with state '£' at position (2166, 1332).
+  PopUpButton named 'None' with state '£1' at position (2370, 1332).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (1420, 0).
+      Group named 'None' with state 'None' at position (1416, 12).
+        Button named 'None' with state 'None' at position (1416, 12).
+        Button named 'None' with state 'None' at position (1490, 12).
+    Group named 'None' with state 'None' at position (1542, 0).
+      Group named 'None' with state 'None' at position (1538, 12).
+        Button named 'None' with state 'None' at position (1538, 12).
+        Button named 'None' with state 'None' at position (1640, 12).
+    Group named 'None' with state 'None' at position (1736, 0).
+      Group named 'None' with state 'None' at position (1732, 12).
+        Button named 'None' with state 'None' at position (1732, 12).
+        Button named 'None' with state 'None' at position (1806, 12).
+    MenuButton named 'None' with state 'None' at position (1858, 0).
+      MenuButton named '' with state 'None' at position (1856, 12).
+    Button named 'None' with state 'None' at position (2018, 0).
+    Button named 'None' with state 'None' at position (2090, 0).
+    Button named 'None' with state 'None' at position (2162, 0).
+    Button named 'None' with state 'None' at position (2234, 0).
+    Group named 'None' with state 'None' at position (2306, 0).
+      Group named 'None' with state 'None' at position (2302, 12).
+        Button named 'None' with state 'None' at position (2302, 12).
+        Button named 'None' with state 'None' at position (2396, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Simple activity plan with milestones' at position (174, 0).

@@ -1,0 +1,199 @@
+Description for the Permute application:
+Window named 'Permute' with state 'None' at position (0, 0).
+  ScrollArea named 'Drop zone. There are files in the queue.' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 44).
+      Unknown named 'None' with state 'None' at position (24, 68).
+        ScrollArea named 'None' with state 'None' at position (40, 68).
+          List named 'None' with state 'None' at position (40, 68).
+            List named 'None' with state 'None' at position (40, 124).
+              Group named 'None' with state 'None' at position (40, 124).
+                StaticText named 'None' with state '547875140001' at position (64, 148).
+                Button named 'None' with state 'None' at position (648, 150).
+                StaticText named 'None' with state '3130x2075 • JPG • 3.1 MB' at position (64, 186).
+                Button named 'None' with state 'None' at position (64, 386).
+                StaticText named 'None' with state '' at position (372, 388).
+                Button named 'None' with state 'None' at position (648, 384).
+                Button named 'None' with state 'None' at position (612, 384).
+              Group named 'None' with state 'None' at position (714, 124).
+                StaticText named 'None' with state '547875140002' at position (738, 148).
+                Button named 'None' with state 'None' at position (1322, 150).
+                StaticText named 'None' with state '3130x2075 • JPG • 3.1 MB' at position (738, 186).
+                Button named 'None' with state 'None' at position (738, 386).
+                StaticText named 'None' with state '' at position (1046, 388).
+                Button named 'None' with state 'None' at position (1322, 384).
+                Button named 'None' with state 'None' at position (1286, 384).
+              Group named 'None' with state 'None' at position (40, 440).
+                StaticText named 'None' with state '547875140003' at position (64, 464).
+                Button named 'None' with state 'None' at position (648, 466).
+                StaticText named 'None' with state '3130x2075 • JPG • 3.3 MB' at position (64, 502).
+                Button named 'None' with state 'None' at position (64, 702).
+                StaticText named 'None' with state '' at position (372, 704).
+                Button named 'None' with state 'None' at position (648, 700).
+                Button named 'None' with state 'None' at position (612, 700).
+              Group named 'None' with state 'None' at position (714, 440).
+                StaticText named 'None' with state '547875140004' at position (738, 464).
+                Button named 'None' with state 'None' at position (1322, 466).
+                StaticText named 'None' with state '3130x2075 • JPG • 2.9 MB' at position (738, 502).
+                Button named 'None' with state 'None' at position (738, 702).
+                StaticText named 'None' with state '' at position (1046, 704).
+                Button named 'None' with state 'None' at position (1322, 700).
+                Button named 'None' with state 'None' at position (1286, 700).
+              Group named 'None' with state 'None' at position (40, 756).
+                StaticText named 'None' with state '547875140005' at position (64, 780).
+                Button named 'None' with state 'None' at position (648, 782).
+                StaticText named 'None' with state '3130x2075 • JPG • 3.2 MB' at position (64, 818).
+                Button named 'None' with state 'None' at position (64, 1018).
+                StaticText named 'None' with state '' at position (372, 1020).
+                Button named 'None' with state 'None' at position (648, 1016).
+                Button named 'None' with state 'None' at position (612, 1016).
+              Group named 'None' with state 'None' at position (714, 756).
+                StaticText named 'None' with state '547875140006' at position (738, 780).
+                Button named 'None' with state 'None' at position (1322, 782).
+                StaticText named 'None' with state '3130x2075 • JPG • 3.2 MB' at position (738, 818).
+                Button named 'None' with state 'None' at position (738, 1018).
+                StaticText named 'None' with state '' at position (1046, 1020).
+                Button named 'None' with state 'None' at position (1322, 1016).
+                Button named 'None' with state 'None' at position (1286, 1016).
+              Group named 'None' with state 'None' at position (40, 1072).
+                StaticText named 'None' with state '547875140007' at position (64, 1096).
+                Button named 'None' with state 'None' at position (648, 1098).
+                StaticText named 'None' with state '3130x2075 • JPG • 3.2 MB' at position (64, 1134).
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position (714, 1072).
+                StaticText named 'None' with state '547875140008' at position (738, 1096).
+                Button named 'None' with state 'None' at position (1322, 1098).
+                StaticText named 'None' with state '3130x2075 • JPG • 2.9 MB' at position (738, 1134).
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140009' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 3.1 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140010' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 3 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140011' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 3 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140012' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 3 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140013' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 2.9 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140014' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 3 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140015' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 3.1 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140016' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 3.3 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140017' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 3.3 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140018' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 2.9 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140019' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 3.4 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '547875140020' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '3130x2075 • JPG • 3.1 MB' at position None.
+                Button named 'None' with state 'None' at position None.
+                StaticText named 'None' with state '' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+          ScrollBar named 'None' with state '0.0' at position (1356, 124).
+            ValueIndicator named 'None' with state '0.0' at position (1364, 126).
+            Button named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position (1364, 458).
+            Button named 'None' with state 'None' at position (1364, 124).
+        StaticText named 'None' with state 'Images' at position (36, 80).
+        StaticText named 'None' with state '—' at position (140, 80).
+        PopUpButton named 'None' with state 'JPEG' at position (160, 74).
+        Button named '' with state 'None' at position (1354, 80).
+        StaticText named 'None' with state '24 Conversions' at position (642, 1226).
+        Button named 'None' with state 'None' at position (40, 1224).
+        Button named 'None' with state 'None' at position (1358, 1222).
+      ScrollBar named 'None' with state '0.0' at position (1396, 44).
+        ValueIndicator named 'None' with state '0.0' at position (1404, 46).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (1404, 1090).
+        Button named 'None' with state 'None' at position (1404, 44).
+    Button named 'None' with state 'None' at position (1336, 1202).
+    StaticText named 'None' with state '24 Conversions' at position (644, 1206).
+    Button named 'None' with state 'None' at position (1290, 1202).
+    Button named 'None' with state 'None' at position (1382, 1202).
+    Button named 'None' with state 'None' at position (16, 1200).
+    Button named 'None' with state 'None' at position (58, 1204).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'Permute' at position (654, 10).

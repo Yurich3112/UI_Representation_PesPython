@@ -1,0 +1,85 @@
+Description for the Safari application:
+Window named 'iasa champ - Google Search' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    Splitter named 'None' with state '-1.0' at position None.
+    TabGroup named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          ScrollArea named '' with state '' at position (0, 104).
+            WebArea named '' with state '' at position (0, 104).
+              Group named '' with state '' at position (0, 104).
+                Group named '' with state '' at position (0, 104).
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position (0, 104).
+                  Group named '' with state '' at position None.
+                  Image named '' with state '' at position (588, 160).
+                  Group named '' with state '' at position (1668, 152).
+                    PopUpButton named '' with state '' at position (1668, 152).
+                  Link named 'Sign in' with state '' at position (1870, 152).
+                    StaticText named '' with state 'Sign in' at position (1932, 182).
+                  Heading named 'Before you continue to Google' with state '1' at position (588, 284).
+                    StaticText named '' with state 'Before you continue to Google' at position (944, 284).
+                  StaticText named '' with state 'We use ' at position (588, 398).
+                  Link named 'cookies' with state '' at position (692, 398).
+                    StaticText named '' with state 'cookies' at position (692, 398).
+                  StaticText named '' with state ' and data to' at position (790, 398).
+                  Group named '' with state '' at position (588, 460).
+                    Group named '' with state '' at position (588, 460).
+                      StaticText named '' with state 'Deliver and maintain Google services' at position (656, 464).
+                    Group named '' with state '' at position (588, 524).
+                      StaticText named '' with state 'Track outages and protect against spam, fraud and abuse' at position (656, 528).
+                    Group named '' with state '' at position (588, 588).
+                      StaticText named '' with state 'Measure audience engagement and site statistics to understand how our services are used and enhance the quality of those services' at position (656, 592).
+                  StaticText named '' with state 'If you choose to 'Accept all', we will also use cookies and data to' at position (588, 718).
+                  Group named '' with state '' at position (588, 780).
+                    Group named '' with state '' at position (588, 780).
+                      StaticText named '' with state 'Develop and improve new services' at position (656, 784).
+                    Group named '' with state '' at position (588, 844).
+                      StaticText named '' with state 'Deliver and measure the effectiveness of ads' at position (656, 848).
+                    Group named '' with state '' at position (588, 908).
+                      StaticText named '' with state 'Show personalised content, depending on your settings' at position (656, 912).
+                    Group named '' with state '' at position (588, 972).
+                      StaticText named '' with state 'Show personalised ads, depending on your settings' at position (656, 976).
+                  Group named '' with state '' at position (588, 1036).
+                    StaticText named '' with state 'If you choose to 'Reject all', we will not use cookies for these additional purposes.' at position (588, 1040).
+                  Group named '' with state '' at position (588, 1124).
+                    StaticText named '' with state 'Non-personalised content is influenced by things like the content that you’re currently viewing, activity in your active Search session, and your location. Non-personalised ads are influenced by the content that you’re currently viewing and your general location. Personalised content and ads can also include more relevant results, recommendations and tailored ads based on past activity from this browser, like previous Google searches. We also use cookies and data to tailor the experience to be age-appropriate, if relevant.' at position (588, 1128).
+                  Group named '' with state '' at position (588, 1352).
+                    StaticText named '' with state 'Select 'More options' to see additional information, including details about managing your privacy settings. You can also visit ' at position (588, 1356).
+                    StaticText named '' with state 'g.co/privacytools' at position (706, 1396).
+                    StaticText named '' with state ' at any time.' at position (922, 1396).
+                  Button named 'Reject all' with state '' at position (912, 1472).
+                  Button named 'Accept all' with state '' at position (1320, 1472).
+                  Link named '' with state '' at position (1226, 1568).
+                    Group named '' with state '' at position (1226, 1568).
+                      StaticText named '' with state 'More options' at position (1242, 1598).
+                  Link named 'Privacy' with state '' at position (1210, 1664).
+                    StaticText named '' with state 'Privacy' at position (1226, 1698).
+                  Link named 'Terms' with state '' at position (1338, 1664).
+                    StaticText named '' with state 'Terms' at position (1354, 1698).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (174, 0).
+      Button named '' with state 'None' at position (170, 12).
+      MenuButton named 'None' with state 'None' at position (236, 12).
+    Group named 'None' with state 'None' at position (298, 0).
+      Group named 'None' with state 'None' at position (294, 12).
+        Button named 'None' with state 'None' at position (294, 12).
+        Button named 'None' with state 'None' at position (374, 12).
+    Group named 'None' with state 'None' at position (780, 0).
+      Button named 'Show Reader' with state 'None' at position (788, 24).
+      Button named 'Add page to Reading List' with state 'None' at position (848, 24).
+      Button named 'Show Search Menu' with state 'None' at position (1216, 24).
+      Button named 'secure site certificate' with state 'None' at position (1262, 38).
+      TextField named 'None' with state 'iasa champ' at position (832, 36).
+      Button named 'Translation Available' with state 'None' at position (1768, 24).
+      Button named 'Reload this page' with state 'None' at position (1812, 24).
+    Button named 'None' with state 'None' at position (2406, 0).
+    Button named 'None' with state 'None' at position (2480, 0).
+      Button named '' with state 'None' at position (2476, 12).
+        Button named '' with state 'None' at position (2476, 12).
+    Button named 'None' with state 'None' at position (2552, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

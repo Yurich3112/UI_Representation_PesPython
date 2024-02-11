@@ -1,0 +1,1015 @@
+Description for the Spark application:
+Window named 'Spark Mail' with state 'None' at position (0, 0).
+  Group named '' with state '' at position (0, 0).
+    Group named '' with state '' at position (0, 0).
+      Group named '' with state '' at position (0, 0).
+        Group named '' with state '' at position (0, 0).
+          WebArea named 'Webpack App' with state '' at position (0, 0).
+            Group named '' with state '' at position (0, 0).
+              Group named '' with state '' at position (0, 0).
+                Group named '' with state '' at position (0, 0).
+                  Group named '' with state '' at position (980, 0).
+                    Group named '' with state '' at position (980, 0).
+                  Group named '' with state '' at position (0, 0).
+                    Group named '' with state '' at position (0, 0).
+                      Group named '' with state '' at position (0, 0).
+                        Group named '' with state '' at position (0, 0).
+                          Group named '' with state '' at position (0, 0).
+                          Group named '' with state '' at position (0, 1500).
+                            Button named 'M' with state '' at position (0, 1500).
+                              Group named '' with state '' at position (0, 1508).
+                                StaticText named '' with state 'M' at position (0, 1520).
+                        Group named '' with state '' at position (0, 0).
+                          StaticText named '' with state 'Tuesday, 06 February' at position (0, 120).
+                          Group named '' with state '' at position (0, 158).
+                            StaticText named '' with state '0:34' at position (0, 158).
+                          Group named '' with state '' at position (0, 140).
+                            Group named '' with state '' at position (0, 140).
+                              Group named '' with state '' at position (0, 140).
+                                Button named 'No Email Preview' with state '' at position (0, 140).
+                                  StaticText named '' with state 'No Email Preview' at position (0, 164).
+                                  Image named '' with state '' at position (0, 174).
+                              Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                          Group named '' with state '' at position (0, 140).
+                            Button named '' with state '' at position (0, 140).
+                              Image named '' with state '' at position (0, 156).
+                            Button named '' with state '' at position (0, 140).
+                              Image named '' with state '' at position (0, 156).
+                          Group named '' with state '' at position (0, 794).
+                            Button named 'Check Inbox' with state '' at position (0, 794).
+                    Group named '' with state '' at position (0, 0).
+                      Group named '' with state '' at position (0, 0).
+                        Group named '' with state '' at position (0, 0).
+                          Group named '' with state '' at position (0, 0).
+                            Group named '' with state '' at position (0, 0).
+                              Group named '' with state '' at position (420, 12).
+                                Button named '' with state '' at position (420, 12).
+                                  Image named '' with state '' at position (420, 12).
+                            Group named '' with state '' at position (0, 64).
+                              Group named '' with state '' at position (0, 64).
+                                Group named '' with state '' at position (0, 64).
+                                  Button named 'Home Screen' with state '' at position (32, 74).
+                                    Image named '' with state '' at position (38, 80).
+                                    StaticText named '' with state 'Home Screen' at position (102, 88).
+                                  Group named '' with state '' at position (0, 138).
+                                    Button named 'Inbox 3235' with state '' at position (32, 138).
+                                      Image named '' with state '' at position (38, 144).
+                                      StaticText named '' with state 'Inbox' at position (102, 152).
+                                      StaticText named '' with state '3235' at position (384, 156).
+                                  Group named '' with state '' at position (0, 202).
+                                    Button named 'Pins' with state '' at position (32, 202).
+                                      Image named '' with state '' at position (38, 208).
+                                      StaticText named '' with state 'Pins' at position (102, 216).
+                                  Group named '' with state '' at position (0, 266).
+                                    Button named 'Drafts' with state '' at position (32, 266).
+                                      Image named '' with state '' at position (38, 272).
+                                      StaticText named '' with state 'Drafts' at position (102, 280).
+                                  Group named '' with state '' at position (0, 330).
+                                    Button named 'Sent' with state '' at position (32, 330).
+                                      Image named '' with state '' at position (38, 336).
+                                      StaticText named '' with state 'Sent' at position (102, 344).
+                                  Group named '' with state '' at position (0, 394).
+                                    Button named 'Trash' with state '' at position (32, 394).
+                                      Image named '' with state '' at position (38, 400).
+                                      StaticText named '' with state 'Trash' at position (102, 408).
+                                  StaticText named '' with state 'Folders' at position (40, 494).
+                                  Group named '' with state '' at position (0, 546).
+                                    Button named 'Archive' with state '' at position (32, 546).
+                                      Image named '' with state '' at position (38, 552).
+                                      StaticText named '' with state 'Archive' at position (102, 560).
+                                  Button named 'More' with state '' at position (32, 610).
+                                    Image named '' with state '' at position (38, 616).
+                                    StaticText named '' with state 'More' at position (102, 624).
+                              Group named '' with state '' at position (480, 0).
+                                Group named '' with state '' at position (480, 0).
+                                  Group named '' with state '' at position (518, 94).
+                                    StaticText named '' with state 'All Folders' at position (518, 94).
+                                  List named '' with state '' at position (512, 152).
+                                    Group named '' with state '' at position (512, 152).
+                                      Button named 'Snoozed' with state '' at position (512, 152).
+                                        Image named '' with state '' at position (518, 158).
+                                        StaticText named '' with state 'Snoozed' at position (574, 166).
+                                    Group named '' with state '' at position (512, 212).
+                                      Button named 'Reminders' with state '' at position (512, 212).
+                                        Image named '' with state '' at position (518, 218).
+                                        StaticText named '' with state 'Reminders' at position (574, 226).
+                                    Group named '' with state '' at position (512, 272).
+                                      Button named 'Spam' with state '' at position (512, 272).
+                                        Image named '' with state '' at position (518, 278).
+                                        StaticText named '' with state 'Spam' at position (574, 286).
+                                    Group named '' with state '' at position (512, 332).
+                                      Button named 'Blocked' with state '' at position (512, 332).
+                                        Image named '' with state '' at position (518, 338).
+                                        StaticText named '' with state 'Blocked' at position (574, 346).
+                                    Group named '' with state '' at position (512, 392).
+                                      Button named 'Shared Messages' with state '' at position (512, 392).
+                                        Image named '' with state '' at position (518, 398).
+                                        StaticText named '' with state 'Shared Messages' at position (574, 406).
+                                    Group named '' with state '' at position (512, 452).
+                                      Button named 'Shared Drafts' with state '' at position (512, 452).
+                                        Image named '' with state '' at position (518, 458).
+                                        StaticText named '' with state 'Shared Drafts' at position (574, 466).
+                                    Group named '' with state '' at position (512, 512).
+                                      Button named 'Delegated' with state '' at position (512, 512).
+                                        Image named '' with state '' at position (518, 518).
+                                        StaticText named '' with state 'Delegated' at position (574, 526).
+                                  Group named '' with state '' at position (484, 596).
+                                    Group named '' with state '' at position (526, 620).
+                                      Group named '' with state '' at position (528, 622).
+                                        Image named '' with state '' at position (530, 624).
+                                    StaticText named '' with state 'm.hirna@ucu.edu.ua' at position (570, 620).
+                                    Button named '' with state '' at position (892, 612).
+                                      Image named '' with state '' at position (892, 612).
+                                  List named '' with state '' at position (512, 680).
+                                    Group named '' with state '' at position (512, 680).
+                                      Button named 'Важливо' with state '' at position (512, 680).
+                                        Image named '' with state '' at position (518, 686).
+                                        StaticText named '' with state 'Важливо' at position (574, 694).
+                                        Button named '' with state '' at position None.
+                                  Group named '' with state '' at position (480, 1496).
+                                    StaticText named '' with state 'Use ' at position (532, 1516).
+                                    StaticText named '' with state 'Сmd' at position (584, 1516).
+                                    StaticText named '' with state ' to add multiple folders to the Sidebar' at position (532, 1516).
+                              Button named 'Settings' with state '' at position (24, 1500).
+                                Group named '' with state '' at position (38, 1508).
+                                  Image named '' with state '' at position (38, 1508).
+                                StaticText named '' with state 'Settings' at position (102, 1514).
+                        Group named '' with state '' at position (980, 0).
+                      Group named '' with state '' at position (124, 0).
+                        Group named '' with state '' at position (124, 0).
+                          Group named '' with state '' at position (124, 0).
+                            Group named '' with state '' at position (124, 38).
+                              Group named '' with state '' at position (124, 38).
+                                Group named '' with state '' at position (124, 38).
+                                  Group named '' with state '' at position (284, 58).
+                                    Button named '' with state '' at position (216, 66).
+                                      Image named '' with state '' at position (216, 66).
+                                    StaticText named '' with state 'Today' at position (284, 66).
+                                    StaticText named '' with state 'Tuesday, 6 February' at position (284, 106).
+                                    StaticText named '' with state ' ' at position (534, 106).
+                                  Group named '' with state '' at position (2134, 90).
+                                    Button named '' with state '' at position (2134, 90).
+                                    Group named '' with state '' at position (2142, 92).
+                                      Image named '' with state '' at position (2142, 92).
+                                  Button named '' with state '' at position (2228, 68).
+                                    Image named '' with state '' at position (2234, 76).
+                                  Button named '' with state '' at position (2318, 68).
+                                    Image named '' with state '' at position (2324, 76).
+                                  Group named '' with state '' at position (268, 114).
+                                Group named '' with state '' at position (124, 158).
+                                  Group named '' with state '' at position (124, 158).
+                                    Group named '' with state '' at position (124, 158).
+                                      Group named '' with state '' at position (124, 158).
+                                        Group named '' with state '' at position (124, 158).
+                                          Group named '' with state '' at position (124, 158).
+                                            Button named 'New senders 1' with state '' at position (306, 172).
+                                              StaticText named '' with state 'New senders' at position (306, 178).
+                                              StaticText named '' with state '1' at position (500, 182).
+                                              Image named '' with state '' at position (530, 178).
+                                            Group named '' with state '' at position (2290, 170).
+                                              Group named '' with state '' at position (2290, 170).
+                                                Group named '' with state '' at position (2290, 170).
+                                                  Group named '' with state '' at position (2290, 170).
+                                                    Button named '' with state '' at position (2298, 170).
+                                                      Image named '' with state '' at position (2298, 170).
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position (2290, 170).
+                                          Group named '' with state '' at position (124, 230).
+                                            Group named '' with state '' at position (124, 230).
+                                              Group named '' with state '' at position (284, 230).
+                                                Button named '' with state '' at position (208, 306).
+                                                  Image named '' with state '' at position (210, 308).
+                                                Group named '' with state '' at position (284, 262).
+                                                  StaticText named '' with state 'New senders appear here' at position (284, 262).
+                                                Group named '' with state '' at position (284, 322).
+                                                  StaticText named '' with state 'for you to prescreen' at position (284, 322).
+                                                Group named '' with state '' at position (284, 396).
+                                                  StaticText named '' with state 'You decide who gets into your inbox. No trespassing!' at position (284, 400).
+                                                Group named '' with state '' at position (284, 448).
+                                                  StaticText named '' with state 'Don't prescreen new senders' at position (284, 452).
+                                              Group named '' with state '' at position (1048, 230).
+                                                Group named '' with state '' at position (1048, 230).
+                                                  Button named 'ResearchGate no-reply@researchgatemail.net New login from Chrome on macOS + 3 Accept Block' with state '' at position (1048, 242).
+                                                    Group named '' with state '' at position (1090, 288).
+                                                      Group named '' with state '' at position (1096, 294).
+                                                        Image named '' with state '' at position (1104, 302).
+                                                    StaticText named '' with state 'ResearchGate' at position (1200, 296).
+                                                    StaticText named '' with state 'no-reply@researchgatemail.net' at position (1200, 340).
+                                                    Image named '' with state '' at position (1190, 392).
+                                                    StaticText named '' with state 'New login from Chrome on macOS' at position (1238, 400).
+                                                    StaticText named '' with state '+' at position (1548, 400).
+                                                    Image named '' with state '' at position (1566, 392).
+                                                    StaticText named '' with state '3' at position (1614, 400).
+                                                    Button named 'Accept' with state '' at position (1090, 456).
+                                                      Image named '' with state '' at position (1148, 464).
+                                                      StaticText named '' with state 'Accept' at position (1212, 472).
+                                                    Button named 'Block' with state '' at position (1370, 456).
+                                                      Image named '' with state '' at position (1438, 464).
+                                                      StaticText named '' with state 'Block' at position (1502, 472).
+                                          Group named '' with state '' at position (124, 618).
+                                            Group named '' with state '' at position (124, 618).
+                                              Group named '' with state '' at position (124, 636).
+                                                Button named '' with state '' at position (124, 636).
+                                                  Image named '' with state '' at position (140, 636).
+                                              Group named '' with state '' at position (284, 620).
+                                                Group named '' with state '' at position (284, 620).
+                                                  Group named '' with state '' at position (296, 636).
+                                                    Image named '' with state '' at position (296, 636).
+                                                  Group named '' with state '' at position (370, 638).
+                                                    Group named '' with state '' at position (370, 638).
+                                                      StaticText named '' with state 'Notifications' at position (370, 644).
+                                                    Group named '' with state '' at position (538, 642).
+                                                      StaticText named '' with state '1126' at position (538, 650).
+                                                  Group named '' with state '' at position (760, 636).
+                                                    Group named '' with state '' at position (802, 638).
+                                                      Group named '' with state '' at position (822, 642).
+                                                        Image named '' with state '' at position (822, 642).
+                                                      StaticText named '' with state 'Li' at position (862, 642).
+                                                    StaticText named '' with state 'nkedIn' at position (886, 642).
+                                                    StaticText named '' with state '136' at position (982, 650).
+                                                    Group named '' with state '' at position (1044, 638).
+                                                      Group named '' with state '' at position (1064, 642).
+                                                        Image named '' with state '' at position (1064, 642).
+                                                      StaticText named '' with state 'Li' at position (1104, 642).
+                                                    StaticText named '' with state 'nkedIn' at position (1128, 642).
+                                                    StaticText named '' with state '398' at position (1224, 650).
+                                                    Group named '' with state '' at position (1290, 638).
+                                                      Group named '' with state '' at position (1310, 642).
+                                                        Image named '' with state '' at position (1310, 642).
+                                                      StaticText named '' with state 'Li' at position (1350, 642).
+                                                    StaticText named '' with state 'nkedIn Messaging' at position (1372, 642).
+                                                    StaticText named '' with state '232' at position (1620, 650).
+                                                    Group named '' with state '' at position (1686, 638).
+                                                      Group named '' with state '' at position (1706, 642).
+                                                        Image named '' with state '' at position (1706, 642).
+                                                      StaticText named '' with state 'Li' at position (1746, 642).
+                                                    StaticText named '' with state 'nkedIn' at position (1768, 642).
+                                                    StaticText named '' with state '237' at position (1864, 650).
+                                                    Group named '' with state '' at position (1930, 638).
+                                                      Group named '' with state '' at position (1950, 642).
+                                                        Image named '' with state '' at position (1950, 642).
+                                                      StaticText named '' with state 'Pi' at position (1990, 642).
+                                                    StaticText named '' with state 'box' at position (2014, 642).
+                                                    StaticText named '' with state '9' at position (2070, 650).
+                                                    Group named '' with state '' at position (2110, 638).
+                                                      Group named '' with state '' at position (2130, 642).
+                                                        Image named '' with state '' at position (2130, 642).
+                                                      StaticText named '' with state 'Fi' at position (2170, 642).
+                                                    StaticText named '' with state 'rebase' at position (2194, 642).
+                                                    StaticText named '' with state '4' at position (2292, 650).
+                                                    Group named '' with state '' at position None.
+                                                      Group named '' with state '' at position None.
+                                                        Image named '' with state '' at position None.
+                                                      StaticText named '' with state 'Li' at position None.
+                                                    StaticText named '' with state 'nkedIn' at position (760, 636).
+                                                    StaticText named '' with state '6' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      Group named '' with state '' at position None.
+                                                        Image named '' with state '' at position None.
+                                                      StaticText named '' with state 'Hi' at position None.
+                                                    StaticText named '' with state 'manshi Singh' at position (760, 636).
+                                                    StaticText named '' with state '10' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      Group named '' with state '' at position None.
+                                                        Image named '' with state '' at position None.
+                                                      StaticText named '' with state 'Sl' at position None.
+                                                    StaticText named '' with state 'ack' at position (760, 636).
+                                                    StaticText named '' with state '15' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      Group named '' with state '' at position None.
+                                                        Image named '' with state '' at position None.
+                                                      StaticText named '' with state 'Go' at position None.
+                                                    StaticText named '' with state 'ogle' at position (760, 636).
+                                                    StaticText named '' with state '7' at position None.
+                                                  Image named '' with state '' at position (2316, 636).
+                                          Group named '' with state '' at position (124, 700).
+                                            Group named '' with state '' at position (124, 700).
+                                              Group named '' with state '' at position (124, 718).
+                                                Button named '' with state '' at position (124, 718).
+                                                  Image named '' with state '' at position (140, 718).
+                                              Group named '' with state '' at position (284, 702).
+                                                Group named '' with state '' at position (284, 702).
+                                                  Group named '' with state '' at position (296, 718).
+                                                    Image named '' with state '' at position (296, 718).
+                                                  Group named '' with state '' at position (370, 720).
+                                                    Group named '' with state '' at position (370, 720).
+                                                      StaticText named '' with state 'Newsletters' at position (370, 726).
+                                                    Group named '' with state '' at position (530, 724).
+                                                      StaticText named '' with state '2125' at position (530, 732).
+                                                  Group named '' with state '' at position (760, 718).
+                                                    Group named '' with state '' at position (802, 720).
+                                                      Group named '' with state '' at position (822, 724).
+                                                        Image named '' with state '' at position (822, 724).
+                                                      StaticText named '' with state 'Gr' at position (862, 724).
+                                                    StaticText named '' with state 'ammarly Insights' at position (894, 724).
+                                                    StaticText named '' with state '10' at position (1126, 732).
+                                                    Group named '' with state '' at position (1176, 720).
+                                                      Group named '' with state '' at position (1196, 724).
+                                                        Image named '' with state '' at position (1196, 724).
+                                                      StaticText named '' with state 'Mi' at position (1236, 724).
+                                                    StaticText named '' with state 'les&Smiles' at position (1268, 724).
+                                                    StaticText named '' with state '23' at position (1418, 732).
+                                                    Group named '' with state '' at position (1472, 720).
+                                                      Group named '' with state '' at position (1492, 724).
+                                                        Image named '' with state '' at position (1492, 724).
+                                                      StaticText named '' with state 'Li' at position (1532, 724).
+                                                    StaticText named '' with state 'nkedIn' at position (1554, 724).
+                                                    StaticText named '' with state '46' at position (1650, 732).
+                                                    Group named '' with state '' at position (1704, 720).
+                                                      Group named '' with state '' at position (1724, 724).
+                                                        Image named '' with state '' at position (1724, 724).
+                                                      StaticText named '' with state 'So' at position (1764, 724).
+                                                    StaticText named '' with state 'lomiia Leno via LinkedIn' at position (1798, 724).
+                                                    StaticText named '' with state '41' at position (2120, 732).
+                                                    Group named '' with state '' at position (2172, 720).
+                                                      Group named '' with state '' at position (2192, 724).
+                                                        Image named '' with state '' at position (2192, 724).
+                                                      StaticText named '' with state 'Fo' at position (2232, 724).
+                                                    StaticText named '' with state 'rbes Ukraine' at position (2264, 724).
+                                                    StaticText named '' with state '15' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      Group named '' with state '' at position None.
+                                                        Image named '' with state '' at position None.
+                                                      StaticText named '' with state 'Fo' at position None.
+                                                    StaticText named '' with state 'rbes Ukraine' at position (760, 718).
+                                                    StaticText named '' with state '33' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      Group named '' with state '' at position None.
+                                                        Image named '' with state '' at position None.
+                                                      StaticText named '' with state 'Ai' at position None.
+                                                    StaticText named '' with state 'rbnb' at position (760, 718).
+                                                    StaticText named '' with state '3' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      Group named '' with state '' at position None.
+                                                        Image named '' with state '' at position None.
+                                                      StaticText named '' with state 'Pr' at position None.
+                                                    StaticText named '' with state 'ometheus' at position (760, 718).
+                                                    StaticText named '' with state '134' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      Group named '' with state '' at position None.
+                                                        Image named '' with state '' at position None.
+                                                      StaticText named '' with state 'Vi' at position None.
+                                                    StaticText named '' with state 'ctoria | APILayer' at position (760, 718).
+                                                    StaticText named '' with state '67' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      Group named '' with state '' at position None.
+                                                        Image named '' with state '' at position None.
+                                                      StaticText named '' with state 'Ir' at position None.
+                                                    StaticText named '' with state 'yna Kostyshyn via LinkedIn' at position (760, 718).
+                                                    StaticText named '' with state '54' at position None.
+                                                  Image named '' with state '' at position (2316, 718).
+                                          Group named '' with state '' at position (124, 782).
+                                            Group named '' with state '' at position (124, 782).
+                                              Group named '' with state '' at position (124, 800).
+                                                Button named '' with state '' at position (124, 800).
+                                                  Image named '' with state '' at position (140, 800).
+                                              Group named '' with state '' at position (284, 784).
+                                                Group named '' with state '' at position (284, 784).
+                                                  Group named '' with state '' at position (296, 800).
+                                                    Image named '' with state '' at position (296, 800).
+                                                  Group named '' with state '' at position (370, 802).
+                                                    Group named '' with state '' at position (370, 802).
+                                                      StaticText named '' with state 'Invitations' at position (370, 808).
+                                                    Group named '' with state '' at position (510, 806).
+                                                      StaticText named '' with state '4' at position (510, 814).
+                                                  Group named '' with state '' at position (760, 800).
+                                                    Group named '' with state '' at position (802, 802).
+                                                      Group named '' with state '' at position (822, 806).
+                                                        Image named '' with state '' at position (822, 806).
+                                                      StaticText named '' with state 'Kh' at position (862, 806).
+                                                    StaticText named '' with state 'rystyna Yakymets' at position (898, 806).
+                                                    StaticText named '' with state '4' at position (1140, 814).
+                                                  Image named '' with state '' at position (2316, 800).
+                                          Group named '' with state '' at position (124, 864).
+                                            Group named '' with state '' at position (284, 884).
+                                              Button named '' with state '' at position (216, 884).
+                                                Image named '' with state '' at position (216, 884).
+                                              Group named '' with state '' at position (284, 884).
+                                                StaticText named '' with state 'January' at position (288, 894).
+                                          Group named '' with state '' at position (124, 946).
+                                            Group named '' with state '' at position (124, 946).
+                                              Group named '' with state '' at position (124, 964).
+                                                Button named '' with state '' at position (124, 964).
+                                                  Image named '' with state '' at position (140, 964).
+                                              Group named '' with state '' at position (284, 948).
+                                                Group named '' with state '' at position (284, 948).
+                                                  Group named '' with state '' at position (296, 964).
+                                                    Group named '' with state '' at position (296, 964).
+                                                      StaticText named '' with state 'IK' at position (310, 976).
+                                                  Group named '' with state '' at position (370, 966).
+                                                    StaticText named '' with state 'Iryna Kostyshyn' at position (370, 970).
+                                                  Group named '' with state '' at position (806, 966).
+                                                    StaticText named '' with state 'filtered' at position (806, 970).
+                                                  StaticText named '' with state '4' at position (928, 974).
+                                                  Image named '' with state '' at position (968, 964).
+                                                  Group named '' with state '' at position (1036, 966).
+                                                    StaticText named '' with state '> ср, 24 січ. 2024 р. о 18:00 Iryna Kostyshyn <i.kostyshyn@ucu.edu.ua> пише: > > > > > > > ср, 24 січ. 2024 р. о 17:40 Iryna Kostyshyn <i.kostyshyn@ucu.edu.ua> пише: > > > > It's fascinating to see ho' at position (1036, 970).
+                                                  Group named '' with state '' at position (2288, 976).
+                                                    StaticText named '' with state 'Jan 24' at position (2288, 974).
+                                          Group named '' with state '' at position (124, 1028).
+                                            Group named '' with state '' at position (124, 1028).
+                                              Group named '' with state '' at position (124, 1046).
+                                                Button named '' with state '' at position (124, 1046).
+                                                  Image named '' with state '' at position (140, 1046).
+                                              Group named '' with state '' at position (284, 1030).
+                                                Group named '' with state '' at position (284, 1030).
+                                                  Group named '' with state '' at position (296, 1046).
+                                                    Group named '' with state '' at position (296, 1046).
+                                                      StaticText named '' with state 'IK' at position (310, 1058).
+                                                  Group named '' with state '' at position (370, 1048).
+                                                    StaticText named '' with state 'Iryna Kostyshyn' at position (370, 1052).
+                                                  Group named '' with state '' at position (806, 1048).
+                                                    StaticText named '' with state 'csv new' at position (806, 1052).
+                                                  Image named '' with state '' at position (928, 1046).
+                                                  Group named '' with state '' at position (996, 1048).
+                                                    StaticText named '' with state 'new' at position (996, 1052).
+                                                  Group named '' with state '' at position (2288, 1058).
+                                                    StaticText named '' with state 'Jan 24' at position (2288, 1056).
+                                          Group named '' with state '' at position (124, 1110).
+                                            Group named '' with state '' at position (124, 1110).
+                                              Group named '' with state '' at position (124, 1128).
+                                                Button named '' with state '' at position (124, 1128).
+                                                  Image named '' with state '' at position (140, 1128).
+                                              Group named '' with state '' at position (284, 1112).
+                                                Group named '' with state '' at position (284, 1112).
+                                                  Group named '' with state '' at position (296, 1128).
+                                                    Group named '' with state '' at position (296, 1128).
+                                                      StaticText named '' with state 'IK' at position (310, 1140).
+                                                  Group named '' with state '' at position (370, 1130).
+                                                    StaticText named '' with state 'Iryna Kostyshyn' at position (370, 1134).
+                                                  Group named '' with state '' at position (806, 1130).
+                                                    StaticText named '' with state 'wrapped csv' at position (806, 1134).
+                                                  Image named '' with state '' at position (990, 1128).
+                                                  Group named '' with state '' at position (1058, 1130).
+                                                    StaticText named '' with state 'wrapped csv without a special column' at position (1058, 1134).
+                                                  Group named '' with state '' at position (2288, 1140).
+                                                    StaticText named '' with state 'Jan 23' at position (2288, 1138).
+                                          Group named '' with state '' at position (124, 1192).
+                                            Group named '' with state '' at position (124, 1192).
+                                              Group named '' with state '' at position (124, 1210).
+                                                Button named '' with state '' at position (124, 1210).
+                                                  Image named '' with state '' at position (140, 1210).
+                                              Group named '' with state '' at position (284, 1194).
+                                                Group named '' with state '' at position (284, 1194).
+                                                  Group named '' with state '' at position (296, 1210).
+                                                    Group named '' with state '' at position (296, 1210).
+                                                      StaticText named '' with state 'IK' at position (310, 1222).
+                                                  Group named '' with state '' at position (370, 1212).
+                                                    StaticText named '' with state 'Iryna Kostyshyn' at position (370, 1216).
+                                                  Group named '' with state '' at position (806, 1212).
+                                                    StaticText named '' with state 'cv to review for your homie' at position (806, 1216).
+                                                  Group named '' with state '' at position (1186, 1212).
+                                                    StaticText named '' with state 'https://docs.google.com/document/d/1_QyAnO_0UMMhoXrhh46ydx33S6-rNGoKoqjJWkVcJ8g/edit' at position (1186, 1216).
+                                                  Group named '' with state '' at position (2288, 1222).
+                                                    StaticText named '' with state 'Jan 23' at position (2288, 1220).
+                                          Group named '' with state '' at position (124, 1274).
+                                            Group named '' with state '' at position (124, 1274).
+                                              Group named '' with state '' at position (124, 1292).
+                                                Button named '' with state '' at position (124, 1292).
+                                                  Image named '' with state '' at position (140, 1292).
+                                              Group named '' with state '' at position (284, 1276).
+                                                Group named '' with state '' at position (284, 1276).
+                                                  Group named '' with state '' at position (296, 1292).
+                                                    Group named '' with state '' at position (296, 1292).
+                                                      StaticText named '' with state 'IK' at position (310, 1304).
+                                                  Group named '' with state '' at position (370, 1294).
+                                                    StaticText named '' with state 'Iryna Kostyshyn' at position (370, 1298).
+                                                  Group named '' with state '' at position (806, 1294).
+                                                    StaticText named '' with state 'example 2' at position (806, 1298).
+                                                  Group named '' with state '' at position (962, 1294).
+                                                    StaticText named '' with state 'Hey there, Awesome Dzyga Supporter! 👋 Hi {name}, Wow, what a year it's been, and it's all thanks to incredible people like you! Your dedication to Dzyga is just amazing. Seriously, we're all super imp' at position (962, 1298).
+                                                  Group named '' with state '' at position (2288, 1304).
+                                                    StaticText named '' with state 'Jan 22' at position (2288, 1302).
+                                          Group named '' with state '' at position (124, 1356).
+                                            Group named '' with state '' at position (124, 1356).
+                                              Group named '' with state '' at position (124, 1374).
+                                                Button named '' with state '' at position (124, 1374).
+                                                  Image named '' with state '' at position (140, 1374).
+                                              Group named '' with state '' at position (284, 1358).
+                                                Group named '' with state '' at position (284, 1358).
+                                                  Group named '' with state '' at position (296, 1374).
+                                                    Group named '' with state '' at position (296, 1374).
+                                                      StaticText named '' with state 'IK' at position (310, 1386).
+                                                  Group named '' with state '' at position (370, 1376).
+                                                    StaticText named '' with state 'Iryna Kostyshyn' at position (370, 1380).
+                                                  Group named '' with state '' at position (806, 1376).
+                                                    StaticText named '' with state 'an example 1 - no fella, no top percentile , no hero mentions' at position (806, 1380).
+                                                  Group named '' with state '' at position (1616, 1376).
+                                                    StaticText named '' with state 'Hey there, Awesome Dzyga Supporter! 👋 Hi {name}, Wow, what a year it's been, and it's all thanks to incredible people like you! Your dedication to Dzyga is just amazing. Seriously, we're all super imp' at position (1616, 1380).
+                                                  Group named '' with state '' at position (2288, 1386).
+                                                    StaticText named '' with state 'Jan 22' at position (2288, 1384).
+                                          Group named '' with state '' at position (124, 1438).
+                                            Group named '' with state '' at position (124, 1438).
+                                              Group named '' with state '' at position (124, 1456).
+                                                Button named '' with state '' at position (124, 1456).
+                                                  Image named '' with state '' at position (140, 1456).
+                                              Group named '' with state '' at position (284, 1440).
+                                                Group named '' with state '' at position (284, 1440).
+                                                  Group named '' with state '' at position (296, 1456).
+                                                    Group named '' with state '' at position (296, 1456).
+                                                      StaticText named '' with state 'IK' at position (310, 1468).
+                                                  Group named '' with state '' at position (370, 1458).
+                                                    StaticText named '' with state 'Iryna Kostyshyn' at position (370, 1462).
+                                                  Group named '' with state '' at position (806, 1458).
+                                                    StaticText named '' with state '23-26 March' at position (806, 1462).
+                                                  StaticText named '' with state '2' at position (1008, 1466).
+                                                  Group named '' with state '' at position (1054, 1458).
+                                                    StaticText named '' with state 'Hey there, Awesome Dzyga Supporter! 👋 Hi {name}, Wow, what a year it's been, and it's all thanks to incredible people like you! Your dedication to Dzyga is just amazing. Seriously, we're all super imp' at position (1054, 1462).
+                                                  Group named '' with state '' at position (2292, 1468).
+                                                    StaticText named '' with state 'Jan 19' at position (2292, 1466).
+                                          Group named '' with state '' at position (124, 1520).
+                                            Group named '' with state '' at position (284, 1540).
+                                              Button named '' with state '' at position (216, 1540).
+                                                Image named '' with state '' at position (216, 1540).
+                                              Group named '' with state '' at position (284, 1540).
+                                                StaticText named '' with state 'December 2023' at position (288, 1550).
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'M' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'meetings-noreply@google.com' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Дані з вашої зустрічі "oge-ptax-vrp", яка відбулася 14 груд. 2023 р.' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Інформація з вашої зустрічі "oge-ptax-vrp", яка відбулася 14 груд. 2023 р. о 17:23 UTC, тепер доступна. Дані про відвідування події Відкрити в Диску' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '14.12.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'LG' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Linda Gong' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Earn $60/hr training AI models in Math' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Hi Mariya, I am a recruiter at Scale AI. Are you interested in training next-gen AI models about math? We have a fully remote and flexible paid opportunity for you! We are looking for Math experts, re' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '13.12.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Button named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'November 2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'YD' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Yaroslava Dobrenka' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Analytics Tools 2023' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Привіт, Маріє! Як технологічний бізнес, який розробляє складні та backend-driven продукти, ми активно досліджуємо нові технології та імплементуємо їх у роботу. Наразі основними інструментами у повсякд' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '18.11.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'YD' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Yaroslava Dobrenka' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Роль аналітика у продукті, яким ви щодня користуєтесь 🇺🇦' at position None.
+                                                  StaticText named '' with state '3' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Маріє, Окрім, постійного розвитку ми у Solidgate є адептами концепції “knowledge sharing”. Маємо сформовану аналітичну гільдію сильних спеціалістів - це 7 аналітиків, а саме: 4 Data Analyst, 2 Product' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '13.11.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Button named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'August 2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'M' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'meetings-noreply@google.com' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Дані з вашої зустрічі "taq-owuv-haj", яка відбулася 23 серп. 2023 р.' at position None.
+                                                  Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Інформація з вашої зустрічі "taq-owuv-haj", яка відбулася 23 серп. 2023 р. о 16:20, тепер доступна.' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '23.08.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Button named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'June 2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'M' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'meetings-noreply@google.com' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Дані з вашої зустрічі "gdy-phro-utf", яка відбулася 12 черв. 2023 р.' at position None.
+                                                  Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Інформація з вашої зустрічі "gdy-phro-utf", яка відбулася 12 черв. 2023 р. о 18:31, тепер доступна.' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '12.06.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Button named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'May 2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'M' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'meetings-noreply@google.com' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Дані з вашої зустрічі "zev-omjc-xcg", яка відбулася 7 трав. 2023 р.' at position None.
+                                                  Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Інформація з вашої зустрічі "zev-omjc-xcg", яка відбулася 7 трав. 2023 р. о 22:40, тепер доступна.' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '08.05.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Button named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'April 2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'M' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'meetings-noreply@google.com' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Дані з вашої зустрічі "zov-kvcp-iou", яка відбулася 30 квіт. 2023 р.' at position None.
+                                                  Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Інформація з вашої зустрічі "zov-kvcp-iou", яка відбулася 30 квіт. 2023 р. о 17:24, тепер доступна.' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '30.04.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'M' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'meetings-noreply@google.com' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Дані з вашої зустрічі "zov-kvcp-iou", яка відбулася 30 квіт. 2023 р.' at position None.
+                                                  Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Інформація з вашої зустрічі "zov-kvcp-iou", яка відбулася 30 квіт. 2023 р. о 15:30, тепер доступна.' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '30.04.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'AF' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Adam from Pramp' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Connect us with your university; Get a free month of Pramp' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Get free access to Pramp for your university Hey there! I saw you signed up for Pramp and logged in with your .edu university email. Some exciting news! Pramp is now partnering with universities for 2' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '12.04.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'M' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'meetings-noreply@google.com' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Дані з вашої зустрічі "ehi-wvei-kzo", яка відбулася 1 квіт. 2023 р.' at position None.
+                                                  Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Інформація з вашої зустрічі "ehi-wvei-kzo", яка відбулася 1 квіт. 2023 р. о 23:53, тепер доступна.' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '01.04.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Button named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'March 2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'M' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'meetings-noreply@google.com' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Дані з вашої зустрічі "iuk-qpvd-dos", яка відбулася 31 бер. 2023 р.' at position None.
+                                                  Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Інформація з вашої зустрічі "iuk-qpvd-dos", яка відбулася 31 бер. 2023 р. о 16:02, тепер доступна.' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '31.03.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'M' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'meetings-noreply@google.com' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Дані з вашої зустрічі "mgy-usmr-zuz", яка відбулася 29 бер. 2023 р.' at position None.
+                                                  Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Інформація з вашої зустрічі "mgy-usmr-zuz", яка відбулася 29 бер. 2023 р. о 17:02, тепер доступна.' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '29.03.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'S' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Slack' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Your Slack security code is 232691' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Finish signing into Slack Your security code is below — enter it in your browser and we'll get you signed in. 232691 This code is required to finish signing into APPS.UCU (https://bachelors-apps-ucu.s' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '01.03.2023' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Button named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state '2022' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'IT' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Iryna Tkachuk' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'N-iX' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Добрий день! Мене звати Ірина, представляю компанію N-iX. Хочу запропонувати позицію Middle/Senior Data Scientist на Американський проект. Стек: Python, AWS. Досвід з sagemaker буде + Деталі: https://' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '06.09.2022' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'АК' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Анна Козлова' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Чек від Forbes' at position None.
+                                                  Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Вітаємо! Надсилаємо Вам чек про оплату. -- З повагою, Анна Козлова Менеджер відділу дистрибуції Forbes Ukraine ТОВ "УЯВи!" – українська медіакомпанія Тел.: +380(67) 2835383 E-mail: a.kozlova@forbes.ua' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '07.07.2022' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'MT' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'MacPaw Team' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '🎓 MacPawInternship 2022 | Apply today' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'We know you've been waiting for this announcement. The application for #MacPawInternship 2022 is open! We're looking for interns to join our team for this fall. Are you ready to harvest your skills? I' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '04.07.2022' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'ДС' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Деканат студентського життя' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Поділись своєю історією' at position None.
+                                                  StaticText named '' with state '2' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Перепрошуємо. Ось діюче покликання: https://forms.gle/1NWZT2kWhzRXRed56 > ср, 8 черв. 2022, 11:30 користувач Деканат студентського життя <studoffice@ucu.edu.ua> пише: > > Слава Ісусу Христу! > > > > Д' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '08.06.2022' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'NT' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Nicholas Thomas' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Let's Get In Touch' at position None.
+                                                  StaticText named '' with state '2' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Hello Madcdc, Wanted to bump this up to the top of your inbox - do you have some time to connect this week or next? Best, Nicholas Nicholas Thomas Account Executive he/him/his +44 1785 550454 Book tim' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '17.05.2022' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'MH' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Mari Hanikat' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Estonian Tech community is looking for Ukrainian Talent 🇺🇦' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'No Content' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '29.03.2022' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'MM' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Maria Medina' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Hackathon Survey Invitation' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'No Content' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '03.02.2022' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Button named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state '2019' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Button named '' with state '' at position None.
+                                                  Image named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Group named '' with state '' at position None.
+                                                      StaticText named '' with state 'ME' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Maria Encinar' at position None.
+                                                  Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'CEE Community call video + slides (December)' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Hello GDGs! Thanks to everyone who joined the call on Monday, it’s always great to meet you :) For those who couldn’t join, you can check the video here and the slides. And also provide some feedback' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '18.12.2019' at position None.
+                                      Group named '' with state '' at position (2520, 170).
+                                        Group named '' with state '' at position (2520, 170).
+                                          Group named '' with state '' at position (2520, 170).
+                              Group named '' with state '' at position (140, 1566).
+                          Group named '' with state '' at position None.
+                            Group named '' with state '' at position None.
+                              Image named '' with state '' at position None.
+                          Group named '' with state '' at position (2470, 726).
+                            Button named '' with state '' at position (2470, 726).
+                              Image named '' with state '' at position (2496, 790).
+                            Group named '' with state '' at position (2504, 40).
+                              Group named '' with state '' at position (2508, 782).
+                          Group named '' with state '' at position (124, 0).
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position (1270, 800).
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                Group named '' with state '' at position (0, 0).
+                  Group named '' with state '' at position (0, 0).
+                  Group named '' with state '' at position (0, 0).
+                  Group named '' with state '' at position (0, 0).
+                  Group named '' with state '' at position (0, 0).
+            Group named '' with state '' at position None.
+  Button named 'None' with state 'None' at position (8, 8).
+  Button named 'None' with state 'None' at position (88, 8).
+    Group named 'None' with state 'None' at position (88, 8).
+      Group named 'None' with state 'None' at position (88, 8).
+  Button named 'None' with state 'None' at position (48, 8).

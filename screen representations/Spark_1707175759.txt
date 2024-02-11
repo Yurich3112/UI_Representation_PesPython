@@ -1,0 +1,90 @@
+Description for the Spark application:
+Window named 'Spark Mail' with state 'None' at position (0, 0).
+  Group named '' with state '' at position (0, 0).
+    Group named '' with state '' at position (0, 0).
+      Group named '' with state '' at position (0, 0).
+        Group named '' with state '' at position (0, 0).
+          WebArea named 'Webpack App' with state '' at position (0, 0).
+            Group named '' with state '' at position (0, 0).
+              Group named '' with state '' at position (0, 0).
+                Group named '' with state '' at position (0, 0).
+                  Group named '' with state '' at position (124, 0).
+                    Group named '' with state '' at position (124, 0).
+                  Group named '' with state '' at position (0, 0).
+                    Group named '' with state '' at position (0, 0).
+                      Group named '' with state '' at position (0, 0).
+                        Group named '' with state '' at position (0, 0).
+                          Group named '' with state '' at position (0, 0).
+                          Group named '' with state '' at position (0, 1500).
+                            Button named '' with state '' at position (32, 1500).
+                              Group named '' with state '' at position (40, 1508).
+                                Image named '' with state '' at position (40, 1508).
+                        Group named '' with state '' at position (0, 0).
+                          StaticText named '' with state 'Tuesday, 06 February' at position (244, 120).
+                          Group named '' with state '' at position (244, 158).
+                            StaticText named '' with state '0:29' at position (244, 158).
+                          Group named '' with state '' at position (1712, 140).
+                            Group named '' with state '' at position (1712, 140).
+                              Group named '' with state '' at position (1712, 140).
+                                Button named 'No Email Preview' with state '' at position (1712, 140).
+                                  StaticText named '' with state 'No Email Preview' at position (1712, 164).
+                                  Image named '' with state '' at position (1950, 174).
+                              Group named '' with state '' at position None.
+                                Group named '' with state '' at position (1712, 140).
+                          Group named '' with state '' at position (2108, 140).
+                            Button named '' with state '' at position (2132, 140).
+                              Image named '' with state '' at position (2148, 156).
+                            Button named '' with state '' at position (2260, 140).
+                              Image named '' with state '' at position (2276, 156).
+                          Group named '' with state '' at position (242, 564).
+                            StaticText named '' with state 'Good Night!' at position (924, 552).
+                          Group named '' with state '' at position (242, 710).
+                            StaticText named '' with state 'We suggest checking your inbox at 9:00' at position (756, 724).
+                          Group named '' with state '' at position (242, 874).
+                            Button named 'Check Inbox' with state '' at position (1026, 874).
+                            Button named 'New emails only' with state '' at position (1328, 874).
+                          Group named '' with state '' at position (242, 990).
+                            StaticText named '' with state '16 emails from people' at position (714, 998).
+                            StaticText named '' with state ', 727 newsletters, 186 notifications, 22 invitations, 1 invitation response' at position (1010, 998).
+                    Group named '' with state '' at position (0, 0).
+                      Group named '' with state '' at position (0, 0).
+                        Group named '' with state '' at position (0, 0).
+                      Group named '' with state '' at position (0, 0).
+                        Group named '' with state '' at position (0, 0).
+                          Group named '' with state '' at position (0, 0).
+                            Group named '' with state '' at position (0, 38).
+                              Group named '' with state '' at position (0, 38).
+                                Group named '' with state '' at position (0, 38).
+                                  Group named '' with state '' at position None.
+                                  Button named '' with state '' at position (0, 68).
+                                    Image named '' with state '' at position (0, 76).
+                                  Button named '' with state '' at position (0, 68).
+                                    Image named '' with state '' at position (0, 76).
+                                  Group named '' with state '' at position None.
+                                Group named '' with state '' at position (0, 158).
+                              Group named '' with state '' at position None.
+                          Group named '' with state '' at position (0, 0).
+                            Group named '' with state '' at position (0, 10).
+                              Image named '' with state '' at position (0, 668).
+                          Group named '' with state '' at position (0, 726).
+                            Button named '' with state '' at position (0, 726).
+                              Image named '' with state '' at position (0, 790).
+                            Group named '' with state '' at position (0, 40).
+                              Group named '' with state '' at position (0, 782).
+                          Group named '' with state '' at position (0, 0).
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position (1270, 800).
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                Group named '' with state '' at position (0, 0).
+                  Group named '' with state '' at position (0, 0).
+                  Group named '' with state '' at position (0, 0).
+                  Group named '' with state '' at position (0, 0).
+            Group named '' with state '' at position None.
+  Button named 'None' with state 'None' at position (8, 8).
+  Button named 'None' with state 'None' at position (88, 8).
+    Group named 'None' with state 'None' at position (88, 8).
+  Button named 'None' with state 'None' at position (48, 8).

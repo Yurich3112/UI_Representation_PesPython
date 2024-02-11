@@ -1,0 +1,666 @@
+Description for the News-Explorer application:
+Window named 'Latest News – 0 articles' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Outline named 'None' with state 'None' at position (0, 104).
+        Row named 'None' with state 'None' at position (0, 104).
+          Cell named 'None' with state 'None' at position (20, 104).
+            StaticText named 'None' with state 'Smart Filters' at position (28, 108).
+        Row named 'None' with state 'None' at position (0, 142).
+          Cell named 'None' with state 'None' at position (20, 142).
+            Image named 'None' with state 'None' at position (32, 150).
+            StaticText named 'None' with state 'Latest News' at position (76, 154).
+        Row named 'None' with state 'None' at position (0, 198).
+          Cell named 'None' with state 'None' at position (20, 198).
+            Image named 'None' with state 'None' at position (32, 206).
+            StaticText named 'None' with state 'Unread Items' at position (76, 210).
+        Row named 'None' with state 'None' at position (0, 254).
+          Cell named 'None' with state 'None' at position (20, 254).
+            Image named 'None' with state 'None' at position (32, 262).
+            StaticText named 'None' with state 'Favorites' at position (76, 266).
+        Column named 'None' with state 'None' at position (20, 104).
+    StaticText named 'None' with state '↓ Use the + button to add new feeds' at position (0, 676).
+    Button named '' with state 'None' at position (22, 1342).
+    CheckBox named '' with state '1' at position (314, 1342).
+    CheckBox named '' with state '0' at position (368, 1342).
+    CheckBox named '' with state '0' at position (418, 1342).
+    Button named '' with state 'None' at position (68, 1340).
+    Splitter named 'None' with state '239.0' at position (478, 104).
+    ScrollArea named 'None' with state 'None' at position (480, 104).
+      Table named 'None' with state 'None' at position (480, 104).
+        Column named 'None' with state 'None' at position (500, 104).
+    Splitter named 'None' with state '300.0' at position (1080, 104).
+    Group named 'None' with state 'None' at position (1082, 0).
+      Group named 'None' with state 'None' at position (1082, 0).
+        ScrollArea named '' with state '' at position (1082, 104).
+          WebArea named '' with state '' at position (1082, 104).
+            Group named '' with state '' at position (1098, 680).
+              StaticText named '' with state 'No Item Selected' at position (1516, 680).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    CheckBox named 'None' with state '0' at position (362, 0).
+    Button named 'None' with state 'None' at position (970, 0).
+    CheckBox named 'None' with state '0' at position (1098, 0).
+    Button named 'None' with state 'None' at position (1198, 0).
+    CheckBox named 'None' with state '0' at position (1654, 0).
+    Button named 'None' with state 'None' at position (1754, 0).
+    Group named 'None' with state 'None' at position (1854, 0).
+      TextField named 'None' with state '' at position (1860, 22).
+        Button named '' with state 'None' at position (1864, 30).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Latest News' at position (496, 0).
+  StaticText named 'None' with state '0 articles' at position (496, 0).
+  Sheet named 'None' with state 'None' at position (508, 222).
+    ScrollArea named 'None' with state 'None' at position (548, 394).
+      Table named 'None' with state 'None' at position (550, 452).
+        Row named 'None' with state 'None' at position (550, 452).
+          Cell named 'None' with state 'None' at position (562, 454).
+            StaticText named 'None' with state 'MachineLearningMastery.com' at position (710, 462).
+            StaticText named 'None' with state 'Making developers awesome at machine learning.' at position (710, 504).
+            StaticText named 'None' with state 'http://feeds.feedburner.com/MachineLearningMastery' at position (710, 538).
+            Image named 'None' with state 'None' at position (580, 464).
+        Row named 'None' with state 'None' at position (550, 584).
+          Cell named 'None' with state 'None' at position (562, 586).
+            StaticText named 'None' with state 'Machine Learning' at position (710, 594).
+            StaticText named 'None' with state 'This subreddit is temporarily closed in protest of Reddit killing third party apps, see /r/ModCoord and /r/Save3rdPartyApps for more information.' at position (710, 636).
+            StaticText named 'None' with state 'http://www.reddit.com/r/MachineLearning/.rss' at position (710, 700).
+            Image named 'None' with state 'None' at position (580, 596).
+        Row named 'None' with state 'None' at position (550, 746).
+          Cell named 'None' with state 'None' at position (562, 748).
+            StaticText named 'None' with state 'Machine Learning (Theory)' at position (710, 756).
+            StaticText named 'None' with state 'Machine learning and learning theory research' at position (710, 798).
+            StaticText named 'None' with state 'http://hunch.net/?feed=rss2' at position (710, 832).
+            Image named 'None' with state 'None' at position (580, 758).
+        Row named 'None' with state 'None' at position (550, 878).
+          Cell named 'None' with state 'None' at position (562, 880).
+            StaticText named 'None' with state 'Machine Learning' at position (710, 888).
+            StaticText named 'None' with state 'Providing researchers with access to millions of scientific documents from journals, books, series, protocols, reference works and proceedings.' at position (710, 930).
+            StaticText named 'None' with state 'http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10994&channel-name=Machine+Learning' at position (710, 994).
+            Image named 'None' with state 'None' at position (580, 890).
+        Row named 'None' with state 'None' at position (550, 1040).
+          Cell named 'None' with state 'None' at position (562, 1042).
+            StaticText named 'None' with state 'Machine Learning Times' at position (710, 1050).
+            StaticText named 'None' with state 'machine learning & data science news' at position (710, 1092).
+            StaticText named 'None' with state 'http://www.predictiveanalyticsworld.com/patimes/feed/' at position (710, 1126).
+            Image named 'None' with state 'None' at position (580, 1052).
+        Row named 'None' with state 'None' at position (550, 1172).
+          Cell named 'None' with state 'None' at position (562, 1174).
+            StaticText named 'None' with state 'Blog' at position (710, 1182).
+            StaticText named 'None' with state 'Making developers awesome at machine learning' at position (710, 1224).
+            StaticText named 'None' with state 'http://machinelearningmastery.com/blog/feed/' at position (710, 1288).
+            Image named 'None' with state 'None' at position (580, 1184).
+        Row named 'None' with state 'None' at position (550, 1308).
+          Cell named 'None' with state 'None' at position (562, 1310).
+            StaticText named 'None' with state 'Machine Learning Blog | ML@CMU | Carnegie Mellon University' at position (710, 1318).
+            StaticText named 'None' with state 'We defy current Machine Learning research and applications. We work on solving high-level difficulty AI problems.' at position (710, 1360).
+            StaticText named 'None' with state 'https://blog.ml.cmu.edu/feed/' at position None.
+            Image named 'None' with state 'None' at position (580, 1320).
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Blog' at position None.
+            StaticText named 'None' with state 'Explore Microsoft products and services for your home or business. Shop Surface, Microsoft 365, Xbox, Windows, Azure, and more. Find downloads and get support.' at position None.
+            StaticText named 'None' with state 'http://blogs.technet.com/b/machinelearning/rss.aspx' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'machine learning | TechCrunch' at position None.
+            StaticText named 'None' with state 'TechCrunch • Reporting on the business of technology, startups, venture capital funding, and Silicon Valley' at position None.
+            StaticText named 'None' with state 'https://techcrunch.com/tag/machine-learning/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine learning : nature.com subject feeds' at position None.
+            StaticText named 'None' with state 'Latest news and research from Nature.com on the topic of Machine learning' at position None.
+            StaticText named 'None' with state 'http://www.nature.com/subjects/machine-learning.rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '"machine learning" - Google News' at position None.
+            StaticText named 'None' with state 'Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.' at position None.
+            StaticText named 'None' with state 'http://news.google.com/news?hl=en&gl=us&q=machine%20learning&um=1&ie=UTF-8&output=rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Research Blog' at position None.
+            StaticText named 'None' with state 'Francis Bach' at position None.
+            StaticText named 'None' with state 'https://francisbach.com/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Questions' at position None.
+            StaticText named 'None' with state 'A place for beginners to ask stupid questions and for experts to help them! /r/Machine learning is a great subreddit, but it is for interesting articles and news related to machine learning. Here, you can feel free to ask any question regarding machine learning.' at position None.
+            StaticText named 'None' with state 'https://www.reddit.com/r/MLQuestions/.rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '""machine learning"" - Google News' at position None.
+            StaticText named 'None' with state 'Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.' at position None.
+            StaticText named 'None' with state 'https://news.google.com/news/rss/search/section/q/%22machine%20learning%22/%22machine%20learning%22?ned=us' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Archives - Analytics Vidhya' at position None.
+            StaticText named 'None' with state 'Analytics Vidhya is a community of data professionals striving to democratize data science, artificial intelligence and web 3.0' at position None.
+            StaticText named 'None' with state 'https://www.analyticsvidhya.com/blog/category/machine-learning/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Archives - Software Engineering Daily' at position None.
+            StaticText named 'None' with state 'Machine learning and data science episodes of Software Engineering Daily.' at position None.
+            StaticText named 'None' with state 'https://softwareengineeringdaily.com/category/machine-learning/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Thoughts' at position None.
+            StaticText named 'None' with state 'Some thoughts about philosophical, theoretical and practical aspects of Machine Learning.' at position None.
+            StaticText named 'None' with state 'http://ml.typepad.com/machine_learning_thoughts/atom.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning blogs' at position None.
+            StaticText named 'None' with state 'Instantiate the Intelligence' at position None.
+            StaticText named 'None' with state 'https://machinelearningblogs.com/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '作って遊ぶ機械学習。' at position None.
+            StaticText named 'None' with state '～基礎的な確率モデルから最新の機械学習技術まで～' at position None.
+            StaticText named 'None' with state 'http://machine-learning.hatenablog.com/feed' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Israel' at position None.
+            StaticText named 'None' with state 'אנחנו שמחים להזמין אתכם לפרק נוסף של ExplAInable במתכונת החדשה שלו. הפודקאסט יעסוק במגוון רחב של נושאים בתחום ה-ML ובכל פרק נסקור נושא אחד ספציפי. את הפודקאסט מגישים אורי גורן ותמיר נווה – שנינו יועצים בתחום ה-ML אשר מגיעים מרקעים מגוונים ומעניינים. אם אתם רוצים לשמוע עוד קצת עלינו ועל הפודקאסט החדש, אתם יכולים להאזין לפרק 0 שהכנו שמסביר קצת עלינו ועל מאחורי הקלעים של היוזמה הזו. אנחנו בימים אלו מתחילים להעלות את הפרקים לכל הפלטפורמות השונות ובינתיים אתם יכולים להגיע אלינו דרך RSS, ספוטיפי, א...' at position None.
+            StaticText named 'None' with state 'http://machinelearning.co.il/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Paper Discussions' at position None.
+            StaticText named 'None' with state 'A subreddit for weekly machine learning paper discussions. Started by the people from /r/MachineLearning If you want to get started with Machine Learning, try /r/LearnMachineLearning' at position None.
+            StaticText named 'None' with state 'https://www.reddit.com/r/mlpapers/.rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning, Maths and Physics' at position None.
+            StaticText named 'None' with state 'Thoughts, ideas & opinions' at position None.
+            StaticText named 'None' with state 'https://mlopezm.wordpress.com/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning @ Feedly' at position None.
+            StaticText named 'None' with state 'Research and reading makes us smarter' at position None.
+            StaticText named 'None' with state 'https://blog.feedly.com/category/machine-learning/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning France' at position None.
+            StaticText named 'None' with state 'Explore Microsoft products and services for your home or business. Shop Surface, Microsoft 365, Xbox, Windows, Azure, and more. Find downloads and get support.' at position None.
+            StaticText named 'None' with state 'http://blogs.msdn.com/b/mlfrance/rss.aspx' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Guide' at position None.
+            StaticText named 'None' with state 'Machine learning audio course, teaching the fundamentals of machine learning and artificial intelligence. It covers intuition, models (shallow and deep), math, languages, frameworks, etc. Where your other ML resources provide the trees, I provide the forest. Consider MLG your syllabus, with highly-curated resources for each episode's details at ocdevel.com. Audio is a great supplement during exercise, commute, chores, etc.' at position None.
+            StaticText named 'None' with state 'http://machinelearningguide.libsyn.com/rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Guru' at position None.
+            StaticText named 'None' with state 'Machine Learning Freelance, organizer of @MLPrague and @mlcollegecom, former head of research at https://t.co/BJV0z1s7im. Interested in ML, NLP, IR and DL. GA pilot.' at position None.
+            StaticText named 'None' with state 'http://www.mlguru.cz/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning World - Medium' at position None.
+            StaticText named 'None' with state 'The best about Machine Learning, Computer Vision, Deep Learning, Natural language processing and other. - Medium' at position None.
+            StaticText named 'None' with state 'https://medium.com/feed/machine-learning-world' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning' at position None.
+            StaticText named 'None' with state 'Follow @machine-learning and get more of the good stuff by joining Tumblr today. Dive in!' at position None.
+            StaticText named 'None' with state 'http://machine-learning.tumblr.com/rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning for Humans - Medium' at position None.
+            StaticText named 'None' with state 'Demystifying artificial intelligence & machine learning. Discussions on safe and intentional application of AI for positive social impact. - Medium' at position None.
+            StaticText named 'None' with state 'https://medium.com/feed/machine-learning-for-humans' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning in Action' at position None.
+            StaticText named 'None' with state 'A perfect hands-on practice for beginners to elevate their ML skills' at position None.
+            StaticText named 'None' with state 'https://appliedmachinelearning.wordpress.com/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning & Data Mining' at position None.
+            StaticText named 'None' with state 'Machine Learning & Data Mining - LiveJournal.com' at position None.
+            StaticText named 'None' with state 'http://community.livejournal.com/mldm/data/rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'machine learning musings' at position None.
+            StaticText named 'None' with state 'Thoughts on data science, machine learning, programming, and everything in between.' at position None.
+            StaticText named 'None' with state 'https://www.pragmatic.ml/rss/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Surveys' at position None.
+            StaticText named 'None' with state 'A list of literature surveys, reviews, and tutorials on Machine Learning and related topics' at position None.
+            StaticText named 'None' with state 'http://www.mlsurveys.com/static/rss.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning in Practice - Medium' at position None.
+            StaticText named 'None' with state 'Practical insights for executives, managers, and project managers eager to deploy machine learning inside their company. - Medium' at position None.
+            StaticText named 'None' with state 'https://medium.com/feed/machine-learning-in-practice' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Engineer' at position None.
+            StaticText named 'None' with state 'Security Data Science and Deductions' at position None.
+            StaticText named 'None' with state 'https://www.jamesbower.com/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Blog' at position None.
+            StaticText named 'None' with state '🌇 Located in the heart of London 🎓 Committed to academic excellence 🏤 Focused on business and the professions 💬 Here to help: Mon - Fri' at position None.
+            StaticText named 'None' with state 'https://blogs.city.ac.uk/ml/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Rumination' at position None.
+            StaticText named 'None' with state 'Undocumented and incorrectly documented machine learning' at position None.
+            StaticText named 'None' with state 'http://statinfer.wordpress.com/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Plus - Selva' at position None.
+            StaticText named 'None' with state 'A Channel dedicated to learning structured Data Science courses and videos, for starting or transitioning to a Data Science career. We notice people learning Data Science in bits and pieces with differing levels of quality. So our focus is to structure the content and serve in-depth video content, so that by end of each video, you will be thorough with the concepts. We also make sure that you learn the practical aspects of Data Science - so every concept of our courses are tied to solving a b...' at position None.
+            StaticText named 'None' with state 'https://www.youtube.com/feeds/videos.xml?channel_id=UCpcJNrQyW3Ge7w9-dmijW9Q' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning & Data Science' at position None.
+            StaticText named 'None' with state 'Machine Learning 과 Data Science를 어떻게 실생활에 결합시키는지에 고민하고 있는 블로거입니다.' at position None.
+            StaticText named 'None' with state 'http://gentlej90.tistory.com/rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning India | Fostering data science and machine learning in India' at position None.
+            StaticText named 'None' with state 'Fostering the machine learning and data ecosystem in India' at position None.
+            StaticText named 'None' with state 'http://ml-india.org/feed.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'AWS Machine Learning Blog' at position None.
+            StaticText named 'None' with state 'Official Machine Learning Blog of Amazon Web Services' at position None.
+            StaticText named 'None' with state 'https://aws.amazon.com/blogs/amazon-ai/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'AI & Machine Learning' at position None.
+            StaticText named 'None' with state 'Find all the latest news about Google Cloud and Machine Learning & AI with customer stories, product announcements, solutions and more.' at position None.
+            StaticText named 'None' with state 'https://cloudblog.withgoogle.com/products/ai-machine-learning/rss/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)' at position None.
+            StaticText named 'None' with state 'Machine learning and artificial intelligence are dramatically changing the way businesses operate and people live. The TWIML AI Podcast brings the top minds and ideas from the world of ML and AI to a broad and influential community of ML/AI researchers, data scientists, engineers and tech-savvy business and IT leaders. Hosted by Sam Charrington, a sought after industry analyst, speaker, commentator and thought leader. Technologies covered include machine learning, artificial intelligence, deep learning, natural language processing, neural networks, analytics, computer science, data science and more.' at position None.
+            StaticText named 'None' with state 'https://twimlai.com/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Neural Networks, Deep Learning and Machine Learning' at position None.
+            StaticText named 'None' with state 'Subreddit about Artificial Neural Networks, Deep Learning and Machine Learning.' at position None.
+            StaticText named 'None' with state 'https://www.reddit.com/r/neuralnetworks/.rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'News on Artificial Intelligence and Machine Learning' at position None.
+            StaticText named 'None' with state 'The latest news on Artificial Intelligence and Machine Learning' at position None.
+            StaticText named 'None' with state 'https://techxplore.com/rss-feed/machine-learning-ai-news/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Proceedings of Machine Learning Research' at position None.
+            StaticText named 'None' with state 'The Proceedings of Machine Learning Research (formerly JMLR Workshop and Conference Proceedings) is a series aimed specifically at publishing machine learning research presented at workshops and conferences. Each volume is separately titled and associated with a particular workshop or conference. Volumes are published online on the PMLR web site. The Series Editors are Neil D. Lawrence and Mark Reid.' at position None.
+            StaticText named 'None' with state 'http://proceedings.mlr.press//feed.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'InfoQ - Machine Learning' at position None.
+            StaticText named 'None' with state 'Helping dev teams adopt new technologies and practices. Written by software engineers. Read by over 1.5 million developers worldwide.' at position None.
+            StaticText named 'None' with state 'https://www.infoq.com/feed/MachineLearning' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Learn Machine Learning' at position None.
+            StaticText named 'None' with state 'A subreddit dedicated to learning machine learning' at position None.
+            StaticText named 'None' with state 'https://www.reddit.com/r/learnmachinelearning/.rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'CFPs on Machine Learning : WikiCFP' at position None.
+            StaticText named 'None' with state 'Machine Learning Calls For Papers (CFP) for international conferences, workshops, meetings, seminars, events, journals and book chapters' at position None.
+            StaticText named 'None' with state 'http://www.wikicfp.com/cfp/rss?cat=machine%20learning' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Practical AI: Machine Learning, Data Science' at position None.
+            StaticText named 'None' with state 'Making artificial intelligence practical, productive, and accessible to everyone. Practical AI is a show in which technology professionals, business people, students, enthusiasts, and expert guests engage in lively discussions about Artificial Intelligence and related topics (Machine Learning, Deep Learning, Neural Networks, GANs, MLOps, AIOps, and more). The focus is on productive implementations and real-world scenarios that are accessible to everyone. If you want to keep up with the latest advances in AI, while keeping one foot in the real world, then this is the show for you!' at position None.
+            StaticText named 'None' with state 'https://changelog.com/practicalai/feed' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Menthas #machine-learning' at position None.
+            StaticText named 'None' with state 'Menthas: Curated News Reader For Hackers.' at position None.
+            StaticText named 'None' with state 'http://menthas.com/machine-learning/rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Aprende Machine Learning' at position None.
+            StaticText named 'None' with state 'en Español' at position None.
+            StaticText named 'None' with state 'http://www.aprendemachinelearning.com/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'InfoWorld Machine Learning' at position None.
+            StaticText named 'None' with state 'Business technology, IT news, product reviews and enterprise IT strategies.' at position None.
+            StaticText named 'None' with state 'http://www.infoworld.com/category/machine-learning/index.rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'DVC AI: Developer tools for Machine Learning and Data Management' at position None.
+            StaticText named 'None' with state 'Discover DVC products and services. DVC AI is a suite of tools for data preprocessing and management, experiment tracking, ML models versioning, and pipeline automation.' at position None.
+            StaticText named 'None' with state 'https://dvc.org/blog/rss.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Active questions tagged machine-learning - Stack Overflow' at position None.
+            StaticText named 'None' with state 'most recent 30 from stackoverflow.com' at position None.
+            StaticText named 'None' with state 'http://stackoverflow.com/feeds/tag/machine-learning' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Qubole Blog | Machine Learning, Ad-Hoc Analytics, and Data Lakes' at position None.
+            StaticText named 'None' with state 'Qubole is the open data lake company . Open, simple and secure data lakes for machine learning, streaming analytics, data exploration, and ad-hoc analytics.' at position None.
+            StaticText named 'None' with state 'http://www.qubole.com/blog/index.php/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Musings about machine learning and other things' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'http://readingsml.blogspot.com/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'RTextTools: a machine learning library for text classification - Blog' at position None.
+            StaticText named 'None' with state 'RTextTools is a machine learning package for text classification written in R. Simple, free, and open source.' at position None.
+            StaticText named 'None' with state 'http://www.rtexttools.com/1/feed' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Newest questions tagged machine-learning - Stack Overflow' at position None.
+            StaticText named 'None' with state 'most recent 30 from stackoverflow.com' at position None.
+            StaticText named 'None' with state 'http://stackoverflow.com/feeds/tag?tagnames=machine-learning&sort=newest' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Newest questions tagged machine-learning - Theoretical Computer Science Stack Exchange' at position None.
+            StaticText named 'None' with state 'most recent 30 from cstheory.stackexchange.com' at position None.
+            StaticText named 'None' with state 'http://cstheory.stackexchange.com/feeds/tag?tagnames=machine-learning&sort=newest' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Inside Machine learning - Medium' at position None.
+            StaticText named 'None' with state 'Deep-dive articles about machine learning, cloud, and data. Curated by IBM. - Medium' at position None.
+            StaticText named 'None' with state 'https://medium.com/feed/inside-machine-learning' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Human Coders News : Machine Learning' at position None.
+            StaticText named 'None' with state 'Ressources et actualités sur le Machine Learning (Machine Learning, Data Science, IA ...)' at position None.
+            StaticText named 'None' with state 'http://news.humancoders.com/t/algorithmes/items/feed.rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning, etc' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'http://yaroslavvb.blogspot.com/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Social Media, Data Mining & Machine Learning' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'http://machine-learning.blogspot.com/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Street Talk' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Techniques' at position None.
+            StaticText named 'None' with state 'Machine Learning, Artificial Intelligence, Experimental Math' at position None.
+            StaticText named 'None' with state 'https://mltechniques.com/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning - DoorDash Engineering Blog' at position None.
+            StaticText named 'None' with state 'The official blog of the DoorDash Engineering team.' at position None.
+            StaticText named 'None' with state 'https://doordash.engineering/category/data-science-and-machine-learning/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'http://machineleaning.blogspot.com/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Ops Roundup' at position None.
+            StaticText named 'None' with state 'Why is machine learning in the real world hard and how do you make it better? This newsletter brings together the best articles, news, and papers highlighting the challenges and opportunities in MLOps' at position None.
+            StaticText named 'None' with state 'https://mlopsroundup.substack.com/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning con R' at position None.
+            StaticText named 'None' with state 'Ejemplos de Machine Learning y Data Mining con R' at position None.
+            StaticText named 'None' with state 'https://www.blogger.com/feeds/6869906380486827107/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Quirks' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'http://machine-learning-quirks.blogspot.com/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Hub' at position None.
+            StaticText named 'None' with state 'Digital innovation blog about machine learning and its use and applications in current business cases.' at position None.
+            StaticText named 'None' with state 'http://machinelearninghub.blogspot.com/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning for Computer Security.' at position None.
+            StaticText named 'None' with state 'Good and bad times with machine learning and security research.' at position None.
+            StaticText named 'None' with state 'http://feeds.feedburner.com/mlsec' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'The Machine Learning Journey' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'http://machinelearningjourney.blogspot.com/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Articles on paulbridger.com' at position None.
+            StaticText named 'None' with state 'Recent content in Machine Learning Articles on paulbridger.com' at position None.
+            StaticText named 'None' with state 'https://paulbridger.com/index.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning News-Ticker' at position None.
+            StaticText named 'None' with state 'Machine Learning News-Ticker' at position None.
+            StaticText named 'None' with state 'http://cervisia.org/rss_feed.pl/machine_learning_news.rss' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning in Netflix TechBlog on Medium' at position None.
+            StaticText named 'None' with state 'Latest stories tagged with Machine Learning in Netflix TechBlog on Medium' at position None.
+            StaticText named 'None' with state 'https://medium.com/feed/netflix-techblog/tagged/machine-learning' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning cơ bản' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'https://machinelearningcoban.com/feed.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '{ Machine Learning, Cloud Computing && Big Data }' at position None.
+            StaticText named 'None' with state 'Блог о машинном обучении, облачных технологиях и Больших Данных' at position None.
+            StaticText named 'None' with state 'http://www.codeinstinct.pro/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning with JSAT' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'http://jsatml.blogspot.com/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning - 空飛ぶロボットのつくりかた' at position None.
+            StaticText named 'None' with state 'ロボットをつくるために必要な技術をまとめます。ロボットの未来についても考えたりします。' at position None.
+            StaticText named 'None' with state 'http://robonchu.hatenablog.com/feed/category/Machine%20Learning' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning TV' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'https://www.youtube.com/feeds/videos.xml?channel_id=UChIaUcs3tho6XhyU6K6KMrw' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning is Linear Algebra' at position None.
+            StaticText named 'None' with state 'This is the blog of Marius Hobbhahn. I post projects, papers and code related to Machine Learning and opinion pieces on policy and ethics.' at position None.
+            StaticText named 'None' with state 'https://www.mariushobbhahn.com/feed.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Social Media, Data Mining & Machine Learning' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'http://feeds.feedburner.com/BusinessIntelligenceDataMiningMachineLearning' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning' at position None.
+            StaticText named 'None' with state 'Questions, opinions, and ideas about machine learning, statistics, and related fields.' at position None.
+            StaticText named 'None' with state 'http://machlearn.blogspot.com/atom.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning Blog - HackerEarth Blog' at position None.
+            StaticText named 'None' with state 'Innovation Management, Technical Recruitment, and Competitive Programming Resources' at position None.
+            StaticText named 'None' with state 'https://www.hackerearth.com/blog/machine-learning/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machine Learning University' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'https://www.youtube.com/feeds/videos.xml?channel_id=UC12LqyqTQYbXatYS9AA7Nuw' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'MIT News - Machine learning' at position None.
+            StaticText named 'None' with state 'MIT news feed about: Machine learning' at position None.
+            StaticText named 'None' with state 'http://news.mit.edu/rss/topic/machine-learning' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Machined Learnings' at position None.
+            StaticText named 'None' with state '$\lim_{t \to \infty} V(s_t) \to 0$ so live accordingly' at position None.
+            StaticText named 'None' with state 'http://www.machinedlearnings.com/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Journal of Machine Learning Research' at position None.
+            StaticText named 'None' with state 'Journal of Machine Learning Research' at position None.
+            StaticText named 'None' with state 'http://jmlr.csail.mit.edu/jmlr.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Apple Machine Learning Research' at position None.
+            StaticText named 'None' with state 'Apple machine learning teams are engaged in state of the art research in machine learning and artificial intelligence. Learn about the latest advancements.' at position None.
+            StaticText named 'None' with state 'https://machinelearning.apple.com/rss.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Oracle Machine Learning' at position None.
+            StaticText named 'None' with state 'Oracle Machine Learning' at position None.
+            StaticText named 'None' with state 'http://blogs.oracle.com/datamining/xml/rss.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Large Scale Machine Learning and Other Animals' at position None.
+            StaticText named 'None' with state 'No description' at position None.
+            StaticText named 'None' with state 'http://bickson.blogspot.com/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Applied Data Science and Machine Learning' at position None.
+            StaticText named 'None' with state 'Tips, tricks, and comments related to topics in data science and machine learning. Used to be called "data mining and predictive analytics" but updated the title to reflect the language of the day! Hosted by Dean Abbott, Abbott Analytics' at position None.
+            StaticText named 'None' with state 'http://abbottanalytics.blogspot.com/feeds/posts/default' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'AI - Machine Learning Blog articles' at position None.
+            StaticText named 'None' with state 'AI - Machine Learning Blog articles' at position None.
+            StaticText named 'None' with state 'https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MachineLearningBlog' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'New blog articles in Artificial Intelligence and Machine Learning' at position None.
+            StaticText named 'None' with state 'New blog articles in Artificial Intelligence and Machine Learning' at position None.
+            StaticText named 'None' with state 'https://techcommunity.microsoft.com/gxcuf89792/rss/Category?category.id=AI&interaction.style=blog' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'AI + Machine Learning | Microsoft Azure Blog | Microsoft Azure' at position None.
+            StaticText named 'None' with state 'Get the latest Azure news, updates, and announcements from the Azure blog. From product updates to hot topics, hear from the Azure experts.' at position None.
+            StaticText named 'None' with state 'https://azure.microsoft.com/en-us/blog/category/ai-machine-learning/feed/' at position None.
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Päpper's Machine Learning Blog' at position None.
+            StaticText named 'None' with state 'Recent content on Päpper's Machine Learning Blog' at position None.
+            StaticText named 'None' with state 'https://www.paepper.com/blog/index.xml' at position None.
+            Image named 'None' with state 'None' at position None.
+        Column named 'None' with state 'None' at position (550, 452).
+        Group named 'None' with state 'None' at position (550, 396).
+          Button named 'Feeds' with state 'None' at position (550, 396).
+      ScrollBar named 'None' with state '0.0' at position (1744, 452).
+        ValueIndicator named 'None' with state '0.0' at position (1752, 454).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (1752, 506).
+        Button named 'None' with state 'None' at position (1752, 452).
+    Button named 'Add Selected Feeds' with state 'None' at position (1480, 1072).
+    PopUpButton named 'None' with state 'Subscriptions' at position (726, 998).
+    StaticText named 'None' with state 'Add to folder:' at position (544, 1002).
+    StaticText named 'None' with state '' at position (544, 1088).
+    Button named 'Cancel' with state 'None' at position (1332, 1072).
+    TextField named 'None' with state 'machine learning' at position (732, 318).
+    Button named 'Search' with state 'None' at position (1636, 310).
+    PopUpButton named 'None' with state 'RSS Feeds' at position (726, 260).
+    StaticText named 'None' with state 'Source:' at position (616, 264).
+    StaticText named 'None' with state 'Keywords:' at position (584, 324).
+    Button named 'New Folder…' with state 'None' at position (718, 1072).

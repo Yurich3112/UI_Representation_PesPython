@@ -1,0 +1,29 @@
+Description for the Session application:
+Window named 'Session Pomodoro Focus Timer' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    StaticText named 'None' with state '' at position None.
+    Button named 'None' with state 'None' at position None.
+    Button named 'None' with state 'None' at position (0, 200).
+    Button named 'None' with state 'None' at position (0, 296).
+    Button named 'None' with state 'None' at position (0, 392).
+    Button named 'None' with state 'None' at position (0, 488).
+    Button named 'None' with state 'None' at position (0, 1224).
+    ScrollArea named 'None' with state 'None' at position (360, 88).
+      StaticText named 'None' with state 'Session helps you manage your time and keep you in the zone. Here's what you can do to get the most out of Session!' at position (408, 136).
+      StaticText named 'None' with state 'Create Session account' at position (432, 426).
+      StaticText named 'None' with state '☑️' at position (1218, 442).
+      StaticText named 'None' with state '' at position None.
+      StaticText named 'None' with state 'Complete your first Session today' at position (432, 530).
+      StaticText named 'None' with state '☑️' at position (1218, 546).
+      StaticText named 'None' with state 'Start your Session to kickstart your flow.' at position (432, 572).
+      StaticText named 'None' with state 'Integrate Session with your calendar' at position (432, 634).
+      StaticText named 'None' with state 'See your day at a glance. You can integrate from Settings after creating an account.' at position (432, 676).
+      StaticText named 'None' with state '☑️' at position (1218, 664).
+      StaticText named 'None' with state 'Get Started with Session on Mac' at position (432, 766).
+      StaticText named 'None' with state '☑️' at position (1218, 782).
+      StaticText named 'None' with state 'Learn how setting up Session can kickstart your productivity.' at position (432, 808).
+      Button named 'None' with state 'None' at position (416, 860).
+      Button named 'None' with state 'None' at position (416, 1078).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

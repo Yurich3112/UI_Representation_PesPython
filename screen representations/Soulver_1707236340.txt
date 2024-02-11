@@ -1,0 +1,48 @@
+Description for the Soulver application:
+Window named 'Soulver' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 106).
+      Table named 'None' with state 'None' at position (0, 106).
+        Row named 'None' with state 'None' at position (0, 106).
+          Cell named 'None' with state 'None' at position (12, 112).
+            StaticText named 'None' with state 'Empty' at position (36, 124).
+            StaticText named 'None' with state '17:17' at position (36, 164).
+            StaticText named 'None' with state 'No lines' at position (254, 164).
+        Column named 'None' with state 'None' at position (0, 106).
+    Button named ' New Sheet' with state 'None' at position (0, 52).
+    ScrollArea named 'None' with state 'None' at position (0, 1338).
+      Table named 'None' with state 'None' at position (0, 1338).
+        Row named 'None' with state 'None' at position (0, 1338).
+          Cell named 'None' with state 'None' at position (12, 1340).
+            StaticText named 'None' with state 'General' at position (90, 1348).
+            Image named 'None' with state 'None' at position (42, 1348).
+        Column named 'None' with state 'None' at position (0, 1338).
+    Splitter named 'None' with state '189.0' at position (378, 56).
+    ScrollArea named 'None' with state 'None' at position (380, 44).
+      TextArea named 'None' with state '' at position (462, 44).
+      Table named 'None' with state 'None' at position (1278, 44).
+        Row named 'None' with state 'None' at position (1278, 44).
+          Cell named 'None' with state 'None' at position (1280, 44).
+            StaticText named 'None' with state '' at position (1300, 50).
+        Row named 'None' with state 'None' at position (1278, 94).
+          Cell named 'None' with state 'None' at position (1280, 94).
+            StaticText named 'None' with state '' at position (1300, 104).
+        Column named 'None' with state 'None' at position (1278, 44).
+      Table named 'None' with state 'None' at position (380, 44).
+        Row named 'None' with state 'None' at position (380, 44).
+          Cell named 'None' with state 'None' at position (382, 44).
+            StaticText named 'None' with state '' at position (454, 56).
+        Row named 'None' with state 'None' at position (380, 94).
+          Cell named 'None' with state 'None' at position (382, 94).
+            StaticText named 'None' with state '1' at position (440, 114).
+        Column named 'None' with state 'None' at position (380, 44).
+      ScrollBar named 'None' with state '0.0' at position (2046, 44).
+      StaticText named 'None' with state 'Total' at position (1334, 1312).
+      StaticText named 'None' with state '' at position (1402, 1308).
+  Button named '' with state 'None' at position (1930, 12).
+  Button named '' with state 'None' at position (1982, 12).
+  Button named '' with state 'None' at position (2028, 12).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

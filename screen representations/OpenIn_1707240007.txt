@@ -1,0 +1,35 @@
+Description for the OpenIn application:
+Window named 'OpenIn Settings' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 160).
+    Group named 'None' with state 'None' at position (0, 160).
+      ScrollArea named 'None' with state 'None' at position (0, 160).
+        Heading named 'None' with state 'None' at position (60, 200).
+        Group named 'None' with state 'None' at position (34, 248).
+          StaticText named 'None' with state '👋 Hello, I am Denis Gladkikh, author of OpenIn. I built this app to help organize the applications that I use daily, and decided to share it with you.' at position (60, 272).
+          StaticText named 'None' with state 'I am an Indie Developer. This application is not built by large IT corporation. It gives some benefits to both of us, when you post a review or send me a support email, it will be me, who will answer.' at position (60, 356).
+          StaticText named 'None' with state 'I have built this app, I know how to use it, I can help you to configure it, and help fix the bugs if you find them.' at position (60, 440).
+          StaticText named 'None' with state 'If you have a question or what to know more about the application, please check the FAQ section at OpenIn website:' at position (60, 492).
+          Link named 'None' with state 'None' at position (60, 544).
+          StaticText named 'None' with state 'If you cannot find an answer to your question' at position (60, 618).
+          StaticText named 'None' with state 'Start a discussion at' at position (60, 670).
+          Link named 'None' with state 'None' at position (60, 722).
+          StaticText named 'None' with state 'Or send me email:' at position (60, 774).
+          Link named 'None' with state 'None' at position (60, 826).
+          StaticText named 'None' with state 'Do you have an idea or a suggestion how to improve the application? Send me email.' at position (60, 878).
+          StaticText named 'None' with state 'Do you want to stay in touch with me, learn first when the new version of OpenIn will be out, or participate in Beta? Subscribe to our newsletter. I send only handcrafted emails, and will never give your email to anybody else.' at position (60, 952).
+          Link named 'None' with state 'None' at position (60, 1036).
+        Button named 'None' with state 'None' at position (1326, 1146).
+  Toolbar named 'None' with state 'None' at position (0, 56).
+    Button named 'General' with state 'None' at position (388, 56).
+    Button named 'Browsers' with state 'None' at position (500, 56).
+    Button named 'Mail apps' with state 'None' at position (624, 56).
+    Button named 'Call apps' with state 'None' at position (750, 56).
+    Button named 'Files' with state 'None' at position (874, 56).
+    Button named 'Backups' with state 'None' at position (986, 56).
+    Button named 'About' with state 'None' at position (1102, 56).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'OpenIn Settings' at position (692, 10).

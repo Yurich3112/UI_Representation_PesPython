@@ -1,0 +1,6 @@
+Detected elements for the PhotosRevive application:
+Button (0.83 confidence) at position (1679, 1372)
+Button (0.82 confidence) at position (1332, 1375)
+TextView (0.70 confidence) at position (786, 26)
+ImageView (0.49 confidence) at position (71, 126)
+TextView (0.47 confidence) at position (7, 19)
