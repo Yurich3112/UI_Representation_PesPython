@@ -2,6 +2,7 @@
 1) два колаб ноутбука (один де ми тренували модель YOLO v5 під назвою "yh-Roboflow-Train-YOLOv5" та один де створювали текстову репрезентацію за допомогою цієї натренованої моделі"ScreenShot representation_PesPython.ipynb")
 2) Тека "screen_representation" що містить всі текстові репрезентації скріншотів у форматі txt з назвою “<APP_NAME>_<SCREEN_ID>.txt”
 3) Ваги моделі в архіві "best.pt"
+4) Посилання на датасет: "https://universe.roboflow.com/national-university-of-sciences-and-technology-nust/ui-components-detection"
 Також тут знайдете посилання на наш google drive з усіма вхідними та визідними файлами: "https://drive.google.com/drive/folders/1oN9BYYx0q-P6Qwax4nsSifwt0EGacXw1?usp=sharing"
 а також презентацією нашої команди: "https://docs.google.com/presentation/d/1XIweec8m28ntnNaPUUzfQ0uE7SCYqJZr/edit?usp=drive_link&ouid=109944250323732351398&rtpof=true&sd=true"
 Дякуємо за можливість спробувати себе в ролі дата саєнтістів! Це просто нереальний досвід! Сподіваємося що достойно покажемо себе на захисті порівняно з іншими командами :) 
