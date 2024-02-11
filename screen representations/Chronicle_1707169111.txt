@@ -1,0 +1,7 @@
+Detected elements for the Chronicle application:
+TextView (0.57 confidence) at position (553, 119)
+Button (0.45 confidence) at position (850, 111)
+TextView (0.39 confidence) at position (858, 116)
+ImageView (0.36 confidence) at position (441, 30)
+TextView (0.32 confidence) at position (1866, 3)
+TextView (0.27 confidence) at position (1085, 115)

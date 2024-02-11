@@ -1,0 +1,45 @@
+Description for the Books application:
+Window named 'Search' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          Group named 'None' with state 'None' at position (0, 104).
+            Group named 'None' with state 'None' at position (20, 104).
+              TextField named 'None' with state 'lord of the rings' at position (18, 108).
+              Button named 'None' with state 'None' at position (338, 122).
+            Heading named 'None' with state 'None' at position (20, 202).
+            StaticText named 'None' with state 'None' at position (20, 254).
+            StaticText named 'None' with state 'None' at position (20, 310).
+            StaticText named 'None' with state 'None' at position (20, 366).
+            Heading named 'None' with state 'Expanded' at position (20, 442).
+            StaticText named 'None' with state 'None' at position (20, 494).
+            StaticText named 'None' with state 'None' at position (20, 550).
+            StaticText named 'None' with state 'None' at position (20, 606).
+            StaticText named 'None' with state 'None' at position (20, 662).
+            StaticText named 'None' with state 'None' at position (20, 718).
+            StaticText named 'None' with state 'None' at position (20, 774).
+            StaticText named 'None' with state 'None' at position (20, 830).
+            Heading named 'None' with state 'Expanded' at position (20, 906).
+            Button named 'None' with state 'None' at position (20, 958).
+          Button named 'None' with state 'Mariya Hirna' at position (40, 1424).
+      Group named 'None' with state 'None' at position (402, 0).
+        Group named 'None' with state 'None' at position (402, 0).
+          Group named 'None' with state 'None' at position (426, 0).
+          Group named 'None' with state 'None' at position (402, 0).
+            Group named 'None' with state 'None' at position (402, 0).
+              StaticText named 'None' with state 'None' at position (428, 40).
+              Heading named 'None' with state 'None' at position (482, 168).
+              Button named 'None' with state 'None' at position (402, 226).
+              Button named 'None' with state 'None' at position (402, 332).
+              Button named 'None' with state 'None' at position (402, 436).
+              Button named 'None' with state 'None' at position (402, 542).
+              Heading named 'None' with state 'None' at position (482, 710).
+              Button named 'None' with state 'None' at position (402, 778).
+              Button named 'None' with state 'None' at position (402, 980).
+              Button named 'None' with state 'None' at position (402, 1184).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

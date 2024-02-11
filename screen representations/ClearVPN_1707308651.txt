@@ -1,0 +1,27 @@
+Description for the ClearVPN application:
+Group named 'None' with state 'None' at position (0, 0).
+  Image named 'None' with state 'None' at position (610, 148).
+  StaticText named 'None' with state 'Czechia' at position (658, 148).
+  StaticText named 'None' with state 'YOU'RE HERE NOW' at position (96, 170).
+  StaticText named 'None' with state 'VPN CONNECTION' at position (850, 170).
+  StaticText named 'None' with state 'Off' at position (1380, 168).
+  StaticText named 'None' with state '91.139.84.198' at position (604, 188).
+  Button named 'None' with state 'None' at position (1440, 156).
+  Image named 'None' with state 'None' at position (200, 278).
+  Image named 'None' with state 'None' at position (768, 374).
+  Image named 'None' with state 'None' at position (1248, 374).
+  StaticText named 'None' with state 'Location changer' at position (72, 562).
+  StaticText named 'None' with state 'Smart connection' at position (648, 576).
+  StaticText named 'None' with state 'Streaming' at position (1128, 576).
+  StaticText named 'None' with state 'You pick the country – we connect you to our safe servers located there.' at position (72, 628).
+  StaticText named 'None' with state 'Have your VPN automatically set up in the most efficient way with our smart VPN presets.' at position (648, 640).
+  StaticText named 'None' with state 'Watch shows on your favorite streaming service with this smart VPN tool.' at position (1128, 640).
+  Image named 'None' with state 'None' at position (656, 908).
+  StaticText named 'None' with state 'Top protection' at position (704, 920).
+  Image named 'None' with state 'None' at position (1136, 906).
+  StaticText named 'None' with state 'Netflix US' at position (1200, 920).
+  Image named 'None' with state 'None' at position (80, 982).
+  StaticText named 'None' with state 'Ukraine' at position (180, 1000).
+  Button named 'None' with state 'None' at position (388, 990).
+  Button named 'None' with state 'None' at position (56, 1160).
+  Button named 'None' with state 'None' at position (560, 1128).

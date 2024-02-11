@@ -1,0 +1,49 @@
+Description for the ClearVPN application:
+Group named 'None' with state 'None' at position (0, 0).
+  Image named 'None' with state 'None' at position (610, 148).
+  StaticText named 'None' with state 'Czechia' at position (658, 148).
+  StaticText named 'None' with state 'YOU'RE HERE NOW' at position (96, 170).
+  StaticText named 'None' with state 'VPN CONNECTION' at position (850, 170).
+  StaticText named 'None' with state 'Off' at position (1380, 168).
+  StaticText named 'None' with state '91.139.84.198' at position (604, 188).
+  Button named 'None' with state 'None' at position (1440, 156).
+  Button named 'None' with state 'None' at position (48, 292).
+  StaticText named 'None' with state 'What do you want to watch?' at position (624, 350).
+  Image named 'None' with state 'None' at position (48, 404).
+  StaticText named 'None' with state 'Streaming' at position (48, 698).
+  StaticText named 'None' with state 'Watch shows on your favorite streaming service with this smart VPN tool.' at position (48, 760).
+  Button named 'None' with state 'None' at position (56, 1160).
+  ScrollArea named 'None' with state 'None' at position (624, 420).
+    OpaqueProviderGroup named 'None' with state 'None' at position (656, 336).
+      Image named 'None' with state 'None' at position (656, 336).
+      StaticText named 'None' with state 'Amazon FreeVee' at position (736, 356).
+      Image named 'None' with state 'None' at position (656, 448).
+      StaticText named 'None' with state 'AmazonPrime US' at position (736, 468).
+      Image named 'None' with state 'None' at position (656, 560).
+      StaticText named 'None' with state 'AmazonPrime UK' at position (736, 580).
+      Image named 'None' with state 'None' at position (656, 672).
+      StaticText named 'None' with state 'BBC iPlayer' at position (736, 692).
+      Image named 'None' with state 'None' at position (656, 784).
+      StaticText named 'None' with state 'Britbox' at position (736, 804).
+      Image named 'None' with state 'None' at position (656, 896).
+      StaticText named 'None' with state 'Crackle' at position (736, 916).
+      Image named 'None' with state 'None' at position (656, 1008).
+      StaticText named 'None' with state 'Crave' at position (736, 1028).
+      Image named 'None' with state 'None' at position (656, 1120).
+      StaticText named 'None' with state 'Disney+ US' at position (736, 1140).
+      Image named 'None' with state 'None' at position (656, 1232).
+      StaticText named 'None' with state 'Disney+ UK' at position (736, 1252).
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'ESPN' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'F1 TV' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Fox Sports' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'FUBO TV' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'HBO Max' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Hulu' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'LocalNow' at position None.

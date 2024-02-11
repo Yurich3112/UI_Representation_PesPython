@@ -1,0 +1,214 @@
+Description for the Chrome application:
+Group named '' with state '' at position (0, 0).
+  TabGroup named '' with state '' at position (160, 0).
+    RadioButton named '' with state 'False' at position (160, 0).
+      Button named '' with state '' at position (588, 12).
+    RadioButton named '' with state 'False' at position (636, 0).
+      Button named '' with state '' at position (1064, 12).
+    RadioButton named '' with state 'True' at position (1112, 0).
+      Button named '' with state '' at position (1540, 12).
+    Button named '' with state '' at position (1612, 0).
+    PopUpButton named '' with state '' at position (1962, 0).
+  Toolbar named '' with state '' at position (0, 80).
+    Button named '' with state '' at position (10, 92).
+    Button named '' with state '' at position (82, 92).
+    Button named '' with state '' at position (154, 92).
+    StaticText named '' with state '' at position None.
+    Group named '' with state '' at position (240, 92).
+      StaticText named '' with state '' at position None.
+      PopUpButton named '' with state '' at position (250, 102).
+      TextField named '' with state 'chrome://settings/languages' at position (422, 102).
+      Button named '' with state '' at position (1610, 102).
+    StaticText named '' with state '' at position None.
+    PopUpButton named '' with state '' at position (1700, 92).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (1808, 92).
+    Button named '' with state '' at position (1880, 92).
+    PopUpButton named '' with state '' at position (1952, 92).
+  Toolbar named '' with state '' at position (0, 172).
+    StaticText named '' with state 'Apps' at position None.
+    StaticText named '' with state 'Managed Bookmarks' at position None.
+    Toolbar named '' with state '' at position None.
+      StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (12, 172).
+    Button named '' with state '' at position (162, 172).
+    Button named '' with state '' at position (342, 172).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state 'All Bookmarks' at position None.
+  WebArea named 'Settings – Languages' with state '' at position (0, 242).
+    Group named '' with state '' at position (0, 242).
+      Group named '' with state '' at position (0, 242).
+        Group named '' with state '' at position (42, 274).
+        Heading named 'Settings' with state '' at position (134, 272).
+          StaticText named '' with state 'Settings' at position (134, 272).
+      Group named '' with state '' at position (544, 262).
+        Group named '' with state '' at position (544, 262).
+        Group named '' with state '' at position (544, 262).
+        Group named '' with state '' at position (556, 262).
+          Group named '' with state '' at position (612, 276).
+            TextField named 'Search settings' with state '' at position (612, 276).
+    Group named '' with state '' at position (0, 354).
+    Group named '' with state '' at position (0, 354).
+      Group named '' with state '' at position (0, 354).
+        Group named '' with state '' at position (0, 354).
+          Group named '' with state '' at position (0, 370).
+            Menu named '' with state '' at position (0, 370).
+              MenuItem named 'You and Google' with state '' at position (2, 370).
+                Group named '' with state '' at position (48, 390).
+                  Image named '' with state '' at position (48, 390).
+                StaticText named '' with state 'You and Google' at position (128, 394).
+                Group named '' with state '' at position (2, 370).
+              MenuItem named 'Autofill and passwords' with state '' at position (2, 450).
+                Group named '' with state '' at position (48, 470).
+                  Image named '' with state '' at position (48, 470).
+                StaticText named '' with state 'Autofill and passwords' at position (128, 474).
+                Group named '' with state '' at position (2, 450).
+              MenuItem named 'Privacy and security' with state '' at position (2, 530).
+                Group named '' with state '' at position (48, 550).
+                  Image named '' with state '' at position (48, 550).
+                StaticText named '' with state 'Privacy and security' at position (128, 554).
+                Group named '' with state '' at position (2, 530).
+              MenuItem named 'Performance' with state '' at position (2, 610).
+                Group named '' with state '' at position (48, 630).
+                  Image named '' with state '' at position (48, 630).
+                StaticText named '' with state 'Performance' at position (128, 634).
+                Group named '' with state '' at position (2, 610).
+              MenuItem named 'Appearance' with state '' at position (2, 690).
+                Group named '' with state '' at position (48, 710).
+                  Image named '' with state '' at position (48, 710).
+                StaticText named '' with state 'Appearance' at position (128, 714).
+                Group named '' with state '' at position (2, 690).
+              MenuItem named 'Search engine' with state '' at position (2, 770).
+                Group named '' with state '' at position (48, 790).
+                  Image named '' with state '' at position (48, 790).
+                StaticText named '' with state 'Search engine' at position (128, 794).
+                Group named '' with state '' at position (2, 770).
+              MenuItem named 'Default browser' with state '' at position (2, 850).
+                Group named '' with state '' at position (48, 870).
+                  Image named '' with state '' at position (48, 870).
+                StaticText named '' with state 'Default browser' at position (128, 874).
+                Group named '' with state '' at position (2, 850).
+              MenuItem named 'On start-up' with state '' at position (2, 930).
+                Group named '' with state '' at position (48, 950).
+                  Image named '' with state '' at position (48, 950).
+                StaticText named '' with state 'On start-up' at position (128, 954).
+                Group named '' with state '' at position (2, 930).
+              MenuItem named 'Languages' with state '' at position (2, 1044).
+                Group named '' with state '' at position (48, 1064).
+                  Image named '' with state '' at position (48, 1064).
+                StaticText named '' with state 'Languages' at position (128, 1068).
+                Group named '' with state '' at position (2, 1044).
+              MenuItem named 'Downloads' with state '' at position (2, 1124).
+                Group named '' with state '' at position (48, 1144).
+                  Image named '' with state '' at position (48, 1144).
+                StaticText named '' with state 'Downloads' at position (128, 1148).
+                Group named '' with state '' at position (2, 1124).
+              MenuItem named 'Accessibility' with state '' at position (2, 1204).
+                Group named '' with state '' at position (48, 1224).
+                  Image named '' with state '' at position (48, 1224).
+                StaticText named '' with state 'Accessibility' at position (128, 1228).
+                Group named '' with state '' at position (2, 1204).
+              MenuItem named 'System' with state '' at position (2, 1284).
+                Group named '' with state '' at position (48, 1304).
+                  Image named '' with state '' at position (48, 1304).
+                StaticText named '' with state 'System' at position (128, 1308).
+                Group named '' with state '' at position (2, 1284).
+              MenuItem named 'Reset settings' with state '' at position (2, 1364).
+                Group named '' with state '' at position (48, 1384).
+                  Image named '' with state '' at position (48, 1384).
+                StaticText named '' with state 'Reset settings' at position (128, 1388).
+                Group named '' with state '' at position (2, 1364).
+              MenuItem named 'Extensions' with state '' at position (2, 1478).
+                Group named '' with state '' at position (48, 1498).
+                  Image named '' with state '' at position (48, 1498).
+                StaticText named '' with state 'Extensions' at position (128, 1502).
+                Group named '' with state '' at position (2, 1478).
+              MenuItem named 'About Chrome' with state '' at position (2, 1558).
+                StaticText named '' with state 'About Chrome' at position (128, 1582).
+                Group named '' with state '' at position (2, 1558).
+      Group named '' with state '' at position (556, 354).
+        Group named '' with state '' at position (556, 354).
+          Heading named 'Preferred languages' with state '' at position (556, 396).
+            StaticText named '' with state 'Preferred languages' at position (556, 416).
+          Group named '' with state '' at position (556, 484).
+            Heading named 'Websites will show content in your preferred languages, when possible' with state '' at position (596, 484).
+              StaticText named '' with state 'Websites will show content in your preferred languages, when possible' at position (596, 554).
+            Button named 'Add languages' with state '' at position (1624, 524).
+              Group named '' with state '' at position (1626, 526).
+              StaticText named '' with state 'Add languages' at position (1658, 546).
+            List named '' with state '' at position (556, 612).
+              Group named '' with state '' at position (676, 612).
+                Group named '' with state '' at position (676, 636).
+                  StaticText named '' with state '1. English (United Kingdom)' at position (676, 642).
+                Group named '' with state '' at position (676, 676).
+                  StaticText named '' with state 'This language is used when translating pages' at position (676, 682).
+                Button named '' with state '' at position (1812, 644).
+                  Group named '' with state '' at position (1812, 644).
+              Group named '' with state '' at position (676, 740).
+                Group named '' with state '' at position (676, 770).
+                  StaticText named '' with state '2. English (United States)' at position (676, 776).
+                Button named '' with state '' at position (1812, 758).
+                  Group named '' with state '' at position (1812, 758).
+              Group named '' with state '' at position (676, 838).
+                Group named '' with state '' at position (676, 868).
+                  StaticText named '' with state '3. English' at position (676, 874).
+                Button named '' with state '' at position (1812, 856).
+                  Group named '' with state '' at position (1812, 856).
+        Group named '' with state '' at position (556, 942).
+          Heading named 'Spell check' with state '' at position (556, 984).
+            StaticText named '' with state 'Spell check' at position (556, 1004).
+          Group named '' with state '' at position (556, 1072).
+            Group named '' with state '' at position (556, 1072).
+              Group named '' with state '' at position (1154, 1410).
+              CheckBox named '' with state '' at position (1824, 1106).
+            Group named '' with state '' at position (556, 1170).
+              RadioGroup named '' with state '' at position (596, 1170).
+                Group named '' with state '' at position (596, 1170).
+                  RadioButton named 'Basic spell check' with state '' at position (596, 1202).
+                    Group named '' with state '' at position (604, 1210).
+                  Group named '' with state '' at position (676, 1198).
+                    StaticText named '' with state 'Basic spell check' at position (676, 1204).
+                Group named '' with state '' at position (596, 1266).
+                  RadioButton named 'Enhanced spell check' with state '' at position (596, 1270).
+                    Group named '' with state '' at position None.
+                  Group named '' with state '' at position (676, 1266).
+                    StaticText named '' with state 'Enhanced spell check' at position (676, 1272).
+                    Group named '' with state '' at position (676, 1306).
+                      StaticText named '' with state 'Uses the same spell checker that’s used in Google search. Text that you type in the browser is sent to Google.' at position (676, 1312).
+        Group named '' with state '' at position (556, 1416).
+          Heading named 'Google Translate' with state '' at position (556, 1458).
+            StaticText named '' with state 'Google Translate' at position (556, 1478).
+          Group named '' with state '' at position (556, 1546).
+            Group named '' with state '' at position (556, 1546).
+              Group named '' with state '' at position None.
+              CheckBox named '' with state '' at position None.
+            Group named '' with state '' at position None.
+              PopUpButton named 'Translate into this language' with state 'English' at position None.
+                MenuItem named '' with state 'English' at position None.
+              Heading named 'Automatically translate these languages' with state '' at position None.
+                StaticText named '' with state 'Automatically translate these languages' at position None.
+              Button named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                StaticText named '' with state 'Add languages' at position None.
+              List named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                StaticText named '' with state 'No languages added' at position None.
+              Heading named 'Never offer to translate these languages' with state '' at position None.
+                StaticText named '' with state 'Never offer to translate these languages' at position None.
+              Button named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                StaticText named '' with state 'Add languages' at position None.
+              List named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    StaticText named '' with state 'English' at position None.
+                  Button named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+  PopUpButton named '' with state 'Bookmarks' at position (922, 256).
+    Button named '' with state '' at position (922, 256).
+  Button named '' with state '' at position None.
+  Splitter named '' with state '' at position (888, 242).

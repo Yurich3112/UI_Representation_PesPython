@@ -1,0 +1,41 @@
+Description for the Dash application:
+Window named 'Welcome!' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 104).
+    Splitter named 'None' with state '0.0' at position (0, 104).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        ScrollArea named '' with state '' at position (0, 104).
+          WebArea named '' with state '' at position (0, 104).
+            Group named '' with state '' at position (0, 398).
+              Button named '' with state '' at position (822, 416).
+              Button named '' with state '' at position (1218, 416).
+              Button named '' with state '' at position (822, 810).
+              Button named '' with state '' at position (1218, 810).
+    StaticText named 'None' with state '' at position (14, 1512).
+  Button named '' with state 'None' at position (168, 24).
+  Button named '' with state 'None' at position (242, 24).
+  Button named '' with state 'None' at position (324, 24).
+  Button named '' with state 'None' at position (2310, 24).
+  Button named '' with state 'None' at position (2146, 24).
+  Button named '' with state 'None' at position (2064, 24).
+  Button named '' with state 'None' at position (2228, 24).
+  TextField named 'None' with state '' at position (828, 24).
+  Image named 'None' with state 'None' at position (840, 36).
+  Button named '' with state 'None' at position (1592, 24).
+  ScrollArea named 'None' with state 'None' at position (580, 106).
+    Table named 'None' with state 'None' at position (580, 106).
+      Row named 'None' with state 'None' at position (580, 106).
+        Cell named 'None' with state 'None' at position (580, 106).
+          StaticText named 'None' with state 'Active Search Profile:' at position (992, 116).
+          Button named 'Default' with state 'None' at position (1246, 106).
+          Button named '' with state 'None' at position (1750, 106).
+      Row named 'None' with state 'None' at position (580, 166).
+        Cell named 'None' with state 'None' at position (580, 166).
+          StaticText named 'None' with state 'Warning: No docsets available! Click here to download some.' at position (582, 174).
+          Button named '' with state 'None' at position (1770, 180).
+      Column named 'None' with state 'None' at position (580, 106).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state '' at position (1190, 10).

@@ -1,0 +1,112 @@
+Description for the ClearVPN application:
+Group named 'None' with state 'None' at position (0, 0).
+  Image named 'None' with state 'None' at position (610, 148).
+  StaticText named 'None' with state 'Czechia' at position (658, 148).
+  StaticText named 'None' with state 'YOU'RE HERE NOW' at position (96, 170).
+  StaticText named 'None' with state 'VPN CONNECTION' at position (850, 170).
+  StaticText named 'None' with state 'Off' at position (1380, 168).
+  StaticText named 'None' with state '91.139.84.198' at position (604, 188).
+  Button named 'None' with state 'None' at position (1440, 156).
+  Button named 'None' with state 'None' at position (48, 292).
+  Button named 'None' with state 'None' at position (624, 348).
+  ScrollArea named 'None' with state 'None' at position (722, 340).
+    Button named 'None' with state 'None' at position (722, 340).
+    Button named 'None' with state 'None' at position (934, 340).
+    Button named 'None' with state 'None' at position (1128, 340).
+  Image named 'None' with state 'None' at position (56, 404).
+  StaticText named 'None' with state 'Location changer' at position (56, 698).
+  StaticText named 'None' with state 'You pick the country – we connect you to our safe servers located there.' at position (56, 760).
+  Button named 'None' with state 'None' at position (56, 1160).
+  ScrollArea named 'None' with state 'None' at position (624, 454).
+    Heading named 'None' with state 'None' at position (624, 460).
+    Image named 'None' with state 'None' at position (656, 526).
+    StaticText named 'None' with state 'Ukraine' at position (752, 536).
+    StaticText named 'None' with state '·' at position (866, 538).
+    StaticText named 'None' with state 'Odesa' at position (884, 538).
+    Image named 'None' with state 'None' at position (1404, 520).
+    StaticText named 'None' with state '42 ms' at position (1380, 558).
+    Button named 'None' with state 'None' at position (1436, 502).
+    Image named 'None' with state 'None' at position (656, 642).
+    StaticText named 'None' with state 'France' at position (752, 636).
+    StaticText named 'None' with state '·' at position (852, 638).
+    StaticText named 'None' with state 'Paris' at position (870, 638).
+    Image named 'None' with state 'None' at position (1404, 638).
+    StaticText named 'None' with state '#RichContent ' at position (752, 680).
+    StaticText named 'None' with state '31 ms' at position (1384, 674).
+    Image named 'None' with state 'None' at position (656, 756).
+    StaticText named 'None' with state 'Czech Republic' at position (752, 764).
+    StaticText named 'None' with state '·' at position (974, 766).
+    StaticText named 'None' with state 'Prague' at position (990, 766).
+    Image named 'None' with state 'None' at position (1404, 750).
+    StaticText named 'None' with state '17 ms' at position (1386, 788).
+    Heading named 'None' with state 'None' at position (624, 854).
+    Button named 'None' with state 'None' at position (1414, 848).
+    OpaqueProviderGroup named 'None' with state 'None' at position (656, 926).
+      Image named 'None' with state 'None' at position (656, 932).
+      StaticText named 'None' with state 'Germany' at position (752, 926).
+      StaticText named 'None' with state '·' at position (886, 928).
+      StaticText named 'None' with state 'Frankfurt Am Main' at position (902, 928).
+      StaticText named 'None' with state '#RichContent ' at position (752, 970).
+      Image named 'None' with state 'None' at position (1404, 926).
+      StaticText named 'None' with state '22 ms' at position (1380, 964).
+      Image named 'None' with state 'None' at position (656, 1044).
+      StaticText named 'None' with state 'Slovakia' at position (752, 1054).
+      StaticText named 'None' with state '·' at position (874, 1056).
+      StaticText named 'None' with state 'Bratislava' at position (892, 1056).
+      Image named 'None' with state 'None' at position (1404, 1040).
+      StaticText named 'None' with state '22 ms' at position (1380, 1078).
+      Image named 'None' with state 'None' at position (656, 1142).
+      StaticText named 'None' with state 'Croatia' at position (752, 1152).
+      StaticText named 'None' with state '·' at position (862, 1154).
+      StaticText named 'None' with state 'Zagreb' at position (880, 1154).
+      Image named 'None' with state 'None' at position (1404, 1136).
+      StaticText named 'None' with state '27 ms' at position (1382, 1174).
+      Image named 'None' with state 'None' at position (656, 1238).
+      StaticText named 'None' with state 'Serbia' at position (752, 1248).
+      StaticText named 'None' with state '·' at position (848, 1250).
+      StaticText named 'None' with state 'Belgrade' at position (864, 1250).
+      Image named 'None' with state 'None' at position (1404, 1234).
+      StaticText named 'None' with state '30 ms' at position (1380, 1270).
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Netherlands' at position None.
+      StaticText named 'None' with state '·' at position None.
+      StaticText named 'None' with state 'The Hague' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state '32 ms' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Slovenia' at position None.
+      StaticText named 'None' with state '·' at position None.
+      StaticText named 'None' with state 'Ljubljana' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state '33 ms' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Greece' at position None.
+      StaticText named 'None' with state '·' at position None.
+      StaticText named 'None' with state 'Thessaloniki' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state '36 ms' at position None.
+      Button named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Poland' at position None.
+      StaticText named 'None' with state '·' at position None.
+      StaticText named 'None' with state 'Warsaw' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state '40 ms' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Sweden' at position None.
+      StaticText named 'None' with state '·' at position None.
+      StaticText named 'None' with state 'Stockholm' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state '41 ms' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Moldova' at position None.
+      StaticText named 'None' with state '·' at position None.
+      StaticText named 'None' with state 'Chisinau' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state '42 ms' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Austria' at position None.
+      StaticText named 'None' with state '·' at position None.
+      StaticText named 'None' with state 'Langenzersdorf' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state '47 ms' at position None.

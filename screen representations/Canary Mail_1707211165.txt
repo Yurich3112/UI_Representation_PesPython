@@ -1,0 +1,14 @@
+Description for the Canary Mail application:
+Window named 'Window' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Welcome to
+Canary' at position (96, 144).
+  Image named 'None' with state 'None' at position (256, 434).
+  StaticText named 'None' with state 'Use the power of AI to craft your emails, surface the important ones, and kill your spam.' at position (96, 802).
+  Button named 'Continue' with state 'None' at position (100, 1098).
+  StaticText named 'None' with state 'By continuing you agree to accept our' at position (126, 1226).
+  Button named 'terms of service' with state 'None' at position (142, 1262).
+  StaticText named 'None' with state 'and' at position (364, 1262).
+  Button named 'privacy policy' with state 'None' at position (424, 1262).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

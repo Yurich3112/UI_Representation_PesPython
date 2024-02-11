@@ -1,0 +1,8 @@
+Description for the Diarly application:
+Window named 'Welcome' with state 'None' at position (0, 0).
+  ScrollArea named 'None' with state 'None' at position (0, 156).
+    StaticText named 'None' with state 'Welcome to Diarly' at position (310, 156).
+    StaticText named 'None' with state 'Secure, simple & beautiful diary app.' at position (180, 254).
+    Image named 'None' with state 'None' at position (238, 488).
+  Button named 'Get Started' with state 'None' at position (770, 1214).
+  Button named 'Skip' with state 'None' at position (66, 1214).

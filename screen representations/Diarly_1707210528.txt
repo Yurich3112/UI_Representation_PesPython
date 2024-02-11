@@ -1,0 +1,7 @@
+Detected elements for the Diarly application:
+Button (0.68 confidence) at position (778, 1205)
+TextView (0.57 confidence) at position (45, 621)
+TextView (0.57 confidence) at position (65, 408)
+TextView (0.54 confidence) at position (42, 872)
+TextView (0.42 confidence) at position (92, 531)
+TextView (0.25 confidence) at position (102, 791)

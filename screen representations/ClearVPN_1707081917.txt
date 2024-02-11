@@ -1,0 +1,51 @@
+Description for the ClearVPN application:
+Group named 'None' with state 'None' at position (0, 0).
+  Button named 'None' with state 'None' at position (1488, 76).
+  StaticText named 'None' with state 'Shortcuts' at position (448, 132).
+  StaticText named 'None' with state 'Account' at position (48, 224).
+  StaticText named 'None' with state 'Your devices' at position (48, 292).
+  StaticText named 'None' with state 'Speed up your actions with keyboard shortcuts' at position (448, 276).
+  StaticText named 'None' with state 'System settings' at position (48, 360).
+  StaticText named 'None' with state 'VPN activation' at position (448, 372).
+  StaticText named 'None' with state 'Shortcuts' at position (48, 428).
+  StaticText named 'None' with state 'Stand with Ukraine 🇺🇦' at position (48, 496).
+  StaticText named 'None' with state 'Need help?' at position (48, 600).
+  OpaqueProviderGroup named 'None' with state 'None' at position (464, 436).
+    StaticText named 'None' with state 'Activate VPN mode' at position (464, 446).
+    Image named 'None' with state 'None' at position (836, 436).
+    StaticText named 'None' with state 'Details screen' at position (1020, 462).
+    Image named 'None' with state 'None' at position (1456, 436).
+    StaticText named 'None' with state 'Switch between smart presets' at position (464, 574).
+    Image named 'None' with state 'None' at position (758, 564).
+    StaticText named 'None' with state '/' at position (854, 584).
+    Image named 'None' with state 'None' at position (900, 564).
+    StaticText named 'None' with state 'Switch between VPN modes' at position (1020, 574).
+    Image named 'None' with state 'None' at position (1314, 564).
+    StaticText named 'None' with state '/' at position (1410, 584).
+    Image named 'None' with state 'None' at position (1456, 564).
+  StaticText named 'None' with state 'Navigation' at position (448, 708).
+  Image named 'None' with state 'None' at position (82, 870).
+  OpaqueProviderGroup named 'None' with state 'None' at position (464, 772).
+    StaticText named 'None' with state 'Open settings' at position (464, 798).
+    Image named 'None' with state 'None' at position (720, 772).
+    StaticText named 'None' with state '&' at position (856, 792).
+    Image named 'None' with state 'None' at position (900, 772).
+    StaticText named 'None' with state 'Back to the main screen' at position (1020, 782).
+    Image named 'None' with state 'None' at position (1408, 772).
+    StaticText named 'None' with state 'Search for countries in Location changer' at position (464, 906).
+    Image named 'None' with state 'None' at position (720, 912).
+    StaticText named 'None' with state '&' at position (856, 932).
+    Image named 'None' with state 'None' at position (900, 912).
+  StaticText named 'None' with state 'Are you sure 
+all your devices are protected?' at position (114, 1044).
+  StaticText named 'None' with state 'Close the app' at position (448, 1068).
+  Button named 'None' with state 'None' at position (80, 1150).
+  OpaqueProviderGroup named 'None' with state 'None' at position (464, 1132).
+    StaticText named 'None' with state 'Quit the app' at position (464, 1158).
+    Image named 'None' with state 'None' at position (720, 1132).
+    StaticText named 'None' with state '&' at position (856, 1152).
+    Image named 'None' with state 'None' at position (900, 1132).
+    StaticText named 'None' with state 'Hide the app' at position (1020, 1158).
+    Image named 'None' with state 'None' at position (1276, 1132).
+    StaticText named 'None' with state '&' at position (1412, 1152).
+    Image named 'None' with state 'None' at position (1456, 1132).

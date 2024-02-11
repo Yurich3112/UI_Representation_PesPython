@@ -1,0 +1,20 @@
+Description for the ClearVPN application:
+Group named 'None' with state 'None' at position (0, 0).
+  Button named 'None' with state 'None' at position (1488, 76).
+  StaticText named 'None' with state 'Account' at position (448, 132).
+  StaticText named 'None' with state 'Account' at position (48, 224).
+  StaticText named 'None' with state 'Your devices' at position (48, 292).
+  StaticText named 'None' with state 'App language' at position (448, 310).
+  StaticText named 'None' with state 'System settings' at position (48, 360).
+  StaticText named 'None' with state 'English' at position (448, 358).
+  StaticText named 'None' with state 'Shortcuts' at position (48, 428).
+  Button named 'None' with state 'None' at position (448, 412).
+  StaticText named 'None' with state 'Stand with Ukraine 🇺🇦' at position (48, 496).
+  StaticText named 'None' with state 'ClearVPN’s newsletter' at position (448, 536).
+  StaticText named 'None' with state 'Don’t miss updates, tips & special offers' at position (448, 578).
+  CheckBox named 'None' with state '0' at position (1476, 552).
+  StaticText named 'None' with state 'Need help?' at position (48, 600).
+  Image named 'None' with state 'None' at position (82, 870).
+  StaticText named 'None' with state 'Are you sure 
+all your devices are protected?' at position (114, 1044).
+  Button named 'None' with state 'None' at position (80, 1150).

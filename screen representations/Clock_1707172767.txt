@@ -1,0 +1,29 @@
+Description for the Clock application:
+Window named 'Clock' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          GenericElement named 'None' with state 'None' at position (624, 90).
+          StaticText named 'None' with state 'None' at position (704, 406).
+          StaticText named 'None' with state 'None' at position (1000, 406).
+          StaticText named 'None' with state 'None' at position (1292, 406).
+          Group named 'None' with state 'None' at position (0, 450).
+            Group named 'None' with state '' at position (0, 450).
+              StaticText named 'None' with state '' at position (0, 450).
+          Button named 'None' with state 'None' at position (692, 1368).
+          Button named 'None' with state 'None' at position (1032, 1368).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (652, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x11b628b90> {pid=92889}' at position (648, 12).
+        RadioButton named 'None' with state '0' at position (648, 12).
+        RadioButton named 'None' with state '0' at position (842, 12).
+        RadioButton named 'None' with state '1' at position (1024, 12).
+        RadioButton named 'None' with state '0' at position (1206, 12).
+    MenuButton named 'None' with state 'None' at position (1960, 0).
+      MenuButton named '' with state 'None' at position (1956, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

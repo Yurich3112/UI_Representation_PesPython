@@ -1,0 +1,11 @@
+Description for the Diarly application:
+Window named 'Welcome' with state 'None' at position (0, 0).
+  ScrollArea named 'None' with state 'None' at position (0, 192).
+    StaticText named 'None' with state 'Choose the main purpose of your journal for a personalized experience:' at position (66, 192).
+    StaticText named 'None' with state '🌱 Foster self-improvement and self-discovery.' at position (120, 370).
+    StaticText named 'None' with state '🧘 Practice mindfulness and live in the present.' at position (120, 468).
+    StaticText named 'None' with state '📓 Document your everyday moments and thoughts.' at position (120, 566).
+    StaticText named 'None' with state '😌 Reflect and cultivate mental health.' at position (120, 664).
+    StaticText named 'None' with state '🌍 Capture memories and experiences from your journeys.' at position (120, 762).
+    StaticText named 'None' with state '✅ Set, track, and celebrate your progress.' at position (120, 860).
+  Button named 'Continue' with state 'None' at position (808, 1214).

@@ -1,0 +1,92 @@
+Description for the Chrome application:
+Group named '' with state '' at position (0, 0).
+  TabGroup named '' with state '' at position (160, 0).
+    RadioButton named '' with state 'False' at position (160, 0).
+      Button named '' with state '' at position (588, 12).
+    RadioButton named '' with state 'True' at position (636, 0).
+      Button named '' with state '' at position (1064, 12).
+    Button named '' with state '' at position (1136, 0).
+    PopUpButton named '' with state '' at position (2332, 0).
+  Toolbar named '' with state '' at position (0, 80).
+    Button named '' with state '' at position (10, 92).
+    Button named '' with state '' at position (82, 92).
+    Button named '' with state '' at position (154, 92).
+    StaticText named '' with state '' at position None.
+    Group named '' with state '' at position (240, 92).
+      StaticText named '' with state '' at position None.
+      PopUpButton named '' with state '' at position (250, 102).
+      TextField named '' with state 'google.com/search?gs_ssp=eJzj4tDP1TcwNTYpM2D04svNrEysSszOVMhIrEzMBwBjDwg6&q=miyazaki+hayao&rlz=1C5GCEM_enCZ1096&oq=miyazaki+&gs_lcrp=EgZjaHJvbWUqBwgDEC4YgAQyBwgAEAAYjwIyBwgBEAAYgAQyBwgCEC4YgAQyBwgDEC4YgAQyBwgEEAAYgAQyBwgFEC4YgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyDQgJEC4YrwEYxwEYgATSAQkyNjc1MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8' at position (314, 102).
+      Button named '' with state '' at position (1916, 102).
+      Button named '' with state '' at position (1980, 102).
+    StaticText named '' with state '' at position None.
+    PopUpButton named '' with state '' at position (2070, 92).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (2178, 92).
+    Button named '' with state '' at position (2250, 92).
+    PopUpButton named '' with state '' at position (2322, 92).
+  Toolbar named '' with state '' at position (0, 172).
+    StaticText named '' with state 'Apps' at position None.
+    StaticText named '' with state 'Managed Bookmarks' at position None.
+    Toolbar named '' with state '' at position None.
+      StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (12, 172).
+    Button named '' with state '' at position (162, 172).
+    Button named '' with state '' at position (342, 172).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state 'All Bookmarks' at position None.
+  WebArea named 'miyazaki hayao - Пошук Google' with state '' at position (0, 242).
+    Group named '' with state '' at position (0, 242).
+      Group named '' with state '' at position (0, 242).
+        Group named '' with state '' at position (0, 242).
+          Group named '' with state '' at position (0, 530).
+            Group named '' with state '' at position (0, 242).
+              Group named '' with state '' at position (1680, 242).
+                Image named '' with state '' at position (1680, 248).
+                Heading named 'Налаштування пошуку' with state '' at position (1808, 284).
+                  StaticText named '' with state 'Налаштування пошуку' at position (1808, 284).
+                Button named '' with state '' at position (2320, 272).
+                  Image named '' with state '' at position (2336, 288).
+                Link named '' with state '' at position (1680, 382).
+                  Image named '' with state '' at position (1728, 434).
+                  StaticText named '' with state 'Персоналізація пошуку' at position (1808, 418).
+                  StaticText named '' with state 'Вимкнено' at position (1808, 468).
+                Link named '' with state '' at position (1680, 534).
+                  Image named '' with state '' at position (1728, 584).
+                  StaticText named '' with state 'Безпечний пошук' at position (1808, 570).
+                  StaticText named '' with state 'Розмивання ввімкнено' at position (1808, 618).
+                Link named '' with state '' at position (1680, 684).
+                  Image named '' with state '' at position (1728, 736).
+                  Group named '' with state '' at position (1808, 720).
+                    StaticText named '' with state 'Мова' at position (1808, 720).
+                    StaticText named '' with state ' (Language)' at position (1888, 728).
+                  StaticText named '' with state 'українська' at position (1808, 770).
+                Link named '' with state '' at position (1680, 836).
+                  Image named '' with state '' at position (1728, 886).
+                  StaticText named '' with state 'Темна тема' at position (1808, 872).
+                  StaticText named '' with state 'Налаштування пристрою за умовчанням' at position (1808, 920).
+                Link named '' with state '' at position (1728, 1022).
+                  StaticText named '' with state 'Інші налаштування' at position (1728, 1028).
+                  Image named '' with state '' at position (2000, 1022).
+                Button named 'Надіслати відгук' with state '' at position (1680, 1108).
+                  Image named '' with state '' at position (1728, 1144).
+                  StaticText named '' with state 'Надіслати відгук' at position (1808, 1144).
+                Link named '' with state '' at position (1680, 1228).
+                  Image named '' with state '' at position (1728, 1264).
+                  StaticText named '' with state 'Розширений пошук' at position (1808, 1268).
+                Group named '' with state '' at position (1680, 1504).
+                  Link named '' with state '' at position (1728, 1552).
+                    StaticText named '' with state 'Довідка' at position (1728, 1552).
+                  StaticText named '' with state ' • ' at position (1814, 1552).
+                  Link named '' with state '' at position (1834, 1552).
+                    StaticText named '' with state 'Конфіденційність' at position (1834, 1552).
+                  StaticText named '' with state ' • ' at position (2028, 1552).
+                  Link named '' with state '' at position (2048, 1552).
+                    StaticText named '' with state 'Умови' at position (2048, 1552).
+  PopUpButton named '' with state 'Bookmarks' at position (922, 256).
+    Button named '' with state '' at position (922, 256).
+  Button named '' with state '' at position (2310, 266).
+  Splitter named '' with state '' at position (888, 242).

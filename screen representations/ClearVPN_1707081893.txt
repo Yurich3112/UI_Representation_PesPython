@@ -1,0 +1,27 @@
+Description for the ClearVPN application:
+Group named 'None' with state 'None' at position (0, 0).
+  Button named 'None' with state 'None' at position (1488, 76).
+  StaticText named 'None' with state 'Your devices' at position (448, 132).
+  StaticText named 'None' with state 'Account' at position (48, 224).
+  StaticText named 'None' with state 'Connected (1 / 8)' at position (448, 272).
+  StaticText named 'None' with state 'Your devices' at position (48, 292).
+  StaticText named 'None' with state 'System settings' at position (48, 360).
+  StaticText named 'None' with state 'Shortcuts' at position (48, 428).
+  StaticText named 'None' with state 'Stand with Ukraine 🇺🇦' at position (48, 496).
+  StaticText named 'None' with state 'Need help?' at position (48, 600).
+  ScrollArea named 'None' with state 'None' at position (448, 368).
+    Image named 'None' with state 'None' at position (486, 368).
+    StaticText named 'None' with state 'Mariya’s MacBook Pro' at position (480, 554).
+    StaticText named 'None' with state '(current)' at position (556, 586).
+  StaticText named 'None' with state 'Scan QR code and download ClearVPN on your mobile device' at position (448, 730).
+  Image named 'None' with state 'None' at position (82, 870).
+  Image named 'None' with state 'None' at position (448, 804).
+  Image named 'None' with state 'None' at position (624, 846).
+  StaticText named 'None' with state 'iOS' at position (668, 850).
+  StaticText named 'None' with state 'Works on iOS 14 and higher' at position (624, 894).
+  StaticText named 'None' with state 'Are you sure 
+all your devices are protected?' at position (114, 1044).
+  StaticText named 'None' with state 'Want to connect a desktop device?' at position (448, 1056).
+  Button named 'None' with state 'None' at position (1244, 1062).
+  StaticText named 'None' with state 'Send the download link and open it on that device' at position (448, 1098).
+  Button named 'None' with state 'None' at position (80, 1150).

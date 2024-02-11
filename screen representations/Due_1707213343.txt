@@ -1,0 +1,35 @@
+Description for the Due application:
+Window named 'Due' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 84).
+      Table named 'None' with state 'None' at position (0, 84).
+        Row named 'None' with state 'None' at position (0, 84).
+          Cell named 'None' with state 'None' at position (12, 84).
+            StaticText named 'None' with state 'Reminders' at position (6, 174).
+            Image named 'None' with state 'None' at position (34, 104).
+        Row named 'None' with state 'None' at position (0, 228).
+          Cell named 'None' with state 'None' at position (12, 228).
+            StaticText named 'None' with state 'Timers' at position (6, 318).
+            Image named 'None' with state 'None' at position (34, 248).
+        Row named 'None' with state 'None' at position (0, 372).
+          Cell named 'None' with state 'None' at position (12, 372).
+            StaticText named 'None' with state 'Logbook' at position (6, 462).
+            Image named 'None' with state 'None' at position (34, 392).
+        Column named 'None' with state 'None' at position (0, 84).
+    Button named '' with state 'None' at position (34, 842).
+    Splitter named 'None' with state '75.0' at position None.
+    ScrollArea named 'None' with state 'None' at position (170, 100).
+      Table named 'None' with state 'None' at position (170, 100).
+        Column named 'None' with state 'None' at position (170, 100).
+    TextField named 'None' with state '' at position (170, 22).
+      Button named '' with state 'None' at position (174, 28).
+    Image named 'None' with state 'None' at position (308, 220).
+    StaticText named 'None' with state 'You’ve no reminders logged.' at position (186, 592).
+    StaticText named 'None' with state 'Completed reminders are moved here.' at position (186, 710).
+    StaticText named 'None' with state 'Demo mode' at position None.
+    StaticText named 'None' with state 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ' at position None.
+    Button named 'Learn More…' with state 'None' at position None.
+    Button named 'Turn Off Feature' with state 'None' at position None.
+  Button named 'None' with state 'None' at position (14, 16).
+  Button named 'None' with state 'None' at position (94, 16).
+  Button named 'None' with state 'None' at position (54, 16).

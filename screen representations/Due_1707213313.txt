@@ -1,0 +1,56 @@
+Description for the Due application:
+Window named 'Due' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 84).
+      Table named 'None' with state 'None' at position (0, 84).
+        Row named 'None' with state 'None' at position (0, 84).
+          Cell named 'None' with state 'None' at position (12, 84).
+            StaticText named 'None' with state 'Reminders' at position (6, 174).
+            Image named 'None' with state 'None' at position (34, 104).
+        Row named 'None' with state 'None' at position (0, 228).
+          Cell named 'None' with state 'None' at position (12, 228).
+            StaticText named 'None' with state 'Timers' at position (6, 318).
+            Image named 'None' with state 'None' at position (34, 248).
+        Row named 'None' with state 'None' at position (0, 372).
+          Cell named 'None' with state 'None' at position (12, 372).
+            StaticText named 'None' with state 'Logbook' at position (6, 462).
+            Image named 'None' with state 'None' at position (34, 392).
+        Column named 'None' with state 'None' at position (0, 84).
+    Button named '' with state 'None' at position (34, 734).
+    Button named '' with state 'None' at position (34, 842).
+    Splitter named 'None' with state '75.0' at position None.
+    ScrollArea named 'None' with state 'None' at position (158, 100).
+      Table named 'None' with state 'None' at position (158, 100).
+        Row named 'None' with state 'None' at position (158, 100).
+          Cell named 'None' with state 'None' at position (170, 100).
+            Image named 'None' with state 'None' at position (700, 136).
+            StaticText named 'None' with state 'ACTION TITLE' at position (472, 142).
+            StaticText named 'None' with state '00:04:00' at position (186, 90).
+            StaticText named 'None' with state 'Coffee steeping' at position (186, 170).
+            Button named '' with state 'None' at position (680, 100).
+        Row named 'None' with state 'None' at position (158, 224).
+          Cell named 'None' with state 'None' at position (170, 224).
+            Image named 'None' with state 'None' at position (700, 260).
+            StaticText named 'None' with state 'ACTION TITLE' at position (472, 266).
+            StaticText named 'None' with state '00:20:00' at position (186, 214).
+            Image named 'None' with state 'None' at position (382, 250).
+            Image named 'None' with state 'None' at position (418, 250).
+            StaticText named 'None' with state 'Power nap' at position (186, 294).
+            Button named '' with state 'None' at position (680, 224).
+        Row named 'None' with state 'None' at position (158, 348).
+          Cell named 'None' with state 'None' at position (170, 348).
+            Image named 'None' with state 'None' at position (700, 384).
+            StaticText named 'None' with state 'ACTION TITLE' at position (472, 390).
+            StaticText named 'None' with state '01:00:00' at position (186, 338).
+            StaticText named 'None' with state 'Pick up laundry' at position (186, 418).
+            Button named '' with state 'None' at position (680, 348).
+        Column named 'None' with state 'None' at position (158, 100).
+    TextField named 'None' with state '' at position (170, 22).
+      Button named '' with state 'None' at position (174, 28).
+    StaticText named 'None' with state 'Demo mode' at position None.
+    StaticText named 'None' with state 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ' at position None.
+    Button named 'Learn More…' with state 'None' at position None.
+    Button named 'Turn Off Feature' with state 'None' at position None.
+  Button named 'None' with state 'None' at position (14, 16).
+  Button named 'None' with state 'None' at position (94, 16).
+  Button named 'None' with state 'None' at position (54, 16).

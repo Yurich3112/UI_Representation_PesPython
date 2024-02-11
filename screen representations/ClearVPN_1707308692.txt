@@ -1,0 +1,72 @@
+Description for the ClearVPN application:
+Group named 'None' with state 'None' at position (0, 0).
+  Image named 'None' with state 'None' at position (610, 148).
+  StaticText named 'None' with state 'Czechia' at position (658, 148).
+  StaticText named 'None' with state 'YOU'RE HERE NOW' at position (96, 170).
+  StaticText named 'None' with state 'VPN CONNECTION' at position (850, 170).
+  StaticText named 'None' with state 'Off' at position (1380, 168).
+  StaticText named 'None' with state '91.139.84.198' at position (604, 188).
+  Button named 'None' with state 'None' at position (1440, 156).
+  Button named 'None' with state 'None' at position (48, 292).
+  Button named 'None' with state 'None' at position (624, 348).
+  ScrollArea named 'None' with state 'None' at position (722, 340).
+    Button named 'None' with state 'None' at position (722, 340).
+    Button named 'None' with state 'None' at position (934, 340).
+    Button named 'None' with state 'None' at position (1128, 340).
+  Image named 'None' with state 'None' at position (56, 404).
+  StaticText named 'None' with state 'Location changer' at position (56, 698).
+  StaticText named 'None' with state 'You pick the country – we connect you to our safe servers located there.' at position (56, 760).
+  Button named 'None' with state 'None' at position (56, 1160).
+  ScrollArea named 'None' with state 'None' at position (624, 420).
+    Heading named 'None' with state 'None' at position (624, 458).
+    Button named 'None' with state 'None' at position (1414, 452).
+    OpaqueProviderGroup named 'None' with state 'None' at position (656, 530).
+      Image named 'None' with state 'None' at position (656, 536).
+      StaticText named 'None' with state 'UK' at position (752, 530).
+      StaticText named 'None' with state '·' at position (802, 532).
+      StaticText named 'None' with state 'London' at position (818, 532).
+      StaticText named 'None' with state '#RichContent ' at position (752, 574).
+      Image named 'None' with state 'None' at position (1404, 530).
+      StaticText named 'None' with state '89 ms' at position (1380, 568).
+      Image named 'None' with state 'None' at position (656, 664).
+      StaticText named 'None' with state 'France' at position (752, 658).
+      StaticText named 'None' with state '·' at position (852, 660).
+      StaticText named 'None' with state 'Paris' at position (870, 660).
+      StaticText named 'None' with state '#RichContent ' at position (752, 702).
+      Image named 'None' with state 'None' at position (1404, 660).
+      StaticText named 'None' with state '100 ms' at position (1370, 696).
+      Image named 'None' with state 'None' at position (656, 794).
+      StaticText named 'None' with state 'USA' at position (752, 786).
+      StaticText named 'None' with state '·' at position (816, 788).
+      StaticText named 'None' with state 'Chicago' at position (834, 788).
+      StaticText named 'None' with state '#RichContent ' at position (752, 830).
+      Image named 'None' with state 'None' at position (1404, 788).
+      StaticText named 'None' with state '147 ms' at position (1374, 826).
+      Button named 'None' with state 'None' at position (1436, 770).
+      Image named 'None' with state 'None' at position (656, 922).
+      StaticText named 'None' with state 'Canada' at position (752, 916).
+      StaticText named 'None' with state '·' at position (864, 918).
+      StaticText named 'None' with state 'Montreal' at position (882, 918).
+      StaticText named 'None' with state '#RichContent ' at position (752, 960).
+      Image named 'None' with state 'None' at position (1404, 916).
+      StaticText named 'None' with state '216 ms' at position (1374, 954).
+      Image named 'None' with state 'None' at position (656, 1050).
+      StaticText named 'None' with state 'Australia' at position (752, 1044).
+      StaticText named 'None' with state '·' at position (882, 1046).
+      StaticText named 'None' with state 'Sydney' at position (898, 1046).
+      StaticText named 'None' with state '#RichContent ' at position (752, 1088).
+      Image named 'None' with state 'None' at position (1404, 1046).
+      StaticText named 'None' with state '327 ms' at position (1372, 1084).
+      Image named 'None' with state 'None' at position (656, 1180).
+      StaticText named 'None' with state 'Germany' at position (752, 1174).
+      StaticText named 'None' with state '·' at position (886, 1176).
+      StaticText named 'None' with state 'Frankfurt Am Main' at position (902, 1176).
+      StaticText named 'None' with state '#RichContent ' at position (752, 1218).
+      Image named 'None' with state 'None' at position (1404, 1174).
+      StaticText named 'None' with state '463 ms' at position (1370, 1212).
+    ScrollBar named 'None' with state '0.0' at position (1472, 420).
+      ValueIndicator named 'None' with state '0.0' at position (1480, 422).
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (1480, 1110).
+      Button named 'None' with state 'None' at position (1480, 420).

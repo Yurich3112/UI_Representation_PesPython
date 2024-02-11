@@ -1,0 +1,113 @@
+Description for the Chrome application:
+Group named '' with state '' at position (0, 0).
+  TabGroup named '' with state '' at position (160, 0).
+    RadioButton named '' with state 'False' at position (160, 0).
+      Button named '' with state '' at position (588, 12).
+    RadioButton named '' with state 'True' at position (636, 0).
+      Button named '' with state '' at position (1064, 12).
+    Button named '' with state '' at position (1136, 0).
+    PopUpButton named '' with state '' at position (2332, 0).
+  Toolbar named '' with state '' at position (0, 80).
+    Button named '' with state '' at position (10, 92).
+    Button named '' with state '' at position (82, 92).
+    Button named '' with state '' at position (154, 92).
+    StaticText named '' with state '' at position None.
+    Group named '' with state '' at position (240, 92).
+      StaticText named '' with state '' at position None.
+      Image named '' with state '' at position (250, 102).
+      TextField named '' with state '' at position (314, 102).
+      Button named '' with state '' at position (1980, 102).
+    StaticText named '' with state '' at position None.
+    PopUpButton named '' with state '' at position (2070, 92).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (2178, 92).
+    Button named '' with state '' at position (2250, 92).
+    PopUpButton named '' with state '' at position (2322, 92).
+  Toolbar named '' with state '' at position (0, 172).
+    StaticText named '' with state 'Apps' at position None.
+    StaticText named '' with state 'Managed Bookmarks' at position None.
+    Toolbar named '' with state '' at position None.
+      StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (12, 172).
+    Button named '' with state '' at position (162, 172).
+    Button named '' with state '' at position (342, 172).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state 'All Bookmarks' at position None.
+  WebArea named 'New Tab' with state '' at position (0, 242).
+    Group named '' with state '' at position (0, 242).
+      Group named '' with state '' at position (0, 242).
+        Group named '' with state '' at position (0, 242).
+          Group named '' with state '' at position (0, 242).
+            WebArea named '' with state '' at position (0, 242).
+              Group named '' with state '' at position (0, 242).
+                Group named '' with state '' at position (0, 242).
+                Group named '' with state '' at position (0, 242).
+                  Group named '' with state '' at position (16, 258).
+                    Group named '' with state '' at position (16, 260).
+                      Heading named '' with state '' at position None.
+                  Group named '' with state '' at position (2048, 282).
+                    Group named '' with state '' at position (2048, 282).
+                      Link named '' with state '' at position (2078, 282).
+                        StaticText named '' with state 'Gmail' at position (2078, 292).
+                    Group named '' with state '' at position (2146, 282).
+                      Link named '' with state '' at position (2176, 282).
+                        StaticText named '' with state 'Images' at position (2176, 292).
+                  Group named '' with state '' at position (2292, 258).
+                    Group named '' with state '' at position (2292, 258).
+                      Group named '' with state '' at position (2292, 266).
+                        Button named '' with state '' at position (2292, 266).
+                          Image named '' with state '' at position (2308, 282).
+        Group named '' with state '' at position (640, 830).
+          Group named '' with state '' at position (640, 830).
+            ComboBox named '' with state '' at position (640, 830).
+            Group named '' with state '' at position (664, 830).
+              Group named '' with state '' at position (664, 842).
+            Button named '' with state '' at position (1604, 830).
+            Button named '' with state '' at position (1678, 830).
+        Group named '' with state '' at position (848, 950).
+          Group named '' with state '' at position (864, 954).
+            Link named '' with state '' at position (864, 954).
+            Button named '' with state '' at position (1028, 962).
+              Group named '' with state '' at position (1028, 962).
+              Group named '' with state '' at position (1028, 962).
+            StaticText named '' with state 'Playground' at position (908, 1116).
+          Group named '' with state '' at position (1088, 954).
+            Link named '' with state '' at position (1088, 954).
+            Button named '' with state '' at position (1252, 962).
+              Group named '' with state '' at position (1252, 962).
+              Group named '' with state '' at position (1252, 962).
+            StaticText named '' with state 'Sign In' at position (1158, 1116).
+          Group named '' with state '' at position (1312, 954).
+            Link named '' with state '' at position (1312, 954).
+            Button named '' with state '' at position (1476, 962).
+              Group named '' with state '' at position (1476, 962).
+            StaticText named '' with state 'streamlit_app · Streamlit' at position (1336, 1116).
+          Group named '' with state '' at position (864, 1178).
+            Link named '' with state '' at position (864, 1178).
+            Button named '' with state '' at position (1028, 1186).
+              Group named '' with state '' at position (1028, 1186).
+            StaticText named '' with state 'https://portal-doctor.eleks.com/web/paraskevanew/#/anonymous?action=spzIBWebAnonymousResetPassword&id=A5BA17B1-EF2E-47A5-93A0-66E0D025CCA9&idName=code' at position (888, 1340).
+          Group named '' with state '' at position (1088, 1178).
+            Link named '' with state '' at position (1088, 1178).
+            Button named '' with state '' at position (1252, 1186).
+              Group named '' with state '' at position (1252, 1186).
+            StaticText named '' with state 'StreamYard' at position (1130, 1340).
+          Button named '' with state '' at position (1312, 1178).
+            Group named '' with state '' at position (1312, 1178).
+            StaticText named '' with state 'Add shortcut' at position (1346, 1340).
+            Group named '' with state '' at position (1312, 1178).
+          Group named '' with state '' at position None.
+        Group named '' with state '' at position (2026, 1536).
+          CheckBox named 'Customise Chrome' with state '' at position (2026, 1536).
+            Group named '' with state '' at position (2026, 1536).
+            Group named '' with state '' at position (2106, 1548).
+              StaticText named '' with state 'Customise Chrome' at position (2106, 1554).
+      Image named '' with state '' at position None.
+  PopUpButton named '' with state 'Bookmarks' at position (922, 256).
+    Button named '' with state '' at position (922, 256).
+  Button named '' with state '' at position (2310, 266).
+  Splitter named '' with state '' at position (888, 242).

@@ -1,0 +1,231 @@
+Description for the Dash application:
+Window named 'Python Online Compiler & Interpreter - Replit' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 104).
+    Splitter named 'None' with state '0.0' at position (0, 104).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        ScrollArea named '' with state '' at position (0, 104).
+          WebArea named '' with state '' at position (0, 104).
+            Link named 'Skip to content' with state '' at position (8, 34).
+              StaticText named '' with state 'Skip to content' at position (18, 44).
+            Group named '' with state '' at position (2384, 1540).
+            Group named '' with state '' at position (0, 102).
+              Link named '' with state '' at position (20, 124).
+              Group named '' with state '' at position (254, 102).
+                StaticText named '' with state 'Open' at position (254, 102).
+                StaticText named '' with state ' navbar menu' at position (322, 102).
+              Group named '' with state '' at position (256, 104).
+                PopUpButton named '' with state '' at position (256, 132).
+                Link named 'Membership' with state '' at position (470, 132).
+                  StaticText named '' with state 'Membership' at position (486, 148).
+                Link named 'Blog' with state '' at position (678, 132).
+                  StaticText named '' with state 'Blog' at position (694, 148).
+                Link named 'Pricing' with state '' at position (782, 132).
+                  StaticText named '' with state 'Pricing' at position (798, 148).
+                Link named 'Careers' with state '' at position (920, 132).
+                  StaticText named '' with state 'Careers' at position (936, 148).
+              Link named 'Sign Up' with state '' at position (2108, 132).
+                StaticText named '' with state 'Sign Up' at position (2126, 146).
+              Link named 'Log In' with state '' at position (2256, 132).
+                StaticText named '' with state 'Log In' at position (2274, 146).
+            Group named '' with state '' at position (0, 104).
+              Group named '' with state '' at position (0, 200).
+                Group named '' with state '' at position (0, 200).
+              Heading named 'Code, create, and learn together with Python' with state '1' at position (650, 520).
+                StaticText named '' with state 'Code, create, and learn together with' at position (676, 520).
+                StaticText named '' with state 'Python' at position (1006, 760).
+              StaticText named '' with state 'Code, collaborate, compile, run, share, and deploy Python and more online from your browser.' at position (662, 930).
+              Button named 'Sign up to code in Python' with state '' at position (980, 1090).
+              Group named '' with state '' at position (64, 1464).
+              Image named '' with state '' at position None.
+              StaticText named '' with state 'Explore' at position None.
+              Link named 'Multiplayer >_' with state '' at position None.
+                StaticText named '' with state 'Multiplayer' at position None.
+                StaticText named '' with state '>_' at position None.
+              StaticText named '' with state 'Collaborate in real-time with your friends' at position None.
+              Image named '' with state '' at position None.
+              StaticText named '' with state 'Explore' at position None.
+              Link named 'Teams >_' with state '' at position None.
+                StaticText named '' with state 'Teams' at position None.
+                StaticText named '' with state '>_' at position None.
+              StaticText named '' with state 'Code with your class or coworkers' at position None.
+              Image named '' with state '' at position None.
+              StaticText named '' with state 'Explore' at position None.
+              Link named 'Deployments >_' with state '' at position None.
+                StaticText named '' with state 'Deployments' at position None.
+                StaticText named '' with state '>_' at position None.
+              StaticText named '' with state 'Quickly get your projects off the ground' at position None.
+              Group named '' with state '' at position None.
+            Group named '' with state '' at position None.
+              StaticText named '' with state 'Copyright © ' at position None.
+              StaticText named '' with state '2024' at position None.
+              StaticText named '' with state ' Replit, Inc. All rights reserved.' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'twitter' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'twitter' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'tiktok' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'tiktok' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'instagram' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'instagram' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'facebook' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'facebook' at position None.
+              Heading named 'Replit' with state '2' at position None.
+                StaticText named '' with state 'Replit' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Mobile app' with state '' at position None.
+                    StaticText named '' with state 'Mobile app' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Blog' with state '' at position None.
+                    StaticText named '' with state 'Blog' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'About' with state '' at position None.
+                    StaticText named '' with state 'About' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Careers' with state '' at position None.
+                    StaticText named '' with state 'Careers' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Pricing' with state '' at position None.
+                    StaticText named '' with state 'Pricing' at position None.
+              Heading named 'Legal' with state '2' at position None.
+                StaticText named '' with state 'Legal' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Terms of Service' with state '' at position None.
+                    StaticText named '' with state 'Terms of Service' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Privacy' with state '' at position None.
+                    StaticText named '' with state 'Privacy' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Subprocessors' with state '' at position None.
+                    StaticText named '' with state 'Subprocessors' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'DPA' with state '' at position None.
+                    StaticText named '' with state 'DPA' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'US Student DPA' with state '' at position None.
+                    StaticText named '' with state 'US Student DPA' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Student Privacy' with state '' at position None.
+                    StaticText named '' with state 'Student Privacy' at position None.
+              Heading named 'Features' with state '2' at position None.
+                StaticText named '' with state 'Features' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'IDE' with state '' at position None.
+                    StaticText named '' with state 'IDE' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Multiplayer' with state '' at position None.
+                    StaticText named '' with state 'Multiplayer' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Community' with state '' at position None.
+                    StaticText named '' with state 'Community' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Deployments' with state '' at position None.
+                    StaticText named '' with state 'Deployments' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Replit AI' with state '' at position None.
+                    StaticText named '' with state 'Replit AI' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Bounties' with state '' at position None.
+                    StaticText named '' with state 'Bounties' at position None.
+              Heading named 'Handy links' with state '2' at position None.
+                StaticText named '' with state 'Handy links' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Languages' with state '' at position None.
+                    StaticText named '' with state 'Languages' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Docs' with state '' at position None.
+                    StaticText named '' with state 'Docs' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Support' with state '' at position None.
+                    StaticText named '' with state 'Support' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Forum' with state '' at position None.
+                    StaticText named '' with state 'Forum' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Status' with state '' at position None.
+                    StaticText named '' with state 'Status' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Import from Glitch' with state '' at position None.
+                    StaticText named '' with state 'Import from Glitch' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Import from Heroku' with state '' at position None.
+                    StaticText named '' with state 'Import from Heroku' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Copilot alternative' with state '' at position None.
+                    StaticText named '' with state 'Copilot alternative' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Brand Kit' with state '' at position None.
+                    StaticText named '' with state 'Brand Kit' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Replit India' with state '' at position None.
+                    StaticText named '' with state 'Replit India' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Partnerships' with state '' at position None.
+                    StaticText named '' with state 'Partnerships' at position None.
+              Heading named 'Programming languages' with state '2' at position None.
+                StaticText named '' with state 'Programming languages' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Python' with state '' at position None.
+                    StaticText named '' with state 'Python' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'JavaScript' with state '' at position None.
+                    StaticText named '' with state 'JavaScript' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'TypeScript' with state '' at position None.
+                    StaticText named '' with state 'TypeScript' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Node.js' with state '' at position None.
+                    StaticText named '' with state 'Node.js' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Nix (beta)' with state '' at position None.
+                    StaticText named '' with state 'Nix (beta)' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'HTML, CSS, JS' with state '' at position None.
+                    StaticText named '' with state 'HTML, CSS, JS' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'C++' with state '' at position None.
+                    StaticText named '' with state 'C++' at position None.
+                Group named '' with state '' at position None.
+                  Link named 'Golang' with state '' at position None.
+                    StaticText named '' with state 'Golang' at position None.
+            Group named '' with state '' at position None.
+            Group named '' with state '' at position (2260, 1502).
+              Link named 'Privacy' with state '' at position (2272, 1498).
+                StaticText named '' with state 'Privacy' at position (2272, 1502).
+              Link named 'Terms' with state '' at position (2340, 1498).
+                StaticText named '' with state 'Terms' at position (2340, 1502).
+            StaticText named '' with state 'protected by ' at position None.
+            StaticText named '' with state 'reCAPTCHA' at position None.
+            Group named '' with state '' at position None.
+          ScrollBar named '' with state '0.0' at position (2368, 284).
+    StaticText named 'None' with state 'OpenCV.docset/dc/d84/group__core__basic.html#ga353a9de602fe76c709e12074a6f362ba' at position (14, 1512).
+  Button named '' with state 'None' at position (168, 24).
+  Button named '' with state 'None' at position (242, 24).
+  Button named '' with state 'None' at position (324, 24).
+  Button named '' with state 'None' at position (2310, 24).
+  Button named '' with state 'None' at position (2146, 24).
+  Button named '' with state 'None' at position (2064, 24).
+  Button named '' with state 'None' at position (2228, 24).
+  TextField named 'None' with state '￼' at position (828, 24).
+    Image named 'None' with state 'None' at position (832, 24).
+  Image named 'None' with state 'None' at position (840, 36).
+  Button named '' with state 'None' at position (1524, 32).
+  Button named '' with state 'None' at position (1592, 24).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state '' at position (1190, 10).

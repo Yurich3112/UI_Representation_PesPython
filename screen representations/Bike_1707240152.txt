@@ -1,0 +1,11 @@
+Detected elements for the Bike application:
+TextView (0.47 confidence) at position (692, 9)
+TextView (0.46 confidence) at position (105, 69)
+TextView (0.42 confidence) at position (50, 213)
+TextView (0.39 confidence) at position (599, 207)
+TextView (0.37 confidence) at position (567, 542)
+ImageView (0.35 confidence) at position (0, 1607)
+TextView (0.33 confidence) at position (80, 547)
+TextView (0.33 confidence) at position (62, 1608)
+TextView (0.30 confidence) at position (31, 64)
+TextView (0.28 confidence) at position (55, 674)

@@ -1,0 +1,1000 @@
+Description for the Chrome application:
+Group named '' with state '' at position (0, 0).
+  TabGroup named '' with state '' at position (160, 0).
+    RadioButton named '' with state 'False' at position (160, 0).
+      Button named '' with state '' at position (588, 12).
+    RadioButton named '' with state 'True' at position (636, 0).
+      Button named '' with state '' at position (1064, 12).
+    Button named '' with state '' at position (1136, 0).
+    PopUpButton named '' with state '' at position (2332, 0).
+  Toolbar named '' with state '' at position (0, 80).
+    Button named '' with state '' at position (10, 92).
+    Button named '' with state '' at position (82, 92).
+    Button named '' with state '' at position (154, 92).
+    StaticText named '' with state '' at position None.
+    Group named '' with state '' at position (240, 92).
+      StaticText named '' with state '' at position None.
+      PopUpButton named '' with state '' at position (250, 102).
+      TextField named '' with state 'google.com/search?gs_ssp=eJzj4tDP1TcwNTYpM2D04svNrEysSszOVMhIrEzMBwBjDwg6&q=miyazaki+hayao&rlz=1C5GCEM_enCZ1096&oq=miyazaki+&gs_lcrp=EgZjaHJvbWUqBwgDEC4YgAQyBwgAEAAYjwIyBwgBEAAYgAQyBwgCEC4YgAQyBwgDEC4YgAQyBwgEEAAYgAQyBwgFEC4YgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyDQgJEC4YrwEYxwEYgATSAQkyNjc1MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8' at position (314, 102).
+      Button named '' with state '' at position (1916, 102).
+      Button named '' with state '' at position (1980, 102).
+    StaticText named '' with state '' at position None.
+    PopUpButton named '' with state '' at position (2070, 92).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (2178, 92).
+    Button named '' with state '' at position (2250, 92).
+    PopUpButton named '' with state '' at position (2322, 92).
+  Toolbar named '' with state '' at position (0, 172).
+    StaticText named '' with state 'Apps' at position None.
+    StaticText named '' with state 'Managed Bookmarks' at position None.
+    Toolbar named '' with state '' at position None.
+      StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (12, 172).
+    Button named '' with state '' at position (162, 172).
+    Button named '' with state '' at position (342, 172).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state 'All Bookmarks' at position None.
+  WebArea named 'miyazaki hayao - Пошук Google' with state '' at position (0, 242).
+    Group named '' with state '' at position (0, 242).
+      Group named '' with state '' at position (0, 242).
+      Heading named 'Посилання для спеціальних можливостей' with state '' at position (0, 242).
+        StaticText named '' with state 'Посилання для спеціальних можливостей' at position (0, 242).
+      Group named '' with state '' at position None.
+        Group named '' with state '' at position (0, 338).
+          Link named '' with state '' at position (22, 338).
+            StaticText named '' with state 'Перейти до основного вмісту' at position (56, 346).
+          Link named '' with state '' at position (22, 338).
+            StaticText named '' with state 'Вимкнути безперервне прокручування' at position (36, 346).
+          Group named '' with state '' at position None.
+          Link named '' with state '' at position (22, 338).
+            StaticText named '' with state 'Довідка щодо спеціальних можливостей' at position (42, 346).
+          Group named '' with state '' at position None.
+          Link named '' with state '' at position (22, 414).
+            StaticText named '' with state 'Відповідь через спеціальні можливості' at position (30, 422).
+      Group named '' with state '' at position (0, 294).
+        Group named '' with state '' at position (0, 254).
+        Group named '' with state '' at position (0, 294).
+          Group named '' with state '' at position (342, 294).
+            Group named '' with state '' at position (64, 306).
+              Link named '' with state '' at position (124, 314).
+                Image named '' with state '' at position (124, 314).
+            Group named '' with state '' at position (396, 294).
+              Group named '' with state '' at position (426, 292).
+              Group named '' with state '' at position (438, 318).
+              Group named '' with state '' at position None.
+              TextArea named '' with state 'miyazaki hayao' at position (438, 318).
+              Button named '' with state '' at position (1032, 296).
+                Image named '' with state '' at position (1056, 296).
+              Button named '' with state '' at position (1138, 296).
+              Button named '' with state '' at position (1218, 296).
+                Image named '' with state '' at position (1234, 316).
+              Button named '' with state '' at position (1298, 296).
+                Image named '' with state '' at position (1314, 316).
+              Button named '' with state '' at position (1386, 296).
+                Group named '' with state '' at position (1394, 316).
+                  Image named '' with state '' at position (1394, 316).
+            Group named '' with state '' at position None.
+          Group named '' with state '' at position None.
+        Group named '' with state '' at position (1956, 294).
+          Group named '' with state '' at position (1956, 294).
+            Button named '' with state '' at position (1956, 302).
+              Image named '' with state '' at position (1972, 318).
+        Group named '' with state '' at position (2008, 294).
+          Group named '' with state '' at position (2040, 294).
+            Group named '' with state '' at position (2040, 294).
+              Group named '' with state '' at position (2040, 294).
+                Group named '' with state '' at position (2048, 302).
+                  Button named '' with state '' at position (2048, 302).
+                    Image named '' with state '' at position (2064, 318).
+              Link named '' with state '' at position (2152, 306).
+                StaticText named '' with state 'Увійти' at position (2204, 324).
+      Group named '' with state '' at position (0, 242).
+      Group named '' with state '' at position (0, 242).
+        Group named '' with state '' at position (0, 242).
+          Group named '' with state '' at position (0, 282).
+          Group named '' with state '' at position None.
+          Group named '' with state '' at position (0, 418).
+            Group named '' with state '' at position (0, 418).
+              Group named '' with state '' at position (124, 418).
+                Group named '' with state '' at position (124, 418).
+                  Group named '' with state '' at position (124, 418).
+                    Group named '' with state '' at position (124, 418).
+                      Group named '' with state '' at position (124, 418).
+                        Heading named 'Фільтри й теми' with state '' at position (124, 418).
+                          StaticText named '' with state 'Фільтри й теми' at position (124, 418).
+                        Group named '' with state '' at position (124, 418).
+                          Link named '' with state '' at position (124, 418).
+                            StaticText named '' with state 'Зображення' at position (154, 440).
+                          Link named '' with state '' at position (356, 418).
+                            StaticText named '' with state 'Відео' at position (386, 440).
+                          Link named '' with state '' at position (500, 418).
+                            StaticText named '' with state 'Новини' at position (530, 440).
+                          Link named '' with state '' at position (670, 418).
+                            StaticText named '' with state 'Книги' at position (700, 440).
+                          Group named '' with state '' at position (816, 418).
+                            Link named '' with state '' at position (816, 418).
+                              StaticText named '' with state 'Фінанси' at position (846, 440).
+                Group named '' with state '' at position (1572, 418).
+                  PopUpButton named 'Усі фільтри' with state '' at position (1596, 418).
+                    StaticText named '' with state 'Усі фільтри' at position (1620, 440).
+                    Image named '' with state '' at position (1772, 438).
+                  Button named 'Інструменти' with state '' at position (1844, 418).
+              Group named '' with state '' at position (2068, 418).
+                Group named '' with state '' at position (2068, 418).
+                  PopUpButton named 'Безпечний пошук' with state '' at position (2068, 418).
+                    Group named '' with state '' at position (2068, 418).
+                      Group named '' with state '' at position (2092, 434).
+                        StaticText named '' with state 'Безпечний пошук' at position (2092, 440).
+                        Image named '' with state '' at position (2324, 438).
+          Group named '' with state '' at position None.
+            Group named '' with state '' at position None.
+          Group named '' with state '' at position None.
+          Group named '' with state '' at position (0, 242).
+          Group named '' with state '' at position (0, 530).
+            Group named '' with state '' at position (132, 532).
+              Group named '' with state '' at position (132, 532).
+                Group named '' with state '' at position (132, 532).
+                  Group named '' with state '' at position (132, 532).
+                    Group named '' with state '' at position (132, 532).
+                      StaticText named '' with state 'Приблизна кількість результатів: 25 800 000' at position (132, 558).
+                      StaticText named '' with state ' (0,56 с) ' at position (706, 558).
+          Group named '' with state '' at position None.
+            Group named '' with state '' at position None.
+          Group named '' with state '' at position None.
+          Group named '' with state '' at position (0, 618).
+            Group named '' with state '' at position None.
+            Group named '' with state '' at position None.
+            Group named '' with state '' at position (132, 618).
+              Group named '' with state '' at position (132, 626).
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position (132, 626).
+                  Group named '' with state '' at position (132, 642).
+                    Button named '' with state '' at position (132, 664).
+                      Group named '' with state '' at position (132, 664).
+                    Heading named 'Міядзакі Хаяо (Hayao Miyazaki)' with state '' at position (282, 640).
+                      StaticText named '' with state 'Міядзакі Хаяо (Hayao Miyazaki)' at position (282, 640).
+                    Heading named 'Японський режисер' with state '' at position (282, 720).
+                      StaticText named '' with state 'Японський режисер' at position (282, 724).
+                    Group named '' with state '' at position (550, 716).
+                      Group named '' with state '' at position (550, 716).
+                        Group named '' with state '' at position (550, 716).
+                          Group named '' with state '' at position (550, 716).
+                            PopUpButton named 'Більше опцій' with state '' at position (550, 716).
+                              Group named '' with state '' at position (550, 716).
+                                Image named '' with state '' at position (554, 720).
+                  TabGroup named '' with state '' at position (132, 642).
+                    RadioButton named 'Огляд' with state '1' at position (1124, 670).
+                    RadioButton named 'Фільми' with state '0' at position (1300, 670).
+                    RadioButton named 'Книги' with state '0' at position (1490, 670).
+                    RadioButton named 'Відео' with state '0' at position (1658, 670).
+                Group named '' with state '' at position (0, 792).
+            Group named '' with state '' at position (132, 842).
+              Group named '' with state '' at position (132, 854).
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position (132, 854).
+                  Group named '' with state '' at position (132, 854).
+                    Heading named 'Результати пошуку' with state '' at position (132, 854).
+                      StaticText named '' with state 'Результати пошуку' at position (132, 854).
+                    Group named '' with state '' at position (132, 854).
+                      Group named '' with state '' at position (132, 854).
+                        Group named '' with state '' at position (132, 854).
+                          Group named '' with state '' at position (132, 854).
+                            Group named '' with state '' at position (132, 854).
+                              Heading named 'Основні результати' with state '' at position (132, 854).
+                                StaticText named '' with state 'Основні результати' at position (132, 854).
+                              Group named '' with state '' at position (132, 854).
+                                Group named '' with state '' at position (132, 854).
+                                Group named '' with state '' at position (132, 854).
+                                  Heading named 'Зображення' with state '' at position (132, 854).
+                                    StaticText named '' with state 'Зображення' at position None.
+                                  Group named '' with state '' at position (132, 854).
+                                    Group named '' with state '' at position (132, 854).
+                                      Group named '' with state '' at position (132, 854).
+                                        Group named '' with state '' at position (132, 854).
+                                          Group named '' with state '' at position (132, 854).
+                                            Button named 'A Guide to the Films of Hayao Miyazaki' with state '' at position (132, 854).
+                                              Group named '' with state '' at position (132, 854).
+                                                Image named '' with state '' at position (132, 854).
+                                            Group named '' with state '' at position (132, 854).
+                                          Group named '' with state '' at position (514, 854).
+                                            Button named 'Miyazaki Hayao | Biography, Movies, & Facts | Britannica' with state '' at position (514, 854).
+                                              Group named '' with state '' at position (514, 854).
+                                                Image named '' with state '' at position (514, 854).
+                                            Group named '' with state '' at position (514, 854).
+                                          Group named '' with state '' at position (816, 854).
+                                            Button named 'Hayao Miyazaki & The Art of Silence — How to Direct Powerful Scenes Where Nothing Happens' with state '' at position (816, 854).
+                                              Group named '' with state '' at position (816, 854).
+                                                Image named '' with state '' at position (816, 854).
+                                            Group named '' with state '' at position (816, 854).
+                                          Group named '' with state '' at position (1222, 854).
+                                            Button named 'Hayao Miyazaki | Rotten Tomatoes' with state '' at position (1222, 854).
+                                              Group named '' with state '' at position (1222, 854).
+                                                Image named '' with state '' at position (1222, 854).
+                                            Group named '' with state '' at position (1222, 854).
+                                        Link named '' with state '' at position (1124, 1078).
+                                          Image named '' with state '' at position (1140, 1092).
+                                          StaticText named '' with state 'Більше зображень' at position (1196, 1094).
+                                Group named '' with state '' at position (132, 1230).
+                                Group named '' with state '' at position (132, 1230).
+                                Group named '' with state '' at position (132, 1230).
+                                  Heading named 'Фільми' with state '' at position (132, 1230).
+                                    Link named '' with state '' at position (132, 1230).
+                                      Group named '' with state '' at position (132, 1230).
+                                        Group named '' with state '' at position (132, 1230).
+                                          StaticText named '' with state 'Фільми' at position (132, 1230).
+                                      Image named '' with state '' at position (286, 1234).
+                                  Group named '' with state '' at position (132, 1310).
+                                    Group named '' with state '' at position (132, 1310).
+                                      Group named '' with state '' at position (132, 1310).
+                                        Group named '' with state '' at position (132, 1310).
+                                          Group named '' with state '' at position (132, 1310).
+                                            List named '' with state '' at position (132, 1310).
+                                              Group named '' with state '' at position (132, 1310).
+                                                Link named '' with state '' at position (132, 1310).
+                                                  Group named '' with state '' at position (132, 1310).
+                                                  Heading named 'Віднесені привидами' with state '' at position (132, 1622).
+                                                    StaticText named '' with state 'Віднесені привидами' at position (132, 1626).
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '2001' at position None.
+                                              Group named '' with state '' at position (356, 1310).
+                                                Link named '' with state '' at position (356, 1310).
+                                                  Group named '' with state '' at position (356, 1310).
+                                                  Heading named 'Мій сусід Тоторо' with state '' at position (356, 1622).
+                                                    StaticText named '' with state 'Мій сусід Тоторо' at position (356, 1626).
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '1988' at position None.
+                                              Group named '' with state '' at position (580, 1310).
+                                                Link named '' with state '' at position (580, 1310).
+                                                  Group named '' with state '' at position (580, 1310).
+                                                  Heading named 'Хлопчик і чапля' with state '' at position (580, 1622).
+                                                    StaticText named '' with state 'Хлопчик і чапля' at position (580, 1626).
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '2023' at position None.
+                                              Group named '' with state '' at position (804, 1310).
+                                                Link named '' with state '' at position (804, 1310).
+                                                  Group named '' with state '' at position (804, 1310).
+                                                  Heading named 'Мандрівний замок' with state '' at position (804, 1622).
+                                                    StaticText named '' with state 'Мандрівний замок' at position (804, 1626).
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '2004' at position None.
+                                              Group named '' with state '' at position (1028, 1310).
+                                                Link named '' with state '' at position (1028, 1310).
+                                                  Group named '' with state '' at position (1028, 1310).
+                                                  Heading named 'Принцеса Мононоке' with state '' at position (1028, 1622).
+                                                    StaticText named '' with state 'Принцеса Мононоке' at position (1028, 1626).
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '1997' at position None.
+                                              Group named '' with state '' at position (1252, 1310).
+                                                Link named '' with state '' at position (1252, 1310).
+                                                  Group named '' with state '' at position (1252, 1310).
+                                                  Heading named 'Небесний замок Лапута' with state '' at position (1252, 1622).
+                                                    StaticText named '' with state 'Небесний замок Лапута' at position (1252, 1626).
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '1986' at position None.
+                                              Group named '' with state '' at position None.
+                                                Link named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                  Heading named 'Рибка Поньо на кручі' with state '' at position None.
+                                                    StaticText named '' with state 'Рибка Поньо на кручі' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '2008' at position None.
+                                              Link named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Переглянути все' at position None.
+                                Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                            Group named '
+' with state '' at position None.
+                                            Heading named 'Hayao Miyazaki' with state '' at position None.
+                                              StaticText named '' with state 'Hayao Miyazaki' at position None.
+                                            Group named '' with state '' at position None.
+                                              StaticText named '' with state 'Wikipedia' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'https://en.wikipedia.org' at position None.
+                                                StaticText named '' with state ' › wiki' at position None.
+                                          StaticText named '' with state '·' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'Перекласти цю сторінку' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Про цей результат' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Hayao Miyazaki' at position None.
+                                          StaticText named '' with state ' is a Japanese animator, filmmaker, and manga artist. A co-founder of Studio ' at position None.
+                                          StaticText named '' with state 'Ghibli' at position None.
+                                          StaticText named '' with state ', he has attained international acclaim as a masterful ...' at position None.
+                                      Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state '‎' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'List of works by Hayao...' at position None.
+                                          StaticText named '' with state ' · ‎' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'Goro Miyazaki' at position None.
+                                          StaticText named '' with state ' · ‎' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'Hayao Miyazaki's Daydream...' at position None.
+                                Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                            Group named '
+' with state '' at position None.
+                                            Heading named 'Hayao Miyazaki' with state '' at position None.
+                                              StaticText named '' with state 'Hayao Miyazaki' at position None.
+                                            Group named '' with state '' at position None.
+                                              StaticText named '' with state 'IMDb' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'https://www.imdb.com' at position None.
+                                                StaticText named '' with state ' › name' at position None.
+                                          StaticText named '' with state '·' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'Перекласти цю сторінку' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Про цей результат' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Link named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Hayao Miyazaki' at position None.
+                                          StaticText named '' with state ' is 1 of Japan's greatest animation directors. The entertaining plots, compelling characters & breathtaking animation in his films have earned ...' at position None.
+                                      Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Heading named 'Схожі запитання Про цей результат' with state '' at position None.
+                                      StaticText named '' with state 'Схожі запитання' at position None.
+                                      Group named '' with state '' at position None.
+                                        Button named '' with state '' at position None.
+                                          Image named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Did Miyazaki leave Studio Ghibli?' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'Did Miyazaki leave Studio Ghibli?' at position None.
+                                              Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Why did Miyazaki choose the name Ghibli?' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'Why did Miyazaki choose the name Ghibli?' at position None.
+                                              Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Is Miyazaki the same as Ghibli?' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'Is Miyazaki the same as Ghibli?' at position None.
+                                              Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Why is Hayao Miyazaki so great?' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'Why is Hayao Miyazaki so great?' at position None.
+                                              Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                    Button named 'Відгук' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        StaticText named '' with state 'Відгук' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                            Group named '
+' with state '' at position None.
+                                            Heading named 'Hajao Mijazaki' with state '' at position None.
+                                              StaticText named '' with state 'Hajao Mijazaki' at position None.
+                                            Group named '' with state '' at position None.
+                                              StaticText named '' with state 'ČSFD.cz' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'https://www.csfd.cz' at position None.
+                                                StaticText named '' with state ' › prehled' at position None.
+                                          StaticText named '' with state '·' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'Перекласти цю сторінку' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Про цей результат' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Herec ; Go Ahead - Threaten Me (E03) ; Drawing What's Real (E02) ; Ponyo is Here (E01) ; 2016. Never-Ending Man: ' at position None.
+                                          StaticText named '' with state 'Hayao Miyazaki' at position None.
+                                          StaticText named '' with state ' (TV film).' at position None.
+                                      Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  Heading named 'Відео' with state '' at position None.
+                                    Link named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Відео' at position None.
+                                      Image named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Link named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Link named '' with state '' at position None.
+                                              Heading named 'The Boy and the Heron - Official Teaser Trailer (2023) Hayao ... YouTube IGN Movie Trailers 1 хвилина і 12 секунд 7 вер. 2023 р.' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  StaticText named '' with state 'The Boy and the Heron - Official Teaser Trailer (2023) Hayao ...' at position None.
+                                                StaticText named '' with state 'YouTube' at position None.
+                                                StaticText named '' with state ' IGN Movie Trailers' at position None.
+                                                Group named '' with state '' at position None.
+                                                  StaticText named '' with state '1 хвилина і 12 секунд' at position None.
+                                                Group named '' with state '' at position None.
+                                                  StaticText named '' with state '7 вер. 2023 р.' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Link named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Link named '' with state '' at position None.
+                                              Heading named 'THE BOY AND THE HERON | Official English Trailer YouTube GKIDS Films 1 хвилина і 56 секунд 2 лист. 2023 р.' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  StaticText named '' with state 'THE BOY AND THE HERON | Official English Trailer' at position None.
+                                                StaticText named '' with state 'YouTube' at position None.
+                                                StaticText named '' with state ' GKIDS Films' at position None.
+                                                Group named '' with state '' at position None.
+                                                  StaticText named '' with state '1 хвилина і 56 секунд' at position None.
+                                                Group named '' with state '' at position None.
+                                                  StaticText named '' with state '2 лист. 2023 р.' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Link named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Link named '' with state '' at position None.
+                                              Heading named '10 Years with Hayao Miyazaki | NHK WORLD-JAPAN On ... NHK 25 лют. 2019 р.' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  StaticText named '' with state '10 Years with Hayao Miyazaki | NHK WORLD-JAPAN On ...' at position None.
+                                                StaticText named '' with state 'NHK' at position None.
+                                                Group named '' with state '' at position None.
+                                                  StaticText named '' with state '25 лют. 2019 р.' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Link named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            StaticText named '' with state 'Переглянути все' at position None.
+                                Group named '' with state '' at position None.
+                                  Heading named 'Книги' with state '' at position None.
+                                    Link named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Книги' at position None.
+                                      Image named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            List named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Link named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                  Heading named 'Shuna's Journey' with state '' at position None.
+                                                    StaticText named '' with state 'Shuna's Journey' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '1983' at position None.
+                                              Group named '' with state '' at position None.
+                                                Link named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                  Heading named 'Spirited Away 2' with state '' at position None.
+                                                    StaticText named '' with state 'Spirited Away 2' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '2012' at position None.
+                                              Group named '' with state '' at position None.
+                                                Link named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                  Heading named 'Whisper of the Heart' with state '' at position None.
+                                                    StaticText named '' with state 'Whisper of the Heart' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '2007' at position None.
+                                              Group named '' with state '' at position None.
+                                                Link named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                  Heading named 'Nausicaä of the Valley of the Wind: Watercolor Impressions' with state '' at position None.
+                                                    StaticText named '' with state 'Nausicaä of the Valley of the Wind: Watercolor Impressions' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '1996' at position None.
+                                              Group named '' with state '' at position None.
+                                                Link named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                  Heading named 'Hayao Miyazaki's Daydream Data Notes' with state '' at position None.
+                                                    StaticText named '' with state 'Hayao Miyazaki's Daydream Data Notes' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '1992' at position None.
+                                              Group named '' with state '' at position None.
+                                                Link named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                  Heading named 'Starting Point: 1979-1996' with state '' at position None.
+                                                    StaticText named '' with state 'Starting Point: 1979-1996' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '1996' at position None.
+                                              Group named '' with state '' at position None.
+                                                Link named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                  Heading named 'Pompoko (Artbook)' with state '' at position None.
+                                                    StaticText named '' with state 'Pompoko (Artbook)' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state '2005' at position None.
+                                              Link named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    Image named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Переглянути все' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                            Group named '
+' with state '' at position None.
+                                            Heading named 'Miyazaki Hayao | Biography, Movies, & Facts' with state '' at position None.
+                                              StaticText named '' with state 'Miyazaki Hayao | Biography, Movies, & Facts' at position None.
+                                            Group named '' with state '' at position None.
+                                              StaticText named '' with state 'Britannica' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'https://www.britannica.com' at position None.
+                                                StaticText named '' with state ' › ...' at position None.
+                                          StaticText named '' with state '·' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'Перекласти цю сторінку' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Про цей результат' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Link named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Miyazaki Hayao' at position None.
+                                          StaticText named '' with state ' (born January 5, 1941, Tokyo, Japan) Japanese anime director whose lyrical and allusive works won both critical and popular acclaim.' at position None.
+                                      Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                            Group named '
+' with state '' at position None.
+                                            Heading named 'Hajao Mijazaki' with state '' at position None.
+                                              StaticText named '' with state 'Hajao Mijazaki' at position None.
+                                            Group named '' with state '' at position None.
+                                              StaticText named '' with state 'Wikipedia' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'https://cs.wikipedia.org' at position None.
+                                                StaticText named '' with state ' › wiki' at position None.
+                                          StaticText named '' with state '·' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'Перекласти цю сторінку' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Про цей результат' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state '[s.l.]: [s.n.] Dostupné online. ↑ Studio Ghibli Sets New ' at position None.
+                                          StaticText named '' with state 'Miyazaki Hayao' at position None.
+                                          StaticText named '' with state ' Film, 'How Do You Live,' for Summer 2023. Variety [online]. 2022-12-13. Dostupné ...' at position None.
+                                      Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                            Group named '
+' with state '' at position None.
+                                            Heading named 'Hayao Miyazaki' with state '' at position None.
+                                              StaticText named '' with state 'Hayao Miyazaki' at position None.
+                                            Group named '' with state '' at position None.
+                                              StaticText named '' with state 'Rotten Tomatoes' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'https://www.rottentomatoes.com' at position None.
+                                                StaticText named '' with state ' › ...' at position None.
+                                          StaticText named '' with state '·' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'Перекласти цю сторінку' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Про цей результат' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Long acknowledged as Japan's preeminent animator and director, ' at position None.
+                                          StaticText named '' with state 'Hayao Miyazaki' at position None.
+                                          StaticText named '' with state ' remained a cult figure to American devotees of "manga" (Japanese comic books) and ...' at position None.
+                                      Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                            Group named '
+' with state '' at position None.
+                                            Heading named 'Hayao Miyazaki | Ghibli Wiki - Fandom' with state '' at position None.
+                                              StaticText named '' with state 'Hayao Miyazaki | Ghibli Wiki - Fandom' at position None.
+                                            Group named '' with state '' at position None.
+                                              StaticText named '' with state 'Fandom' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'https://ghibli.fandom.com' at position None.
+                                                StaticText named '' with state ' › ...' at position None.
+                                          StaticText named '' with state '·' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'Перекласти цю сторінку' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Про цей результат' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Hayao Miyazaki (宮崎 駿, ' at position None.
+                                          StaticText named '' with state 'Miyazaki Hayao' at position None.
+                                          StaticText named '' with state ', born January 5, 1941, in Tokyo, Japan) is a Japanese director, animator and cartoonist. He adopted several aliases ...' at position None.
+                                      Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Heading named 'Головні новини Про цей результат' with state '' at position None.
+                                      StaticText named '' with state 'Головні новини' at position None.
+                                      Group named '' with state '' at position None.
+                                        Button named '' with state '' at position None.
+                                          Image named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Link named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                            StaticText named '' with state 'Cybersport.ru' at position None.
+                                          Heading named 'Тест: кто ты из персонажей аниме Хаяо Миядзаки?' with state '' at position None.
+                                            StaticText named '' with state 'Тест: кто ты из персонажей аниме Хаяо Миядзаки?' at position None.
+                                          Group named '' with state '' at position None.
+                                            StaticText named '' with state '3 дні тому' at position None.
+                                    Group named '' with state '' at position None.
+                                      Link named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                            StaticText named '' with state 'Юга.ру' at position None.
+                                          Heading named 'В Краснодаре состоится предпоказ аниме «Рыбка Поньо на утесе» Хаяо Миядзаки' with state '' at position None.
+                                            StaticText named '' with state 'В Краснодаре состоится предпоказ аниме «Рыбка Поньо на утесе» Хаяо Миядзаки' at position None.
+                                          Group named '' with state '' at position None.
+                                            StaticText named '' with state '3 дні тому' at position None.
+                                    Group named '' with state '' at position None.
+                                      Link named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Більше новин' at position None.
+                                          Image named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                            Group named '
+' with state '' at position None.
+                                            Heading named 'Hayao Miyazaki - Biography' with state '' at position None.
+                                              StaticText named '' with state 'Hayao Miyazaki - Biography' at position None.
+                                            Group named '' with state '' at position None.
+                                              StaticText named '' with state 'IMDb' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'https://www.imdb.com' at position None.
+                                                StaticText named '' with state ' › bio' at position None.
+                                          StaticText named '' with state '·' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'Перекласти цю сторінку' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Про цей результат' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Hayao Miyazaki' at position None.
+                                          StaticText named '' with state ' is 1 of Japan's greatest animation directors. The entertaining plots, compelling characters & breathtaking animation in his films have earned ...' at position None.
+                                      Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Link named '' with state '' at position None.
+                                            Group named '
+' with state '' at position None.
+                                            Heading named 'Hayao Miyazaki' with state '' at position None.
+                                              StaticText named '' with state 'Hayao Miyazaki' at position None.
+                                            Group named '' with state '' at position None.
+                                              StaticText named '' with state 'Oscars.org' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'https://www.oscars.org' at position None.
+                                                StaticText named '' with state ' › hay...' at position None.
+                                          StaticText named '' with state '·' at position None.
+                                          Link named '' with state '' at position None.
+                                            StaticText named '' with state 'Перекласти цю сторінку' at position None.
+                                          Group named '' with state '' at position None.
+                                            Button named 'Про цей результат' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Image named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Link named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'One of Japan's most distinctive filmmakers, ' at position None.
+                                          StaticText named '' with state 'Hayao Miyazaki' at position None.
+                                          StaticText named '' with state ' has earned acclaim and recognition for his anime features since his debut in 1979 with The Castle ...' at position None.
+                                      Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Heading named 'Пов’язані пошукові запити' with state '' at position None.
+                                        StaticText named '' with state 'Пов’язані пошукові запити' at position None.
+                                      Group named '' with state '' at position None.
+                                        Button named '' with state '' at position None.
+                                          Image named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Link named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Miyazaki' at position None.
+                                          StaticText named '' with state ' hayao ' at position None.
+                                          StaticText named '' with state 'quotes' at position None.
+                                    Group named '' with state '' at position None.
+                                      Link named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          StaticText named '' with state 'Hayao' at position None.
+                                          StaticText named '' with state ' miyazaki ' at position None.
+                                          StaticText named '' with state 'facts' at position None.
+                              Heading named 'Повідомлення про результати фільтрування' with state '' at position None.
+                                StaticText named '' with state 'Повідомлення про результати фільтрування' at position None.
+                              Group named '' with state '' at position None.
+                                Group named '' with state '' at position None.
+                                  StaticText named '' with state 'Можливо, деякі результати вилучено згідно із законом про захист даних у Європі.' at position None.
+                                  Link named '' with state '' at position None.
+                                    StaticText named '' with state 'Докладніше' at position None.
+                              Group named '' with state '' at position (1588, 842).
+                                Group named '' with state '' at position (1588, 842).
+                                  Heading named 'Додаткові результати' with state '' at position (1588, 842).
+                                    StaticText named '' with state 'Додаткові результати' at position (1588, 842).
+                                  Group named '' with state '' at position None.
+                                  Group named '' with state '' at position (1546, 854).
+                                    Group named '' with state '' at position (1588, 854).
+                                      Heading named 'Інформація' with state '' at position (1588, 854).
+                                        StaticText named '' with state 'Інформація' at position (1588, 858).
+                                    Group named '' with state '' at position (1588, 902).
+                                      Group named '' with state '' at position (1588, 934).
+                                        Group named '' with state '' at position (1588, 934).
+                                          Group named '' with state '' at position (1588, 934).
+                                            Heading named 'Опис' with state '' at position (1588, 934).
+                                              StaticText named '' with state 'Опис' at position None.
+                                            StaticText named '' with state 'Міядза́кі Ха́яо або Міяза́кі Ха́яо — японський режисер анімаційних фільмів, автор численної манґи. Випускник політико-економічного факультету університету Ґакусюін. Співзасновник анімаційної студії Ghibli, з квітня 2005 року по 2014 — її директор. Власник Музею студії Ghibli.' at position (1588, 940).
+                                            StaticText named '' with state ' ' at position (1668, 1162).
+                                            Link named '' with state '' at position (1676, 1162).
+                                              StaticText named '' with state 'Вікіпедія' at position (1676, 1162).
+                                      Group named '' with state '' at position (1588, 1212).
+                                        Group named '' with state '' at position (1588, 1226).
+                                          StaticText named '' with state 'Народження' at position (1588, 1232).
+                                          StaticText named '' with state ':' at position (1760, 1232).
+                                          StaticText named '' with state ' ' at position (1770, 1232).
+                                          StaticText named '' with state '5 січня 1941 р. (83 роки), ' at position (1778, 1232).
+                                          Link named '' with state '' at position (2104, 1232).
+                                            StaticText named '' with state 'Токіо' at position (2104, 1232).
+                                      Group named '' with state '' at position (1588, 1270).
+                                        Group named '' with state '' at position (1588, 1284).
+                                          StaticText named '' with state 'Нагороди' at position (1588, 1290).
+                                          StaticText named '' with state ':' at position (1722, 1290).
+                                          StaticText named '' with state ' ' at position (1730, 1290).
+                                          Link named '' with state '' at position (1588, 1290).
+                                            StaticText named '' with state 'Премія «Оскар» за найкращий анімаційний повнометражний фільм' at position (1588, 1290).
+                                          StaticText named '' with state ',' at position (1896, 1334).
+                                          Link named '' with state '' at position (1910, 1328).
+                                            StaticText named '' with state 'MORE' at position (1910, 1334).
+                                      Group named '' with state '' at position (1588, 1372).
+                                        Group named '' with state '' at position (1588, 1386).
+                                          StaticText named '' with state 'Діти' at position (1588, 1392).
+                                          StaticText named '' with state ':' at position (1646, 1392).
+                                          StaticText named '' with state ' ' at position (1656, 1392).
+                                          Link named '' with state '' at position (1664, 1392).
+                                            StaticText named '' with state 'Міядзакі Ґоро' at position (1664, 1392).
+                                          StaticText named '' with state ', ' at position (1840, 1392).
+                                          Link named '' with state '' at position (1856, 1392).
+                                            StaticText named '' with state 'Кейсуке Міядзакі' at position (1856, 1392).
+                                      Group named '' with state '' at position (1588, 1430).
+                                        Group named '' with state '' at position (1588, 1444).
+                                          StaticText named '' with state 'Дружина' at position (1588, 1450).
+                                          StaticText named '' with state ':' at position (1710, 1450).
+                                          StaticText named '' with state ' ' at position (1720, 1450).
+                                          Link named '' with state '' at position (1728, 1450).
+                                            StaticText named '' with state 'Акемі Ота' at position (1728, 1450).
+                                          StaticText named '' with state ' (в шлюбі з 1965)' at position (1858, 1450).
+                                      Group named '' with state '' at position (1588, 1488).
+                                        Group named '' with state '' at position (1588, 1502).
+                                          StaticText named '' with state 'Споруди' at position (1588, 1508).
+                                          StaticText named '' with state ':' at position (1708, 1508).
+                                          StaticText named '' with state ' ' at position (1718, 1508).
+                                          Link named '' with state '' at position (1726, 1508).
+                                            StaticText named '' with state 'Музей студії Ghibli' at position (1726, 1508).
+                                    Group named '' with state '' at position (1588, 1562).
+                                      Link named '' with state '' at position (1588, 1562).
+                                        Group named '' with state '' at position (1614, 1580).
+                                          Image named '' with state '' at position (1614, 1580).
+                                        Group named '' with state '' at position (1590, 1564).
+                                          StaticText named '' with state 'Заявити права на блок знань' at position (1662, 1578).
+                                    Group named '' with state '' at position (2266, 1580).
+                                      Button named 'Відгук' with state '' at position (2266, 1580).
+                                        Group named '' with state '' at position (2266, 1580).
+                                          StaticText named '' with state 'Відгук' at position (2266, 1582).
+                                    Splitter named '' with state '' at position None.
+                                  Group named '' with state '' at position None.
+                                    Group named '' with state '' at position None.
+                                      Heading named 'Люди також шукають' with state '' at position None.
+                                        StaticText named '' with state 'Люди також шукають' at position None.
+                                    Group named '' with state '' at position None.
+                                      Group named '' with state '' at position None.
+                                        Group named '' with state '' at position None.
+                                          Group named '' with state '' at position None.
+                                            Link named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'Міядзакі Ґоро' at position None.
+                                            Link named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'Такахата Ісао' at position None.
+                                            Link named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'Акемі Ота' at position None.
+                                            Link named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                Group named '' with state '' at position None.
+                                              Group named '' with state '' at position None.
+                                                StaticText named '' with state 'Судзукі Тошіо' at position None.
+                                            Group named '' with state '' at position None.
+                                              Link named '' with state '' at position None.
+                                                Link named '' with state '' at position None.
+                                                  Group named '' with state '' at position None.
+                                                    StaticText named '' with state 'Більше' at position None.
+                                                    Image named '' with state '' at position None.
+                              Group named '' with state '' at position None.
+                              Group named '' with state '' at position None.
+                              Heading named 'Page Navigation' with state '' at position None.
+                                StaticText named '' with state 'Page Navigation' at position None.
+                              Button named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+          Group named '' with state '' at position None.
+          Group named '' with state '' at position None.
+      Group named '' with state '' at position None.
+      Group named '' with state '' at position None.
+        Group named '' with state '' at position None.
+          Group named '' with state '' at position None.
+            Group named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+      Group named '' with state '' at position None.
+        Group named '' with state '' at position None.
+        Group named '' with state '' at position None.
+        Group named '' with state '' at position None.
+      Group named '' with state '' at position None.
+        Group named '' with state '' at position None.
+      Group named '' with state '' at position None.
+        Group named '' with state '' at position None.
+        Group named '' with state '' at position None.
+        Group named '' with state '' at position None.
+        Group named '' with state '' at position None.
+  PopUpButton named '' with state 'Bookmarks' at position (922, 256).
+    Button named '' with state '' at position (922, 256).
+  Button named '' with state '' at position (2310, 266).
+  Splitter named '' with state '' at position (888, 242).

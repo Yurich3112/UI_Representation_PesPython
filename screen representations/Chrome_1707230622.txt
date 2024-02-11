@@ -1,0 +1,334 @@
+Description for the Chrome application:
+Group named '' with state '' at position (0, 0).
+  TabGroup named '' with state '' at position (160, 0).
+    RadioButton named '' with state 'False' at position (160, 0).
+      Button named '' with state '' at position (588, 12).
+    RadioButton named '' with state 'False' at position (636, 0).
+      Button named '' with state '' at position (1064, 12).
+    RadioButton named '' with state 'True' at position (1112, 0).
+      Button named '' with state '' at position (1540, 12).
+    Button named '' with state '' at position (1612, 0).
+    PopUpButton named '' with state '' at position (1962, 0).
+  Toolbar named '' with state '' at position (0, 80).
+    Button named '' with state '' at position (10, 92).
+    Button named '' with state '' at position (82, 92).
+    Button named '' with state '' at position (154, 92).
+    StaticText named '' with state '' at position None.
+    Group named '' with state '' at position (240, 92).
+      StaticText named '' with state '' at position None.
+      PopUpButton named '' with state '' at position (250, 102).
+      TextField named '' with state 'chrome://settings/manageProfile' at position (422, 102).
+      Button named '' with state '' at position (1610, 102).
+    StaticText named '' with state '' at position None.
+    PopUpButton named '' with state '' at position (1700, 92).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (1808, 92).
+    Button named '' with state '' at position (1880, 92).
+    PopUpButton named '' with state '' at position (1952, 92).
+  Toolbar named '' with state '' at position (0, 172).
+    StaticText named '' with state 'Apps' at position None.
+    StaticText named '' with state 'Managed Bookmarks' at position None.
+    Toolbar named '' with state '' at position None.
+      StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (12, 172).
+    Button named '' with state '' at position (162, 172).
+    Button named '' with state '' at position (342, 172).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state 'All Bookmarks' at position None.
+  WebArea named 'Settings – Customise profile' with state '' at position (0, 242).
+    Group named '' with state '' at position (0, 242).
+      Group named '' with state '' at position (0, 242).
+        Group named '' with state '' at position (42, 274).
+        Heading named 'Settings' with state '' at position (134, 272).
+          StaticText named '' with state 'Settings' at position (134, 272).
+      Group named '' with state '' at position (544, 262).
+        Group named '' with state '' at position (544, 262).
+        Group named '' with state '' at position (544, 262).
+        Group named '' with state '' at position (556, 262).
+          Group named '' with state '' at position (612, 276).
+            TextField named 'Search settings' with state '' at position (612, 276).
+    Group named '' with state '' at position (0, 354).
+    Group named '' with state '' at position (0, 354).
+      Group named '' with state '' at position (0, 354).
+        Group named '' with state '' at position (0, 354).
+          Group named '' with state '' at position (0, 370).
+            Menu named '' with state '' at position (0, 370).
+              MenuItem named 'You and Google' with state '' at position (2, 370).
+                Group named '' with state '' at position (48, 390).
+                  Image named '' with state '' at position (48, 390).
+                StaticText named '' with state 'You and Google' at position (128, 394).
+                Group named '' with state '' at position (2, 370).
+              MenuItem named 'Autofill and passwords' with state '' at position (2, 450).
+                Group named '' with state '' at position (48, 470).
+                  Image named '' with state '' at position (48, 470).
+                StaticText named '' with state 'Autofill and passwords' at position (128, 474).
+                Group named '' with state '' at position (2, 450).
+              MenuItem named 'Privacy and security' with state '' at position (2, 530).
+                Group named '' with state '' at position (48, 550).
+                  Image named '' with state '' at position (48, 550).
+                StaticText named '' with state 'Privacy and security' at position (128, 554).
+                Group named '' with state '' at position (2, 530).
+              MenuItem named 'Performance' with state '' at position (2, 610).
+                Group named '' with state '' at position (48, 630).
+                  Image named '' with state '' at position (48, 630).
+                StaticText named '' with state 'Performance' at position (128, 634).
+                Group named '' with state '' at position (2, 610).
+              MenuItem named 'Appearance' with state '' at position (2, 690).
+                Group named '' with state '' at position (48, 710).
+                  Image named '' with state '' at position (48, 710).
+                StaticText named '' with state 'Appearance' at position (128, 714).
+                Group named '' with state '' at position (2, 690).
+              MenuItem named 'Search engine' with state '' at position (2, 770).
+                Group named '' with state '' at position (48, 790).
+                  Image named '' with state '' at position (48, 790).
+                StaticText named '' with state 'Search engine' at position (128, 794).
+                Group named '' with state '' at position (2, 770).
+              MenuItem named 'Default browser' with state '' at position (2, 850).
+                Group named '' with state '' at position (48, 870).
+                  Image named '' with state '' at position (48, 870).
+                StaticText named '' with state 'Default browser' at position (128, 874).
+                Group named '' with state '' at position (2, 850).
+              MenuItem named 'On start-up' with state '' at position (2, 930).
+                Group named '' with state '' at position (48, 950).
+                  Image named '' with state '' at position (48, 950).
+                StaticText named '' with state 'On start-up' at position (128, 954).
+                Group named '' with state '' at position (2, 930).
+              MenuItem named 'Languages' with state '' at position (2, 1044).
+                Group named '' with state '' at position (48, 1064).
+                  Image named '' with state '' at position (48, 1064).
+                StaticText named '' with state 'Languages' at position (128, 1068).
+                Group named '' with state '' at position (2, 1044).
+              MenuItem named 'Downloads' with state '' at position (2, 1124).
+                Group named '' with state '' at position (48, 1144).
+                  Image named '' with state '' at position (48, 1144).
+                StaticText named '' with state 'Downloads' at position (128, 1148).
+                Group named '' with state '' at position (2, 1124).
+              MenuItem named 'Accessibility' with state '' at position (2, 1204).
+                Group named '' with state '' at position (48, 1224).
+                  Image named '' with state '' at position (48, 1224).
+                StaticText named '' with state 'Accessibility' at position (128, 1228).
+                Group named '' with state '' at position (2, 1204).
+              MenuItem named 'System' with state '' at position (2, 1284).
+                Group named '' with state '' at position (48, 1304).
+                  Image named '' with state '' at position (48, 1304).
+                StaticText named '' with state 'System' at position (128, 1308).
+                Group named '' with state '' at position (2, 1284).
+              MenuItem named 'Reset settings' with state '' at position (2, 1364).
+                Group named '' with state '' at position (48, 1384).
+                  Image named '' with state '' at position (48, 1384).
+                StaticText named '' with state 'Reset settings' at position (128, 1388).
+                Group named '' with state '' at position (2, 1364).
+              MenuItem named 'Extensions' with state '' at position (2, 1478).
+                Group named '' with state '' at position (48, 1498).
+                  Image named '' with state '' at position (48, 1498).
+                StaticText named '' with state 'Extensions' at position (128, 1502).
+                Group named '' with state '' at position (2, 1478).
+              MenuItem named 'About Chrome' with state '' at position (2, 1558).
+                StaticText named '' with state 'About Chrome' at position (128, 1582).
+                Group named '' with state '' at position (2, 1558).
+      Group named '' with state '' at position None.
+        Group named '' with state '' at position None.
+          Group named '' with state '' at position None.
+            Group named '' with state '' at position (556, 354).
+              Button named '' with state '' at position (576, 378).
+                Group named '' with state '' at position (576, 378).
+              Heading named 'Customise profile' with state '' at position (660, 390).
+                StaticText named '' with state 'Customise profile' at position (660, 392).
+              Heading named 'Name your Chrome profile' with state '' at position (596, 516).
+                StaticText named '' with state 'Name your Chrome profile' at position (596, 520).
+              Group named '' with state '' at position (676, 584).
+                Group named '' with state '' at position (676, 584).
+                  Group named '' with state '' at position (676, 584).
+                    Group named '' with state '' at position (676, 584).
+                      TextField named '' with state 'Person 1' at position (696, 604).
+                    Group named '' with state '' at position (676, 654).
+                    Group named '' with state '' at position None.
+              Heading named 'Pick a theme colour' with state '' at position (596, 732).
+                StaticText named '' with state 'Pick a theme colour' at position (596, 736).
+              Group named '' with state '' at position (596, 792).
+                RadioGroup named '' with state '' at position (676, 800).
+                  RadioButton named '' with state '' at position (676, 800).
+                    Group named '' with state '' at position (692, 816).
+                      Image named '' with state '' at position (792, 816).
+                      Image named '' with state '' at position (692, 816).
+                  RadioButton named '' with state '' at position (870, 800).
+                    Group named '' with state '' at position (886, 816).
+                      Image named '' with state '' at position (886, 816).
+                  RadioButton named '' with state '' at position (1064, 800).
+                    Group named '' with state '' at position (1080, 816).
+                      Image named '' with state '' at position (1080, 816).
+                  RadioButton named '' with state '' at position (1258, 800).
+                    Group named '' with state '' at position (1274, 816).
+                      Image named '' with state '' at position (1274, 816).
+                  RadioButton named '' with state '' at position (1452, 800).
+                    Group named '' with state '' at position (1468, 816).
+                      Image named '' with state '' at position (1468, 816).
+                  RadioButton named '' with state '' at position (1646, 800).
+                    Group named '' with state '' at position (1662, 816).
+                      Image named '' with state '' at position (1662, 816).
+                  RadioButton named '' with state '' at position (676, 994).
+                    Group named '' with state '' at position (692, 1010).
+                      Image named '' with state '' at position (692, 1010).
+                  RadioButton named '' with state '' at position (870, 994).
+                    Group named '' with state '' at position (886, 1010).
+                      Image named '' with state '' at position (886, 1010).
+                  RadioButton named '' with state '' at position (1064, 994).
+                    Group named '' with state '' at position (1080, 1010).
+                      Image named '' with state '' at position (1080, 1010).
+                  RadioButton named '' with state '' at position (1258, 994).
+                    Group named '' with state '' at position (1274, 1010).
+                      Image named '' with state '' at position (1274, 1010).
+                  RadioButton named '' with state '' at position (1452, 994).
+                    Group named '' with state '' at position (1468, 1010).
+                      Image named '' with state '' at position (1468, 1010).
+                  RadioButton named '' with state '' at position (1646, 994).
+                    Group named '' with state '' at position (1662, 1010).
+                      Image named '' with state '' at position (1662, 1010).
+                  RadioButton named '' with state '' at position (676, 1188).
+                    Group named '' with state '' at position (692, 1204).
+                      Image named '' with state '' at position (692, 1204).
+                  RadioButton named '' with state '' at position (870, 1188).
+                    Group named '' with state '' at position (886, 1204).
+                      Image named '' with state '' at position (886, 1204).
+                  RadioButton named '' with state '' at position (1064, 1188).
+                    Group named '' with state '' at position (1080, 1204).
+                      Image named '' with state '' at position (1080, 1204).
+                  RadioButton named '' with state '' at position (1258, 1188).
+                    Group named '' with state '' at position (1274, 1204).
+                      Image named '' with state '' at position (1274, 1204).
+                    Group named '' with state '' at position (1320, 1248).
+              Heading named 'Pick an avatar' with state '' at position (596, 1446).
+                StaticText named '' with state 'Pick an avatar' at position (596, 1448).
+              Group named '' with state '' at position (596, 1504).
+                RadioGroup named '' with state '' at position (660, 1504).
+                  Group named '' with state '' at position (684, 1520).
+                    RadioButton named '' with state '' at position (684, 1520).
+                      Group named '' with state '' at position (686, 1522).
+                    Group named '' with state '' at position (782, 1520).
+                      Image named '' with state '' at position (784, 1522).
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position (878, 1520).
+                    RadioButton named '' with state '' at position (878, 1520).
+                      Group named '' with state '' at position (880, 1522).
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position (1072, 1520).
+                    RadioButton named '' with state '' at position (1072, 1520).
+                      Group named '' with state '' at position (1074, 1522).
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position (1266, 1520).
+                    RadioButton named '' with state '' at position (1266, 1520).
+                      Group named '' with state '' at position (1268, 1522).
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position (1460, 1520).
+                    RadioButton named '' with state '' at position (1460, 1520).
+                      Group named '' with state '' at position (1462, 1522).
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position (1654, 1520).
+                    RadioButton named '' with state '' at position (1654, 1520).
+                      Group named '' with state '' at position (1656, 1522).
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    RadioButton named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+        Group named '' with state '' at position None.
+  PopUpButton named '' with state 'Bookmarks' at position (922, 256).
+    Button named '' with state '' at position (922, 256).
+  Button named '' with state '' at position None.
+  Splitter named '' with state '' at position (888, 242).

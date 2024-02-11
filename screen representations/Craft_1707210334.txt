@@ -1,0 +1,53 @@
+Description for the Craft application:
+Window named 'My Templates' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (588, 104).
+        StaticText named 'None' with state 'None' at position None.
+        TextArea named 'None' with state 'Documents added to this folder can be used as templates when creating a new document or page' at position None.
+        StaticText named 'None' with state 'None' at position None.
+        StaticText named 'None' with state 'None' at position None.
+        StaticText named 'None' with state 'None' at position None.
+        StaticText named 'None' with state 'None' at position None.
+        StaticText named 'None' with state 'None' at position (636, 168).
+        StaticText named 'None' with state 'None' at position (724, 290).
+        StaticText named 'None' with state 'None' at position (1186, 290).
+        StaticText named 'None' with state 'None' at position (1650, 290).
+        StaticText named 'None' with state 'None' at position (724, 322).
+        StaticText named 'None' with state 'None' at position (1186, 322).
+        StaticText named 'None' with state 'None' at position (1650, 322).
+        StaticText named 'None' with state 'None' at position (660, 444).
+        StaticText named 'None' with state 'None' at position (1186, 796).
+      StaticText named 'None' with state 'None' at position (138, 156).
+      StaticText named 'None' with state 'None' at position (156, 160).
+      StaticText named 'None' with state 'None' at position (138, 188).
+      StaticText named 'None' with state 'None' at position (48, 272).
+      StaticText named 'None' with state 'None' at position (140, 336).
+      StaticText named 'None' with state 'None' at position (170, 400).
+      StaticText named 'None' with state 'None' at position (170, 464).
+      StaticText named 'None' with state 'None' at position (104, 528).
+      StaticText named 'None' with state 'None' at position (128, 326).
+      StaticText named 'None' with state 'None' at position (128, 390).
+      StaticText named 'None' with state 'None' at position (128, 454).
+      StaticText named 'None' with state 'None' at position (128, 518).
+      StaticText named 'None' with state 'None' at position (128, 582).
+      StaticText named 'None' with state 'None' at position (72, 670).
+      StaticText named 'None' with state 'None' at position (144, 726).
+      StaticText named 'None' with state 'None' at position (492, 726).
+      StaticText named 'None' with state 'None' at position (88, 790).
+      StaticText named 'None' with state 'None' at position (144, 790).
+      StaticText named 'None' with state 'None' at position (492, 790).
+      StaticText named 'None' with state 'None' at position (88, 854).
+      StaticText named 'None' with state 'None' at position (144, 854).
+      StaticText named 'None' with state 'None' at position (492, 854).
+      StaticText named 'None' with state 'None' at position (88, 918).
+      StaticText named 'None' with state 'None' at position (144, 918).
+      StaticText named 'None' with state 'None' at position (492, 918).
+      StaticText named 'None' with state 'None' at position (88, 982).
+      StaticText named 'None' with state 'None' at position (144, 982).
+      StaticText named 'None' with state 'None' at position (492, 982).
+      StaticText named 'None' with state 'None' at position (128, 1086).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

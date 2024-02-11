@@ -1,0 +1,231 @@
+Description for the Diarly application:
+Window named 'Diary' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Settings' at position (90, 1680).
+  StaticText named 'None' with state '' at position (30, 1678).
+  StaticText named 'None' with state '' at position (92, 116).
+  StaticText named 'None' with state '' at position (34, 118).
+  ScrollArea named 'None' with state 'None' at position (0, 182).
+    Table named 'None' with state 'None' at position (0, 182).
+      Row named 'None' with state 'None' at position (0, 182).
+        Cell named 'None' with state 'None' at position (0, 182).
+          StaticText named 'None' with state 'Journals' at position (16, 194).
+      Row named 'None' with state 'None' at position (0, 240).
+        Cell named 'None' with state 'None' at position (0, 240).
+          StaticText named 'None' with state '😌' at position (28, 260).
+          StaticText named 'None' with state 'My Journal' at position (88, 264).
+      Row named 'None' with state 'None' at position (0, 320).
+        Cell named 'None' with state 'None' at position (0, 320).
+      Row named 'None' with state 'None' at position (0, 322).
+        Cell named 'None' with state 'None' at position (0, 322).
+          StaticText named 'None' with state 'View' at position (16, 334).
+      Row named 'None' with state 'None' at position (0, 380).
+        Cell named 'None' with state 'None' at position (0, 380).
+          StaticText named 'None' with state '' at position (28, 400).
+          StaticText named 'None' with state 'List' at position (88, 404).
+      Row named 'None' with state 'None' at position (0, 460).
+        Cell named 'None' with state 'None' at position (0, 460).
+          StaticText named 'None' with state '' at position (28, 480).
+          StaticText named 'None' with state 'Calendar' at position (88, 484).
+      Row named 'None' with state 'None' at position (0, 540).
+        Cell named 'None' with state 'None' at position (0, 540).
+          StaticText named 'None' with state '' at position (28, 560).
+          StaticText named 'None' with state 'Map' at position (88, 564).
+      Row named 'None' with state 'None' at position (0, 620).
+        Cell named 'None' with state 'None' at position (0, 620).
+          StaticText named 'None' with state '' at position (28, 640).
+          StaticText named 'None' with state 'Gallery' at position (88, 644).
+      Row named 'None' with state 'None' at position (0, 700).
+        Cell named 'None' with state 'None' at position (0, 700).
+          StaticText named 'None' with state '' at position (28, 720).
+          StaticText named 'None' with state 'Stats' at position (88, 724).
+      Row named 'None' with state 'None' at position (0, 780).
+        Cell named 'None' with state 'None' at position (0, 780).
+      Column named 'None' with state 'None' at position (0, 182).
+  Button named '' with state 'None' at position (1094, 16).
+  Button named '' with state 'None' at position (702, 104).
+  Button named '' with state 'None' at position (862, 104).
+  StaticText named 'None' with state '2024' at position (766, 124).
+  StaticText named 'None' with state 'Mon' at position (478, 204).
+  StaticText named 'None' with state 'Tue' at position (584, 204).
+  StaticText named 'None' with state 'Wed' at position (682, 204).
+  StaticText named 'None' with state 'Thu' at position (788, 204).
+  StaticText named 'None' with state 'Fri' at position (898, 204).
+  StaticText named 'None' with state 'Sat' at position (996, 204).
+  StaticText named 'None' with state 'Sun' at position (1096, 204).
+  StaticText named 'None' with state 'DECEMBER' at position None.
+  StaticText named 'None' with state '2023' at position None.
+  StaticText named 'None' with state '01' at position None.
+  StaticText named 'None' with state '02' at position None.
+  StaticText named 'None' with state '03' at position None.
+  StaticText named 'None' with state '04' at position None.
+  StaticText named 'None' with state '05' at position None.
+  StaticText named 'None' with state '06' at position None.
+  StaticText named 'None' with state '07' at position None.
+  StaticText named 'None' with state '08' at position None.
+  StaticText named 'None' with state '09' at position None.
+  StaticText named 'None' with state '10' at position None.
+  StaticText named 'None' with state '11' at position (490, 0).
+  StaticText named 'None' with state '12' at position (590, 0).
+  StaticText named 'None' with state '13' at position (692, 0).
+  StaticText named 'None' with state '14' at position (794, 0).
+  StaticText named 'None' with state '15' at position (898, 0).
+  StaticText named 'None' with state '16' at position (1000, 0).
+  StaticText named 'None' with state '17' at position (1102, 0).
+  StaticText named 'None' with state '18' at position (488, 66).
+  StaticText named 'None' with state '19' at position (590, 66).
+  StaticText named 'None' with state '20' at position (690, 66).
+  StaticText named 'None' with state '21' at position (794, 66).
+  StaticText named 'None' with state '22' at position (896, 66).
+  StaticText named 'None' with state '23' at position (998, 66).
+  StaticText named 'None' with state '24' at position (1100, 66).
+  StaticText named 'None' with state '25' at position (486, 146).
+  StaticText named 'None' with state '26' at position (588, 146).
+  StaticText named 'None' with state '27' at position (690, 146).
+  StaticText named 'None' with state '28' at position (792, 146).
+  StaticText named 'None' with state '29' at position (896, 146).
+  StaticText named 'None' with state '30' at position (998, 146).
+  StaticText named 'None' with state '31' at position (1102, 146).
+  StaticText named 'None' with state 'JANUARY' at position (486, 256).
+  StaticText named 'None' with state '2024' at position (486, 294).
+  StaticText named 'None' with state '01' at position (488, 350).
+  StaticText named 'None' with state '02' at position (588, 350).
+  StaticText named 'None' with state '03' at position (690, 350).
+  StaticText named 'None' with state '04' at position (792, 350).
+  StaticText named 'None' with state '05' at position (896, 350).
+  StaticText named 'None' with state '06' at position (998, 350).
+  StaticText named 'None' with state '07' at position (1100, 350).
+  StaticText named 'None' with state '08' at position (486, 430).
+  StaticText named 'None' with state '09' at position (588, 430).
+  StaticText named 'None' with state '10' at position (692, 430).
+  StaticText named 'None' with state '11' at position (796, 430).
+  StaticText named 'None' with state '12' at position (898, 430).
+  StaticText named 'None' with state '13' at position (1000, 430).
+  StaticText named 'None' with state '14' at position (1102, 430).
+  StaticText named 'None' with state '15' at position (488, 510).
+  StaticText named 'None' with state '16' at position (590, 510).
+  StaticText named 'None' with state '17' at position (692, 510).
+  StaticText named 'None' with state '18' at position (794, 510).
+  StaticText named 'None' with state '19' at position (898, 510).
+  StaticText named 'None' with state '20' at position (998, 510).
+  StaticText named 'None' with state '21' at position (1102, 510).
+  StaticText named 'None' with state '22' at position (486, 590).
+  StaticText named 'None' with state '23' at position (588, 590).
+  StaticText named 'None' with state '24' at position (690, 590).
+  StaticText named 'None' with state '25' at position (792, 590).
+  StaticText named 'None' with state '26' at position (896, 590).
+  StaticText named 'None' with state '27' at position (998, 590).
+  StaticText named 'None' with state '28' at position (1100, 590).
+  StaticText named 'None' with state '29' at position (486, 670).
+  StaticText named 'None' with state '30' at position (588, 670).
+  StaticText named 'None' with state '31' at position (692, 670).
+  StaticText named 'None' with state 'FEBRUARY' at position (486, 780).
+  StaticText named 'None' with state '2024' at position (486, 818).
+  StaticText named 'None' with state '01' at position (794, 874).
+  StaticText named 'None' with state '02' at position (896, 874).
+  StaticText named 'None' with state '03' at position (998, 874).
+  StaticText named 'None' with state '04' at position (1100, 874).
+  StaticText named 'None' with state '05' at position (486, 954).
+  StaticText named 'None' with state '06' at position (586, 954).
+  StaticText named 'None' with state '07' at position (690, 954).
+  StaticText named 'None' with state '08' at position (792, 954).
+  StaticText named 'None' with state '09' at position (896, 954).
+  StaticText named 'None' with state '10' at position (1000, 954).
+  StaticText named 'None' with state '11' at position (1104, 954).
+  StaticText named 'None' with state '12' at position (488, 1034).
+  StaticText named 'None' with state '13' at position (590, 1034).
+  StaticText named 'None' with state '14' at position (692, 1034).
+  StaticText named 'None' with state '15' at position (794, 1034).
+  StaticText named 'None' with state '16' at position (898, 1034).
+  StaticText named 'None' with state '17' at position (1000, 1034).
+  StaticText named 'None' with state '18' at position (1102, 1034).
+  StaticText named 'None' with state '19' at position (488, 1114).
+  StaticText named 'None' with state '20' at position (588, 1114).
+  StaticText named 'None' with state '21' at position (692, 1114).
+  StaticText named 'None' with state '22' at position (792, 1114).
+  StaticText named 'None' with state '23' at position (896, 1114).
+  StaticText named 'None' with state '24' at position (998, 1114).
+  StaticText named 'None' with state '25' at position (1100, 1114).
+  StaticText named 'None' with state '26' at position (486, 1194).
+  StaticText named 'None' with state '27' at position (588, 1194).
+  StaticText named 'None' with state '28' at position (690, 1194).
+  StaticText named 'None' with state '29' at position (792, 1194).
+  StaticText named 'None' with state 'MARCH' at position (486, 1304).
+  StaticText named 'None' with state '2024' at position (486, 1342).
+  StaticText named 'None' with state '01' at position (898, 1398).
+  StaticText named 'None' with state '02' at position (998, 1398).
+  StaticText named 'None' with state '03' at position (1100, 1398).
+  StaticText named 'None' with state '04' at position (486, 1478).
+  StaticText named 'None' with state '05' at position (588, 1478).
+  StaticText named 'None' with state '06' at position (690, 1478).
+  StaticText named 'None' with state '07' at position (792, 1478).
+  StaticText named 'None' with state '08' at position (896, 1478).
+  StaticText named 'None' with state '09' at position (998, 1478).
+  StaticText named 'None' with state '10' at position (1102, 1478).
+  StaticText named 'None' with state '11' at position (490, 1558).
+  StaticText named 'None' with state '12' at position (590, 1558).
+  StaticText named 'None' with state '13' at position (692, 1558).
+  StaticText named 'None' with state '14' at position (794, 1558).
+  StaticText named 'None' with state '15' at position (898, 1558).
+  StaticText named 'None' with state '16' at position (1000, 1558).
+  StaticText named 'None' with state '17' at position (1102, 1558).
+  StaticText named 'None' with state '18' at position (488, 1638).
+  StaticText named 'None' with state '19' at position (590, 1638).
+  StaticText named 'None' with state '20' at position (690, 1638).
+  StaticText named 'None' with state '21' at position (794, 1638).
+  StaticText named 'None' with state '22' at position (896, 1638).
+  StaticText named 'None' with state '23' at position (998, 1638).
+  StaticText named 'None' with state '24' at position (1100, 1638).
+  StaticText named 'None' with state '25' at position (486, 1718).
+  StaticText named 'None' with state '26' at position (588, 1718).
+  StaticText named 'None' with state '27' at position (690, 1718).
+  StaticText named 'None' with state '28' at position (792, 1718).
+  StaticText named 'None' with state '29' at position (896, 1718).
+  StaticText named 'None' with state '30' at position (998, 1718).
+  StaticText named 'None' with state '31' at position (1102, 1718).
+  ScrollArea named 'None' with state 'None' at position (1190, 104).
+    TextArea named 'None' with state '# Three small things I'm grateful for:
+- 
+
+# What is my positive intention for the day?
+
+
+# How did I feel today and what patterns or triggers did I notice?
+
+
+[Kyiv, Antonovycha Street](diarly://map/50.42603751718915,30.51559530818982) 📲🛌 2˚C ☁️ 📲👟 
+
+
+#StartingOut  Welcome to Diarly 👋' at position (1190, 104).
+      Link named 'Kyiv, Antonovycha Street' with state 'None' at position (1308, 624).
+      Link named ' Welcome to Diarly 👋' with state 'None' at position (1504, 754).
+    ScrollBar named 'None' with state '0.0' at position (3004, 104).
+      ValueIndicator named 'None' with state '0.0' at position (3004, 106).
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (3004, 1122).
+      Button named 'None' with state 'None' at position (3004, 104).
+  Button named '' with state 'None' at position (2752, 16).
+  Button named '' with state 'None' at position (2664, 16).
+  Button named '' with state 'None' at position (2928, 16).
+  Button named '' with state 'None' at position (1222, 16).
+  Button named '' with state 'None' at position (1318, 16).
+  Button named '' with state 'None' at position (1682, 16).
+  StaticText named 'None' with state 'Tue, 6 February' at position (1426, 32).
+  Button named '' with state 'None' at position (1360, 16).
+  Button named '' with state 'None' at position (184, 16).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  Popover named 'None' with state 'None' at position (2292, 98).
+    StaticText named 'None' with state '49' at position (2356, 156).
+    StaticText named 'None' with state 'WORDS' at position (2454, 166).
+    StaticText named 'None' with state '365' at position (2352, 230).
+    StaticText named 'None' with state 'CHARACTERS' at position (2454, 234).
+    StaticText named 'None' with state '13' at position (2364, 292).
+    StaticText named 'None' with state 'PARAGRAPHS' at position (2454, 296).
+    StaticText named 'None' with state '49 words from 150 you planned' at position (2454, 378).
+    StaticText named 'None' with state '6 Feb 2024, 11:08' at position (2354, 488).
+    StaticText named 'None' with state 'LAST MODIFIED ON' at position (2354, 458).
+    StaticText named 'None' with state '6 Feb 2024, 11:07' at position (2354, 570).
+    StaticText named 'None' with state 'CREATED ON' at position (2354, 540).

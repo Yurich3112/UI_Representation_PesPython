@@ -1,0 +1,24 @@
+Description for the ClearVPN application:
+Group named 'None' with state 'None' at position (0, 0).
+  Image named 'None' with state 'None' at position (610, 148).
+  StaticText named 'None' with state 'Czechia' at position (658, 148).
+  StaticText named 'None' with state 'YOU'RE HERE NOW' at position (96, 170).
+  StaticText named 'None' with state 'VPN CONNECTION' at position (850, 170).
+  StaticText named 'None' with state 'Off' at position (1380, 168).
+  StaticText named 'None' with state '91.139.84.198' at position (604, 188).
+  Button named 'None' with state 'None' at position (1440, 156).
+  Button named 'None' with state 'None' at position (48, 292).
+  StaticText named 'None' with state 'Pick priority' at position (624, 350).
+  Image named 'None' with state 'None' at position (62, 404).
+  StaticText named 'None' with state 'No restrictions' at position (720, 450).
+  Image named 'None' with state 'None' at position (656, 470).
+  StaticText named 'None' with state 'Connects you to countries with the fewest web restrictions. Perfect for accessing blocked websites.' at position (720, 482).
+  StaticText named 'None' with state 'Fastest server' at position (720, 614).
+  Image named 'None' with state 'None' at position (656, 634).
+  StaticText named 'None' with state 'Picks an optimal IP address based on your current location. Great for preserving your speed.' at position (720, 646).
+  StaticText named 'None' with state 'Smart connection' at position (62, 698).
+  StaticText named 'None' with state 'Have your VPN automatically set up in the most efficient way with our smart VPN presets.' at position (62, 760).
+  StaticText named 'None' with state 'Top protection' at position (720, 778).
+  Image named 'None' with state 'None' at position (656, 798).
+  StaticText named 'None' with state 'Blocks ads and connects to countries with the strongest privacy protection laws. Your speed might get affected.' at position (720, 810).
+  Button named 'None' with state 'None' at position (56, 1160).

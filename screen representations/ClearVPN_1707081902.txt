@@ -1,0 +1,28 @@
+Description for the ClearVPN application:
+Group named 'None' with state 'None' at position (0, 0).
+  Button named 'None' with state 'None' at position (1488, 76).
+  StaticText named 'None' with state 'System settings' at position (448, 132).
+  StaticText named 'None' with state 'Account' at position (48, 224).
+  StaticText named 'None' with state 'SYSTEM' at position (448, 272).
+  StaticText named 'None' with state 'Your devices' at position (48, 292).
+  StaticText named 'None' with state 'Kill Switch' at position (448, 326).
+  CheckBox named 'None' with state '1' at position (1476, 334).
+  StaticText named 'None' with state 'System settings' at position (48, 360).
+  StaticText named 'None' with state 'Prevent traffic leaks in case Internet connection goes off' at position (448, 368).
+  StaticText named 'None' with state 'Shortcuts' at position (48, 428).
+  StaticText named 'None' with state 'Show ClearVPN in the Dock' at position (448, 482).
+  StaticText named 'None' with state 'Stand with Ukraine 🇺🇦' at position (48, 496).
+  CheckBox named 'None' with state '1' at position (1476, 490).
+  StaticText named 'None' with state 'Let the app always be at hand' at position (448, 524).
+  StaticText named 'None' with state 'Need help?' at position (48, 600).
+  StaticText named 'None' with state 'STARTUP' at position (448, 632).
+  StaticText named 'None' with state 'Launch on system startup' at position (448, 686).
+  CheckBox named 'None' with state '0' at position (1476, 694).
+  StaticText named 'None' with state 'Keep it at hand whenever you need the app' at position (448, 728).
+  StaticText named 'None' with state 'TROUBLESHOOTING' at position (448, 836).
+  Image named 'None' with state 'None' at position (82, 870).
+  StaticText named 'None' with state 'Reset all changes made by ClearVPN' at position (448, 890).
+  Button named 'None' with state 'None' at position (448, 944).
+  StaticText named 'None' with state 'Are you sure 
+all your devices are protected?' at position (114, 1044).
+  Button named 'None' with state 'None' at position (80, 1150).

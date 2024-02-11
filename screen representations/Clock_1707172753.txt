@@ -1,0 +1,33 @@
+Description for the Clock application:
+Window named 'Clock' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          Group named 'None' with state 'None' at position (0, 104).
+            Button named 'None' with state 'None' at position (30, 134).
+              StaticText named 'None' with state 'None' at position (78, 184).
+              StaticText named 'None' with state 'None' at position (78, 282).
+              StaticText named 'None' with state 'None' at position (78, 322).
+              StaticText named 'None' with state 'None' at position (78, 362).
+              CheckBox named 'None' with state '1' at position (74, 404).
+            Button named 'None' with state 'None' at position (434, 134).
+              StaticText named 'None' with state 'None' at position (482, 184).
+              StaticText named 'None' with state 'None' at position (482, 282).
+              StaticText named 'None' with state 'None' at position (482, 322).
+              StaticText named 'None' with state 'None' at position (482, 362).
+              CheckBox named 'None' with state '1' at position (478, 404).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (652, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x12d785e20> {pid=92889}' at position (648, 12).
+        RadioButton named 'None' with state '0' at position (648, 12).
+        RadioButton named 'None' with state '1' at position (842, 12).
+        RadioButton named 'None' with state '0' at position (1024, 12).
+        RadioButton named 'None' with state '0' at position (1206, 12).
+    MenuButton named 'None' with state 'None' at position (1960, 0).
+      MenuButton named '' with state 'None' at position (1956, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

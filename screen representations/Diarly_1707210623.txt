@@ -1,0 +1,112 @@
+Description for the Diarly application:
+Window named 'Diary' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Settings' at position (90, 1680).
+  StaticText named 'None' with state '' at position (30, 1678).
+  StaticText named 'None' with state '' at position (92, 116).
+  StaticText named 'None' with state '' at position (34, 118).
+  ScrollArea named 'None' with state 'None' at position (0, 182).
+    Table named 'None' with state 'None' at position (0, 182).
+      Row named 'None' with state 'None' at position (0, 182).
+        Cell named 'None' with state 'None' at position (0, 182).
+          StaticText named 'None' with state 'Journals' at position (16, 194).
+      Row named 'None' with state 'None' at position (0, 240).
+        Cell named 'None' with state 'None' at position (0, 240).
+          StaticText named 'None' with state '😌' at position (28, 260).
+          StaticText named 'None' with state 'My Journal' at position (88, 264).
+      Row named 'None' with state 'None' at position (0, 320).
+        Cell named 'None' with state 'None' at position (0, 320).
+      Row named 'None' with state 'None' at position (0, 322).
+        Cell named 'None' with state 'None' at position (0, 322).
+          StaticText named 'None' with state 'View' at position (16, 334).
+      Row named 'None' with state 'None' at position (0, 380).
+        Cell named 'None' with state 'None' at position (0, 380).
+          StaticText named 'None' with state '' at position (28, 400).
+          StaticText named 'None' with state 'List' at position (88, 404).
+      Row named 'None' with state 'None' at position (0, 460).
+        Cell named 'None' with state 'None' at position (0, 460).
+          StaticText named 'None' with state '' at position (28, 480).
+          StaticText named 'None' with state 'Calendar' at position (88, 484).
+      Row named 'None' with state 'None' at position (0, 540).
+        Cell named 'None' with state 'None' at position (0, 540).
+          StaticText named 'None' with state '' at position (28, 560).
+          StaticText named 'None' with state 'Map' at position (88, 564).
+      Row named 'None' with state 'None' at position (0, 620).
+        Cell named 'None' with state 'None' at position (0, 620).
+          StaticText named 'None' with state '' at position (28, 640).
+          StaticText named 'None' with state 'Gallery' at position (88, 644).
+      Row named 'None' with state 'None' at position (0, 700).
+        Cell named 'None' with state 'None' at position (0, 700).
+          StaticText named 'None' with state '' at position (28, 720).
+          StaticText named 'None' with state 'Stats' at position (88, 724).
+      Row named 'None' with state 'None' at position (0, 780).
+        Cell named 'None' with state 'None' at position (0, 780).
+      Column named 'None' with state 'None' at position (0, 182).
+  ScrollArea named 'None' with state 'None' at position (440, 104).
+    List named 'None' with state 'None' at position (440, 104).
+      List named 'None' with state 'None' at position (440, 104).
+        Group named 'None' with state 'None' at position (440, 104).
+          StaticText named 'None' with state '😌 My Journal' at position (862, 146).
+          StaticText named 'None' with state '' at position (1194, 164).
+        Group named 'None' with state 'None' at position (832, 224).
+          StaticText named 'None' with state '1' at position (1150, 276).
+          StaticText named 'None' with state 'Daily entries' at position (1090, 342).
+          StaticText named 'None' with state '1' at position (1716, 276).
+          StaticText named 'None' with state 'Notes' at position (1690, 342).
+          StaticText named 'None' with state '1' at position (2282, 276).
+          StaticText named 'None' with state 'Attachments' at position (2218, 342).
+        Group named 'None' with state 'None' at position (832, 430).
+          StaticText named 'None' with state '' at position (1640, 562).
+          StaticText named 'None' with state 'Let's establish a streak' at position (868, 466).
+          StaticText named 'None' with state 'Start journaling to build your streak' at position (868, 516).
+          StaticText named 'None' with state 'Current streak: 1 day' at position (868, 624).
+          StaticText named 'None' with state 'Next level: 3 days' at position (1484, 624).
+        Group named 'None' with state 'None' at position (1736, 430).
+          StaticText named 'None' with state '' at position (2546, 562).
+          StaticText named 'None' with state 'Your word count vs. famous books' at position (1772, 466).
+          StaticText named 'None' with state 'Approaching: On the shortness of life by Seneca' at position (1772, 516).
+          StaticText named 'None' with state 'Your journal: 518 words' at position (1772, 624).
+          StaticText named 'None' with state 'Target: 10 000 words' at position (2348, 624).
+      List named 'None' with state 'None' at position (440, 690).
+        Group named 'None' with state 'None' at position (440, 690).
+          StaticText named 'None' with state 'Trends for selected time range:' at position (848, 762).
+          Button named '7d' with state 'None' at position (2026, 750).
+          Button named '30d' with state 'None' at position (2144, 750).
+          Button named '3mo' with state 'None' at position (2262, 750).
+          Button named '6mo' with state 'None' at position (2380, 750).
+          Button named '1y' with state 'None' at position (2498, 750).
+        Group named 'None' with state 'None' at position (832, 840).
+          StaticText named 'None' with state 'Words written' at position (868, 876).
+          List named 'None' with state 'None' at position (868, 918).
+            StaticText named 'None' with state 'None' at position (868, 918).
+        Group named 'None' with state 'None' at position (832, 1478).
+          StaticText named 'None' with state 'Content breakdown' at position (868, 1514).
+          List named 'None' with state 'None' at position (852, 1568).
+            StaticText named 'None' with state 'None' at position (852, 1568).
+            Row named 'None' with state 'None' at position (888, 1604).
+          StaticText named 'None' with state 'Moods' at position None.
+          List named 'None' with state 'None' at position (1058, 1568).
+            StaticText named 'None' with state 'None' at position (1058, 1568).
+            Row named 'None' with state 'None' at position (1094, 1604).
+          StaticText named 'None' with state 'Tags' at position None.
+          List named 'None' with state 'None' at position (1264, 1568).
+            StaticText named 'None' with state 'None' at position (1264, 1568).
+            Row named 'None' with state 'None' at position (1300, 1604).
+          StaticText named 'None' with state 'Images' at position None.
+          List named 'None' with state 'None' at position (1470, 1568).
+            StaticText named 'None' with state 'None' at position (1470, 1568).
+            Row named 'None' with state 'None' at position (1506, 1604).
+          StaticText named 'None' with state 'Quotes' at position None.
+        Group named 'None' with state 'None' at position (1736, 1478).
+          StaticText named 'None' with state 'Completed tasks' at position (1772, 1514).
+          List named 'None' with state 'None' at position (1772, 1556).
+    ScrollBar named 'None' with state '0.0' at position (3004, 104).
+      ValueIndicator named 'None' with state '0.0' at position (3004, 106).
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (3004, 1640).
+      Button named 'None' with state 'None' at position (3004, 104).
+  Button named '' with state 'None' at position (184, 16).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

@@ -1,0 +1,51 @@
+Description for the Clock application:
+Window named 'Clock' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          Group named 'None' with state 'None' at position (0, 104).
+            Button named 'None' with state 'None' at position (30, 134).
+              StaticText named 'None' with state 'None' at position (78, 184).
+              StaticText named 'None' with state 'None' at position (78, 282).
+              StaticText named 'None' with state 'None' at position (78, 322).
+              StaticText named 'None' with state 'None' at position (78, 362).
+              CheckBox named 'None' with state '1' at position (74, 404).
+            Button named 'None' with state 'None' at position (434, 134).
+              StaticText named 'None' with state 'None' at position (482, 184).
+              StaticText named 'None' with state 'None' at position (482, 282).
+              StaticText named 'None' with state 'None' at position (482, 322).
+              StaticText named 'None' with state 'None' at position (482, 362).
+              CheckBox named 'None' with state '1' at position (478, 404).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (652, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x13c642c40> {pid=92889}' at position (648, 12).
+        RadioButton named 'None' with state '0' at position (648, 12).
+        RadioButton named 'None' with state '1' at position (842, 12).
+        RadioButton named 'None' with state '0' at position (1024, 12).
+        RadioButton named 'None' with state '0' at position (1206, 12).
+    MenuButton named 'None' with state 'None' at position (1960, 0).
+      MenuButton named '' with state 'None' at position (1956, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  Sheet named 'None' with state 'None' at position (660, 416).
+    Group named 'None' with state 'None' at position (904, 476).
+      DateTimeArea named 'None' with state '2000-01-01 22:38:42 +0000' at position (914, 484).
+    CheckBox named 'Repeat:' with state '1' at position (788, 660).
+    CheckBox named 'M' with state '0' at position (898, 638).
+    CheckBox named 'T' with state '0' at position (950, 638).
+    CheckBox named 'W' with state '0' at position (1002, 638).
+    CheckBox named 'T' with state '0' at position (1054, 638).
+    CheckBox named 'F' with state '0' at position (1106, 638).
+    CheckBox named 'S' with state '0' at position (1158, 638).
+    CheckBox named 'S' with state '0' at position (1210, 638).
+    StaticText named 'None' with state 'Label:' at position (812, 828).
+    TextField named 'None' with state '' at position (910, 822).
+    StaticText named 'None' with state 'Sound:' at position (800, 886).
+    PopUpButton named 'None' with state 'Daybreak' at position (904, 880).
+    CheckBox named 'Snooze' with state '1' at position (906, 940).
+    Button named 'Save' with state 'None' at position (1212, 1028).
+    Button named 'Cancel' with state 'None' at position (1064, 1028).

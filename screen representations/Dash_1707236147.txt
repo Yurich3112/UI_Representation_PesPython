@@ -1,0 +1,1027 @@
+Description for the Dash application:
+Window named 'Python Format Strings' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 104).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Table named 'None' with state 'None' at position (0, 0).
+        Row named 'None' with state 'None' at position None.
+          Cell named 'None' with state 'None' at position None.
+            StaticText named 'None' with state 'Field Width and Alignment' at position (10, 110).
+        Row named 'None' with state 'None' at position (0, 0).
+          Cell named 'None' with state 'None' at position (2, 0).
+            StaticText named 'None' with state 'Specify width (Aign left, fill with spaces)' at position (52, 0).
+            Image named 'None' with state 'None' at position None.
+        Row named 'None' with state 'None' at position (0, 10).
+          Cell named 'None' with state 'None' at position (2, 12).
+            StaticText named 'None' with state 'Fill with zeroes' at position (52, 12).
+            Image named 'None' with state 'None' at position (16, 22).
+        Row named 'None' with state 'None' at position (0, 62).
+          Cell named 'None' with state 'None' at position (2, 64).
+            StaticText named 'None' with state 'Specify width, align to center' at position (52, 64).
+            Image named 'None' with state 'None' at position (16, 74).
+        Row named 'None' with state 'None' at position (0, 114).
+          Cell named 'None' with state 'None' at position (0, 114).
+        Row named 'None' with state 'None' at position (0, 148).
+          Cell named 'None' with state 'None' at position (0, 148).
+            StaticText named 'None' with state 'Member and Element Access' at position (10, 154).
+        Row named 'None' with state 'None' at position (0, 196).
+          Cell named 'None' with state 'None' at position (2, 198).
+            StaticText named 'None' with state 'Access arguments by ordinal position' at position (52, 198).
+            Image named 'None' with state 'None' at position (16, 208).
+        Row named 'None' with state 'None' at position (0, 248).
+          Cell named 'None' with state 'None' at position (2, 250).
+            StaticText named 'None' with state 'Implicit positional arguments (2.7 and above only)' at position (52, 250).
+            Image named 'None' with state 'None' at position (16, 260).
+        Row named 'None' with state 'None' at position (0, 300).
+          Cell named 'None' with state 'None' at position (2, 302).
+            StaticText named 'None' with state 'Access keyword arguments by name' at position (52, 302).
+            Image named 'None' with state 'None' at position (16, 312).
+        Row named 'None' with state 'None' at position (0, 352).
+          Cell named 'None' with state 'None' at position (2, 354).
+            StaticText named 'None' with state 'Access element by index' at position (52, 354).
+            Image named 'None' with state 'None' at position (16, 364).
+        Row named 'None' with state 'None' at position (0, 404).
+          Cell named 'None' with state 'None' at position (2, 406).
+            StaticText named 'None' with state 'Access element attribute' at position (52, 406).
+            Image named 'None' with state 'None' at position (16, 416).
+        Row named 'None' with state 'None' at position (0, 456).
+          Cell named 'None' with state 'None' at position (2, 458).
+            StaticText named 'None' with state 'Access element by key' at position (52, 458).
+            Image named 'None' with state 'None' at position (16, 468).
+        Row named 'None' with state 'None' at position (0, 508).
+          Cell named 'None' with state 'None' at position (0, 508).
+        Row named 'None' with state 'None' at position (0, 542).
+          Cell named 'None' with state 'None' at position (0, 542).
+            StaticText named 'None' with state 'Numerical Representation' at position (10, 548).
+        Row named 'None' with state 'None' at position (0, 590).
+          Cell named 'None' with state 'None' at position (2, 592).
+            StaticText named 'None' with state 'Hexadecimal representation' at position (52, 592).
+            Image named 'None' with state 'None' at position (16, 602).
+        Row named 'None' with state 'None' at position (0, 642).
+          Cell named 'None' with state 'None' at position (2, 644).
+            StaticText named 'None' with state 'Hexadecimal representation (uppercase letters)' at position (52, 644).
+            Image named 'None' with state 'None' at position (16, 654).
+        Row named 'None' with state 'None' at position (0, 694).
+          Cell named 'None' with state 'None' at position (2, 696).
+            StaticText named 'None' with state 'Hexadecimal representation (including the 0x)' at position (52, 696).
+            Image named 'None' with state 'None' at position (16, 706).
+        Row named 'None' with state 'None' at position (0, 746).
+          Cell named 'None' with state 'None' at position (2, 748).
+            StaticText named 'None' with state 'Binary representation' at position (52, 748).
+            Image named 'None' with state 'None' at position (16, 758).
+        Row named 'None' with state 'None' at position (0, 798).
+          Cell named 'None' with state 'None' at position (2, 800).
+            StaticText named 'None' with state 'Character representation' at position (52, 800).
+            Image named 'None' with state 'None' at position (16, 810).
+        Row named 'None' with state 'None' at position (0, 850).
+          Cell named 'None' with state 'None' at position (2, 852).
+            StaticText named 'None' with state 'Decimal representation (default)' at position (52, 852).
+            Image named 'None' with state 'None' at position (16, 862).
+        Row named 'None' with state 'None' at position (0, 902).
+          Cell named 'None' with state 'None' at position (2, 904).
+            StaticText named 'None' with state 'With thousands separator' at position (52, 904).
+            Image named 'None' with state 'None' at position (16, 914).
+        Row named 'None' with state 'None' at position (0, 954).
+          Cell named 'None' with state 'None' at position (2, 956).
+            StaticText named 'None' with state 'Octal representation' at position (52, 956).
+            Image named 'None' with state 'None' at position (16, 966).
+        Row named 'None' with state 'None' at position (0, 1006).
+          Cell named 'None' with state 'None' at position (2, 1008).
+            StaticText named 'None' with state 'Like d, but uses locale information for separators' at position (52, 1008).
+            Image named 'None' with state 'None' at position (16, 1018).
+        Row named 'None' with state 'None' at position (0, 1058).
+          Cell named 'None' with state 'None' at position (2, 1060).
+            StaticText named 'None' with state 'Exponent notation' at position (52, 1060).
+            Image named 'None' with state 'None' at position (16, 1070).
+        Row named 'None' with state 'None' at position (0, 1110).
+          Cell named 'None' with state 'None' at position (2, 1112).
+            StaticText named 'None' with state 'Exponent notation (capital 'E')' at position (52, 1112).
+            Image named 'None' with state 'None' at position (16, 1122).
+        Row named 'None' with state 'None' at position (0, 1162).
+          Cell named 'None' with state 'None' at position (2, 1164).
+            StaticText named 'None' with state 'Fixed point' at position (52, 1164).
+            Image named 'None' with state 'None' at position (16, 1174).
+        Row named 'None' with state 'None' at position (0, 1214).
+          Cell named 'None' with state 'None' at position (2, 1216).
+            StaticText named 'None' with state 'General format' at position (52, 1216).
+            Image named 'None' with state 'None' at position (16, 1226).
+        Row named 'None' with state 'None' at position (0, 1266).
+          Cell named 'None' with state 'None' at position (2, 1268).
+            StaticText named 'None' with state 'Percentage' at position (52, 1268).
+            Image named 'None' with state 'None' at position (16, 1278).
+        Row named 'None' with state 'None' at position (0, 1318).
+          Cell named 'None' with state 'None' at position (2, 1320).
+            StaticText named 'None' with state 'Precision' at position (52, 1320).
+            Image named 'None' with state 'None' at position (16, 1330).
+        Row named 'None' with state 'None' at position (0, 1370).
+          Cell named 'None' with state 'None' at position (0, 1370).
+        Row named 'None' with state 'None' at position (0, 1404).
+          Cell named 'None' with state 'None' at position (0, 1404).
+            StaticText named 'None' with state 'Conversions' at position (10, 1410).
+        Row named 'None' with state 'None' at position (0, 1452).
+          Cell named 'None' with state 'None' at position (2, 1454).
+            StaticText named 'None' with state 'Calling repr on arguments' at position (52, 1454).
+            Image named 'None' with state 'None' at position (16, 1464).
+        Row named 'None' with state 'None' at position (0, 1504).
+          Cell named 'None' with state 'None' at position (2, 1506).
+            StaticText named 'None' with state 'Calling str on arguments' at position (52, 1506).
+            Image named 'None' with state 'None' at position (16, 1516).
+        Column named 'None' with state 'None' at position (0, 0).
+      ScrollBar named 'None' with state '1.0' at position (484, 104).
+        ValueIndicator named 'None' with state '1.0' at position (492, 276).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (492, 1554).
+        Button named 'None' with state 'None' at position (492, 104).
+      StaticText named 'None' with state 'Field Width and Alignment' at position (10, 110).
+    Splitter named 'None' with state '258.0' at position (516, 104).
+    Group named 'None' with state 'None' at position (518, 0).
+      Group named 'None' with state 'None' at position (518, 0).
+        ScrollArea named '' with state '' at position (518, 104).
+          WebArea named '' with state '' at position (518, 0).
+            Group named '' with state '' at position None.
+              Heading named 'Python Format Strings' with state '1' at position None.
+                StaticText named '' with state 'Python Format Strings' at position None.
+            Group named '' with state '' at position (550, 0).
+              Heading named 'Field Width and Alignment' with state '2' at position None.
+                StaticText named '' with state 'Field Width and Alignment' at position None.
+              Table named '' with state '' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''hey {:10}'.format('hello')' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Specify width (Aign left, fill with spaces)' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:010}'.format(2)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Fill with zeroes' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '0000000002' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:*^30}'.format('text')' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Specify width, align to center' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '*************text*************' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Column named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''hey {:10}'.format('hello')' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:010}'.format(2)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:*^30}'.format('text')' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Column named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Specify width (Aign left, fill with spaces)' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Fill with zeroes' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '0000000002' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Specify width, align to center' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '*************text*************' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Group named '' with state '' at position None.
+              Heading named 'Member and Element Access' with state '2' at position None.
+                StaticText named '' with state 'Member and Element Access' at position None.
+              Table named '' with state '' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{0}, {1}, {2}'.format(1, 2, 3)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Access arguments by ordinal position' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '1, 2, 3' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{}, {}, {}'.format(1, 2, 3)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Implicit positional arguments (2.7 and above only)' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '1, 2, 3' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{value1}, {value2}, {value2}'.format(value1=1, value2=2, value3=3)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Access keyword arguments by name' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '1, 2, 2' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{[1]}'.format(['first', 'second', 'third'])' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Access element by index' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state 'second' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{.name}'.format(sys.stdin)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Access element attribute' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '<stdin>' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{[name]}'.format({'name': 'something'})' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Access element by key' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state 'something' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Column named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{0}, {1}, {2}'.format(1, 2, 3)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{}, {}, {}'.format(1, 2, 3)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{value1}, {value2}, {value2}'.format(value1=1, value2=2, value3=3)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{[1]}'.format(['first', 'second', 'third'])' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{.name}'.format(sys.stdin)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{[name]}'.format({'name': 'something'})' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Column named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Access arguments by ordinal position' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '1, 2, 3' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Implicit positional arguments (2.7 and above only)' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '1, 2, 3' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Access keyword arguments by name' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '1, 2, 2' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Access element by index' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state 'second' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Access element attribute' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '<stdin>' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Access element by key' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state 'something' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Group named '' with state '' at position None.
+              Heading named 'Numerical Representation' with state '2' at position None.
+                StaticText named '' with state 'Numerical Representation' at position None.
+              Table named '' with state '' at position (554, 0).
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:x}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Hexadecimal representation' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '64' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:X}'.format(3487)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Hexadecimal representation (uppercase letters)' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state 'D9F' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:#x}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Hexadecimal representation (including the ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '0x' at position None.
+                        StaticText named '' with state ' ' at position None.
+                      StaticText named '' with state ')' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '0x64' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:b}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Binary representation' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '1100100' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:c}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Character representation' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state 'd' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:d}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Decimal representation (default)' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '100' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:,}'.format(1000000)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'With thousands separator' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '1,000,000' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:o}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Octal representation' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '144' at position None.
+                        StaticText named '' with state ' ' at position None.
+                Row named '' with state '' at position (554, 0).
+                  Cell named '' with state '' at position (554, 0).
+                    Group named '' with state '' at position (568, 0).
+                      Group named '' with state '' at position (730, 0).
+                        StaticText named '' with state ' ' at position (738, 0).
+                        StaticText named '' with state ''{:n}'.format(100)' at position (756, 0).
+                        StaticText named '' with state ' ' at position (1080, 0).
+                  Cell named '' with state '' at position (1124, 0).
+                    Group named '' with state '' at position (1140, 0).
+                      StaticText named '' with state 'Like ' at position (1140, 0).
+                      Group named '' with state '' at position (1222, 0).
+                        StaticText named '' with state ' ' at position (1224, 0).
+                        StaticText named '' with state 'd' at position (1242, 0).
+                        StaticText named '' with state ' ' at position (1260, 0).
+                      StaticText named '' with state ', but uses locale information for separators' at position (1280, 0).
+                    Group named '' with state '' at position (1140, 54).
+                      StaticText named '' with state 'Output: ' at position (1140, 54).
+                      Group named '' with state '' at position (1264, 58).
+                        StaticText named '' with state ' ' at position (1266, 60).
+                        StaticText named '' with state '100' at position (1284, 60).
+                        StaticText named '' with state ' ' at position (1338, 60).
+                Row named '' with state '' at position (554, 112).
+                  Cell named '' with state '' at position (554, 112).
+                    Group named '' with state '' at position (568, 132).
+                      Group named '' with state '' at position (568, 132).
+                        StaticText named '' with state ' ' at position (576, 138).
+                        StaticText named '' with state ''{:e}'.format(0.0000000001)' at position (594, 138).
+                        StaticText named '' with state ' ' at position (1080, 138).
+                  Cell named '' with state '' at position (1124, 112).
+                    Group named '' with state '' at position (1140, 132).
+                      StaticText named '' with state 'Exponent notation' at position (1140, 132).
+                    Group named '' with state '' at position (1140, 200).
+                      StaticText named '' with state 'Output: ' at position (1140, 200).
+                      Group named '' with state '' at position (1264, 204).
+                        StaticText named '' with state ' ' at position (1266, 206).
+                        StaticText named '' with state '1.000000e-10' at position (1284, 206).
+                        StaticText named '' with state ' ' at position (1500, 206).
+                Row named '' with state '' at position (554, 258).
+                  Cell named '' with state '' at position (554, 258).
+                    Group named '' with state '' at position (568, 278).
+                      Group named '' with state '' at position (568, 278).
+                        StaticText named '' with state ' ' at position (576, 284).
+                        StaticText named '' with state ''{:E}'.format(0.0000000001)' at position (594, 284).
+                        StaticText named '' with state ' ' at position (1080, 284).
+                  Cell named '' with state '' at position (1124, 258).
+                    Group named '' with state '' at position (1140, 278).
+                      StaticText named '' with state 'Exponent notation (capital 'E')' at position (1140, 278).
+                    Group named '' with state '' at position (1140, 346).
+                      StaticText named '' with state 'Output: ' at position (1140, 346).
+                      Group named '' with state '' at position (1264, 350).
+                        StaticText named '' with state ' ' at position (1266, 352).
+                        StaticText named '' with state '1.000000E-10' at position (1284, 352).
+                        StaticText named '' with state ' ' at position (1500, 352).
+                Row named '' with state '' at position (554, 404).
+                  Cell named '' with state '' at position (554, 404).
+                    Group named '' with state '' at position (568, 424).
+                      Group named '' with state '' at position (676, 424).
+                        StaticText named '' with state ' ' at position (684, 430).
+                        StaticText named '' with state ''{:f}'.format(3/14.0)' at position (702, 430).
+                        StaticText named '' with state ' ' at position (1080, 430).
+                  Cell named '' with state '' at position (1124, 404).
+                    Group named '' with state '' at position (1140, 424).
+                      StaticText named '' with state 'Fixed point' at position (1140, 424).
+                    Group named '' with state '' at position (1140, 492).
+                      StaticText named '' with state 'Output: ' at position (1140, 492).
+                      Group named '' with state '' at position (1264, 496).
+                        StaticText named '' with state ' ' at position (1266, 498).
+                        StaticText named '' with state '0.214286' at position (1284, 498).
+                        StaticText named '' with state ' ' at position (1428, 498).
+                Row named '' with state '' at position (554, 550).
+                  Cell named '' with state '' at position (554, 550).
+                    Group named '' with state '' at position (568, 570).
+                      Group named '' with state '' at position (676, 570).
+                        StaticText named '' with state ' ' at position (684, 576).
+                        StaticText named '' with state ''{:g}'.format(3/14.0)' at position (702, 576).
+                        StaticText named '' with state ' ' at position (1080, 576).
+                  Cell named '' with state '' at position (1124, 550).
+                    Group named '' with state '' at position (1140, 570).
+                      StaticText named '' with state 'General format' at position (1140, 570).
+                    Group named '' with state '' at position (1140, 638).
+                      StaticText named '' with state 'Output: ' at position (1140, 638).
+                      Group named '' with state '' at position (1264, 642).
+                        StaticText named '' with state ' ' at position (1266, 644).
+                        StaticText named '' with state '0.214286' at position (1284, 644).
+                        StaticText named '' with state ' ' at position (1428, 644).
+                Row named '' with state '' at position (554, 696).
+                  Cell named '' with state '' at position (554, 696).
+                    Group named '' with state '' at position (568, 716).
+                      Group named '' with state '' at position (712, 716).
+                        StaticText named '' with state ' ' at position (720, 722).
+                        StaticText named '' with state ''{:%}'.format(0.66)' at position (738, 722).
+                        StaticText named '' with state ' ' at position (1080, 722).
+                  Cell named '' with state '' at position (1124, 696).
+                    Group named '' with state '' at position (1140, 716).
+                      StaticText named '' with state 'Percentage' at position (1140, 716).
+                    Group named '' with state '' at position (1140, 784).
+                      StaticText named '' with state 'Output: ' at position (1140, 784).
+                      Group named '' with state '' at position (1264, 788).
+                        StaticText named '' with state ' ' at position (1266, 790).
+                        StaticText named '' with state '66.000000%' at position (1284, 790).
+                        StaticText named '' with state ' ' at position (1464, 790).
+                Row named '' with state '' at position (554, 842).
+                  Cell named '' with state '' at position (554, 842).
+                    Group named '' with state '' at position (568, 862).
+                      Group named '' with state '' at position (622, 862).
+                        StaticText named '' with state ' ' at position (630, 868).
+                        StaticText named '' with state ''{:.3}'.format(0.214286)' at position (648, 868).
+                        StaticText named '' with state ' ' at position (1080, 868).
+                  Cell named '' with state '' at position (1124, 842).
+                    Group named '' with state '' at position (1140, 862).
+                      StaticText named '' with state 'Precision' at position (1140, 862).
+                    Group named '' with state '' at position (1140, 930).
+                      StaticText named '' with state 'Output: ' at position (1140, 930).
+                      Group named '' with state '' at position (1264, 934).
+                        StaticText named '' with state ' ' at position (1266, 936).
+                        StaticText named '' with state '0.214' at position (1284, 936).
+                        StaticText named '' with state ' ' at position (1374, 936).
+                Column named '' with state '' at position (554, 0).
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:x}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:X}'.format(3487)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:#x}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:b}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:c}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:d}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:,}'.format(1000000)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state ''{:o}'.format(100)' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position (554, 0).
+                    Group named '' with state '' at position (568, 0).
+                      Group named '' with state '' at position (730, 0).
+                        StaticText named '' with state ' ' at position (738, 0).
+                        StaticText named '' with state ''{:n}'.format(100)' at position (756, 0).
+                        StaticText named '' with state ' ' at position (1080, 0).
+                  Cell named '' with state '' at position (554, 112).
+                    Group named '' with state '' at position (568, 132).
+                      Group named '' with state '' at position (568, 132).
+                        StaticText named '' with state ' ' at position (576, 138).
+                        StaticText named '' with state ''{:e}'.format(0.0000000001)' at position (594, 138).
+                        StaticText named '' with state ' ' at position (1080, 138).
+                  Cell named '' with state '' at position (554, 258).
+                    Group named '' with state '' at position (568, 278).
+                      Group named '' with state '' at position (568, 278).
+                        StaticText named '' with state ' ' at position (576, 284).
+                        StaticText named '' with state ''{:E}'.format(0.0000000001)' at position (594, 284).
+                        StaticText named '' with state ' ' at position (1080, 284).
+                  Cell named '' with state '' at position (554, 404).
+                    Group named '' with state '' at position (568, 424).
+                      Group named '' with state '' at position (676, 424).
+                        StaticText named '' with state ' ' at position (684, 430).
+                        StaticText named '' with state ''{:f}'.format(3/14.0)' at position (702, 430).
+                        StaticText named '' with state ' ' at position (1080, 430).
+                  Cell named '' with state '' at position (554, 550).
+                    Group named '' with state '' at position (568, 570).
+                      Group named '' with state '' at position (676, 570).
+                        StaticText named '' with state ' ' at position (684, 576).
+                        StaticText named '' with state ''{:g}'.format(3/14.0)' at position (702, 576).
+                        StaticText named '' with state ' ' at position (1080, 576).
+                  Cell named '' with state '' at position (554, 696).
+                    Group named '' with state '' at position (568, 716).
+                      Group named '' with state '' at position (712, 716).
+                        StaticText named '' with state ' ' at position (720, 722).
+                        StaticText named '' with state ''{:%}'.format(0.66)' at position (738, 722).
+                        StaticText named '' with state ' ' at position (1080, 722).
+                  Cell named '' with state '' at position (554, 842).
+                    Group named '' with state '' at position (568, 862).
+                      Group named '' with state '' at position (622, 862).
+                        StaticText named '' with state ' ' at position (630, 868).
+                        StaticText named '' with state ''{:.3}'.format(0.214286)' at position (648, 868).
+                        StaticText named '' with state ' ' at position (1080, 868).
+                Column named '' with state '' at position (1124, 0).
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Hexadecimal representation' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '64' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Hexadecimal representation (uppercase letters)' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state 'D9F' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Hexadecimal representation (including the ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '0x' at position None.
+                        StaticText named '' with state ' ' at position None.
+                      StaticText named '' with state ')' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '0x64' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Binary representation' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '1100100' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Character representation' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state 'd' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Decimal representation (default)' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '100' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'With thousands separator' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '1,000,000' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Octal representation' at position None.
+                    Group named '' with state '' at position None.
+                      StaticText named '' with state 'Output: ' at position None.
+                      Group named '' with state '' at position None.
+                        StaticText named '' with state ' ' at position None.
+                        StaticText named '' with state '144' at position None.
+                        StaticText named '' with state ' ' at position None.
+                  Cell named '' with state '' at position (1124, 0).
+                    Group named '' with state '' at position (1140, 0).
+                      StaticText named '' with state 'Like ' at position (1140, 0).
+                      Group named '' with state '' at position (1222, 0).
+                        StaticText named '' with state ' ' at position (1224, 0).
+                        StaticText named '' with state 'd' at position (1242, 0).
+                        StaticText named '' with state ' ' at position (1260, 0).
+                      StaticText named '' with state ', but uses locale information for separators' at position (1280, 0).
+                    Group named '' with state '' at position (1140, 54).
+                      StaticText named '' with state 'Output: ' at position (1140, 54).
+                      Group named '' with state '' at position (1264, 58).
+                        StaticText named '' with state ' ' at position (1266, 60).
+                        StaticText named '' with state '100' at position (1284, 60).
+                        StaticText named '' with state ' ' at position (1338, 60).
+                  Cell named '' with state '' at position (1124, 112).
+                    Group named '' with state '' at position (1140, 132).
+                      StaticText named '' with state 'Exponent notation' at position (1140, 132).
+                    Group named '' with state '' at position (1140, 200).
+                      StaticText named '' with state 'Output: ' at position (1140, 200).
+                      Group named '' with state '' at position (1264, 204).
+                        StaticText named '' with state ' ' at position (1266, 206).
+                        StaticText named '' with state '1.000000e-10' at position (1284, 206).
+                        StaticText named '' with state ' ' at position (1500, 206).
+                  Cell named '' with state '' at position (1124, 258).
+                    Group named '' with state '' at position (1140, 278).
+                      StaticText named '' with state 'Exponent notation (capital 'E')' at position (1140, 278).
+                    Group named '' with state '' at position (1140, 346).
+                      StaticText named '' with state 'Output: ' at position (1140, 346).
+                      Group named '' with state '' at position (1264, 350).
+                        StaticText named '' with state ' ' at position (1266, 352).
+                        StaticText named '' with state '1.000000E-10' at position (1284, 352).
+                        StaticText named '' with state ' ' at position (1500, 352).
+                  Cell named '' with state '' at position (1124, 404).
+                    Group named '' with state '' at position (1140, 424).
+                      StaticText named '' with state 'Fixed point' at position (1140, 424).
+                    Group named '' with state '' at position (1140, 492).
+                      StaticText named '' with state 'Output: ' at position (1140, 492).
+                      Group named '' with state '' at position (1264, 496).
+                        StaticText named '' with state ' ' at position (1266, 498).
+                        StaticText named '' with state '0.214286' at position (1284, 498).
+                        StaticText named '' with state ' ' at position (1428, 498).
+                  Cell named '' with state '' at position (1124, 550).
+                    Group named '' with state '' at position (1140, 570).
+                      StaticText named '' with state 'General format' at position (1140, 570).
+                    Group named '' with state '' at position (1140, 638).
+                      StaticText named '' with state 'Output: ' at position (1140, 638).
+                      Group named '' with state '' at position (1264, 642).
+                        StaticText named '' with state ' ' at position (1266, 644).
+                        StaticText named '' with state '0.214286' at position (1284, 644).
+                        StaticText named '' with state ' ' at position (1428, 644).
+                  Cell named '' with state '' at position (1124, 696).
+                    Group named '' with state '' at position (1140, 716).
+                      StaticText named '' with state 'Percentage' at position (1140, 716).
+                    Group named '' with state '' at position (1140, 784).
+                      StaticText named '' with state 'Output: ' at position (1140, 784).
+                      Group named '' with state '' at position (1264, 788).
+                        StaticText named '' with state ' ' at position (1266, 790).
+                        StaticText named '' with state '66.000000%' at position (1284, 790).
+                        StaticText named '' with state ' ' at position (1464, 790).
+                  Cell named '' with state '' at position (1124, 842).
+                    Group named '' with state '' at position (1140, 862).
+                      StaticText named '' with state 'Precision' at position (1140, 862).
+                    Group named '' with state '' at position (1140, 930).
+                      StaticText named '' with state 'Output: ' at position (1140, 930).
+                      Group named '' with state '' at position (1264, 934).
+                        StaticText named '' with state ' ' at position (1266, 936).
+                        StaticText named '' with state '0.214' at position (1284, 936).
+                        StaticText named '' with state ' ' at position (1374, 936).
+                Group named '' with state '' at position None.
+              Heading named 'Conversions' with state '2' at position (554, 1066).
+                StaticText named '' with state 'Conversions' at position (1316, 1066).
+              Table named '' with state '' at position (554, 1132).
+                Row named '' with state '' at position (554, 1132).
+                  Cell named '' with state '' at position (554, 1132).
+                    Group named '' with state '' at position (568, 1150).
+                      Group named '' with state '' at position (604, 1150).
+                        StaticText named '' with state ' ' at position (612, 1156).
+                        StaticText named '' with state ''{!r}'.format('string')' at position (630, 1156).
+                        StaticText named '' with state ' ' at position (1044, 1156).
+                  Cell named '' with state '' at position (1088, 1132).
+                    Group named '' with state '' at position (1104, 1150).
+                      StaticText named '' with state 'Calling ' at position (1104, 1150).
+                      Group named '' with state '' at position (1234, 1160).
+                        StaticText named '' with state ' ' at position (1236, 1162).
+                        StaticText named '' with state 'repr' at position (1254, 1162).
+                        StaticText named '' with state ' ' at position (1326, 1162).
+                      StaticText named '' with state ' on arguments' at position (1346, 1150).
+                    Group named '' with state '' at position (1104, 1218).
+                      StaticText named '' with state 'Output: ' at position (1104, 1218).
+                      Group named '' with state '' at position (1228, 1222).
+                        StaticText named '' with state ' ' at position (1230, 1224).
+                        StaticText named '' with state ''string'' at position (1248, 1224).
+                        StaticText named '' with state ' ' at position (1392, 1224).
+                Row named '' with state '' at position (554, 1276).
+                  Cell named '' with state '' at position (554, 1276).
+                    Group named '' with state '' at position (568, 1296).
+                      Group named '' with state '' at position (568, 1296).
+                        StaticText named '' with state ' ' at position (576, 1302).
+                        StaticText named '' with state ''{!s}'.format(1.53438987)' at position (594, 1302).
+                        StaticText named '' with state ' ' at position (1044, 1302).
+                  Cell named '' with state '' at position (1088, 1276).
+                    Group named '' with state '' at position (1104, 1296).
+                      StaticText named '' with state 'Calling ' at position (1104, 1296).
+                      Group named '' with state '' at position (1234, 1306).
+                        StaticText named '' with state ' ' at position (1236, 1308).
+                        StaticText named '' with state 'str' at position (1254, 1308).
+                        StaticText named '' with state ' ' at position (1308, 1308).
+                      StaticText named '' with state ' on arguments' at position (1328, 1296).
+                    Group named '' with state '' at position (1104, 1364).
+                      StaticText named '' with state 'Output: ' at position (1104, 1364).
+                      Group named '' with state '' at position (1228, 1368).
+                        StaticText named '' with state ' ' at position (1230, 1370).
+                        StaticText named '' with state '1.53438987' at position (1248, 1370).
+                        StaticText named '' with state ' ' at position (1428, 1370).
+                Column named '' with state '' at position (554, 1132).
+                  Cell named '' with state '' at position (554, 1132).
+                    Group named '' with state '' at position (568, 1150).
+                      Group named '' with state '' at position (604, 1150).
+                        StaticText named '' with state ' ' at position (612, 1156).
+                        StaticText named '' with state ''{!r}'.format('string')' at position (630, 1156).
+                        StaticText named '' with state ' ' at position (1044, 1156).
+                  Cell named '' with state '' at position (554, 1276).
+                    Group named '' with state '' at position (568, 1296).
+                      Group named '' with state '' at position (568, 1296).
+                        StaticText named '' with state ' ' at position (576, 1302).
+                        StaticText named '' with state ''{!s}'.format(1.53438987)' at position (594, 1302).
+                        StaticText named '' with state ' ' at position (1044, 1302).
+                Column named '' with state '' at position (1088, 1132).
+                  Cell named '' with state '' at position (1088, 1132).
+                    Group named '' with state '' at position (1104, 1150).
+                      StaticText named '' with state 'Calling ' at position (1104, 1150).
+                      Group named '' with state '' at position (1234, 1160).
+                        StaticText named '' with state ' ' at position (1236, 1162).
+                        StaticText named '' with state 'repr' at position (1254, 1162).
+                        StaticText named '' with state ' ' at position (1326, 1162).
+                      StaticText named '' with state ' on arguments' at position (1346, 1150).
+                    Group named '' with state '' at position (1104, 1218).
+                      StaticText named '' with state 'Output: ' at position (1104, 1218).
+                      Group named '' with state '' at position (1228, 1222).
+                        StaticText named '' with state ' ' at position (1230, 1224).
+                        StaticText named '' with state ''string'' at position (1248, 1224).
+                        StaticText named '' with state ' ' at position (1392, 1224).
+                  Cell named '' with state '' at position (1088, 1276).
+                    Group named '' with state '' at position (1104, 1296).
+                      StaticText named '' with state 'Calling ' at position (1104, 1296).
+                      Group named '' with state '' at position (1234, 1306).
+                        StaticText named '' with state ' ' at position (1236, 1308).
+                        StaticText named '' with state 'str' at position (1254, 1308).
+                        StaticText named '' with state ' ' at position (1308, 1308).
+                      StaticText named '' with state ' on arguments' at position (1328, 1296).
+                    Group named '' with state '' at position (1104, 1364).
+                      StaticText named '' with state 'Output: ' at position (1104, 1364).
+                      Group named '' with state '' at position (1228, 1368).
+                        StaticText named '' with state ' ' at position (1230, 1370).
+                        StaticText named '' with state '1.53438987' at position (1248, 1370).
+                        StaticText named '' with state ' ' at position (1428, 1370).
+                Group named '' with state '' at position None.
+            Group named '' with state '' at position (518, 1500).
+              StaticText named '' with state 'You can modify and improve this cheat sheet ' at position (1086, 1506).
+              Link named 'here' with state '' at position (1762, 1506).
+                StaticText named '' with state 'here' at position (1762, 1506).
+          ScrollBar named '' with state '1.0' at position None.
+    StaticText named 'None' with state 'OpenCV.docset/dc/d84/group__core__basic.html#ga353a9de602fe76c709e12074a6f362ba' at position (532, 1512).
+  Button named '' with state 'None' at position (168, 24).
+  Button named '' with state 'None' at position (242, 24).
+  Button named '' with state 'None' at position (324, 24).
+  Button named '' with state 'None' at position (2310, 24).
+  Button named '' with state 'None' at position (2146, 24).
+  Button named '' with state 'None' at position (2064, 24).
+  Button named '' with state 'None' at position (2228, 24).
+  TextField named 'None' with state '￼￼' at position (828, 24).
+    Image named 'None' with state 'None' at position (832, 24).
+    Image named 'None' with state 'None' at position (906, 24).
+  Image named 'None' with state 'None' at position (840, 36).
+  Button named '' with state 'None' at position (1524, 32).
+  Button named '' with state 'None' at position (1592, 24).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state '' at position (1190, 10).

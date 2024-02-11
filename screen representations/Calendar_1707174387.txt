@@ -1,0 +1,38 @@
+Description for the Calendar application:
+Window named 'Calendar' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    Splitter named 'None' with state '-1.0' at position None.
+    Group named 'None' with state '2024-02-05 23:06:26 +0000' at position (0, 76).
+      Grid named 'February 2024' with state 'None' at position (0, 170).
+        List named 'None' with state '2024-02-04 23:00:00 +0000' at position (116, 0).
+        List named 'None' with state '2024-02-05 23:00:00 +0000' at position (366, 0).
+        List named 'None' with state '2024-02-06 23:00:00 +0000' at position (618, 0).
+        List named 'None' with state '2024-02-07 23:00:00 +0000' at position (870, 0).
+        List named 'None' with state '2024-02-08 23:00:00 +0000' at position (1122, 0).
+        List named 'None' with state '2024-02-09 23:00:00 +0000' at position (1374, 0).
+        List named 'None' with state '2024-02-10 23:00:00 +0000' at position (1624, 0).
+      Group named 'None' with state 'None' at position (1624, 104).
+        Button named 'None' with state 'None' at position (1624, 104).
+        Button named 'None' with state 'None' at position (1674, 104).
+        Button named 'None' with state 'None' at position (1802, 104).
+    Splitter named 'None' with state '935.0' at position None.
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (152, 0).
+      RadioGroup named 'None' with state 'None' at position (158, 14).
+        RadioButton named 'None' with state '0' at position (158, 14).
+        RadioButton named 'None' with state '0' at position (218, 14).
+    Button named 'None' with state 'None' at position (286, 0).
+    Group named 'None' with state 'None' at position (668, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x13ef259d0> {pid=64679}' at position (674, 14).
+        RadioButton named 'None' with state '0' at position (674, 14).
+        RadioButton named 'None' with state '1' at position (806, 14).
+        RadioButton named 'None' with state '0' at position (936, 14).
+        RadioButton named 'None' with state '0' at position (1066, 14).
+    Group named 'None' with state 'None' at position (1446, 0).
+      TextField named 'None' with state 'None' at position (1452, 14).
+        Button named '' with state 'None' at position (1456, 16).
+  Button named 'None' with state 'None' at position (24, 22).
+  Button named 'None' with state 'None' at position (104, 22).
+    Group named 'None' with state 'None' at position (104, 22).
+      Group named 'None' with state 'None' at position (104, 22).
+  Button named 'None' with state 'None' at position (64, 22).

@@ -1,0 +1,94 @@
+Description for the Canary Mail application:
+Window named 'Window' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Welcome to
+Canary' at position (96, 144).
+  Image named 'None' with state 'None' at position (256, 434).
+  StaticText named 'None' with state 'Use the power of AI to craft your emails, surface the important ones, and kill your spam.' at position (96, 802).
+  Button named 'Continue' with state 'None' at position (100, 1098).
+  StaticText named 'None' with state 'By continuing you agree to accept our' at position (126, 1226).
+  Button named 'terms of service' with state 'None' at position (142, 1262).
+  StaticText named 'None' with state 'and' at position (364, 1262).
+  Button named 'privacy policy' with state 'None' at position (424, 1262).
+  StaticText named 'None' with state 'Let AI Write
+Your Emails' at position (96, 144).
+  StaticText named 'None' with state 'Let Canary magically write or reply to emails on your behalf.' at position (96, 348).
+  StaticText named 'None' with state 'Select an option to try it now:' at position (96, 452).
+  ScrollArea named 'None' with state 'None' at position (84, 530).
+    Table named 'None' with state 'None' at position (84, 530).
+      Row named 'None' with state 'None' at position (84, 530).
+        Cell named 'None' with state 'None' at position (100, 530).
+          StaticText named 'None' with state 'Congratulate Neil for landing on the Moon!' at position (128, 574).
+      Row named 'None' with state 'None' at position (84, 686).
+        Cell named 'None' with state 'None' at position (100, 686).
+          StaticText named 'None' with state 'Email boss, say I quit. Make it funny.' at position (128, 730).
+      Row named 'None' with state 'None' at position (84, 842).
+        Cell named 'None' with state 'None' at position (100, 842).
+          StaticText named 'None' with state 'Or' at position (354, 852).
+      Row named 'None' with state 'None' at position (84, 896).
+        Cell named 'None' with state 'None' at position (100, 896).
+          TextField named 'None' with state '' at position (132, 940).
+      Column named 'None' with state 'None' at position (84, 530).
+  Button named 'Write Email' with state 'None' at position (100, 1098).
+  Image named 'None' with state 'None' at position (582, 1132).
+  Button named '' with state 'None' at position (552, 1098).
+  Button named 'Back' with state 'None' at position (32, 80).
+  Button named 'Restore' with state 'None' at position (604, 80).
+  ScrollArea named 'None' with state 'None' at position (0, 144).
+    StaticText named 'None' with state 'Add
+Account' at position (96, 144).
+    TextField named 'None' with state '' at position (132, 386).
+    Button named 'Add Account' with state 'None' at position (100, 504).
+    ScrollArea named 'None' with state 'None' at position (100, 652).
+      List named 'None' with state 'None' at position (100, 652).
+        List named 'None' with state 'None' at position (100, 652).
+          Group named 'None' with state 'None' at position (100, 652).
+            Image named 'None' with state 'None' at position (124, 676).
+            StaticText named 'None' with state 'Gmail' at position (124, 778).
+            Button named '' with state 'None' at position (100, 652).
+          Group named 'None' with state 'None' at position (244, 652).
+            Image named 'None' with state 'None' at position (268, 676).
+            StaticText named 'None' with state 'iCloud' at position (264, 778).
+            Button named '' with state 'None' at position (244, 652).
+          Group named 'None' with state 'None' at position (388, 652).
+            Image named 'None' with state 'None' at position (412, 676).
+            StaticText named 'None' with state 'Outlook' at position (400, 778).
+            Button named '' with state 'None' at position (388, 652).
+          Group named 'None' with state 'None' at position (532, 652).
+            Image named 'None' with state 'None' at position (556, 676).
+            StaticText named 'None' with state 'Exchange' at position (532, 778).
+            Button named '' with state 'None' at position (532, 652).
+          Group named 'None' with state 'None' at position (172, 856).
+            Image named 'None' with state 'None' at position (196, 880).
+            StaticText named 'None' with state 'Office365' at position (170, 982).
+            Button named '' with state 'None' at position (172, 856).
+          Group named 'None' with state 'None' at position (316, 856).
+            Image named 'None' with state 'None' at position (340, 880).
+            StaticText named 'None' with state 'Yahoo' at position (336, 982).
+            Button named '' with state 'None' at position (316, 856).
+          Group named 'None' with state 'None' at position (460, 856).
+            Image named 'None' with state 'None' at position (484, 880).
+            StaticText named 'None' with state 'Other' at position (484, 982).
+            Button named '' with state 'None' at position (460, 856).
+    StaticText named 'None' with state 'Connect and sync all your email
+accounts with Canary.' at position (96, 1060).
+    ScrollBar named 'None' with state '0.0' at position (720, 144).
+  Button named 'Back' with state 'None' at position (32, 80).
+  StaticText named 'None' with state 'Please enter a valid email address' at position (312, 84).
+  ScrollArea named 'None' with state 'None' at position (84, 144).
+    Table named 'None' with state 'None' at position (84, 144).
+      Row named 'None' with state 'None' at position (84, 144).
+        Cell named 'None' with state 'None' at position (84, 144).
+          StaticText named 'None' with state 'Add
+Account' at position (80, 144).
+      Row named 'None' with state 'None' at position (84, 308).
+        Cell named 'None' with state 'None' at position (84, 308).
+          TextField named 'None' with state 'yelyzavet' at position (116, 386).
+      Row named 'None' with state 'None' at position (84, 456).
+        Cell named 'None' with state 'None' at position (84, 456).
+          Button named 'Sign In' with state 'None' at position (84, 504).
+      Row named 'None' with state 'None' at position (84, 604).
+        Cell named 'None' with state 'None' at position (84, 604).
+      Column named 'None' with state 'None' at position (84, 144).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

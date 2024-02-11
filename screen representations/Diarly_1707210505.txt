@@ -1,0 +1,16 @@
+Description for the Diarly application:
+ScrollArea named 'None' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Customize your daily prompt' at position (66, 0).
+  StaticText named 'None' with state 'Every day when you open Diarly, a new entry will be automatically created for you. We recommend allowing the following information to be imported:' at position (66, 96).
+  StaticText named 'None' with state '📍 Location' at position (120, 260).
+  StaticText named 'None' with state '❤️ Health' at position (120, 350).
+  StaticText named 'None' with state 'Workouts - total duration' at position (342, 350).
+  StaticText named 'None' with state '' at position (746, 358).
+  Button named '' with state 'None' at position (270, 338).
+  StaticText named 'None' with state '🌙 Last night's sleep duration' at position (120, 442).
+  Button named '' with state 'None' at position (574, 430).
+  StaticText named 'None' with state 'Additionally, you can choose to import:' at position (66, 558).
+  StaticText named 'None' with state '⛅️ Weather' at position (120, 638).
+  StaticText named 'None' with state '🗓️ Events from Calendar' at position (120, 720).
+  StaticText named 'None' with state '✅ Uncompleted Tasks from previous day' at position (120, 802).
+  StaticText named 'None' with state 'You can always modify or disable the daily prompt later as needed' at position (66, 918).

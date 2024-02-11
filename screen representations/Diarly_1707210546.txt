@@ -1,0 +1,69 @@
+Description for the Diarly application:
+Window named 'Diary' with state 'None' at position (0, 0).
+  Button named '' with state 'None' at position (272, 16).
+  Button named '' with state 'None' at position (352, 16).
+  Button named '' with state 'None' at position (654, 16).
+  ScrollArea named 'None' with state 'None' at position (0, 104).
+    Table named 'None' with state 'None' at position (0, 104).
+      Row named 'None' with state 'None' at position (0, 104).
+        Cell named 'None' with state 'None' at position (0, 104).
+          StaticText named 'None' with state 'Timeline' at position (20, 116).
+      Row named 'None' with state 'None' at position (0, 172).
+        Cell named 'None' with state 'None' at position (0, 172).
+      Row named 'None' with state 'None' at position (0, 180).
+        Cell named 'None' with state 'None' at position (0, 180).
+          StaticText named 'None' with state 'February 2024' at position (20, 192).
+      Row named 'None' with state 'None' at position (0, 238).
+        Cell named 'None' with state 'None' at position (0, 238).
+          StaticText named 'None' with state '#StartingOut' at position (46, 428).
+          TextArea named 'None' with state '# Three small things I'm grateful for:
+- 
+# What is my positive intention for the day?
+# How did I feel today and what patterns or triggers did I notice?
+[Kyiv, Antonovycha Street](diarly://map/50.42603751718915,30.51559530818982)  2˚C ☁️  
+#StartingOut  Welcome to Diarly 👋 ' at position (40, 268).
+            Link named 'Kyiv, Antonovycha Street' with state 'None' at position None.
+            Link named ' Welcome to Diarly 👋' with state 'None' at position None.
+          StaticText named 'None' with state '6' at position (670, 268).
+          StaticText named 'None' with state 'Tue' at position (660, 306).
+          Button named '' with state 'None' at position (658, 332).
+      Row named 'None' with state 'None' at position (0, 494).
+        Cell named 'None' with state 'None' at position (0, 494).
+      Column named 'None' with state 'None' at position (0, 104).
+  ScrollArea named 'None' with state 'None' at position (750, 104).
+    TextArea named 'None' with state '# Three small things I'm grateful for:
+- 
+
+# What is my positive intention for the day?
+
+
+# How did I feel today and what patterns or triggers did I notice?
+
+
+[Kyiv, Antonovycha Street](diarly://map/50.42603751718915,30.51559530818982) 📲🛌 2˚C ☁️ 📲👟 
+
+
+#StartingOut  Welcome to Diarly 👋' at position (750, 104).
+      Link named 'Kyiv, Antonovycha Street' with state 'None' at position (810, 624).
+      Link named ' Welcome to Diarly 👋' with state 'None' at position (1006, 754).
+    ScrollBar named 'None' with state '0.0' at position (2380, 104).
+      ValueIndicator named 'None' with state '0.0' at position (2380, 106).
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (2380, 996).
+      Button named 'None' with state 'None' at position (2380, 104).
+  Button named '' with state 'None' at position (2128, 16).
+  Button named '' with state 'None' at position (2040, 16).
+  Button named '' with state 'None' at position (2304, 16).
+  Button named '' with state 'None' at position (782, 16).
+  Button named '' with state 'None' at position (1134, 16).
+  Button named '' with state 'None' at position (1498, 16).
+  StaticText named 'None' with state 'My Journal' at position (940, 36).
+  StaticText named 'None' with state '😌' at position (890, 36).
+  StaticText named 'None' with state 'Tue, 6 February' at position (1242, 32).
+  Button named '' with state 'None' at position (1176, 16).
+  Button named '' with state 'None' at position (184, 16).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

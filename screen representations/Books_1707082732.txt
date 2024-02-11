@@ -1,0 +1,184 @@
+Description for the Books application:
+Window named 'Audiobook Store' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          Group named 'None' with state 'None' at position (0, 104).
+            Group named 'None' with state 'None' at position (20, 104).
+              TextField named 'None' with state '' at position (18, 108).
+            Heading named 'None' with state 'None' at position (20, 202).
+            StaticText named 'None' with state 'None' at position (20, 254).
+            StaticText named 'None' with state 'None' at position (20, 310).
+            StaticText named 'None' with state 'None' at position (20, 366).
+            Heading named 'None' with state 'Expanded' at position (20, 442).
+            StaticText named 'None' with state 'None' at position (20, 494).
+            StaticText named 'None' with state 'None' at position (20, 550).
+            StaticText named 'None' with state 'None' at position (20, 606).
+            StaticText named 'None' with state 'None' at position (20, 662).
+            StaticText named 'None' with state 'None' at position (20, 718).
+            StaticText named 'None' with state 'None' at position (20, 774).
+            StaticText named 'None' with state 'None' at position (20, 830).
+            Heading named 'None' with state 'Expanded' at position (20, 906).
+            Button named 'None' with state 'None' at position (20, 958).
+          Button named 'None' with state 'Mariya Hirna' at position (40, 1424).
+      Group named 'None' with state 'None' at position (402, 0).
+        Group named 'None' with state 'None' at position (402, 0).
+          Group named 'None' with state 'None' at position (426, 0).
+          Group named 'None' with state 'None' at position (402, 0).
+            Group named 'None' with state 'None' at position (402, 0).
+              Heading named 'None' with state 'None' at position (482, 104).
+              Button named 'None' with state 'None' at position (1684, 130).
+              Button named 'None' with state 'None' at position (482, 294).
+              Button named 'None' with state 'None' at position (1248, 294).
+              Button named 'None' with state 'None' at position (2016, 294).
+              Button named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position (402, 1010).
+                Heading named 'None' with state 'None' at position (482, 1090).
+                Button named 'None' with state 'None' at position (1882, 1098).
+                Heading named 'None' with state 'None' at position (482, 1116).
+                Button named 'None' with state 'None' at position (482, 1208).
+                Button named 'None' with state 'None' at position (482, 1398).
+                Button named 'None' with state 'None' at position (672, 1208).
+                Button named 'None' with state 'None' at position (672, 1398).
+                Button named 'None' with state 'None' at position (864, 1208).
+                Button named 'None' with state 'None' at position (864, 1398).
+                Button named 'None' with state 'None' at position (1056, 1208).
+                Button named 'None' with state 'None' at position (1056, 1398).
+                Button named 'None' with state 'None' at position (1248, 1208).
+                Button named 'None' with state 'None' at position (1248, 1398).
+                Button named 'None' with state 'None' at position (1440, 1208).
+                Button named 'None' with state 'None' at position (1440, 1398).
+                Button named 'None' with state 'None' at position (1632, 1208).
+                Button named 'None' with state 'None' at position (1632, 1398).
+                Button named 'None' with state 'None' at position (1824, 1208).
+                Button named 'None' with state 'None' at position (1824, 1398).
+                Button named 'None' with state 'None' at position (2016, 1208).
+                Button named 'None' with state 'None' at position (2016, 1398).
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                Heading named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                Heading named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                Heading named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Heading named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                Heading named 'None' with state 'None' at position None.
+                StaticText named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                Heading named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                Heading named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Heading named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Group named 'None' with state 'None' at position None.
+                Heading named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+                Button named 'None' with state 'None' at position None.
+              Button named 'None' with state 'None' at position None.
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

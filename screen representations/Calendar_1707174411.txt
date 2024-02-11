@@ -1,0 +1,87 @@
+Description for the Calendar application:
+Window named 'Calendar' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    Splitter named 'None' with state '-1.0' at position None.
+    Group named 'None' with state '2024-02-05 23:06:51 +0000' at position (0, 76).
+      List named 'None' with state '2024-02-05 23:00:00 +0000' at position (116, 0).
+        StaticText named 'None' with state 'None' at position (114, 626).
+      StaticText named 'None' with state '' at position None.
+      Grid named 'None' with state 'None' at position None.
+        StaticText named 'None' with state '29' at position (1108, 144).
+        StaticText named 'None' with state '30' at position (1164, 144).
+        StaticText named 'None' with state '31' at position (1220, 144).
+        StaticText named 'None' with state '1' at position (1276, 144).
+        StaticText named 'None' with state '2' at position (1332, 144).
+        StaticText named 'None' with state '3' at position (1388, 144).
+        StaticText named 'None' with state '4' at position (1444, 144).
+        StaticText named 'None' with state '5' at position (1108, 182).
+        StaticText named 'None' with state '6' at position (1164, 182).
+        StaticText named 'None' with state '7' at position (1220, 182).
+        StaticText named 'None' with state '8' at position (1276, 182).
+        StaticText named 'None' with state '9' at position (1332, 182).
+        StaticText named 'None' with state '10' at position (1388, 182).
+        StaticText named 'None' with state '11' at position (1444, 182).
+        StaticText named 'None' with state '12' at position (1108, 218).
+        StaticText named 'None' with state '13' at position (1164, 218).
+        StaticText named 'None' with state '14' at position (1220, 218).
+        StaticText named 'None' with state '15' at position (1276, 218).
+        StaticText named 'None' with state '16' at position (1332, 218).
+        StaticText named 'None' with state '17' at position (1388, 218).
+        StaticText named 'None' with state '18' at position (1444, 218).
+        StaticText named 'None' with state '19' at position (1108, 254).
+        StaticText named 'None' with state '20' at position (1164, 254).
+        StaticText named 'None' with state '21' at position (1220, 254).
+        StaticText named 'None' with state '22' at position (1276, 254).
+        StaticText named 'None' with state '23' at position (1332, 254).
+        StaticText named 'None' with state '24' at position (1388, 254).
+        StaticText named 'None' with state '25' at position (1444, 254).
+        StaticText named 'None' with state '26' at position (1108, 290).
+        StaticText named 'None' with state '27' at position (1164, 290).
+        StaticText named 'None' with state '28' at position (1220, 290).
+        StaticText named 'None' with state '29' at position (1276, 290).
+        StaticText named 'None' with state '1' at position (1332, 290).
+        StaticText named 'None' with state '2' at position (1388, 290).
+        StaticText named 'None' with state '3' at position (1444, 290).
+        StaticText named 'None' with state '4' at position (1108, 326).
+        StaticText named 'None' with state '5' at position (1164, 326).
+        StaticText named 'None' with state '6' at position (1220, 326).
+        StaticText named 'None' with state '7' at position (1276, 326).
+        StaticText named 'None' with state '8' at position (1332, 326).
+        StaticText named 'None' with state '9' at position (1388, 326).
+        StaticText named 'None' with state '10' at position (1444, 326).
+      TextField named 'None' with state '' at position (1116, 408).
+      PopUpButton named 'None' with state 'Home' at position (1672, 404).
+      TextField named 'None' with state '' at position (1116, 464).
+      PopUpButton named 'None' with state 'None' at position (1760, 460).
+      Button named 'None' with state 'Tuesday, 6 Feb' at position (1116, 550).
+      StaticText named 'None' with state '12:00 to 14:00' at position (1654, 550).
+      Button named 'None' with state 'Add Alert, Repeat or Travel Time' at position (1116, 592).
+      Button named 'None' with state 'None' at position (1100, 676).
+        StaticText named 'None' with state '' at position (1116, 686).
+      Button named 'None' with state 'Add Notes, URL or Attachments' at position (1116, 768).
+      StaticText named 'None' with state 'Tuesday' at position (26, 176).
+      Group named 'None' with state 'None' at position (1624, 104).
+        Button named 'None' with state 'None' at position (1624, 104).
+        Button named 'None' with state 'None' at position (1674, 104).
+        Button named 'None' with state 'None' at position (1802, 104).
+    Splitter named 'None' with state '935.0' at position None.
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (152, 0).
+      RadioGroup named 'None' with state 'None' at position (158, 14).
+        RadioButton named 'None' with state '0' at position (158, 14).
+        RadioButton named 'None' with state '0' at position (218, 14).
+    Button named 'None' with state 'None' at position (286, 0).
+    Group named 'None' with state 'None' at position (668, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x1187773d0> {pid=64679}' at position (674, 14).
+        RadioButton named 'None' with state '1' at position (674, 14).
+        RadioButton named 'None' with state '0' at position (806, 14).
+        RadioButton named 'None' with state '0' at position (936, 14).
+        RadioButton named 'None' with state '0' at position (1066, 14).
+    Group named 'None' with state 'None' at position (1446, 0).
+      TextField named 'None' with state 'None' at position (1452, 14).
+        Button named '' with state 'None' at position (1456, 16).
+  Button named 'None' with state 'None' at position (24, 22).
+  Button named 'None' with state 'None' at position (104, 22).
+    Group named 'None' with state 'None' at position (104, 22).
+      Group named 'None' with state 'None' at position (104, 22).
+  Button named 'None' with state 'None' at position (64, 22).

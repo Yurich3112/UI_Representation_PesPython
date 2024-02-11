@@ -1,0 +1,31 @@
+Description for the Clock application:
+Window named 'Clock' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          Group named 'None' with state 'None' at position (0, 0).
+            Group named 'None' with state 'None' at position (0, 134).
+              Group named 'None' with state '00:15:00' at position (598, 516).
+                Slider named 'None' with state '0 hours' at position (628, 536).
+                Slider named 'None' with state '15 minutes' at position (906, 536).
+                Slider named 'None' with state '0 seconds' at position (1182, 536).
+              TextField named 'None' with state '' at position (824, 756).
+              PopUpButton named 'None' with state 'Apex' at position (818, 810).
+              Button named 'None' with state 'None' at position (692, 1150).
+              Button named 'None' with state 'None' at position (1032, 1150).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (174, 0).
+    Group named 'None' with state 'None' at position (652, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x131e0d700> {pid=92889}' at position (648, 12).
+        RadioButton named 'None' with state '0' at position (648, 12).
+        RadioButton named 'None' with state '0' at position (842, 12).
+        RadioButton named 'None' with state '0' at position (1024, 12).
+        RadioButton named 'None' with state '1' at position (1206, 12).
+    MenuButton named 'None' with state 'None' at position (1960, 0).
+      MenuButton named '' with state 'None' at position (1956, 12).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

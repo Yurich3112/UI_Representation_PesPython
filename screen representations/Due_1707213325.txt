@@ -1,0 +1,12 @@
+Detected elements for the Due application:
+Button (0.71 confidence) at position (295, 760)
+TextView (0.71 confidence) at position (223, 667)
+TextView (0.66 confidence) at position (215, 600)
+TextView (0.43 confidence) at position (328, 772)
+Button (0.40 confidence) at position (0, 965)
+Button (0.38 confidence) at position (9, 856)
+TextView (0.36 confidence) at position (32, 322)
+TextView (0.36 confidence) at position (14, 178)
+TextView (0.29 confidence) at position (23, 466)
+Button (0.29 confidence) at position (5, 750)
+TextView (0.27 confidence) at position (12, 863)

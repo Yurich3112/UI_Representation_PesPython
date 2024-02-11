@@ -1,0 +1,146 @@
+Description for the Calendar application:
+Window named 'Calendar' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    SplitGroup named 'None' with state 'None' at position (0, 0).
+      ScrollArea named 'None' with state 'None' at position (0, 76).
+        Outline named 'None' with state 'None' at position (0, 76).
+          Row named 'None' with state 'None' at position (0, 76).
+            Cell named 'None' with state 'None' at position (20, 76).
+              StaticText named 'None' with state 'iCloud' at position (28, 90).
+          Row named 'None' with state 'None' at position (0, 132).
+            Cell named 'None' with state 'None' at position (20, 132).
+              TextField named 'None' with state 'Home' at position (80, 144).
+              CheckBox named '' with state '1' at position (36, 146).
+          Row named 'None' with state 'None' at position (0, 188).
+            Cell named 'None' with state 'None' at position (20, 188).
+              TextField named 'None' with state 'Work' at position (80, 200).
+              CheckBox named '' with state '1' at position (36, 202).
+          Row named 'None' with state 'None' at position (0, 270).
+            Cell named 'None' with state 'None' at position (20, 270).
+              StaticText named 'None' with state 'Other' at position (28, 284).
+          Row named 'None' with state 'None' at position (0, 326).
+            Cell named 'None' with state 'None' at position (20, 326).
+              StaticText named 'None' with state 'Birthdays' at position (80, 338).
+              CheckBox named '' with state '1' at position (36, 340).
+          Row named 'None' with state 'None' at position (0, 382).
+            Cell named 'None' with state 'None' at position (20, 382).
+              StaticText named 'None' with state 'Siri Suggestions' at position (80, 394).
+              CheckBox named '' with state '1' at position (36, 396).
+          Column named 'None' with state 'None' at position (20, 76).
+      Splitter named 'None' with state '434.0' at position None.
+      StaticText named 'None' with state 'February 2024' at position (0, 898).
+      Button named '' with state 'None' at position (26, 902).
+      Button named '' with state 'None' at position (320, 902).
+      Grid named 'None' with state 'None' at position None.
+        StaticText named 'None' with state '29' at position (12, 978).
+        StaticText named 'None' with state '30' at position (62, 978).
+        StaticText named 'None' with state '31' at position (112, 978).
+        StaticText named 'None' with state '1' at position (162, 978).
+        StaticText named 'None' with state '2' at position (210, 978).
+        StaticText named 'None' with state '3' at position (258, 978).
+        StaticText named 'None' with state '4' at position (306, 978).
+        StaticText named 'None' with state '5' at position (12, 1012).
+        StaticText named 'None' with state '6' at position (62, 1012).
+        StaticText named 'None' with state '7' at position (112, 1012).
+        StaticText named 'None' with state '8' at position (162, 1012).
+        StaticText named 'None' with state '9' at position (210, 1012).
+        StaticText named 'None' with state '10' at position (258, 1012).
+        StaticText named 'None' with state '11' at position (306, 1012).
+        StaticText named 'None' with state '12' at position (12, 1046).
+        StaticText named 'None' with state '13' at position (62, 1046).
+        StaticText named 'None' with state '14' at position (112, 1046).
+        StaticText named 'None' with state '15' at position (162, 1046).
+        StaticText named 'None' with state '16' at position (210, 1046).
+        StaticText named 'None' with state '17' at position (258, 1046).
+        StaticText named 'None' with state '18' at position (306, 1046).
+        StaticText named 'None' with state '19' at position (12, 1080).
+        StaticText named 'None' with state '20' at position (62, 1080).
+        StaticText named 'None' with state '21' at position (112, 1080).
+        StaticText named 'None' with state '22' at position (162, 1080).
+        StaticText named 'None' with state '23' at position (210, 1080).
+        StaticText named 'None' with state '24' at position (258, 1080).
+        StaticText named 'None' with state '25' at position (306, 1080).
+        StaticText named 'None' with state '26' at position (12, 1114).
+        StaticText named 'None' with state '27' at position (62, 1114).
+        StaticText named 'None' with state '28' at position (112, 1114).
+        StaticText named 'None' with state '29' at position (162, 1114).
+        StaticText named 'None' with state '1' at position (210, 1114).
+        StaticText named 'None' with state '2' at position (258, 1114).
+        StaticText named 'None' with state '3' at position (306, 1114).
+        StaticText named 'None' with state '4' at position (12, 1148).
+        StaticText named 'None' with state '5' at position (62, 1148).
+        StaticText named 'None' with state '6' at position (112, 1148).
+        StaticText named 'None' with state '7' at position (162, 1148).
+        StaticText named 'None' with state '8' at position (210, 1148).
+        StaticText named 'None' with state '9' at position (258, 1148).
+        StaticText named 'None' with state '10' at position (306, 1148).
+    Splitter named 'None' with state '180.0' at position (360, 76).
+    Group named 'None' with state '2024-02-05 23:06:03 +0000' at position (362, 76).
+      Grid named 'None' with state 'None' at position (362, 76).
+        List named 'Monday, 29 January' with state 'None' at position (362, 236).
+        List named 'Tuesday, 30 January' with state 'None' at position (578, 236).
+        List named 'Wednesday, 31 January' with state 'None' at position (794, 236).
+        List named 'Thursday, 1 February' with state 'None' at position (1010, 236).
+        List named 'Friday, 2 February' with state 'None' at position (1226, 236).
+        List named 'Saturday, 3 February' with state 'None' at position (1442, 236).
+        List named 'Sunday, 4 February' with state 'None' at position (1656, 236).
+        List named 'Monday, 5 February' with state 'None' at position (362, 396).
+        List named 'Today, Tuesday, 6 February' with state 'None' at position (578, 396).
+        List named 'Wednesday, 7 February' with state 'None' at position (794, 396).
+        List named 'Thursday, 8 February' with state 'None' at position (1010, 396).
+        List named 'Friday, 9 February' with state 'None' at position (1226, 396).
+        List named 'Saturday, 10 February' with state 'None' at position (1442, 396).
+        List named 'Sunday, 11 February' with state 'None' at position (1656, 396).
+        List named 'Monday, 12 February' with state 'None' at position (362, 556).
+        List named 'Tuesday, 13 February' with state 'None' at position (578, 556).
+        List named 'Wednesday, 14 February' with state 'None' at position (794, 556).
+        List named 'Thursday, 15 February' with state 'None' at position (1010, 556).
+        List named 'Friday, 16 February' with state 'None' at position (1226, 556).
+        List named 'Saturday, 17 February' with state 'None' at position (1442, 556).
+        List named 'Sunday, 18 February' with state 'None' at position (1656, 556).
+        List named 'Monday, 19 February' with state 'None' at position (362, 716).
+        List named 'Tuesday, 20 February' with state 'None' at position (578, 716).
+        List named 'Wednesday, 21 February' with state 'None' at position (794, 716).
+        List named 'Thursday, 22 February' with state 'None' at position (1010, 716).
+        List named 'Friday, 23 February' with state 'None' at position (1226, 716).
+        List named 'Saturday, 24 February' with state 'None' at position (1442, 716).
+        List named 'Sunday, 25 February' with state 'None' at position (1656, 716).
+        List named 'Monday, 26 February' with state 'None' at position (362, 876).
+        List named 'Tuesday, 27 February' with state 'None' at position (578, 876).
+        List named 'Wednesday, 28 February' with state 'None' at position (794, 876).
+        List named 'Thursday, 29 February' with state 'None' at position (1010, 876).
+        List named 'Friday, 1 March' with state 'None' at position (1226, 876).
+        List named 'Saturday, 2 March' with state 'None' at position (1442, 876).
+        List named 'Sunday, 3 March' with state 'None' at position (1656, 876).
+        List named 'Monday, 4 March' with state 'None' at position (362, 1036).
+        List named 'Tuesday, 5 March' with state 'None' at position (578, 1036).
+        List named 'Wednesday, 6 March' with state 'None' at position (794, 1036).
+        List named 'Thursday, 7 March' with state 'None' at position (1010, 1036).
+        List named 'Friday, 8 March' with state 'None' at position (1226, 1036).
+        List named 'Saturday, 9 March' with state 'None' at position (1442, 1036).
+        List named 'Sunday, 10 March' with state 'None' at position (1656, 1036).
+      Group named 'None' with state 'None' at position (1624, 104).
+        Button named 'None' with state 'None' at position (1624, 104).
+        Button named 'None' with state 'None' at position (1674, 104).
+        Button named 'None' with state 'None' at position (1802, 104).
+    Splitter named 'None' with state '754.0' at position None.
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (152, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x13b06fd10> {pid=64679}' at position (158, 14).
+        RadioButton named 'None' with state '1' at position (158, 14).
+        RadioButton named 'None' with state '0' at position (218, 14).
+    Button named 'None' with state 'None' at position (370, 0).
+    Group named 'None' with state 'None' at position (848, 0).
+      RadioGroup named 'None' with state '<AXUIElement 0x13b070030> {pid=64679}' at position (854, 14).
+        RadioButton named 'None' with state '0' at position (854, 14).
+        RadioButton named 'None' with state '0' at position (986, 14).
+        RadioButton named 'None' with state '1' at position (1116, 14).
+        RadioButton named 'None' with state '0' at position (1246, 14).
+    Group named 'None' with state 'None' at position (1446, 0).
+      TextField named 'None' with state 'None' at position (1452, 14).
+        Button named '' with state 'None' at position (1456, 16).
+  Button named 'None' with state 'None' at position (24, 22).
+  Button named 'None' with state 'None' at position (104, 22).
+    Group named 'None' with state 'None' at position (104, 22).
+      Group named 'None' with state 'None' at position (104, 22).
+  Button named 'None' with state 'None' at position (64, 22).

@@ -1,0 +1,200 @@
+Description for the Chrome application:
+Group named '' with state '' at position (0, 0).
+  TabGroup named '' with state '' at position (160, 0).
+    RadioButton named '' with state 'True' at position (160, 0).
+      Button named '' with state '' at position (588, 12).
+    Button named '' with state '' at position (660, 0).
+    PopUpButton named '' with state '' at position (2332, 0).
+  Toolbar named '' with state '' at position (0, 80).
+    Button named '' with state '' at position (10, 92).
+    Button named '' with state '' at position (82, 92).
+    Button named '' with state '' at position (154, 92).
+    StaticText named '' with state '' at position None.
+    Group named '' with state '' at position (240, 92).
+      StaticText named '' with state '' at position None.
+      PopUpButton named '' with state '' at position (250, 102).
+      TextField named '' with state 'chrome://whats-new' at position (422, 102).
+      Button named '' with state '' at position (1980, 102).
+    StaticText named '' with state '' at position None.
+    PopUpButton named '' with state '' at position (2070, 92).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (2178, 92).
+    Button named '' with state '' at position (2250, 92).
+    PopUpButton named '' with state '' at position (2322, 92).
+  Toolbar named '' with state '' at position (0, 172).
+    StaticText named '' with state 'Apps' at position None.
+    StaticText named '' with state 'Managed Bookmarks' at position None.
+    Toolbar named '' with state '' at position None.
+      StaticText named '' with state '' at position None.
+    Button named '' with state '' at position (12, 172).
+    Button named '' with state '' at position (162, 172).
+    Button named '' with state '' at position (342, 172).
+    StaticText named '' with state '' at position None.
+    StaticText named '' with state 'All Bookmarks' at position None.
+  WebArea named 'What’s new' with state '' at position (0, 242).
+    Group named '' with state '' at position (0, 242).
+      Group named '' with state '' at position (0, 242).
+        WebArea named 'What’s New in Chrome' with state '' at position (0, 242).
+          Group named '' with state '' at position (0, 242).
+            Group named '' with state '' at position (0, 242).
+              Group named '' with state '' at position (0, 242).
+                Group named '' with state '' at position (1054, 290).
+                  StaticText named '' with state 'Your Chrome is up to date' at position (1054, 300).
+              Group named '' with state '' at position (0, 242).
+                Group named '' with state '' at position (48, 290).
+                Heading named 'What’s New in Chrome' with state '' at position (622, 530).
+                  StaticText named '' with state 'What’s New in Chrome' at position (622, 532).
+                Group named '' with state '' at position (512, 690).
+                  StaticText named '' with state 'A new Chrome Web Store and securing your online connection' at position (636, 698).
+              Group named '' with state '' at position (0, 1056).
+                Group named '' with state '' at position (144, 1184).
+                  Heading named 'CHROME WEB STORE' with state '' at position (224, 1184).
+                    StaticText named '' with state 'CHROME WEB STORE' at position (240, 1196).
+                  Heading named 'Discover the newly reimagined Chrome Web Store' with state '' at position (224, 1254).
+                    StaticText named '' with state 'Discover the newly reimagined Chrome Web Store' at position (224, 1258).
+                  Group named '' with state '' at position (224, 1550).
+                    StaticText named '' with state 'Explore new categories and personalized recommendations that simplify your search for the perfect themes and extensions to customize your browser.' at position (224, 1558).
+                  List named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      ListMarker named '' with state '1. ' at position None.
+                      StaticText named '' with state 'Open the ' at position None.
+                      StaticText named '' with state 'Chrome menu' at position None.
+                      StaticText named '' with state '.' at position None.
+                    Group named '' with state '' at position None.
+                      ListMarker named '' with state '2. ' at position None.
+                      StaticText named '' with state 'Select ' at position None.
+                      StaticText named '' with state 'Extensions' at position None.
+                      StaticText named '' with state ', then ' at position None.
+                      StaticText named '' with state 'Visit Chrome Web Store' at position None.
+                      StaticText named '' with state '.' at position None.
+                    Group named '' with state '' at position None.
+                      ListMarker named '' with state '3. ' at position None.
+                      StaticText named '' with state 'Explore extensions and themes to make Chrome your own.' at position None.
+                Group named '' with state '' at position (1250, 1184).
+                  Group named '' with state '' at position (1250, 1308).
+                    Image named '' with state '' at position (1250, 1308).
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Heading named 'CHROME TIP' with state '' at position None.
+                    StaticText named '' with state 'CHROME TIP' at position None.
+                  Heading named 'Browse with a secure connection' with state '' at position None.
+                    StaticText named '' with state 'Browse with a secure connection' at position None.
+                  Group named '' with state '' at position None.
+                    StaticText named '' with state 'Chrome can warn you before you visit a site over an insecure connection. This keeps you safer online, especially on public networks like at coffee shops and airports.' at position None.
+                  List named '' with state '' at position None.
+                    Group named '' with state '' at position None.
+                      ListMarker named '' with state '1. ' at position None.
+                      StaticText named '' with state 'Open ' at position None.
+                      StaticText named '' with state 'Chrome menu' at position None.
+                      StaticText named '' with state ' and select ' at position None.
+                      StaticText named '' with state 'Settings' at position None.
+                      StaticText named '' with state '.' at position None.
+                    Group named '' with state '' at position None.
+                      ListMarker named '' with state '2. ' at position None.
+                      StaticText named '' with state 'Click ' at position None.
+                      StaticText named '' with state 'Privacy and Security' at position None.
+                      StaticText named '' with state ' and select ' at position None.
+                      StaticText named '' with state 'Security' at position None.
+                      StaticText named '' with state '.' at position None.
+                    Group named '' with state '' at position None.
+                      ListMarker named '' with state '3. ' at position None.
+                      StaticText named '' with state 'Under the ' at position None.
+                      StaticText named '' with state 'Advanced' at position None.
+                      StaticText named '' with state ' section, turn on ' at position None.
+                      StaticText named '' with state 'Always use Secure Connections' at position None.
+                      StaticText named '' with state '.' at position None.
+                Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    Image named '' with state '' at position None.
+            Group named '' with state '' at position None.
+              Heading named 'Explore more features' with state '' at position None.
+                StaticText named '' with state 'Explore more features' at position None.
+              List named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Heading named 'November 2023' with state '' at position None.
+                    StaticText named '' with state 'November 2023' at position None.
+                  Group named '' with state '' at position None.
+                    StaticText named '' with state 'Save and shop.' at position None.
+                  Link named '' with state '' at position None.
+                    StaticText named '' with state 'Learn ' at position None.
+                    StaticText named '' with state 'more ' at position None.
+                  Group named '' with state '' at position None.
+                    Image named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Heading named 'September 2023' with state '' at position None.
+                    StaticText named '' with state 'September 2023' at position None.
+                  Group named '' with state '' at position None.
+                    StaticText named '' with state 'Customize Chrome, your way.' at position None.
+                  Link named '' with state '' at position None.
+                    StaticText named '' with state 'Learn ' at position None.
+                    StaticText named '' with state 'more ' at position None.
+                  Group named '' with state '' at position None.
+                    Image named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Heading named 'June 2023' with state '' at position None.
+                    StaticText named '' with state 'June 2023' at position None.
+                  Group named '' with state '' at position None.
+                    StaticText named '' with state 'Get your passwords when you need them' at position None.
+                  Link named '' with state '' at position None.
+                    StaticText named '' with state 'Learn ' at position None.
+                    StaticText named '' with state 'more ' at position None.
+                  Group named '' with state '' at position None.
+                    Image named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+              Button named 'View more' with state '' at position None.
+                StaticText named '' with state 'View more' at position None.
+                Image named '' with state '' at position None.
+          Group named '' with state '' at position None.
+            Heading named 'Follow us' with state '' at position None.
+              StaticText named '' with state 'Follow us' at position None.
+            List named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                Link named '' with state '' at position None.
+                  Image named 'Youtube' with state '' at position None.
+              Group named '' with state '' at position None.
+                Link named '' with state '' at position None.
+                  Image named 'Twitter' with state '' at position None.
+              Group named '' with state '' at position None.
+                Link named '' with state '' at position None.
+                  Image named 'Facebook' with state '' at position None.
+            Group named '' with state '' at position None.
+              Link named '' with state '' at position None.
+                Image named 'Google' with state '' at position None.
+            Group named '' with state '' at position None.
+              List named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  Link named '' with state '' at position None.
+                    StaticText named '' with state 'Privacy and Terms' at position None.
+                Group named '' with state '' at position None.
+                  Link named '' with state '' at position None.
+                    StaticText named '' with state 'About Google' at position None.
+                Group named '' with state '' at position None.
+                  Link named '' with state '' at position None.
+                    StaticText named '' with state 'Google Products' at position None.
+            List named '' with state '' at position None.
+              Group named '' with state '' at position None.
+                Link named '' with state '' at position None.
+                  Image named 'Help' with state '' at position None.
+                  StaticText named '' with state 'Help' at position None.
+              Group named '' with state '' at position None.
+                Group named '' with state '' at position None.
+                  StaticText named '' with state 'Change language or region' at position None.
+                PopUpButton named 'Change language or region' with state 'English - United States' at position None.
+                  MenuItem named '' with state 'English - United States' at position None.
+  Button named '' with state '' at position None.
+  Button named '' with state '' at position None.
+  Splitter named '' with state '' at position None.
