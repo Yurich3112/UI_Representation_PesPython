@@ -1,0 +1,92 @@
+Description for the Swish application:
+Window named 'Swish' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Table named 'None' with state 'None' at position (0, 104).
+        Row named 'None' with state 'None' at position (0, 104).
+          Cell named 'None' with state 'None' at position (32, 104).
+            Image named 'None' with state 'None' at position (42, 122).
+            StaticText named 'None' with state 'General' at position (92, 122).
+        Row named 'None' with state 'None' at position (0, 176).
+          Cell named 'None' with state 'None' at position (32, 176).
+            Image named 'None' with state 'None' at position (40, 196).
+            StaticText named 'None' with state 'Windows' at position (92, 194).
+        Row named 'None' with state 'None' at position (0, 248).
+          Cell named 'None' with state 'None' at position (32, 248).
+            Image named 'None' with state 'None' at position (40, 268).
+            StaticText named 'None' with state 'Snapping' at position (92, 266).
+        Row named 'None' with state 'None' at position (0, 320).
+          Cell named 'None' with state 'None' at position (32, 320).
+            Image named 'None' with state 'None' at position (40, 340).
+            StaticText named 'None' with state 'Apps' at position (92, 338).
+        Row named 'None' with state 'None' at position (0, 392).
+          Cell named 'None' with state 'None' at position (32, 392).
+            Image named 'None' with state 'None' at position (40, 412).
+            StaticText named 'None' with state 'Menubar' at position (92, 410).
+        Row named 'None' with state 'None' at position (0, 464).
+          Cell named 'None' with state 'None' at position (32, 464).
+            Image named 'None' with state 'None' at position (38, 482).
+            StaticText named 'None' with state 'Advanced' at position (92, 482).
+        Row named 'None' with state 'None' at position (0, 536).
+          Cell named 'None' with state 'None' at position (32, 536).
+            Image named 'None' with state 'None' at position (44, 556).
+            StaticText named 'None' with state 'About' at position (92, 554).
+        Column named 'None' with state 'None' at position (20, 104).
+    Splitter named 'None' with state '150.0' at position (300, 104).
+    ScrollArea named 'None' with state 'None' at position (302, 104).
+      StaticText named 'None' with state 'System' at position (322, 128).
+      StaticText named 'None' with state 'System Permissions' at position (322, 226).
+      Image named 'None' with state 'None' at position (604, 232).
+      Button named 'Request' with state 'None' at position (652, 226).
+      StaticText named 'None' with state 'Diagnostics' at position (858, 226).
+      Image named 'None' with state 'None' at position (1030, 232).
+      Button named 'Run' with state 'None' at position (1078, 226).
+      StaticText named 'None' with state 'Swish needs accessibility permissions to function properly.' at position (322, 278).
+      StaticText named 'None' with state 'Click the lock on the bottom left to authenticate, then check Swish in the application list.' at position (322, 326).
+      StaticText named 'None' with state 'Launch at Login' at position (322, 398).
+      CheckBox named '' with state '0' at position (542, 396).
+      StaticText named 'None' with state 'Show in Menubar' at position (634, 398).
+      CheckBox named '' with state '1' at position (872, 396).
+      StaticText named 'None' with state 'You can always access this window by opening Swish via Finder or Launchpad.' at position (322, 448).
+      StaticText named 'None' with state 'Gestures' at position (322, 546).
+      StaticText named 'None' with state 'Haptic Feedback' at position (322, 644).
+      CheckBox named '' with state '1' at position (556, 642).
+      StaticText named 'None' with state 'Swish will provide haptic feedback if enabled via System Settings.' at position (322, 694).
+      StaticText named 'None' with state 'Touch Sensitivity' at position (322, 766).
+      Slider named 'None' with state '3.0' at position (560, 762).
+        ValueIndicator named 'None' with state '3.0' at position (644, 762).
+      StaticText named 'None' with state 'Very Snappy' at position (720, 770).
+      StaticText named 'None' with state 'Tap & Hold' at position (890, 766).
+      CheckBox named '' with state '1' at position (1046, 764).
+      StaticText named 'None' with state 'Depending on your hardware, you might want to decrease sensitivity.' at position (322, 816).
+      StaticText named 'None' with state 'Cancel Timeout' at position (322, 888).
+      Slider named 'None' with state '800.0' at position (540, 884).
+        ValueIndicator named 'None' with state '800.0' at position (572, 884).
+      StaticText named 'None' with state '0.8 Seconds' at position (700, 892).
+      StaticText named 'None' with state 'Cancel gestures by pressing Esc or resting for the specified timeout.' at position (322, 938).
+      StaticText named 'None' with state 'Tooltips' at position None.
+      StaticText named 'None' with state 'Show Tooltips' at position None.
+      CheckBox named '' with state '1' at position None.
+      StaticText named 'None' with state 'Size' at position None.
+      Slider named 'None' with state '5.0' at position None.
+        ValueIndicator named 'None' with state '5.0' at position None.
+      StaticText named 'None' with state 'Hide Cursor' at position None.
+      CheckBox named '' with state '1' at position None.
+      StaticText named 'None' with state 'Tooltips will always let you know what's going on.' at position None.
+      StaticText named 'None' with state 'Show Live Tooltips' at position None.
+      CheckBox named '' with state '1' at position None.
+      StaticText named 'None' with state 'Live tooltips provide animated snapping previews.' at position None.
+      ScrollBar named 'None' with state '0.0' at position (302, 916).
+      ScrollBar named 'None' with state '0.0' at position (1528, 104).
+        ValueIndicator named 'None' with state '0.0' at position (1536, 106).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (1536, 690).
+        Button named 'None' with state 'None' at position (1536, 104).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (1448, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Swish' at position (318, 0).

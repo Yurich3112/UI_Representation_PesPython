@@ -1,0 +1,98 @@
+Description for the Swish application:
+Window named 'Swish' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Table named 'None' with state 'None' at position (0, 104).
+        Row named 'None' with state 'None' at position (0, 104).
+          Cell named 'None' with state 'None' at position (32, 104).
+            Image named 'None' with state 'None' at position (42, 122).
+            StaticText named 'None' with state 'General' at position (92, 122).
+        Row named 'None' with state 'None' at position (0, 176).
+          Cell named 'None' with state 'None' at position (32, 176).
+            Image named 'None' with state 'None' at position (40, 196).
+            StaticText named 'None' with state 'Windows' at position (92, 194).
+        Row named 'None' with state 'None' at position (0, 248).
+          Cell named 'None' with state 'None' at position (32, 248).
+            Image named 'None' with state 'None' at position (40, 268).
+            StaticText named 'None' with state 'Snapping' at position (92, 266).
+        Row named 'None' with state 'None' at position (0, 320).
+          Cell named 'None' with state 'None' at position (32, 320).
+            Image named 'None' with state 'None' at position (40, 340).
+            StaticText named 'None' with state 'Apps' at position (92, 338).
+        Row named 'None' with state 'None' at position (0, 392).
+          Cell named 'None' with state 'None' at position (32, 392).
+            Image named 'None' with state 'None' at position (40, 412).
+            StaticText named 'None' with state 'Menubar' at position (92, 410).
+        Row named 'None' with state 'None' at position (0, 464).
+          Cell named 'None' with state 'None' at position (32, 464).
+            Image named 'None' with state 'None' at position (38, 482).
+            StaticText named 'None' with state 'Advanced' at position (92, 482).
+        Row named 'None' with state 'None' at position (0, 536).
+          Cell named 'None' with state 'None' at position (32, 536).
+            Image named 'None' with state 'None' at position (44, 556).
+            StaticText named 'None' with state 'About' at position (92, 554).
+        Column named 'None' with state 'None' at position (20, 104).
+    Splitter named 'None' with state '150.0' at position (300, 104).
+    ScrollArea named 'None' with state 'None' at position (302, 104).
+      StaticText named 'None' with state 'Menubar' at position (322, 128).
+      StaticText named 'None' with state 'Invoke global convenience functions on the empty menubar area.' at position (322, 210).
+      StaticText named 'None' with state 'Secondary Modifier' at position (322, 282).
+      Button named '⇧' with state 'None' at position (590, 276).
+      StaticText named 'None' with state 'Screens Modifier' at position (710, 282).
+      Button named '⌘' with state 'None' at position (944, 276).
+      Image named 'None' with state 'None' at position (326, 356).
+      StaticText named 'None' with state 'App Switcher' at position (386, 362).
+      Image named 'None' with state 'None' at position (586, 370).
+      Image named 'None' with state 'None' at position (698, 370).
+      Image named 'None' with state 'None' at position (674, 370).
+      StaticText named 'None' with state 'Tap, hold and scroll to invoke the ⌘-tab app switcher or swipe left/right to directly activate the previous/next app.' at position (770, 364).
+      Image named 'None' with state 'None' at position (326, 444).
+      StaticText named 'None' with state 'Unsnap' at position (386, 452).
+      Image named 'None' with state 'None' at position (586, 458).
+      Image named 'None' with state 'None' at position (700, 458).
+      Image named 'None' with state 'None' at position (674, 458).
+      StaticText named 'None' with state 'Double tap to unsnap all windows on the current screen. Use the secondary modifier for all screens.' at position (770, 454).
+      Image named 'None' with state 'None' at position (326, 534).
+      StaticText named 'None' with state 'Minimize' at position (386, 540).
+      Image named 'None' with state 'None' at position (586, 548).
+      Image named 'None' with state 'None' at position (700, 548).
+      Image named 'None' with state 'None' at position (674, 548).
+      StaticText named 'None' with state 'Swipe down to minimize all windows. Once for the current screen, twice or with the secondary modifier for all.' at position (770, 542).
+      Image named 'None' with state 'None' at position (326, 622).
+      StaticText named 'None' with state 'Unminimize' at position (386, 630).
+      Image named 'None' with state 'None' at position (586, 636).
+      Image named 'None' with state 'None' at position (700, 636).
+      Image named 'None' with state 'None' at position (674, 636).
+      StaticText named 'None' with state 'Swipe up to unminimize all windows. Once for the current screen, twice or with the secondary modifier for all.' at position (770, 632).
+      Image named 'None' with state 'None' at position (326, 712).
+      StaticText named 'None' with state 'Screens' at position (386, 718).
+      Image named 'None' with state 'None' at position (680, 726).
+      Image named 'None' with state 'None' at position (658, 726).
+      Image named 'None' with state 'None' at position (636, 726).
+      Image named 'None' with state 'None' at position (612, 726).
+      Image named 'None' with state 'None' at position (586, 726).
+      StaticText named 'None' with state 'Swipe up, down, left or right to move all snapped windows to the next screen in that direction.' at position (770, 720).
+      StaticText named 'None' with state 'Mission Control' at position (322, 850).
+      StaticText named 'None' with state 'Invoke this gesture on the Spaces preview in Mission Control.' at position (322, 932).
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Screens' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Swipe up, down, left or right to move a Mission Control space (desktop or fullscreen app) to the next screen in that direction.' at position None.
+      ScrollBar named 'None' with state '0.0' at position (302, 916).
+      ScrollBar named 'None' with state '0.0' at position (1528, 104).
+        ValueIndicator named 'None' with state '0.0' at position (1536, 106).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (1536, 828).
+        Button named 'None' with state 'None' at position (1536, 104).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (1448, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Swish' at position (318, 0).

@@ -1,0 +1,9 @@
+Description for the Timing application:
+Window named 'Onboarding' with state 'None' at position (0, 0).
+  Image named 'None' with state 'None' at position (80, 80).
+  StaticText named 'None' with state 'Welcome to Timing.' at position (76, 320).
+  StaticText named 'None' with state 'The intelligent automatic time tracking app.' at position (76, 454).
+  StaticText named 'None' with state 'Timing is very powerful. Even the basics we are about to teach you should already help you get a more detailed picture of your time than with any other time tracking tool.
+
+We are all about saving you time, so we'll keep this short.' at position (76, 576).
+  Button named 'Next' with state 'None' at position (978, 1212).

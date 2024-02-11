@@ -1,0 +1,74 @@
+Description for the TaskPaper application:
+Window named 'Untitled' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 56).
+      Outline named 'None' with state 'None' at position (0, 56).
+        Row named 'None' with state 'None' at position (0, 56).
+          Cell named 'None' with state 'None' at position (20, 56).
+            StaticText named 'None' with state 'Home' at position (28, 58).
+        Row named 'None' with state 'None' at position (0, 122).
+          Cell named 'None' with state 'None' at position (20, 122).
+            StaticText named 'None' with state 'Projects' at position (26, 128).
+        Row named 'None' with state 'None' at position (0, 162).
+          Cell named 'None' with state 'None' at position (20, 162).
+            StaticText named 'None' with state 'Welcome' at position (54, 164).
+        Row named 'None' with state 'None' at position (0, 202).
+          Cell named 'None' with state 'None' at position (20, 202).
+            StaticText named 'None' with state 'To Create Items' at position (54, 204).
+        Row named 'None' with state 'None' at position (0, 242).
+          Cell named 'None' with state 'None' at position (20, 242).
+            StaticText named 'None' with state 'To Organize Items' at position (54, 244).
+        Row named 'None' with state 'None' at position (0, 282).
+          Cell named 'None' with state 'None' at position (20, 282).
+            StaticText named 'None' with state 'To Fold, Focus, and Filter Items' at position (54, 284).
+        Row named 'None' with state 'None' at position (0, 348).
+          Cell named 'None' with state 'None' at position (20, 348).
+            StaticText named 'None' with state 'Searches' at position (26, 354).
+        Row named 'None' with state 'None' at position (0, 388).
+          Cell named 'None' with state 'None' at position (20, 388).
+            StaticText named 'None' with state 'Today' at position (54, 390).
+        Row named 'None' with state 'None' at position (0, 428).
+          Cell named 'None' with state 'None' at position (20, 428).
+            StaticText named 'None' with state 'Not Done' at position (54, 430).
+        Row named 'None' with state 'None' at position (0, 494).
+          Cell named 'None' with state 'None' at position (20, 494).
+            StaticText named 'None' with state 'Tags' at position (26, 500).
+        Row named 'None' with state 'None' at position (0, 534).
+          Cell named 'None' with state 'None' at position (20, 534).
+            StaticText named 'None' with state '@done' at position (54, 536).
+        Row named 'None' with state 'None' at position (0, 574).
+          Cell named 'None' with state 'None' at position (20, 574).
+            StaticText named 'None' with state '@due' at position (54, 576).
+        Row named 'None' with state 'None' at position (0, 614).
+          Cell named 'None' with state 'None' at position (20, 614).
+            StaticText named 'None' with state '@start' at position (54, 616).
+        Row named 'None' with state 'None' at position (0, 654).
+          Cell named 'None' with state 'None' at position (20, 654).
+            StaticText named 'None' with state '@today' at position (54, 656).
+        Column named 'None' with state 'None' at position (20, 56).
+    Splitter named 'None' with state '150.0' at position (300, 56).
+    ScrollArea named 'None' with state 'None' at position (302, 56).
+      TextArea named 'None' with state 'Welcome:
+- TaskPaper knows about projects, tasks, notes, and tags.
+- It auto-formats these items so that your lists are easier to read.
+- Delete this text when you are ready to start your own lists.
+To Create Items:
+- To create a task, type a dash followed by a space.
+- To create a project, type a line ending with a colon.
+- To create a tag, type '@' followed by the tag’s name.
+To Organize Items:
+- To indent items press the Tab key.
+- To un-indent items press Shift-Tab.
+- To mark a task done click leading dash.
+To Fold, Focus, and Filter Items:
+- To fold/unfold an item click the dot to the left of the item.
+- To focus on a single project select it in the sidebar.
+- To filter your list enter a search in the toolbar search field.
+
+' at position (302, 56).
+      ScrollBar named 'None' with state '0.0' at position (1174, 56).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  MenuButton named '' with state 'None' at position (808, 10).
+  StaticText named 'None' with state 'Untitled' at position (696, 10).

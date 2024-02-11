@@ -1,0 +1,75 @@
+Description for the Swish application:
+Window named 'Swish' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Table named 'None' with state 'None' at position (0, 104).
+        Row named 'None' with state 'None' at position (0, 104).
+          Cell named 'None' with state 'None' at position (32, 104).
+            Image named 'None' with state 'None' at position (42, 122).
+            StaticText named 'None' with state 'General' at position (92, 122).
+        Row named 'None' with state 'None' at position (0, 176).
+          Cell named 'None' with state 'None' at position (32, 176).
+            Image named 'None' with state 'None' at position (40, 196).
+            StaticText named 'None' with state 'Windows' at position (92, 194).
+        Row named 'None' with state 'None' at position (0, 248).
+          Cell named 'None' with state 'None' at position (32, 248).
+            Image named 'None' with state 'None' at position (40, 268).
+            StaticText named 'None' with state 'Snapping' at position (92, 266).
+        Row named 'None' with state 'None' at position (0, 320).
+          Cell named 'None' with state 'None' at position (32, 320).
+            Image named 'None' with state 'None' at position (40, 340).
+            StaticText named 'None' with state 'Apps' at position (92, 338).
+        Row named 'None' with state 'None' at position (0, 392).
+          Cell named 'None' with state 'None' at position (32, 392).
+            Image named 'None' with state 'None' at position (40, 412).
+            StaticText named 'None' with state 'Menubar' at position (92, 410).
+        Row named 'None' with state 'None' at position (0, 464).
+          Cell named 'None' with state 'None' at position (32, 464).
+            Image named 'None' with state 'None' at position (38, 482).
+            StaticText named 'None' with state 'Advanced' at position (92, 482).
+        Row named 'None' with state 'None' at position (0, 536).
+          Cell named 'None' with state 'None' at position (32, 536).
+            Image named 'None' with state 'None' at position (44, 556).
+            StaticText named 'None' with state 'About' at position (92, 554).
+        Column named 'None' with state 'None' at position (20, 104).
+    Splitter named 'None' with state '150.0' at position (300, 104).
+    ScrollArea named 'None' with state 'None' at position (302, 104).
+      Image named 'None' with state 'None' at position (326, 128).
+      Image named 'None' with state 'None' at position (326, 220).
+      StaticText named 'None' with state 'Christian Renninger' at position (360, 216).
+      Image named 'None' with state 'None' at position (326, 262).
+      StaticText named 'None' with state 'highlyopinionated.co/swish' at position (360, 258).
+      Image named 'None' with state 'None' at position (326, 304).
+      StaticText named 'None' with state '0 Swishes' at position (360, 300).
+      StaticText named 'None' with state 'Version 1.10.3' at position (322, 400).
+      Button named 'Open in Setapp' with state 'None' at position (522, 390).
+      StaticText named 'None' with state 'All libraries under MIT License' at position (322, 506).
+      DisclosureTriangle named 'None' with state '1' at position (726, 512).
+      StaticText named 'None' with state 'AXSwift' at position (322, 572).
+      StaticText named 'None' with state '© Tyler Mandry' at position (322, 610).
+      StaticText named 'None' with state 'KeyboardShortcuts' at position (322, 666).
+      StaticText named 'None' with state '© Sindre Sorhus' at position (322, 704).
+      StaticText named 'None' with state 'PromiseKit' at position (322, 760).
+      StaticText named 'None' with state '© Max Howell' at position (322, 798).
+      StaticText named 'None' with state 'Defaults' at position (638, 572).
+      StaticText named 'None' with state '© Sindre Sorhus' at position (638, 610).
+      StaticText named 'None' with state 'LoginItemKit' at position (638, 666).
+      StaticText named 'None' with state '© Christian Renninger' at position (638, 704).
+      StaticText named 'None' with state 'Signals' at position (638, 760).
+      StaticText named 'None' with state '© Tuomas Artman' at position (638, 798).
+      StaticText named 'None' with state 'ISO-4217' at position (952, 572).
+      StaticText named 'None' with state '© Sergey Galezdinov' at position (952, 610).
+      StaticText named 'None' with state 'PListKit' at position (952, 666).
+      StaticText named 'None' with state '© Steffan Andrews' at position (952, 704).
+      StaticText named 'None' with state 'Sparkle' at position (952, 760).
+      StaticText named 'None' with state '© Andy Matuschak' at position (952, 798).
+      ScrollBar named 'None' with state '0.0' at position (302, 916).
+      ScrollBar named 'None' with state '0.0' at position (1528, 104).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (1448, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Swish' at position (318, 0).

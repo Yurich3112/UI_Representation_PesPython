@@ -1,0 +1,113 @@
+Description for the Timemator application:
+Window named 'Timemator' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Outline named 'None' with state 'None' at position (0, 104).
+        Row named 'None' with state 'None' at position (0, 104).
+          Cell named 'None' with state 'None' at position (20, 104).
+            StaticText named 'None' with state 'Tracking' at position (90, 120).
+            Image named 'None' with state 'None' at position (38, 120).
+        Row named 'None' with state 'None' at position (0, 176).
+          Cell named 'None' with state 'None' at position (20, 176).
+            StaticText named 'None' with state 'Timeline' at position (90, 192).
+            Image named 'None' with state 'None' at position (38, 192).
+        Row named 'None' with state 'None' at position (0, 248).
+          Cell named 'None' with state 'None' at position (20, 248).
+            StaticText named 'None' with state 'Reports' at position (90, 264).
+            Image named 'None' with state 'None' at position (38, 264).
+        Column named 'None' with state 'None' at position (20, 104).
+    StaticText named 'None' with state '00:00:13' at position (114, 1006).
+    StaticText named 'None' with state 'First Task' at position (114, 1044).
+    Splitter named 'None' with state '172.0' at position (344, 104).
+    SplitGroup named 'None' with state 'None' at position (346, 0).
+      SplitGroup named 'None' with state 'None' at position (346, 228).
+        List named 'None' with state 'None' at position (370, 228).
+        Splitter named 'None' with state '257.5' at position (346, 742).
+        ScrollArea named 'None' with state 'None' at position (346, 744).
+          Outline named 'None' with state 'None' at position (346, 744).
+            Row named 'None' with state 'None' at position (346, 744).
+              Cell named 'None' with state 'None' at position (346, 744).
+                StaticText named 'None' with state '0:00' at position (1466, 808).
+                StaticText named 'None' with state '$0.00' at position (1350, 808).
+                StaticText named 'None' with state 'Tuesday, February 6' at position (382, 808).
+                Button named '' with state 'None' at position (762, 810).
+              Cell named 'None' with state 'None' at position (346, 744).
+                StaticText named 'None' with state '0:00' at position (1466, 808).
+                StaticText named 'None' with state '$0.00' at position (1350, 808).
+                StaticText named 'None' with state 'Tuesday, February 6' at position (382, 808).
+                Button named '' with state 'None' at position (762, 810).
+              Cell named 'None' with state 'None' at position (346, 744).
+                StaticText named 'None' with state '0:00' at position (1466, 808).
+                StaticText named 'None' with state '$0.00' at position (1350, 808).
+                StaticText named 'None' with state 'Tuesday, February 6' at position (382, 808).
+                Button named '' with state 'None' at position (762, 810).
+              Cell named 'None' with state 'None' at position (346, 744).
+                StaticText named 'None' with state '0:00' at position (1466, 808).
+                StaticText named 'None' with state '$0.00' at position (1350, 808).
+                StaticText named 'None' with state 'Tuesday, February 6' at position (382, 808).
+                Button named '' with state 'None' at position (762, 810).
+              Cell named 'None' with state 'None' at position (346, 744).
+                StaticText named 'None' with state '0:00' at position (1466, 808).
+                StaticText named 'None' with state '$0.00' at position (1350, 808).
+                StaticText named 'None' with state 'Tuesday, February 6' at position (382, 808).
+                Button named '' with state 'None' at position (762, 810).
+            Row named 'None' with state 'None' at position (346, 880).
+              Cell named 'None' with state 'None' at position (346, 880).
+                StaticText named 'None' with state '19:13' at position (362, 944).
+                StaticText named 'None' with state '19:13' at position (362, 904).
+              Cell named 'None' with state 'None' at position (546, 880).
+                StaticText named 'None' with state '' at position (590, 902).
+                StaticText named 'None' with state 'First Task' at position (590, 918).
+              Cell named 'None' with state 'None' at position (920, 880).
+                Button named '' with state 'None' at position (920, 914).
+              Cell named 'None' with state 'None' at position (1166, 880).
+              Cell named 'None' with state 'None' at position (1466, 880).
+                StaticText named 'None' with state '13' at position (1684, 918).
+                StaticText named 'None' with state '0:00' at position (1656, 918).
+                StaticText named 'None' with state ':' at position (1674, 916).
+            Column named 'None' with state 'None' at position (346, 744).
+            Column named 'None' with state 'None' at position (546, 744).
+            Column named 'None' with state 'None' at position (920, 744).
+            Column named 'None' with state 'None' at position (1166, 744).
+            Column named 'None' with state 'None' at position (1466, 744).
+      Splitter named 'None' with state '710.0' at position (1766, 104).
+      StaticText named 'None' with state 'SUMMARY' at position (2048, 996).
+      StaticText named 'None' with state '0:00' at position (2066, 1028).
+      StaticText named 'None' with state '$0.00' at position (1910, 1028).
+      ScrollArea named 'None' with state 'None' at position (1768, 104).
+        Outline named 'None' with state 'None' at position (1768, 104).
+          Row named 'None' with state 'None' at position (1768, 124).
+            Cell named 'None' with state 'None' at position (1788, 124).
+              StaticText named 'None' with state 'TASKS' at position (1790, 132).
+          Row named 'None' with state 'None' at position (1768, 168).
+            Cell named 'None' with state 'None' at position (1788, 168).
+              StaticText named 'None' with state 'First Task' at position (1844, 180).
+              StaticText named 'None' with state '0:00' at position (2098, 180).
+          Row named 'None' with state 'None' at position (1768, 264).
+            Cell named 'None' with state 'None' at position (1788, 264).
+              StaticText named 'None' with state 'BILLING' at position (1790, 272).
+          Row named 'None' with state 'None' at position (1768, 308).
+            Cell named 'None' with state 'None' at position (1788, 308).
+              Image named 'None' with state 'None' at position (1824, 320).
+              StaticText named 'None' with state 'Paid' at position (1868, 320).
+              StaticText named 'None' with state '0:00' at position (2098, 320).
+          Row named 'None' with state 'None' at position (1768, 364).
+            Cell named 'None' with state 'None' at position (1788, 364).
+              Image named 'None' with state 'None' at position (1824, 376).
+              StaticText named 'None' with state 'Billed' at position (1868, 376).
+              StaticText named 'None' with state '0:00' at position (2098, 376).
+          Row named 'None' with state 'None' at position (1768, 420).
+            Cell named 'None' with state 'None' at position (1788, 420).
+              Image named 'None' with state 'None' at position (1824, 432).
+              StaticText named 'None' with state 'Unbilled' at position (1868, 432).
+              StaticText named 'None' with state '0:00' at position (2098, 432).
+          Row named 'None' with state 'None' at position (1768, 476).
+            Cell named 'None' with state 'None' at position (1788, 476).
+              StaticText named 'None' with state 'Non-billable' at position (1868, 488).
+              StaticText named 'None' with state '0:00' at position (2098, 488).
+          Column named 'None' with state 'None' at position (1788, 104).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (1676, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

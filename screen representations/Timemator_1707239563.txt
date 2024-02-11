@@ -1,0 +1,18 @@
+Description for the Timemator application:
+Window named 'Welcome' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Accessibility API Access' at position (450, 86).
+  StaticText named 'None' with state 'In order to run Auto-tracking or activity tracking, Timemator needs your permission to use your Mac’s Accessibility system. Please follow these steps to activate it.' at position (166, 192).
+  StaticText named 'None' with state 'Click the lock icon to make changes and check the box next to Timemator' at position (86, 1032).
+  Image named 'None' with state 'None' at position (672, 376).
+  StaticText named 'None' with state '3' at position (100, 952).
+  StaticText named 'None' with state 'Click the Privacy tab and
+select Accessibility from the list' at position (86, 754).
+  StaticText named 'None' with state '2' at position (100, 674).
+  StaticText named 'None' with state 'Open System Preferences and
+go to Security & Privacy' at position (86, 480).
+  StaticText named 'None' with state '1' at position (104, 400).
+  Button named 'Open System Preferences' with state 'None' at position (1130, 1242).
+  Button named 'Back' with state 'None' at position (26, 1242).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

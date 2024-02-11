@@ -1,0 +1,148 @@
+Description for the Swish application:
+Window named 'Swish' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Table named 'None' with state 'None' at position (0, 104).
+        Row named 'None' with state 'None' at position (0, 104).
+          Cell named 'None' with state 'None' at position (32, 104).
+            Image named 'None' with state 'None' at position (42, 122).
+            StaticText named 'None' with state 'General' at position (92, 122).
+        Row named 'None' with state 'None' at position (0, 176).
+          Cell named 'None' with state 'None' at position (32, 176).
+            Image named 'None' with state 'None' at position (40, 196).
+            StaticText named 'None' with state 'Windows' at position (92, 194).
+        Row named 'None' with state 'None' at position (0, 248).
+          Cell named 'None' with state 'None' at position (32, 248).
+            Image named 'None' with state 'None' at position (40, 268).
+            StaticText named 'None' with state 'Snapping' at position (92, 266).
+        Row named 'None' with state 'None' at position (0, 320).
+          Cell named 'None' with state 'None' at position (32, 320).
+            Image named 'None' with state 'None' at position (40, 340).
+            StaticText named 'None' with state 'Apps' at position (92, 338).
+        Row named 'None' with state 'None' at position (0, 392).
+          Cell named 'None' with state 'None' at position (32, 392).
+            Image named 'None' with state 'None' at position (40, 412).
+            StaticText named 'None' with state 'Menubar' at position (92, 410).
+        Row named 'None' with state 'None' at position (0, 464).
+          Cell named 'None' with state 'None' at position (32, 464).
+            Image named 'None' with state 'None' at position (38, 482).
+            StaticText named 'None' with state 'Advanced' at position (92, 482).
+        Row named 'None' with state 'None' at position (0, 536).
+          Cell named 'None' with state 'None' at position (32, 536).
+            Image named 'None' with state 'None' at position (44, 556).
+            StaticText named 'None' with state 'About' at position (92, 554).
+        Column named 'None' with state 'None' at position (20, 104).
+    Splitter named 'None' with state '150.0' at position (300, 104).
+    ScrollArea named 'None' with state 'None' at position (302, 104).
+      StaticText named 'None' with state 'Windows' at position (322, 128).
+      StaticText named 'None' with state 'Control basic functionality by swiping and pinching on window titlebars.' at position (322, 210).
+      StaticText named 'None' with state 'Mission Control' at position (322, 282).
+      CheckBox named '' with state '1' at position (540, 280).
+      StaticText named 'None' with state 'Most Window and Snapping gestures also work in Mission Control & App Exposé.' at position (322, 332).
+      StaticText named 'None' with state 'General Modifier' at position (322, 404).
+      Button named '⌃' with state 'None' at position (550, 398).
+      Image named 'None' with state 'None' at position (326, 478).
+      StaticText named 'None' with state 'Quit' at position (386, 484).
+      Image named 'None' with state 'None' at position (610, 492).
+      Image named 'None' with state 'None' at position (586, 492).
+      Image named 'None' with state 'None' at position (722, 492).
+      Image named 'None' with state 'None' at position (700, 492).
+      Image named 'None' with state 'None' at position (674, 492).
+      StaticText named 'None' with state 'Pinch in twice to quit an application.' at position (770, 486).
+      Image named 'None' with state 'None' at position (326, 542).
+      StaticText named 'None' with state 'Close' at position (386, 548).
+      Image named 'None' with state 'None' at position (586, 556).
+      Image named 'None' with state 'None' at position (700, 556).
+      Image named 'None' with state 'None' at position (674, 556).
+      StaticText named 'None' with state 'Pinch in once to close a window.' at position (770, 550).
+      Image named 'None' with state 'None' at position (326, 606).
+      StaticText named 'None' with state 'Minimize' at position (386, 612).
+      Image named 'None' with state 'None' at position (586, 620).
+      Image named 'None' with state 'None' at position (694, 620).
+      Image named 'None' with state 'None' at position (674, 620).
+      StaticText named 'None' with state 'Swipe down once to minimize a window.' at position (770, 614).
+      Image named 'None' with state 'None' at position (326, 670).
+      StaticText named 'None' with state 'Fullscreen' at position (386, 676).
+      Image named 'None' with state 'None' at position (586, 684).
+      Image named 'None' with state 'None' at position (694, 684).
+      Image named 'None' with state 'None' at position (674, 684).
+      StaticText named 'None' with state 'Pinch out or tap, hold and swipe up to enter or exit fullscreen mode.' at position (770, 678).
+      Image named 'None' with state 'None' at position (326, 758).
+      StaticText named 'None' with state 'Hide' at position (386, 766).
+      Image named 'None' with state 'None' at position (612, 772).
+      Image named 'None' with state 'None' at position (586, 772).
+      Image named 'None' with state 'None' at position (700, 772).
+      Image named 'None' with state 'None' at position (674, 772).
+      StaticText named 'None' with state 'Double tap with the general modifier to hide all windows of an application. Use the secondary modifier to hide all other apps.' at position (770, 768).
+      Image named 'None' with state 'None' at position (326, 848).
+      StaticText named 'None' with state 'Spaces' at position (386, 854).
+      Image named 'None' with state 'None' at position (630, 862).
+      Image named 'None' with state 'None' at position (606, 862).
+      Image named 'None' with state 'None' at position (586, 862).
+      Image named 'None' with state 'None' at position (724, 862).
+      Image named 'None' with state 'None' at position (700, 862).
+      Image named 'None' with state 'None' at position (674, 862).
+      StaticText named 'None' with state 'Tap, hold and swipe or use the general modifier to move a window between Mission Control spaces.' at position (770, 856).
+      StaticText named 'None' with state 'Tabs' at position None.
+      StaticText named 'None' with state 'Control tabs in native windows like Finder & Preview as well as the apps selected below.' at position None.
+      StaticText named 'None' with state 'Native' at position None.
+      CheckBox named '' with state '1' at position None.
+      StaticText named 'None' with state 'Safari' at position None.
+      CheckBox named '' with state '1' at position None.
+      StaticText named 'None' with state 'Arc' at position None.
+      CheckBox named '' with state '1' at position None.
+      StaticText named 'None' with state 'Chrome/Edge' at position None.
+      CheckBox named '' with state '1' at position None.
+      StaticText named 'None' with state 'Xcode' at position None.
+      CheckBox named '' with state '1' at position None.
+      StaticText named 'None' with state 'VS Code' at position None.
+      CheckBox named '' with state '1' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Close' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Pinch in to close a tab.' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Detach' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Tap and hold to detach a native tab into a new window. Follow up with any other gesture.' at position None.
+      StaticText named 'None' with state 'Screens' at position None.
+      StaticText named 'None' with state 'Move windows between screens based on their location.' at position None.
+      StaticText named 'None' with state 'Chain Gesture' at position None.
+      CheckBox named '' with state '1' at position None.
+      StaticText named 'None' with state 'Move Cursor' at position None.
+      CheckBox named '' with state '1' at position None.
+      StaticText named 'None' with state 'Control Swish's behaviour after moving windows.' at position None.
+      StaticText named 'None' with state 'Screen Modifier' at position None.
+      Button named '⌘' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Screens' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Swipe up, down, left or right to move a window to the next screen in that direction.' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'Fullscreen' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      Image named 'None' with state 'None' at position None.
+      StaticText named 'None' with state 'On a two screen setup, use the screen modifier or pinch out twice to directly enter fullscreen mode on the other screen.' at position None.
+      ScrollBar named 'None' with state '0.0' at position (302, 916).
+      ScrollBar named 'None' with state '0.0' at position (1528, 104).
+        ValueIndicator named 'None' with state '0.0' at position (1536, 106).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (1536, 514).
+        Button named 'None' with state 'None' at position (1536, 104).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (1448, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Swish' at position (318, 0).

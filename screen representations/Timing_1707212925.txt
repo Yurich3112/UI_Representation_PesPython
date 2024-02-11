@@ -1,0 +1,10 @@
+Description for the Timing application:
+Window named 'Onboarding' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Set it and forget it.' at position (76, 80).
+  StaticText named 'None' with state 'Timing sits in the background, automatically tracking what you do across documents, apps and websites.' at position (76, 214).
+  CheckBox named 'Automatically start background tracking at login' with state '1' at position (76, 370).
+  CheckBox named 'Automatically ask to record time when a video call ends' with state '1' at position (76, 450).
+  StaticText named 'None' with state 'Requires your permission to send notifications.' at position (116, 492).
+  CheckBox named 'Automatically ask what I did whenever I return to my Mac' with state '0' at position (76, 570).
+  Button named 'Back' with state 'None' at position (28, 1212).
+  Button named 'Next' with state 'None' at position (978, 1212).

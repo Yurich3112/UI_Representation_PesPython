@@ -1,0 +1,83 @@
+Description for the TouchRetouch application:
+Window named 'TouchRetouch - 547875140019.jpg' with state 'None' at position (0, 0).
+  ScrollArea named 'None' with state 'None' at position None.
+    Slider named 'None' with state '0.0' at position None.
+      ValueIndicator named 'None' with state '0.0' at position None.
+    StaticText named 'None' with state 'Exposure' at position None.
+    StaticText named 'None' with state '0.00' at position None.
+    Slider named 'None' with state '0.0' at position None.
+      ValueIndicator named 'None' with state '0.0' at position None.
+    StaticText named 'None' with state 'Temperature' at position None.
+    StaticText named 'None' with state '0' at position None.
+    Slider named 'None' with state '0.0' at position None.
+      ValueIndicator named 'None' with state '0.0' at position None.
+    StaticText named 'None' with state 'Tint' at position None.
+    StaticText named 'None' with state '0' at position None.
+    Image named 'None' with state 'None' at position None.
+    StaticText named 'None' with state 'Tone' at position None.
+    Image named 'None' with state 'None' at position None.
+    Slider named 'None' with state '0.0' at position None.
+      ValueIndicator named 'None' with state '0.0' at position None.
+    StaticText named 'None' with state 'Contrast' at position None.
+    StaticText named 'None' with state '0' at position None.
+    Slider named 'None' with state '0.0' at position None.
+      ValueIndicator named 'None' with state '0.0' at position None.
+    StaticText named 'None' with state 'Highlights' at position None.
+    StaticText named 'None' with state '0' at position None.
+    Slider named 'None' with state '0.0' at position None.
+      ValueIndicator named 'None' with state '0.0' at position None.
+    StaticText named 'None' with state 'Shadows' at position None.
+    StaticText named 'None' with state '0' at position None.
+    StaticText named 'None' with state 'Color' at position None.
+    Image named 'None' with state 'None' at position None.
+    Slider named 'None' with state '0.0' at position None.
+      ValueIndicator named 'None' with state '0.0' at position None.
+    StaticText named 'None' with state 'Vibrance' at position None.
+    StaticText named 'None' with state '0' at position None.
+    Slider named 'None' with state '0.0' at position None.
+      ValueIndicator named 'None' with state '0.0' at position None.
+    StaticText named 'None' with state 'Saturation' at position None.
+    StaticText named 'None' with state '0' at position None.
+    Slider named 'None' with state '0.0' at position None.
+      ValueIndicator named 'None' with state '0.0' at position None.
+    StaticText named 'None' with state 'Clarity' at position None.
+    StaticText named 'None' with state '0' at position None.
+    StaticText named 'None' with state 'White balance' at position None.
+  Button named '' with state 'None' at position (1318, 140).
+  Button named '' with state 'None' at position (1180, 140).
+  StaticText named 'None' with state 'Size' at position (1538, 162).
+  Slider named 'None' with state '50.0' at position (1604, 168).
+    ValueIndicator named 'None' with state '50.0' at position (1682, 170).
+  StaticText named 'None' with state '50' at position (1538, 192).
+  Button named '               Mirroring' with state 'None' at position (756, 140).
+  StaticText named 'None' with state 'Hardness' at position (1874, 162).
+  Slider named 'None' with state '20.0' at position (2000, 168).
+    ValueIndicator named 'None' with state '20.0' at position (2016, 170).
+  StaticText named 'None' with state '20%' at position (1874, 192).
+  StaticText named 'None' with state 'Opacity' at position (2270, 162).
+  Slider named 'None' with state '80.0' at position (2374, 168).
+    ValueIndicator named 'None' with state '80.0' at position (2526, 170).
+  StaticText named 'None' with state '80%' at position (2270, 192).
+  Button named 'Open' with state 'None' at position (0, 44).
+  Button named 'History' with state 'None' at position (2720, 44).
+  Button named 'Redo' with state 'None' at position (2580, 44).
+  Button named 'Undo' with state 'None' at position (2440, 44).
+  Button named 'Compare' with state 'None' at position (2300, 44).
+  Button named 'Quick Repair' with state 'None' at position (1358, 44).
+  Button named 'Object Removal_short' with state 'None' at position (1216, 44).
+  Button named 'Line Removal_short' with state 'None' at position (1500, 44).
+  Button named 'Clone Stamp' with state 'None' at position (1642, 44).
+  Button named 'Export' with state 'None' at position (2860, 44).
+  Button named '' with state 'None' at position (844, 74).
+  Slider named 'None' with state '64.0' at position (528, 68).
+    ValueIndicator named 'None' with state '64.0' at position (602, 74).
+  StaticText named 'None' with state '64%' at position (640, 106).
+  Button named '' with state 'None' at position (462, 74).
+  Button named 'Tone & Color' with state 'None' at position (1900, 44).
+  Button named 'Crop' with state 'None' at position (2040, 44).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'TouchRetouch - 547875140019.jpg' at position (1268, 10).

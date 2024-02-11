@@ -1,0 +1,154 @@
+Description for the TextSoap application:
+Window named 'Clipboard Workspace' with state 'None' at position (0, 0).
+  CheckBox named '' with state '1' at position (1994, 200).
+  CheckBox named '' with state '0' at position (1994, 268).
+  PopUpButton named 'None' with state '100%' at position (30, 1512).
+  CheckBox named '' with state '0' at position (166, 1508).
+  CheckBox named '' with state '1' at position (210, 1508).
+  CheckBox named '' with state '1' at position (250, 1508).
+  CheckBox named '' with state '0' at position (300, 1508).
+  StaticText named 'None' with state '' at position (352, 1510).
+  SplitGroup named 'None' with state 'None' at position (0, 160).
+    ScrollArea named 'None' with state 'None' at position (0, 160).
+      TextArea named 'None' with state 'ABSTRACT
+Mobile task automation is an attractive technique that aims
+to enable voice-based hands-free user interaction with smart-
+phones. However, existing approaches suffer from poor scala-
+bility due to the limited language understanding ability and
+the non-trivial manual efforts required from developers or end-
+users. The recent advance of large language models (LLMs)
+in language understanding and reasoning inspires us to re-
+think the problem from a model-centric perspective, where
+task preparation, comprehension, and execution are handled
+by a unified language model. In this work, we introduce Auto-
+Droid, a mobile task automation system that can handle arbi-
+trary tasks on any Android application without manual efforts.
+The key insight is to combine the commonsense knowledge
+of LLMs and domain-specific knowledge of apps through
+automated dynamic analysis. The main components include a
+functionality-aware UI representation method that bridges the
+UI with the LLM, exploration-based memory injection tech-
+niques that augment the app-specific domain knowledge of
+LLM, and a multi-granularity query optimization module that
+reduces the cost of model inference. We integrate AutoDroid
+with off-the-shelf LLMs including online GPT-4/GPT-3.5 and
+on-device Vicuna, and evaluate its performance on a new
+benchmark for memory-augmented Android task automation
+with 158 common tasks. The results demonstrated that Auto-
+Droid is able to precisely generate actions with an accuracy
+of 90.9%, and complete tasks with a success rate of 71.3%,
+outperforming the GPT-4-powered baselines by 36.4% and
+39.7%. The demo, benchmark suites, and source code of
+AutoDroid will be released at https://autodroid-sys.github.io/' at position (0, 194).
+      ScrollBar named 'None' with state '0.1485148514851485' at position (1372, 224).
+        ValueIndicator named 'None' with state '0.1485148514851485' at position (1380, 252).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (1380, 1346).
+        Button named 'None' with state 'None' at position (1380, 224).
+      Ruler named 'None' with state 'None' at position (0, 160).
+        RulerMarker named 'None' with state '0.0' at position (32, 178).
+        RulerMarker named 'None' with state '22.786596119929452' at position (1324, 178).
+        RulerMarker named 'None' with state '0.0' at position (32, 170).
+    Splitter named 'None' with state '702.0' at position (1404, 160).
+    MenuButton named 'Standard' with state 'None' at position (1440, 178).
+    TextField named 'None' with state '' at position (1446, 236).
+      Button named '' with state 'None' at position (1450, 236).
+    ScrollArea named 'None' with state 'None' at position (1406, 298).
+      Table named 'None' with state 'None' at position (1406, 298).
+        Row named 'None' with state 'None' at position (1406, 318).
+          Cell named 'None' with state 'None' at position (1438, 318).
+            Button named 'Scrub' with state 'None' at position (1478, 320).
+        Row named 'None' with state 'None' at position (1406, 368).
+          Cell named 'None' with state 'None' at position (1438, 368).
+            Button named 'MyScrub' with state 'None' at position (1478, 370).
+        Row named 'None' with state 'None' at position (1406, 420).
+          Cell named 'None' with state 'None' at position (1438, 420).
+            Button named 'Remove Extra Spaces' with state 'None' at position (1478, 422).
+        Row named 'None' with state 'None' at position (1406, 472).
+          Cell named 'None' with state 'None' at position (1438, 472).
+            Button named 'Remove Forwarding (>) Characters' with state 'None' at position (1478, 474).
+        Row named 'None' with state 'None' at position (1406, 524).
+          Cell named 'None' with state 'None' at position (1438, 524).
+            Button named 'Remove All Tabs' with state 'None' at position (1478, 526).
+        Row named 'None' with state 'None' at position (1406, 574).
+          Cell named 'None' with state 'None' at position (1438, 574).
+            Button named 'Make Paragraphs' with state 'None' at position (1478, 576).
+        Row named 'None' with state 'None' at position (1406, 626).
+          Cell named 'None' with state 'None' at position (1438, 626).
+            Button named 'Remove Extra Returns' with state 'None' at position (1478, 628).
+        Row named 'None' with state 'None' at position (1406, 678).
+          Cell named 'None' with state 'None' at position (1438, 678).
+            Button named 'Uppercase' with state 'None' at position (1478, 680).
+        Row named 'None' with state 'None' at position (1406, 730).
+          Cell named 'None' with state 'None' at position (1438, 730).
+            Button named 'Lowercase' with state 'None' at position (1478, 732).
+        Row named 'None' with state 'None' at position (1406, 780).
+          Cell named 'None' with state 'None' at position (1438, 780).
+            Button named 'Capitalize Sentences' with state 'None' at position (1478, 782).
+        Row named 'None' with state 'None' at position (1406, 832).
+          Cell named 'None' with state 'None' at position (1438, 832).
+            Button named 'Capitalize with Title Case' with state 'None' at position (1478, 834).
+        Row named 'None' with state 'None' at position (1406, 884).
+          Cell named 'None' with state 'None' at position (1438, 884).
+            Button named 'Capitalize Words' with state 'None' at position (1478, 886).
+        Row named 'None' with state 'None' at position (1406, 936).
+          Cell named 'None' with state 'None' at position (1438, 936).
+            Button named 'Capitalize Common Tech Names' with state 'None' at position (1478, 938).
+        Row named 'None' with state 'None' at position (1406, 986).
+          Cell named 'None' with state 'None' at position (1438, 986).
+        Row named 'None' with state 'None' at position (1406, 1008).
+          Cell named 'None' with state 'None' at position (1438, 1008).
+            Button named 'Straighten Quotes' with state 'None' at position (1478, 1010).
+        Row named 'None' with state 'None' at position (1406, 1060).
+          Cell named 'None' with state 'None' at position (1438, 1060).
+            Button named 'Smarten Quotes' with state 'None' at position (1478, 1062).
+        Row named 'None' with state 'None' at position (1406, 1112).
+          Cell named 'None' with state 'None' at position (1438, 1112).
+            Button named 'Extract Text from HTML Source' with state 'None' at position (1478, 1114).
+        Row named 'None' with state 'None' at position (1406, 1162).
+          Cell named 'None' with state 'None' at position (1438, 1162).
+            Button named 'Rewrap Text' with state 'None' at position (1478, 1164).
+        Row named 'None' with state 'None' at position (1406, 1214).
+          Cell named 'None' with state 'None' at position (1438, 1214).
+            Button named 'Quote Text' with state 'None' at position (1478, 1216).
+        Row named 'None' with state 'None' at position (1406, 1266).
+          Cell named 'None' with state 'None' at position (1438, 1266).
+            Button named 'Internet Friendly Text' with state 'None' at position (1478, 1268).
+        Row named 'None' with state 'None' at position (1406, 1358).
+          Cell named 'None' with state 'None' at position (1406, 1358).
+            StaticText named 'None' with state 'CUSTOM' at position (1454, 1366).
+        Column named 'None' with state 'None' at position (1426, 298).
+  Toolbar named 'None' with state 'None' at position (0, 104).
+    MenuButton named '¶' with state 'None' at position (14, 112).
+    PopUpButton named 'None' with state 'Helvetica Neue' at position (112, 112).
+    PopUpButton named 'None' with state 'Regular' at position (322, 112).
+    ComboBox named 'None' with state '20' at position (532, 112).
+      Button named '' with state 'None' at position (584, 112).
+    ColorWell named 'None' with state 'rgb 0.28235 0.28235 0.28235 1' at position (652, 112).
+      Button named '' with state 'None' at position (652, 112).
+    ColorWell named 'None' with state 'rgb 0 0 0 0' at position (706, 112).
+      Button named '' with state 'None' at position (706, 112).
+    Group named 'None' with state 'None' at position (780, 112).
+      CheckBox named 'None' with state '0' at position (780, 112).
+      CheckBox named 'None' with state '0' at position (824, 112).
+      CheckBox named 'None' with state '0' at position (866, 112).
+    RadioGroup named 'None' with state '<AXUIElement 0x133fcf6b0> {pid=21088}' at position (938, 112).
+      RadioButton named 'None' with state '1' at position (938, 112).
+      RadioButton named 'None' with state '0' at position (982, 112).
+      RadioButton named 'None' with state '0' at position (1024, 112).
+      RadioButton named 'None' with state '0' at position (1066, 112).
+    PopUpButton named 'None' with state '1.0' at position (1138, 112).
+    MenuButton named '' with state 'None' at position (1230, 112).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'MyScrub' with state 'None' at position (1182, 0).
+    Button named 'Copy' with state 'None' at position (1352, 0).
+    Button named 'Paste' with state 'None' at position (1448, 0).
+    Button named 'Copy All' with state 'None' at position (1592, 0).
+    Button named 'Paste Over' with state 'None' at position (1708, 0).
+    Button named 'MyLibrary' with state 'None' at position (1898, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Clipboard Workspace' at position (174, 0).

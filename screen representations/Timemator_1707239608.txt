@@ -1,0 +1,62 @@
+Description for the Timemator application:
+Window named 'Timemator' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Outline named 'None' with state 'None' at position (0, 104).
+        Row named 'None' with state 'None' at position (0, 104).
+          Cell named 'None' with state 'None' at position (20, 104).
+            StaticText named 'None' with state 'Tracking' at position (90, 120).
+            Image named 'None' with state 'None' at position (38, 120).
+        Row named 'None' with state 'None' at position (0, 176).
+          Cell named 'None' with state 'None' at position (20, 176).
+            StaticText named 'None' with state 'Timeline' at position (90, 192).
+            Image named 'None' with state 'None' at position (38, 192).
+        Row named 'None' with state 'None' at position (0, 248).
+          Cell named 'None' with state 'None' at position (20, 248).
+            StaticText named 'None' with state 'Reports' at position (90, 264).
+            Image named 'None' with state 'None' at position (38, 264).
+        Column named 'None' with state 'None' at position (20, 104).
+    StaticText named 'None' with state '00:00:13' at position (114, 1006).
+    StaticText named 'None' with state 'First Task' at position (114, 1044).
+    Splitter named 'None' with state '172.0' at position (344, 104).
+    StaticText named 'None' with state '$0.00' at position (1940, 142).
+    StaticText named 'None' with state '0:00' at position (2078, 142).
+    ScrollArea named 'None' with state 'None' at position (346, 282).
+      Unknown named 'None' with state 'None' at position (346, 0).
+        StaticText named 'None' with state '' at position None.
+        StaticText named 'None' with state '01:00' at position None.
+        StaticText named 'None' with state '16:00' at position (386, 574).
+        StaticText named 'None' with state '12:00' at position (386, 190).
+        StaticText named 'None' with state '19:00' at position (386, 862).
+        StaticText named 'None' with state '09:00' at position None.
+        StaticText named 'None' with state '00:00' at position None.
+        StaticText named 'None' with state '03:00' at position None.
+        StaticText named 'None' with state '07:00' at position None.
+        StaticText named 'None' with state '14:00' at position (386, 382).
+        StaticText named 'None' with state '22:00' at position None.
+        StaticText named 'None' with state '18:00' at position (386, 766).
+        StaticText named 'None' with state '05:00' at position None.
+        StaticText named 'None' with state '15:00' at position (386, 478).
+        StaticText named 'None' with state '13:00' at position (386, 286).
+        StaticText named 'None' with state '11:00' at position (390, 94).
+        StaticText named 'None' with state '20:00' at position (382, 958).
+        StaticText named 'None' with state '17:00' at position (388, 670).
+        StaticText named 'None' with state '21:00' at position (386, 1054).
+        StaticText named 'None' with state '23:00' at position None.
+        StaticText named 'None' with state '02:00' at position None.
+        StaticText named 'None' with state '06:00' at position None.
+        StaticText named 'None' with state '08:00' at position None.
+        StaticText named 'None' with state '04:00' at position None.
+        StaticText named 'None' with state '10:00' at position (386, 0).
+      ScrollBar named 'None' with state '0.8315579227696405' at position (2156, 282).
+        ValueIndicator named 'None' with state '0.8315579227696405' at position (2164, 722).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (2164, 1012).
+        Button named 'None' with state 'None' at position (2164, 282).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (2010, 0).
+    Button named 'None' with state 'None' at position (2098, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

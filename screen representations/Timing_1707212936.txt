@@ -1,0 +1,10 @@
+Description for the Timing application:
+Window named 'Onboarding' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Get a complete picture of your time.' at position (76, 80).
+  StaticText named 'None' with state 'Categorize your activities:' at position (76, 300).
+  StaticText named 'None' with state 'Use drag and drop to assign times to a project.' at position (428, 480).
+  StaticText named 'None' with state 'Keep the ⌥ key pressed to have Timing automate these assignments for you.
+The more you do this, the more time you’ll save in the future.' at position (428, 682).
+  StaticText named 'None' with state 'Create new projects by pressing the ‘+’ button.' at position (428, 960).
+  Button named 'Back' with state 'None' at position (28, 1212).
+  Button named 'Next' with state 'None' at position (978, 1212).

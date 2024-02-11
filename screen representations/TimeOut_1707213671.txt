@@ -1,0 +1,16 @@
+Description for the TimeOut application:
+Window named 'Welcome' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Welcome to Time Out' at position (320, 40).
+  StaticText named 'None' with state 'Time Out helps you stay or get healthy by taking regular breaks.  It comes with two suggested kinds of breaks.  You can always change them or add more later.' at position (40, 156).
+  StaticText named 'None' with state '“Micro” breaks are very brief and frequent breaks between Normal breaks.  You should sit back, un-tense your muscles, and look around the room to change your eye focus level.' at position (40, 650).
+  CheckBox named 'Include a Normal break' with state '1' at position (40, 384).
+  StaticText named 'None' with state '“Normal” breaks are the main rest opportunities throughout the day.  You should stand up and move around if possible, or at least sit back from your computer; change your eye focus level and relax your muscles.' at position (40, 260).
+  StaticText named 'None' with state 'How often do you want the breaks to occur?' at position (80, 506).
+  CheckBox named 'Include a Micro break' with state '1' at position (40, 742).
+  StaticText named 'None' with state 'How long do you want this break to last?' at position (80, 806).
+  StaticText named 'None' with state 'How often do you want the breaks to occur?' at position (80, 864).
+  StaticText named 'None' with state 'How long do you want this break to last?' at position (80, 448).
+  StaticText named 'None' with state 'Click Skip to close this setup assistant and set things up manually, or Continue the setup.  (You can always come back to this later if you wish.)' at position (40, 936).
+  StaticText named 'None' with state '(Want less than an hour?  No problem: select the units and use up/down arrows, or type, or click again to show a menu.)' at position (80, 554).
+  Button named 'Skip' with state 'None' at position (26, 1062).
+  Button named 'Continue' with state 'None' at position (1024, 1062).

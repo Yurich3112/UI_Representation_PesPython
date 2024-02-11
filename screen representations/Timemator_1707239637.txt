@@ -1,0 +1,49 @@
+Description for the Timemator application:
+Window named 'Timemator' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    ScrollArea named 'None' with state 'None' at position (0, 104).
+      Outline named 'None' with state 'None' at position (0, 104).
+        Row named 'None' with state 'None' at position (0, 104).
+          Cell named 'None' with state 'None' at position (20, 104).
+            StaticText named 'None' with state 'Tracking' at position (90, 120).
+            Image named 'None' with state 'None' at position (38, 120).
+        Row named 'None' with state 'None' at position (0, 176).
+          Cell named 'None' with state 'None' at position (20, 176).
+            StaticText named 'None' with state 'Timeline' at position (90, 192).
+            Image named 'None' with state 'None' at position (38, 192).
+        Row named 'None' with state 'None' at position (0, 248).
+          Cell named 'None' with state 'None' at position (20, 248).
+            StaticText named 'None' with state 'Reports' at position (90, 264).
+            Image named 'None' with state 'None' at position (38, 264).
+        Column named 'None' with state 'None' at position (20, 104).
+    StaticText named 'None' with state '00:00:13' at position (114, 1006).
+    StaticText named 'None' with state 'First Task' at position (114, 1044).
+    Splitter named 'None' with state '172.0' at position (344, 104).
+    SplitGroup named 'None' with state 'None' at position (346, 0).
+      ScrollArea named 'None' with state 'None' at position (346, 104).
+        Outline named 'None' with state 'None' at position (346, 104).
+          Column named 'None' with state 'None' at position (366, 104).
+      StaticText named 'None' with state 'Your archived tasks and folders
+will be listed here' at position (444, 494).
+      Splitter named 'None' with state '320.0' at position (986, 104).
+      ScrollArea named 'None' with state 'None' at position (988, 104).
+        Outline named 'None' with state 'None' at position (988, 104).
+          Column named 'None' with state 'None' at position (988, 104).
+          Column named 'None' with state 'None' at position (1188, 104).
+          Column named 'None' with state 'None' at position (1452, 104).
+          Column named 'None' with state 'None' at position (1588, 104).
+          Column named 'None' with state 'None' at position (1888, 104).
+      StaticText named 'None' with state 'No time entries found' at position (1382, 458).
+      StaticText named 'None' with state 'Add a time entry or start the timer' at position (1380, 514).
+      Button named '' with state 'None' at position (1322, 510).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    MenuButton named 'None' with state 'None' at position (858, 0).
+      MenuButton named '' with state 'None' at position (856, 12).
+    Group named 'None' with state 'None' at position (1004, 0).
+      StaticText named 'None' with state 'Archived Time Entries' at position (1008, 20).
+      StaticText named 'None' with state 'last 30 days' at position (1008, 56).
+    Button named 'None' with state 'None' at position (2014, 0).
+    Button named 'None' with state 'None' at position (2098, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

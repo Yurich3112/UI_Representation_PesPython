@@ -1,0 +1,106 @@
+Description for the TimeOut application:
+Window named 'Time Out' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    Button named '' with state 'None' at position (310, 12).
+    Button named '' with state 'None' at position (378, 12).
+    Button named '' with state 'None' at position (464, 12).
+    Button named '' with state 'None' at position (556, 12).
+    ScrollArea named 'None' with state 'None' at position (0, 70).
+      Outline named 'None' with state 'None' at position (0, 70).
+        Row named 'None' with state 'None' at position (0, 90).
+          Cell named 'None' with state 'None' at position (20, 90).
+            Image named 'None' with state 'None' at position (38, 102).
+            StaticText named 'None' with state 'Activity' at position (80, 102).
+        Row named 'None' with state 'None' at position (0, 174).
+          Cell named 'None' with state 'None' at position (20, 174).
+            StaticText named 'None' with state 'Breaks' at position (28, 186).
+        Row named 'None' with state 'None' at position (0, 228).
+          Cell named 'None' with state 'None' at position (20, 228).
+            Image named 'None' with state 'None' at position (38, 244).
+            StaticText named 'None' with state 'Normal' at position (82, 242).
+            StaticText named 'None' with state '' at position (604, 242).
+            StaticText named 'None' with state 'due in 49 min, 14 secs' at position (82, 280).
+            StaticText named 'None' with state 'new break' at position (82, 308).
+            StaticText named 'None' with state 'click to configure break' at position (82, 336).
+            Button named 'Start' with state 'None' at position (436, 240).
+            Button named 'Options' with state 'None' at position (436, 308).
+        Row named 'None' with state 'None' at position (0, 380).
+          Cell named 'None' with state 'None' at position (20, 380).
+            Image named 'None' with state 'None' at position (38, 396).
+            StaticText named 'None' with state 'Micro' at position (82, 394).
+            StaticText named 'None' with state '' at position (604, 394).
+            StaticText named 'None' with state 'due in 13 min, 59 secs' at position (82, 432).
+            StaticText named 'None' with state 'new break' at position (82, 460).
+            StaticText named 'None' with state 'click to configure break' at position (82, 488).
+            Button named 'Start' with state 'None' at position (436, 392).
+            Button named 'Options' with state 'None' at position (436, 460).
+        Row named 'None' with state 'None' at position (0, 558).
+          Cell named 'None' with state 'None' at position (20, 558).
+            StaticText named 'None' with state 'Options' at position (28, 570).
+        Row named 'None' with state 'None' at position (0, 612).
+          Cell named 'None' with state 'None' at position (20, 612).
+            Image named 'None' with state 'None' at position (38, 624).
+            StaticText named 'None' with state 'General' at position (80, 624).
+        Row named 'None' with state 'None' at position (0, 670).
+          Cell named 'None' with state 'None' at position (20, 670).
+            Image named 'None' with state 'None' at position (38, 682).
+            StaticText named 'None' with state 'Shortcuts' at position (80, 682).
+        Row named 'None' with state 'None' at position (0, 728).
+          Cell named 'None' with state 'None' at position (20, 728).
+            Image named 'None' with state 'None' at position (38, 740).
+            StaticText named 'None' with state 'Exclusions' at position (80, 740).
+        Row named 'None' with state 'None' at position (0, 786).
+          Cell named 'None' with state 'None' at position (20, 786).
+            Image named 'None' with state 'None' at position (38, 798).
+            StaticText named 'None' with state 'Updates' at position (80, 798).
+        Row named 'None' with state 'None' at position (0, 844).
+          Cell named 'None' with state 'None' at position (20, 844).
+            Image named 'None' with state 'None' at position (38, 856).
+            StaticText named 'None' with state 'Advanced' at position (80, 856).
+        Column named 'None' with state 'None' at position (20, 70).
+    Splitter named 'None' with state '322.0' at position (644, 56).
+    CheckBox named 'Name' with state '0' at position (872, 16).
+    CheckBox named 'Schedule' with state '0' at position (986, 16).
+    CheckBox named 'Appearance' with state '1' at position (1144, 16).
+    CheckBox named 'Actions' with state '0' at position (1334, 16).
+    PopUpButton named 'None' with state 'Icon' at position (916, 108).
+    Button named 'Preview' with state 'None' at position (1446, 100).
+    StaticText named 'None' with state 'Theme:' at position (812, 112).
+    StaticText named 'None' with state 'Background color:' at position (682, 260).
+    TextField named 'None' with state '75' at position (1364, 256).
+    StaticText named 'None' with state 'Opacity:' at position (1066, 260).
+    StaticText named 'None' with state '%' at position (1446, 258).
+    Slider named 'None' with state '75.0' at position (1184, 254).
+      ValueIndicator named 'None' with state '75.0' at position (1274, 254).
+    CheckBox named 'Show button to skip break' with state '1' at position (918, 698).
+    StaticText named 'None' with state 'minutes' at position (1368, 640).
+    TextField named 'None' with state '10' at position (1292, 636).
+    StaticText named 'None' with state 'minutes' at position (1368, 580).
+    TextField named 'None' with state '5' at position (1292, 576).
+    CheckBox named 'Show button to postpone' with state '1' at position (918, 638).
+    CheckBox named 'Show button to postpone' with state '1' at position (918, 578).
+    StaticText named 'None' with state 'seconds' at position (992, 402).
+    StaticText named 'None' with state 'Fade in over:' at position (748, 402).
+    TextField named 'None' with state '10' at position (922, 398).
+    StaticText named 'None' with state 'seconds' at position (992, 456).
+    StaticText named 'None' with state 'Fade out over:' at position (730, 456).
+    TextField named 'None' with state '10' at position (922, 452).
+    Button named '' with state 'None' at position (1274, 110).
+    StaticText named 'None' with state 'Break controls:' at position (720, 580).
+    StaticText named 'None' with state 'times per day' at position (1368, 1036).
+    TextField named 'None' with state '10' at position (1292, 1032).
+    TextField named 'None' with state '10' at position (1292, 972).
+    CheckBox named 'Limit skip no more than' with state '0' at position (918, 1034).
+    CheckBox named 'Postpone no more than' with state '0' at position (918, 974).
+    StaticText named 'None' with state 'Control limits:' at position (734, 976).
+    StaticText named 'None' with state 'times per day' at position (1368, 976).
+    CheckBox named 'Show number of times postponed/skipped/done today' with state '0' at position (918, 896).
+    StaticText named 'None' with state 'seconds' at position (1368, 838).
+    TextField named 'None' with state '15' at position (1292, 834).
+    CheckBox named 'Disable the buttons for' with state '0' at position (918, 836).
+    StaticText named 'None' with state 'Mindfulness:' at position (748, 838).
+    CheckBox named 'Show button to end early' with state '0' at position (918, 758).
+    StaticText named 'None' with state 'after start' at position (1498, 760).
+  Button named 'None' with state 'None' at position (20, 24).
+  Button named 'None' with state 'None' at position (100, 24).
+  Button named 'None' with state 'None' at position (60, 24).

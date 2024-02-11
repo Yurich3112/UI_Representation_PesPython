@@ -1,0 +1,227 @@
+Description for the VSCode application:
+Window named 'Visual Studio Code' with state 'None' at position (0, 0).
+  Group named '' with state '' at position (0, 0).
+    Group named '' with state '' at position (0, 0).
+      Group named '' with state '' at position (0, 0).
+        Group named '' with state '' at position (0, 0).
+          WebArea named 'Visual Studio Code' with state '' at position (0, 0).
+            Group named '' with state '' at position (0, 0).
+              Group named '' with state '' at position (0, 0).
+                Group named '' with state '' at position (0, 0).
+                  Group named '' with state '' at position (0, 0).
+                    Group named '' with state '' at position (0, 0).
+                      Group named '' with state '' at position (0, 66).
+                      Group named '' with state '' at position (0, 66).
+                      Group named '' with state '' at position (0, 1488).
+                    Group named '' with state '' at position (0, 0).
+                      Group named '' with state '' at position (0, 0).
+                        Group named '' with state '' at position (0, 0).
+                          Group named '' with state '' at position (0, 0).
+                          Group named '' with state '' at position (574, 12).
+                            Toolbar named '' with state '' at position (574, 12).
+                              Button named '' with state '' at position (574, 14).
+                                Group named '' with state '' at position (580, 20).
+                                  StaticText named '' with state '' at position (580, 20).
+                              Button named '' with state '' at position (626, 14).
+                                Group named '' with state '' at position (632, 20).
+                                  StaticText named '' with state '' at position (632, 20).
+                              Group named '' with state '' at position (1026, 22).
+                                StaticText named '' with state '' at position (1026, 22).
+                              StaticText named '' with state 'Search' at position (1064, 22).
+                          Group named '' with state '' at position (1828, 0).
+                            Toolbar named '' with state '' at position (1828, 0).
+                              CheckBox named '' with state '' at position (1828, 14).
+                                Group named '' with state '' at position (1834, 20).
+                                  StaticText named '' with state '' at position (1834, 20).
+                              CheckBox named '' with state '' at position (1880, 14).
+                                Group named '' with state '' at position (1886, 20).
+                                  StaticText named '' with state '' at position (1886, 20).
+                              CheckBox named '' with state '' at position (1932, 14).
+                                Group named '' with state '' at position (1938, 20).
+                                  StaticText named '' with state '' at position (1938, 20).
+                              Button named '' with state '' at position (1984, 14).
+                                Group named '' with state '' at position (1990, 20).
+                                  StaticText named '' with state '' at position (1990, 20).
+                      Group named '' with state '' at position (0, 70).
+                        Group named '' with state '' at position (0, 70).
+                          Group named '' with state '' at position (0, 70).
+                            Group named '' with state '' at position (92, 70).
+                            Group named '' with state '' at position (632, 70).
+                            Group named '' with state '' at position (2044, 70).
+                          Group named '' with state '' at position (0, 70).
+                            Group named '' with state '' at position (0, 70).
+                              Group named '' with state '' at position (0, 70).
+                                TabGroup named '' with state '' at position (0, 70).
+                                  RadioButton named 'Explorer (⇧⌘E)' with state '1' at position (0, 70).
+                                    Group named '' with state '' at position (0, 70).
+                                      Group named '' with state '' at position (24, 94).
+                                        StaticText named '' with state '' at position (24, 94).
+                                    Group named '' with state '' at position (0, 70).
+                                  RadioButton named 'Search (⇧⌘F)' with state '0' at position (0, 166).
+                                    Group named '' with state '' at position (0, 166).
+                                      Group named '' with state '' at position (24, 190).
+                                        StaticText named '' with state '' at position (24, 190).
+                                    Group named '' with state '' at position (0, 166).
+                                  RadioButton named 'Source Control (⌃⇧G)' with state '0' at position (0, 262).
+                                    Group named '' with state '' at position (0, 262).
+                                      Group named '' with state '' at position (24, 286).
+                                        StaticText named '' with state '' at position (24, 286).
+                                    Group named '' with state '' at position (0, 262).
+                                  RadioButton named 'Run and Debug (⇧⌘D)' with state '0' at position (0, 358).
+                                    Group named '' with state '' at position (0, 358).
+                                      Group named '' with state '' at position (24, 382).
+                                        StaticText named '' with state '' at position (24, 382).
+                                    Group named '' with state '' at position (0, 358).
+                                  RadioButton named 'Extensions (⇧⌘X)' with state '0' at position (0, 454).
+                                    Group named '' with state '' at position (0, 454).
+                                      Group named '' with state '' at position (24, 478).
+                                        StaticText named '' with state '' at position (24, 478).
+                                    Group named '' with state '' at position (0, 454).
+                              Group named '' with state '' at position (0, 1300).
+                                Toolbar named '' with state '' at position (0, 1300).
+                                  PopUpButton named '' with state '' at position (0, 1300).
+                                    Group named '' with state '' at position (0, 1300).
+                                      Group named '' with state '' at position (24, 1324).
+                                        StaticText named '' with state '' at position (24, 1324).
+                                    Group named '' with state '' at position (0, 1300).
+                                      Group named '' with state '' at position (48, 1348).
+                                        StaticText named '' with state '1' at position (60, 1354).
+                                    Group named '' with state '' at position (0, 1300).
+                                  PopUpButton named '' with state '' at position (0, 1396).
+                                    Group named '' with state '' at position (0, 1396).
+                                      Group named '' with state '' at position (24, 1420).
+                                        StaticText named '' with state '' at position (24, 1420).
+                                    Group named '' with state '' at position (0, 1396).
+                            Group named '' with state '' at position (96, 70).
+                              Group named '' with state '' at position (96, 70).
+                                Group named '' with state '' at position (112, 70).
+                                  Heading named 'EXPLORER' with state '' at position (136, 70).
+                                    StaticText named '' with state 'EXPLORER' at position (136, 92).
+                                Group named '' with state '' at position (568, 84).
+                                  Group named '' with state '' at position (568, 84).
+                                    PopUpButton named '' with state '' at position (568, 84).
+                              Group named '' with state '' at position (96, 140).
+                                Group named '' with state '' at position (96, 140).
+                                  Group named '' with state '' at position (96, 140).
+                                    Group named '' with state '' at position (96, 180).
+                                    Group named '' with state '' at position (96, 1400).
+                                    Group named '' with state '' at position (96, 1444).
+                                  Group named '' with state '' at position (96, 140).
+                                    Group named '' with state '' at position (96, 140).
+                                      Group named '' with state '' at position (96, 140).
+                                        Button named '' with state '' at position (96, 140).
+                                          Group named '' with state '' at position (100, 146).
+                                            StaticText named '' with state '' at position (100, 146).
+                                          Heading named 'OPEN EDITORS' with state '' at position (136, 140).
+                                            StaticText named '' with state 'OPEN EDITORS' at position (136, 150).
+                                        Group named '' with state '' at position None.
+                                          List named '' with state '' at position None.
+                                            Group named '' with state '' at position None.
+                                    Group named '' with state '' at position (96, 184).
+                                      Group named '' with state '' at position (96, 184).
+                                        Button named '' with state '' at position (96, 184).
+                                          Group named '' with state '' at position (100, 190).
+                                            StaticText named '' with state '' at position (100, 190).
+                                          Heading named 'NO FOLDER OPENED' with state '' at position (136, 184).
+                                            StaticText named '' with state 'NO FOLDER OPENED' at position (136, 194).
+                                        Group named '' with state '' at position (96, 228).
+                                          Group named '' with state '' at position (96, 228).
+                                            Group named '' with state '' at position (136, 254).
+                                              StaticText named '' with state 'You have not yet opened a folder.' at position (136, 258).
+                                            Button named 'Open Folder' with state '' at position (136, 316).
+                                            Group named '' with state '' at position (136, 398).
+                                              StaticText named '' with state 'You can clone a repository locally.' at position (136, 402).
+                                            Button named 'Clone Repository' with state '' at position (136, 460).
+                                            Group named '' with state '' at position (136, 542).
+                                              StaticText named '' with state 'To learn more about how to use git and source control in VS Code ' at position (136, 546).
+                                              Button named 'read our docs' with state '' at position (136, 582).
+                                              StaticText named '' with state '.' at position (242, 618).
+                                    Group named '' with state '' at position (96, 1404).
+                                      Group named '' with state '' at position (96, 1404).
+                                        Button named '' with state '' at position (96, 1404).
+                                          Group named '' with state '' at position (100, 1410).
+                                            StaticText named '' with state '' at position (100, 1410).
+                                          Heading named 'OUTLINE' with state '' at position (136, 1404).
+                                            StaticText named '' with state 'OUTLINE' at position (136, 1414).
+                                    Group named '' with state '' at position (96, 1448).
+                                      Group named '' with state '' at position (96, 1448).
+                                        Button named '' with state '' at position (96, 1448).
+                                          Group named '' with state '' at position (100, 1454).
+                                            StaticText named '' with state '' at position (100, 1454).
+                                          Heading named 'TIMELINE' with state '' at position (136, 1448).
+                                            StaticText named '' with state 'TIMELINE' at position (136, 1458).
+                            Group named '' with state '' at position (636, 70).
+                              Group named '' with state '' at position (636, 70).
+                                Group named '' with state '' at position (636, 70).
+                                  Group named '' with state '' at position (636, 1488).
+                                    Group named '' with state '' at position (628, 1484).
+                                Group named '' with state '' at position (636, 70).
+                                  Group named '' with state '' at position (636, 70).
+                                    Group named '' with state '' at position (636, 70).
+                                      Group named '' with state '' at position (636, 70).
+                                        Group named '' with state '' at position (636, 70).
+                                          Group named '' with state '' at position (636, 70).
+                                            Group named '' with state '' at position (636, 70).
+                                            Group named '' with state '' at position (636, 70).
+                                              Group named '' with state '' at position (636, 70).
+                                                Group named '' with state '' at position (636, 70).
+                                                  Group named '' with state '' at position (1094, 914).
+                                                    Group named '' with state '' at position (1094, 914).
+                                                      List named '' with state '' at position (1116, 948).
+                                                        Group named '' with state '' at position (1116, 948).
+                                                          StaticText named '' with state 'Show All Commands' at position (1136, 950).
+                                                        Group named '' with state '' at position (1424, 948).
+                                                          Group named '' with state '' at position (1424, 948).
+                                                            StaticText named '' with state '⇧' at position (1436, 952).
+                                                            StaticText named '' with state '⌘' at position (1490, 952).
+                                                            StaticText named '' with state 'P' at position (1542, 952).
+                                                      List named '' with state '' at position (1116, 1018).
+                                                        Group named '' with state '' at position (1116, 1018).
+                                                          StaticText named '' with state 'Open File or Folder' at position (1152, 1020).
+                                                        Group named '' with state '' at position (1424, 1018).
+                                                          Group named '' with state '' at position (1424, 1018).
+                                                            StaticText named '' with state '⌘' at position (1436, 1022).
+                                                            StaticText named '' with state 'O' at position (1488, 1022).
+                                                      List named '' with state '' at position (1116, 1088).
+                                                        Group named '' with state '' at position (1116, 1088).
+                                                          StaticText named '' with state 'Open Recent' at position (1234, 1092).
+                                                        Group named '' with state '' at position (1424, 1088).
+                                                          Group named '' with state '' at position (1424, 1088).
+                                                            StaticText named '' with state '⌃' at position (1436, 1094).
+                                                            StaticText named '' with state 'R' at position (1488, 1094).
+                                                      List named '' with state '' at position (1116, 1158).
+                                                        Group named '' with state '' at position (1116, 1158).
+                                                          StaticText named '' with state 'New Untitled Text File' at position (1116, 1162).
+                                                        Group named '' with state '' at position (1424, 1158).
+                                                          Group named '' with state '' at position (1424, 1158).
+                                                            StaticText named '' with state '⌘' at position (1436, 1164).
+                                                            StaticText named '' with state 'N' at position (1488, 1164).
+                      Group named '' with state '' at position (0, 1492).
+                        Group named '' with state '' at position (0, 1492).
+                          Group named '' with state '' at position (0, 1492).
+                            Button named '' with state '' at position (0, 1492).
+                          Group named '' with state '' at position (68, 1492).
+                            Button named '' with state '' at position (74, 1492).
+                              StaticText named '' with state '' at position (84, 1500).
+                              StaticText named '' with state ' 0 ' at position (112, 1500).
+                              StaticText named '' with state '' at position (140, 1500).
+                              StaticText named '' with state ' 0' at position (168, 1500).
+                          Group named '' with state '' at position (206, 1492).
+                            Button named '' with state '' at position (212, 1492).
+                              StaticText named '' with state '' at position (222, 1500).
+                              StaticText named '' with state ' 0' at position (250, 1500).
+                          Group named '' with state '' at position (1974, 1492).
+                            Button named '' with state '' at position (1980, 1492).
+                          Group named '' with state '' at position (1914, 1492).
+                            Button named '' with state '' at position (1920, 1492).
+                Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                    StaticText named '' with state 'Warning: Your GitHub token is invalid. Please sign out from your GitHub account using VSCode UI and try again.' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+                  Group named '' with state '' at position None.
+  Button named 'None' with state 'None' at position (20, 20).
+  Button named 'None' with state 'None' at position (100, 20).
+    Group named 'None' with state 'None' at position (100, 20).
+      Group named 'None' with state 'None' at position (100, 20).
+  Button named 'None' with state 'None' at position (60, 20).

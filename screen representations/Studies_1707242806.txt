@@ -1,0 +1,110 @@
+Description for the Studies application:
+Window named 'Studies' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 104).
+    Splitter named 'None' with state '0.0' at position (0, 104).
+    ScrollArea named 'None' with state 'None' at position (0, 182).
+      Grid named 'None' with state 'None' at position (0, 182).
+        Unknown named 'None' with state 'None' at position (0, 182).
+          Button named '' with state 'None' at position (1664, 214).
+          Group named 'None' with state 'None' at position (32, 218).
+            CheckBox named 'None' with state '0' at position (32, 218).
+            CheckBox named 'None' with state '0' at position (116, 218).
+            CheckBox named 'None' with state '0' at position (196, 218).
+          ScrollArea named 'None' with state 'None' at position (42, 298).
+            WebArea named '' with state '' at position (42, 298).
+              TextArea named '' with state 'Each study note contains one or more facets.' at position (60, 306).
+                StaticText named '' with state 'Each study note contains one or more facets.' at position (172, 310).
+          Group named 'None' with state 'None' at position (58, 1186).
+            CheckBox named 'None' with state '0' at position (58, 1186).
+            CheckBox named 'None' with state '0' at position (126, 1186).
+            CheckBox named 'None' with state '0' at position (190, 1186).
+          Group named 'None' with state 'None' at position (266, 1186).
+            Button named 'None' with state 'None' at position (266, 1186).
+          Group named 'None' with state 'None' at position (328, 1186).
+            Button named 'None' with state 'None' at position (328, 1186).
+            Button named 'None' with state 'None' at position (396, 1186).
+          Button named '' with state 'None' at position (812, 1188).
+          Button named '' with state 'None' at position (908, 1014).
+          Button named '' with state 'None' at position (978, 1020).
+          Button named '' with state 'None' at position (1044, 1014).
+          Button named '' with state 'None' at position (1672, 1014).
+          Image named 'None' with state 'None' at position (890, 300).
+          Image named 'None' with state 'None' at position (914, 1116).
+          ProgressIndicator named 'None' with state '0.0' at position (960, 1118).
+          StaticText named 'None' with state '0s' at position (1660, 1116).
+          Button named '' with state 'None' at position (904, 1190).
+          Button named '' with state 'None' at position (974, 1190).
+          Button named '' with state 'None' at position (1044, 1190).
+          Button named '' with state 'None' at position (1668, 1190).
+          Image named 'None' with state 'None' at position (1696, 1220).
+          ComboBox named 'None' with state 'Note Content' at position (736, 218).
+            Button named '' with state 'None' at position (998, 218).
+        Unknown named 'None' with state 'None' at position (0, 1282).
+          Button named '' with state 'None' at position (1664, 1314).
+          Group named 'None' with state 'None' at position (32, 1318).
+            CheckBox named 'None' with state '0' at position (32, 1318).
+            CheckBox named 'None' with state '0' at position (116, 1318).
+            CheckBox named 'None' with state '0' at position (196, 1318).
+          ScrollArea named 'None' with state 'None' at position (42, 1398).
+            WebArea named '' with state '' at position (42, 1398).
+              TextArea named '' with state 'Facets are similar to the sides of traditional study cards, but you are not restricted to just two.' at position (60, 1406).
+                StaticText named '' with state 'Facets are similar to the sides of traditional study cards, but you are not restricted to just two.' at position (80, 1410).
+          Group named 'None' with state 'None' at position None.
+            CheckBox named 'None' with state '0' at position None.
+            CheckBox named 'None' with state '0' at position None.
+            CheckBox named 'None' with state '0' at position None.
+          Group named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position None.
+          Button named '' with state 'None' at position None.
+          Button named '' with state 'None' at position None.
+          Button named '' with state 'None' at position None.
+          Button named '' with state 'None' at position None.
+          Button named '' with state 'None' at position None.
+          Image named 'None' with state 'None' at position (890, 1400).
+          Image named 'None' with state 'None' at position None.
+          ProgressIndicator named 'None' with state '0.0' at position None.
+          StaticText named 'None' with state '0s' at position None.
+          Button named '' with state 'None' at position None.
+          Button named '' with state 'None' at position None.
+          Button named '' with state 'None' at position None.
+          Button named '' with state 'None' at position None.
+          Image named 'None' with state 'None' at position None.
+          ComboBox named 'None' with state 'Note Content' at position (736, 1318).
+            Button named '' with state 'None' at position (998, 1318).
+      ScrollBar named 'None' with state '0.0' at position (1722, 182).
+        ValueIndicator named 'None' with state '0.0' at position (1730, 184).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (1730, 962).
+        Button named 'None' with state 'None' at position (1730, 182).
+    Button named '' with state 'None' at position (1666, 1474).
+    Button named '' with state 'None' at position (1184, 1474).
+    MenuButton named '' with state 'None' at position (992, 1474).
+    CheckBox named '' with state '0' at position (510, 1474).
+    Button named '' with state 'None' at position (28, 1474).
+    Button named 'Done' with state 'None' at position (28, 118).
+    StaticText named 'None' with state 'Studies Basics  3 | 9' at position (738, 120).
+    Button named '' with state 'None' at position (662, 108).
+    Button named '' with state 'None' at position (1028, 108).
+    Button named '' with state 'None' at position (1670, 116).
+  StaticText named 'None' with state '→' at position (0, 804).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'New Stack' with state 'None' at position (578, 0).
+    Button named 'New Note' with state 'None' at position (718, 0).
+    Button named 'None' with state 'None' at position (868, 0).
+    Button named 'Study All Due' with state 'None' at position (962, 0).
+    MenuButton named 'Study Session' with state 'None' at position (1132, 0).
+      MenuButton named '' with state 'None' at position (1162, 20).
+      StaticText named 'None' with state 'Study Session' at position (1138, 70).
+    Button named 'Continue Session' with state 'None' at position (1308, 0).
+    Button named 'Info' with state 'None' at position (1538, 0).
+    Button named 'Sync' with state 'None' at position (1632, 0).
+  StaticText named 'None' with state 'Studies' at position (174, 0).

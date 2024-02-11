@@ -1,0 +1,10 @@
+Detected elements for the TimeOut application:
+ImageView (0.80 confidence) at position (542, 45)
+Button (0.67 confidence) at position (1030, 1063)
+Button (0.62 confidence) at position (33, 1061)
+TextView (0.60 confidence) at position (59, 205)
+TextView (0.60 confidence) at position (42, 344)
+TextView (0.41 confidence) at position (393, 206)
+TextView (0.39 confidence) at position (442, 345)
+TextView (0.34 confidence) at position (57, 478)
+TextView (0.30 confidence) at position (45, 708)

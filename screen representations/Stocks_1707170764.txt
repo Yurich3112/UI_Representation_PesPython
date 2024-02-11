@@ -1,0 +1,121 @@
+Description for the Stocks application:
+Window named 'AAPL   187,68   +1,83' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          Group named 'None' with state 'None' at position (0, 0).
+            Group named 'None' with state 'None' at position (0, 104).
+              TextField named 'None' with state 'apple' at position (20, 118).
+            Group named 'None' with state 'None' at position (0, 0).
+              Group named 'None' with state 'None' at position (0, 0).
+                Group named 'None' with state 'None' at position (0, 0).
+                  Button named 'None' with state 'None' at position (12, 220).
+                  Group named 'None' with state 'None' at position (12, 304).
+                    GenericElement named 'None' with state 'Apple Inc., NASDAQ · USD, 187,68, up 1,83 points' at position (12, 304).
+                  Group named 'None' with state 'None' at position (12, 432).
+                    GenericElement named 'None' with state 'Apple Inc., Vienna · EUR, 174,66, up 1,74 points' at position (12, 432).
+                  Group named 'None' with state 'None' at position (12, 560).
+                    GenericElement named 'None' with state 'Apple Inc, Dusseldorf · EUR, 175,46, up 3,16 points' at position (12, 560).
+                  Group named 'None' with state 'None' at position (12, 716).
+                    GenericElement named 'None' with state 'Leverage Shares -1x Apple ETP Scs, London · EUR, 5,76, up 0,13 points' at position (12, 716).
+                  Group named 'None' with state 'None' at position (12, 844).
+                    GenericElement named 'None' with state 'Leverage Shares 3x Short Apple (AAPL) ETP Securities, London · EUR, 2,364, down 0,02 points' at position (12, 844).
+                  Group named 'None' with state 'None' at position (12, 1000).
+                    GenericElement named 'None' with state 'Kurv Yield Premium Strategy Apple (AAPL) ETF, NYSE MKT · USD, 25,92, up 0,20 points' at position (12, 1000).
+                  Group named 'None' with state 'None' at position (12, 1156).
+                    GenericElement named 'None' with state 'FNB ETN on APPLEQ SEP25, Johannesburg Stock Exchange · ZAc, 1 563,00, up 26,00 points' at position (12, 1156).
+                  Group named 'None' with state 'None' at position (12, 1340).
+                    GenericElement named 'None' with state 'GraniteShares 3x Short Apple Daily ETP, London · USD, 22,63, down 0,10 points' at position (12, 1340).
+                  Group named 'None' with state 'None' at position (12, 1496).
+                    GenericElement named 'None' with state 'Hanwha Arirang Apple Balanced Fn Etf, Korea · KRW, 11 110,00, down 45,00 points' at position (12, 1496).
+                Group named 'None' with state 'None' at position (0, 0).
+                  GenericElement named 'None' with state 'None' at position (20, 218).
+                  Button named 'None' with state 'None' at position (32, 370).
+                  Group named 'None' with state 'None' at position (20, 448).
+                    GenericElement named 'None' with state '38 380,12, change, down 274,30 points' at position (20, 448).
+                  Group named 'None' with state 'None' at position (20, 570).
+                    GenericElement named 'None' with state '4 942,81, change, down 15,80 points' at position (20, 570).
+                  Group named 'None' with state 'None' at position (20, 692).
+                    GenericElement named 'None' with state '187,68, change, up 1,83 points' at position (20, 692).
+                  Group named 'None' with state 'None' at position (20, 814).
+                    GenericElement named 'None' with state '206,63, change, down 2,75 points' at position (20, 814).
+                  Group named 'None' with state 'None' at position (20, 936).
+                    GenericElement named 'None' with state '390,76, change, up 0,01 points' at position (20, 936).
+                  Group named 'None' with state 'None' at position (20, 1058).
+                    GenericElement named 'None' with state '96,65, change, down 0,48 points' at position (20, 1058).
+                  Group named 'None' with state 'None' at position (20, 1180).
+                    GenericElement named 'None' with state '137,71, change, up 1,17 points' at position (20, 1180).
+                  Group named 'None' with state 'None' at position (20, 1302).
+                    GenericElement named 'None' with state '355,14, change, down 2,09 points' at position (20, 1302).
+                  Group named 'None' with state 'None' at position (20, 1424).
+                    GenericElement named 'None' with state '99,68, change, down 1,03 points' at position (20, 1424).
+        Group named 'None' with state 'None' at position (0, 1460).
+          Group named 'None' with state 'None' at position (0, 1460).
+            Button named 'None' with state 'None' at position (0, 1460).
+            StaticText named 'None' with state 'None' at position (464, 1484).
+      Splitter named 'None' with state '32.2265625' at position (660, 0).
+      Group named 'None' with state 'None' at position (662, 0).
+        Group named 'None' with state 'None' at position (662, 0).
+          Group named 'None' with state 'None' at position (674, 0).
+            Heading named 'None' with state 'None' at position (714, 206).
+            StaticText named 'None' with state '187,68, change, up 1,83 points' at position (1598, 210).
+            StaticText named 'None' with state '187,76, change, up 0,08 points' at position (1816, 210).
+            StaticText named 'None' with state 'None' at position (902, 238).
+            StaticText named 'None' with state 'None' at position (714, 286).
+            Group named 'None' with state 'None' at position (674, 348).
+              ScrollArea named 'None' with state '1 day' at position (674, 348).
+                Button named 'None' with state 'selected' at position (704, 360).
+                Button named 'None' with state 'None' at position (826, 360).
+                Button named 'None' with state 'None' at position (948, 360).
+                Button named 'None' with state 'None' at position (1070, 360).
+                Button named 'None' with state 'None' at position (1192, 360).
+                Button named 'None' with state 'None' at position (1314, 360).
+                Button named 'None' with state 'None' at position (1440, 360).
+                Button named 'None' with state 'None' at position (1562, 360).
+                Button named 'None' with state 'None' at position (1684, 360).
+                Button named 'None' with state 'None' at position (1806, 360).
+                Button named 'None' with state 'None' at position (1932, 360).
+              GenericElement named 'None' with state '187,15' at position (714, 436).
+              GenericElement named 'None' with state '187,11' at position (830, 436).
+              GenericElement named 'None' with state '186,28' at position (946, 436).
+              GenericElement named 'None' with state '187,40' at position (1064, 436).
+              GenericElement named 'None' with state '188,09' at position (1180, 436).
+              GenericElement named 'None' with state '189,04' at position (1296, 436).
+              GenericElement named 'None' with state '188,78' at position (1414, 436).
+              GenericElement named 'None' with state '188,62' at position (1530, 436).
+              GenericElement named 'None' with state '188,73' at position (1646, 436).
+              GenericElement named 'None' with state '188,15' at position (1764, 436).
+            Group named 'None' with state 'None' at position (674, 896).
+              Group named 'None' with state 'None' at position (674, 896).
+                GenericElement named 'None' with state '188,15' at position (714, 926).
+                GenericElement named 'None' with state '189,25' at position (714, 970).
+                GenericElement named 'None' with state '185,84' at position (714, 1014).
+              Group named 'None' with state 'None' at position (674, 896).
+                GenericElement named 'None' with state '68,86 million' at position (1048, 926).
+                GenericElement named 'None' with state '29,19' at position (1048, 970).
+                GenericElement named 'None' with state '2,898 trillion' at position (1048, 1014).
+              Group named 'None' with state 'None' at position (674, 896).
+                GenericElement named 'None' with state '199,62' at position (1384, 926).
+                GenericElement named 'None' with state '143,90' at position (1384, 970).
+                GenericElement named 'None' with state '54,15 million' at position (1384, 1014).
+              Group named 'None' with state 'None' at position (674, 896).
+                GenericElement named 'None' with state '0,52%' at position (1718, 926).
+                GenericElement named 'None' with state '1,31' at position (1718, 970).
+                GenericElement named 'None' with state '6,43' at position (1718, 1014).
+              Button named 'None' with state 'None' at position (714, 1088).
+            Group named 'None' with state 'None' at position (714, 1184).
+              GenericElement named 'None' with state 'Spotify will report quarterly results before the bell on Wednesday. Here's what to expect.' at position (714, 1184).
+            Group named 'None' with state 'None' at position (1372, 1184).
+              GenericElement named 'None' with state 'The first weekend of availability for Apple Vision Pro saw consumers lined up at Apple retail stores to try out the new spatial computing headset.' at position (1372, 1184).
+            Group named 'None' with state 'None' at position (714, 1410).
+              GenericElement named 'None' with state 'Among the Magnificent Seven stocks to buy and watch, Apple, Nvidia and Tesla stock are in new buy areas.' at position (714, 1410).
+            Group named 'None' with state 'None' at position (1372, 1410).
+              GenericElement named 'None' with state 'None' at position (1372, 1410).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (678, 0).
+    Button named 'None' with state 'None' at position (1886, 0).
+    Button named 'None' with state 'None' at position (1960, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

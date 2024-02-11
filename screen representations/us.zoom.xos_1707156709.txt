@@ -1,0 +1,31 @@
+Description for the us.zoom.xos application:
+Window named 'Zoom' with state 'None' at position (0, 0).
+  Button named 'None' with state 'More' at position (1266, 2).
+  Button named 'None' with state 'Home, selected' at position (768, 2).
+  Button named 'None' with state 'Meetings' at position (934, 2).
+  Button named 'None' with state 'Team Chat' at position (1100, 2).
+  Button named 'None' with state 'None' at position (1528, 24).
+  Button named 'None' with state 'None' at position (1600, 24).
+  Button named '' with state 'None' at position (1672, 20).
+  Button named 'None' with state 'None' at position (168, 24).
+  Button named 'None' with state 'None' at position (232, 24).
+  Button named 'None' with state 'None' at position (318, 24).
+  Button named 'None' with state 'None' at position (404, 24).
+  Button named 'None' with state 'None' at position (26, 36).
+  Button named 'None' with state 'None' at position (66, 36).
+  Button named 'None' with state 'None' at position (106, 36).
+    Group named 'None' with state 'None' at position (106, 36).
+      Group named 'None' with state 'None' at position (106, 36).
+  SplitGroup named 'None' with state 'None' at position (0, 106).
+    Button named 'None' with state 'None' at position (1696, 130).
+    Button named 'None' with state 'None' at position (40, 256).
+    Button named 'None' with state 'None' at position (40, 256).
+    Button named 'None' with state 'None' at position (40, 256).
+    Button named 'None' with state 'None' at position (40, 256).
+    Button named 'None' with state 'None' at position (40, 256).
+    Button named 'None' with state 'None' at position (1520, 288).
+    Unknown named 'None' with state '19:11' at position (980, 328).
+      StaticText named 'None' with state '19:11' at position (980, 328).
+    StaticText named 'None' with state 'Monday, 5 February 2024' at position (980, 430).
+    Group named 'None' with state 'None' at position (920, 552).
+      Button named 'None' with state 'None' at position (1142, 830).

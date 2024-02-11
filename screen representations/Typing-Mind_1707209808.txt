@@ -1,0 +1,94 @@
+Description for the Typing-Mind application:
+Window named 'Typing Mind' with state 'None' at position (0, 0).
+  BusyIndicator named 'None' with state 'True' at position (1066, 738).
+  Group named 'None' with state 'None' at position (0, 56).
+    Group named 'None' with state 'None' at position (0, 56).
+      ScrollArea named '' with state '' at position (0, 56).
+        WebArea named '' with state '' at position (0, 56).
+          Group named '' with state '' at position (0, 56).
+            Button named 'New Chat' with state '' at position (16, 72).
+            Button named '' with state '' at position (448, 72).
+            Button named '' with state '' at position (544, 72).
+            Group named '' with state '' at position (16, 168).
+              TextField named '' with state '' at position (16, 168).
+                Group named '' with state '' at position (34, 184).
+            Button named '' with state '' at position (448, 178).
+            Button named '' with state '' at position (512, 178).
+            Button named '' with state '' at position (576, 178).
+            Button named '(Example) Learn English Here's a breakdown of the word cacophony: Defini' with state '' at position (0, 252).
+            Button named '(Example) Writing Content Here is a draft tech article on how to use Apple' with state '' at position (0, 372).
+            Button named '(Example) Web Search The top stories being discussed on Hacker News rig' with state '' at position (0, 492).
+            Button named '(Example) Coding Help To send a HTTP request in Python, you can use the' with state '' at position (0, 612).
+            Group named '' with state '' at position None.
+            Button named '' with state '' at position (16, 1220).
+            StaticText named '' with state 'API Key' at position (222, 1236).
+            Button named 'Enter API Key' with state '' at position (328, 1228).
+            Group named '' with state '' at position (24, 1292).
+            Group named '' with state '' at position (198, 1310).
+              StaticText named '' with state 'Typing Mind' at position (198, 1310).
+              StaticText named '' with state '©' at position (350, 1310).
+              StaticText named '' with state '2024' at position (378, 1310).
+            Group named '' with state '' at position (138, 1342).
+              Link named 'Privacy' with state '' at position (138, 1342).
+                StaticText named '' with state 'Privacy' at position (138, 1342).
+              StaticText named '' with state ' | ' at position (222, 1342).
+              Link named 'Terms' with state '' at position (240, 1342).
+                StaticText named '' with state 'Terms' at position (242, 1342).
+              StaticText named '' with state ' | ' at position (310, 1342).
+              Link named 'FAQs' with state '' at position (330, 1342).
+                StaticText named '' with state 'FAQs' at position (330, 1342).
+              StaticText named '' with state ' | ' at position (390, 1342).
+              Link named 'Contact' with state '' at position (408, 1342).
+                StaticText named '' with state 'Contact' at position (410, 1342).
+            Button named 'Feedback' with state '' at position (96, 1382).
+            Button named '🇺🇸' with state '' at position (304, 1382).
+            Button named '' with state '' at position (398, 1382).
+            Button named '' with state '' at position (478, 1382).
+          Group named '' with state '' at position (0, 56).
+            Button named 'Open sidebar' with state '' at position (648, 64).
+            Group named '' with state '' at position (752, 72).
+              PopUpButton named 'GPT-4' with state '' at position (752, 72).
+            PopUpButton named '0' with state '' at position (1010, 72).
+            Image named '' with state '' at position (1082, 248).
+            StaticText named '' with state 'Typing Mind' at position (1194, 240).
+            Group named '' with state '' at position (1082, 392).
+              StaticText named '' with state 'A better UI for ChatGPT' at position (1198, 396).
+            Group named '' with state '' at position (720, 544).
+              StaticText named '' with state 'Thank you for using ' at position (1088, 550).
+              StaticText named '' with state 'Typing Mind via Setapp' at position (1350, 550).
+              StaticText named '' with state ' 👋' at position (1666, 550).
+            List named '' with state '' at position (720, 622).
+              Group named '' with state '' at position (764, 622).
+                ListMarker named '' with state '•' at position (730, 628).
+                StaticText named '' with state 'You have ' at position (774, 628).
+                StaticText named '' with state 'Free Access' at position (898, 628).
+                StaticText named '' with state ' to GPT-3.5/GPT-4 models provided by Setapp (' at position (1062, 628).
+                Link named 'See Limitations' with state '' at position (1682, 628).
+                  StaticText named '' with state 'See Limitations' at position (1682, 628).
+                StaticText named '' with state ').' at position (1884, 628).
+              Group named '' with state '' at position (764, 678).
+                ListMarker named '' with state '•' at position (730, 684).
+                StaticText named '' with state 'Optionally, you can use your own API keys or custom models (access via the Model Settings menu).' at position (774, 684).
+              Group named '' with state '' at position (764, 734).
+                ListMarker named '' with state '•' at position (730, 740).
+                StaticText named '' with state 'Having an issue? See ' at position (774, 740).
+                Link named 'Frequently Asked Questions' with state '' at position (1056, 740).
+                  StaticText named '' with state 'Frequently Asked Questions' at position (1056, 740).
+            Button named 'Select Character 0 AI characters' with state '' at position (1236, 862).
+            Group named '' with state '' at position (640, 1078).
+              Button named '' with state '' at position None.
+            Group named '' with state '' at position (672, 1302).
+              Button named '' with state '' at position (672, 1338).
+              Button named '' with state '' at position (736, 1338).
+              TextArea named '' with state '' at position (808, 1334).
+                Group named '' with state '' at position (928, 1346).
+                  StaticText named '' with state 'Type "/" to open menu' at position (928, 1352).
+              Button named '⌘K' with state '' at position (820, 1344).
+              Button named '' with state '' at position (2004, 1338).
+              Button named '' with state '' at position (2068, 1338).
+          Group named '' with state '' at position (32, 88).
+          Group named '' with state '' at position None.
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'Typing Mind' at position (998, 10).

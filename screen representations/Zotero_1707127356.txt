@@ -1,0 +1,13 @@
+Detected elements for the Zotero application:
+TextView (0.60 confidence) at position (1066, 71)
+TextView (0.59 confidence) at position (1556, 638)
+TextView (0.47 confidence) at position (573, 170)
+ImageView (0.45 confidence) at position (951, 68)
+TextView (0.42 confidence) at position (1130, 127)
+ImageButton (0.40 confidence) at position (1923, 69)
+ImageButton (0.38 confidence) at position (636, 66)
+TextView (0.36 confidence) at position (587, 249)
+TextView (0.32 confidence) at position (0, 945)
+TextView (0.32 confidence) at position (582, 205)
+ImageView (0.31 confidence) at position (534, 68)
+TextView (0.30 confidence) at position (231, 14)

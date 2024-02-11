@@ -1,0 +1,59 @@
+Description for the Stocks application:
+Window named 'Business News' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        Group named 'None' with state 'None' at position (0, 0).
+          Group named 'None' with state 'None' at position (0, 0).
+            Group named 'None' with state 'None' at position (0, 104).
+              TextField named 'None' with state '' at position (20, 118).
+            Group named 'None' with state 'None' at position (0, 0).
+              Group named 'None' with state 'None' at position (0, 0).
+                Group named 'None' with state 'None' at position (0, 0).
+                  GenericElement named 'None' with state 'None' at position (20, 218).
+                  Button named 'None' with state 'None' at position (32, 370).
+                  Group named 'None' with state 'None' at position (20, 448).
+                    GenericElement named 'None' with state '38 380,12, change, down 274,30 points' at position (20, 448).
+                  Group named 'None' with state 'None' at position (20, 570).
+                    GenericElement named 'None' with state '4 942,81, change, down 15,80 points' at position (20, 570).
+                  Group named 'None' with state 'None' at position (20, 692).
+                    GenericElement named 'None' with state '187,68, change, up 1,83 points' at position (20, 692).
+                  Group named 'None' with state 'None' at position (20, 814).
+                    GenericElement named 'None' with state '206,63, change, down 2,75 points' at position (20, 814).
+                  Group named 'None' with state 'None' at position (20, 936).
+                    GenericElement named 'None' with state '390,76, change, up 0,01 points' at position (20, 936).
+                  Group named 'None' with state 'None' at position (20, 1058).
+                    GenericElement named 'None' with state '96,65, change, down 0,48 points' at position (20, 1058).
+                  Group named 'None' with state 'None' at position (20, 1180).
+                    GenericElement named 'None' with state '137,71, change, up 1,17 points' at position (20, 1180).
+                  Group named 'None' with state 'None' at position (20, 1302).
+                    GenericElement named 'None' with state '355,14, change, down 2,09 points' at position (20, 1302).
+                  Group named 'None' with state 'None' at position (20, 1424).
+                    GenericElement named 'None' with state '99,68, change, down 1,03 points' at position (20, 1424).
+        Group named 'None' with state 'None' at position (0, 1460).
+          Group named 'None' with state 'None' at position (0, 1460).
+            Button named 'None' with state 'None' at position (0, 1460).
+      Splitter named 'None' with state '32.2265625' at position (660, 0).
+      Group named 'None' with state 'None' at position (662, 0).
+        Group named 'None' with state 'None' at position (662, 0).
+          Heading named 'None' with state 'None' at position (714, 178).
+          StaticText named 'None' with state 'None' at position (714, 234).
+          Group named 'None' with state 'None' at position (674, 0).
+            Heading named 'None' with state 'None' at position (674, 338).
+            Group named 'None' with state 'None' at position (714, 608).
+              GenericElement named 'None' with state 'Federal Reserve Chairman Jerome Powell continued to push back against the prospect of near-term rate cuts, in an interview aired on Sunday.  Global markets have been focused on the timing of the first Federal Reserve rate cut, after a strong slate of economic data along with resistance from central bankers led investors to scale back their rate-cut bets.' at position (714, 608).
+            Group named 'None' with state 'None' at position (1372, 608).
+              GenericElement named 'None' with state 'Market indices (^DJI, ^IXIC, ^GSPC) close Monday lower, while semiconductor manufacturer Nvidia (NVDA) — among other stocks — close at a record high. Yahoo Finance's Jared Blikre examines the sector action and Chinese markets after the closing bell. For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance Live. Editor's note: This article was written by Luke Carberry Mogan.' at position (1372, 608).
+            Group named 'None' with state 'None' at position (714, 834).
+              GenericElement named 'None' with state 'Dow Jones futures: Tesla stock dived to new recent lows Monday, while AI stock Palantir soared on strong earnings results.' at position (714, 834).
+            Button named 'None' with state 'None' at position (1762, 1098).
+            Heading named 'None' with state 'None' at position (674, 1128).
+            Group named 'None' with state 'None' at position (714, 1398).
+              GenericElement named 'None' with state 'Federal Reserve Chairman Jerome Powell continued to push back against the prospect of near-term rate cuts, in an interview aired on Sunday.  Global markets have been focused on the timing of the first Federal Reserve rate cut, after a strong slate of economic data along with resistance from central bankers led investors to scale back their rate-cut bets.' at position (714, 1398).
+            Group named 'None' with state 'None' at position (1372, 1398).
+              GenericElement named 'None' with state 'Market indices (^DJI, ^IXIC, ^GSPC) close Monday lower, while semiconductor manufacturer Nvidia (NVDA) — among other stocks — close at a record high. Yahoo Finance's Jared Blikre examines the sector action and Chinese markets after the closing bell. For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance Live. Editor's note: This article was written by Luke Carberry Mogan.' at position (1372, 1398).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (678, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).

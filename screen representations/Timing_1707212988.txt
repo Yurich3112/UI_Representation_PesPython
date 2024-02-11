@@ -1,0 +1,9 @@
+Detected elements for the Timing application:
+ImageView (0.87 confidence) at position (349, 480)
+TextView (0.71 confidence) at position (68, 1080)
+TextView (0.70 confidence) at position (83, 213)
+TextView (0.67 confidence) at position (72, 89)
+TextView (0.52 confidence) at position (799, 1226)
+TextView (0.51 confidence) at position (48, 1232)
+TextView (0.32 confidence) at position (1039, 11)
+TextView (0.26 confidence) at position (217, 828)
