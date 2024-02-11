@@ -1,0 +1,79 @@
+Description for the Bartender application:
+Window named 'Bartender 5' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    StaticText named 'None' with state 'Bartender' at position (178, 16).
+    StaticText named 'None' with state '5' at position (330, 10).
+    ScrollArea named 'None' with state 'None' at position (0, 76).
+      Outline named 'None' with state 'None' at position (0, 76).
+        Row named 'None' with state 'None' at position (0, 96).
+          Cell named 'None' with state 'None' at position (20, 96).
+            Image named 'None' with state 'None' at position (32, 108).
+            StaticText named 'None' with state 'General' at position (114, 130).
+        Row named 'None' with state 'None' at position (0, 196).
+          Cell named 'None' with state 'None' at position (20, 196).
+            Image named 'None' with state 'None' at position (32, 212).
+            StaticText named 'None' with state 'Menu Bar Items' at position (114, 230).
+        Row named 'None' with state 'None' at position (0, 296).
+          Cell named 'None' with state 'None' at position (20, 296).
+            Image named 'None' with state 'None' at position (32, 308).
+            StaticText named 'None' with state 'Menu Bar Style' at position (114, 330).
+        Row named 'None' with state 'None' at position (0, 396).
+          Cell named 'None' with state 'None' at position (20, 396).
+            Image named 'None' with state 'None' at position (32, 412).
+            StaticText named 'None' with state 'Presets' at position (114, 430).
+        Row named 'None' with state 'None' at position (0, 496).
+          Cell named 'None' with state 'None' at position (20, 496).
+            Image named 'None' with state 'None' at position (32, 506).
+            StaticText named 'None' with state 'Triggers' at position (114, 530).
+        Row named 'None' with state 'None' at position (0, 596).
+          Cell named 'None' with state 'None' at position (20, 596).
+            Image named 'None' with state 'None' at position (32, 612).
+            StaticText named 'None' with state 'Hotkeys' at position (114, 630).
+        Row named 'None' with state 'None' at position (0, 696).
+          Cell named 'None' with state 'None' at position (20, 696).
+            Image named 'None' with state 'None' at position (32, 708).
+            StaticText named 'None' with state 'Advanced' at position (114, 730).
+        Row named 'None' with state 'None' at position (0, 796).
+          Cell named 'None' with state 'None' at position (20, 796).
+            Image named 'None' with state 'None' at position (32, 818).
+            StaticText named 'None' with state 'About' at position (114, 830).
+        Column named 'None' with state 'None' at position (20, 76).
+    Splitter named 'None' with state '240.0' at position (480, 56).
+    StaticText named 'None' with state 'Triggers' at position (518, 40).
+    StaticText named 'None' with state 'Add triggers to activate a preset, show menu bar items when trigger conditions are met' at position (518, 96).
+    StaticText named 'None' with state 'Triggers Enabled' at position (1430, 150).
+    Button named 'None' with state '1' at position (1650, 142).
+    ScrollArea named 'None' with state 'None' at position (522, 204).
+      Outline named 'None' with state 'None' at position (522, 204).
+        Row named 'None' with state 'None' at position (522, 224).
+          Cell named 'None' with state 'None' at position (542, 224).
+            Image named 'None' with state 'None' at position (554, 220).
+            StaticText named 'None' with state 'Show Battery when battery condition met' at position (652, 244).
+            LevelIndicator named 'None' with state '0.0' at position (1440, 244).
+            Button named 'Settings' with state 'None' at position (1490, 230).
+            Button named 'None' with state '0' at position (1676, 244).
+        Row named 'None' with state 'None' at position (522, 294).
+          Cell named 'None' with state 'None' at position (542, 294).
+            Image named 'None' with state 'None' at position (554, 286).
+            StaticText named 'None' with state 'Show Time Machine when time machine is backing up.' at position (652, 314).
+            LevelIndicator named 'None' with state '0.0' at position (1440, 314).
+            Button named 'Settings' with state 'None' at position (1490, 300).
+            Button named 'None' with state '0' at position (1676, 314).
+        Row named 'None' with state 'None' at position (522, 364).
+          Cell named 'None' with state 'None' at position (542, 364).
+            Image named 'None' with state 'None' at position (554, 354).
+            StaticText named 'None' with state 'Show Wi-Fi when Wi-Fi condition met' at position (652, 384).
+            LevelIndicator named 'None' with state '0.0' at position (1440, 384).
+            Button named 'Settings' with state 'None' at position (1490, 370).
+            Button named 'None' with state '0' at position (1676, 384).
+        Row named 'None' with state 'None' at position (522, 434).
+          Cell named 'None' with state 'None' at position (542, 434).
+            Button named '' with state 'None' at position (1062, 486).
+        Column named 'None' with state 'None' at position (542, 204).
+    Button named 'Delete Trigger' with state 'None' at position (1340, 1012).
+    Button named 'Add Trigger' with state 'None' at position (1568, 1012).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

@@ -1,0 +1,147 @@
+Description for the Almighty application:
+Window named 'Almighty' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    SplitGroup named 'None' with state 'None' at position (0, 0).
+      Group named 'None' with state 'None' at position (0, 0).
+        ScrollArea named 'None' with state 'None' at position (0, 104).
+          Outline named 'None' with state 'None' at position (0, 104).
+            Row named 'None' with state 'None' at position None.
+              Cell named 'None' with state 'None' at position None.
+                StaticText named 'None' with state 'All' at position None.
+            Row named 'None' with state 'None' at position None.
+              Cell named 'None' with state 'None' at position None.
+                StaticText named 'None' with state 'New' at position None.
+            Row named 'None' with state 'None' at position None.
+              Cell named 'None' with state 'None' at position None.
+                StaticText named 'None' with state 'Popular' at position None.
+            Row named 'None' with state 'None' at position None.
+              Cell named 'None' with state 'None' at position None.
+                StaticText named 'None' with state 'Random' at position None.
+            Row named 'None' with state 'None' at position (0, 6).
+              Cell named 'None' with state 'None' at position (20, 6).
+                Group named 'None' with state 'None' at position (28, 6).
+                  Heading named 'None' with state 'None' at position None.
+            Row named 'None' with state 'None' at position (0, 44).
+              Cell named 'None' with state 'None' at position (20, 44).
+                Image named 'None' with state 'None' at position (32, 52).
+                StaticText named 'None' with state 'Desktop' at position (92, 58).
+            Row named 'None' with state 'None' at position (0, 104).
+              Cell named 'None' with state 'None' at position (20, 104).
+                Image named 'None' with state 'None' at position (32, 112).
+                StaticText named 'None' with state 'Display' at position (92, 118).
+            Row named 'None' with state 'None' at position (0, 164).
+              Cell named 'None' with state 'None' at position (20, 164).
+                Image named 'None' with state 'None' at position (32, 172).
+                StaticText named 'None' with state 'Dock' at position (92, 178).
+            Row named 'None' with state 'None' at position (0, 224).
+              Cell named 'None' with state 'None' at position (20, 224).
+                Image named 'None' with state 'None' at position (32, 232).
+                StaticText named 'None' with state 'Effect' at position (92, 238).
+            Row named 'None' with state 'None' at position (0, 284).
+              Cell named 'None' with state 'None' at position (20, 284).
+                Image named 'None' with state 'None' at position (32, 292).
+                StaticText named 'None' with state 'Finder' at position (92, 298).
+            Row named 'None' with state 'None' at position (0, 344).
+              Cell named 'None' with state 'None' at position (20, 344).
+                Image named 'None' with state 'None' at position (32, 352).
+                StaticText named 'None' with state 'Keyboard' at position (92, 358).
+            Row named 'None' with state 'None' at position (0, 404).
+              Cell named 'None' with state 'None' at position (20, 404).
+                Image named 'None' with state 'None' at position (32, 412).
+                StaticText named 'None' with state 'Mouse' at position (92, 418).
+            Row named 'None' with state 'None' at position (0, 464).
+              Cell named 'None' with state 'None' at position (20, 464).
+                Image named 'None' with state 'None' at position (32, 472).
+                StaticText named 'None' with state 'Photos' at position (92, 478).
+            Row named 'None' with state 'None' at position (0, 524).
+              Cell named 'None' with state 'None' at position (20, 524).
+                Image named 'None' with state 'None' at position (32, 532).
+                StaticText named 'None' with state 'Screenshot' at position (92, 538).
+            Row named 'None' with state 'None' at position (0, 584).
+              Cell named 'None' with state 'None' at position (20, 584).
+                Image named 'None' with state 'None' at position (32, 592).
+                StaticText named 'None' with state 'Script' at position (92, 598).
+            Row named 'None' with state 'None' at position (0, 644).
+              Cell named 'None' with state 'None' at position (20, 644).
+                Image named 'None' with state 'None' at position (32, 652).
+                StaticText named 'None' with state 'Simulator' at position (92, 658).
+            Row named 'None' with state 'None' at position (0, 704).
+              Cell named 'None' with state 'None' at position (20, 704).
+                Image named 'None' with state 'None' at position (32, 712).
+                StaticText named 'None' with state 'Status Menu' at position (92, 718).
+            Row named 'None' with state 'None' at position (0, 764).
+              Cell named 'None' with state 'None' at position (20, 764).
+                Image named 'None' with state 'None' at position (32, 772).
+                StaticText named 'None' with state 'System' at position (92, 778).
+            Row named 'None' with state 'None' at position (0, 824).
+              Cell named 'None' with state 'None' at position (20, 824).
+                Image named 'None' with state 'None' at position (32, 832).
+                StaticText named 'None' with state 'Utility' at position (92, 838).
+            Row named 'None' with state 'None' at position (0, 884).
+              Cell named 'None' with state 'None' at position (20, 884).
+                Image named 'None' with state 'None' at position (32, 892).
+                StaticText named 'None' with state 'Window' at position (92, 898).
+            Row named 'None' with state 'None' at position None.
+              Cell named 'None' with state 'None' at position None.
+                Image named 'None' with state 'None' at position None.
+                StaticText named 'None' with state 'Xcode' at position None.
+            Row named 'None' with state 'None' at position None.
+              Cell named 'None' with state 'None' at position None.
+                Group named 'None' with state 'None' at position None.
+                  Heading named 'None' with state 'None' at position None.
+            Row named 'None' with state 'None' at position None.
+              Cell named 'None' with state 'None' at position None.
+                StaticText named 'None' with state 'star' at position None.
+                StaticText named 'None' with state 'Favorite' at position None.
+            Row named 'None' with state 'None' at position None.
+              Cell named 'None' with state 'None' at position None.
+                Group named 'None' with state 'None' at position None.
+            Row named 'None' with state 'None' at position None.
+              Cell named 'None' with state 'None' at position None.
+                Group named 'None' with state 'None' at position None.
+                  Heading named 'None' with state 'None' at position None.
+            Row named 'None' with state 'None' at position None.
+              Cell named 'None' with state 'None' at position None.
+                StaticText named 'None' with state 'Automation' at position None.
+            Row named 'None' with state 'None' at position None.
+              Cell named 'None' with state 'None' at position None.
+                StaticText named 'None' with state 'Settings' at position None.
+            Column named 'None' with state 'None' at position (20, 0).
+          ScrollBar named 'None' with state '0.42028985507246375' at position (368, 104).
+            ValueIndicator named 'None' with state '0.42028985507246375' at position (376, 274).
+            Button named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position None.
+            Button named 'None' with state 'None' at position (376, 664).
+            Button named 'None' with state 'None' at position (376, 104).
+      Splitter named 'None' with state '200.0' at position (400, 104).
+      Group named 'None' with state 'None' at position (402, 0).
+        ScrollArea named 'None' with state 'None' at position (402, 104).
+          OpaqueProviderGroup named 'None' with state 'None' at position (770, 134).
+            Group named 'None' with state 'None' at position (770, 134).
+              StaticText named 'None' with state '📸' at position (788, 164).
+              StaticText named 'None' with state 'Disable Screenshot Shadow' at position (864, 150).
+              StaticText named 'None' with state 'Disable screenshot shadow when capturing an app' at position (864, 186).
+              CheckBox named 'None' with state '1' at position (1336, 172).
+              Image named 'None' with state 'None' at position (1384, 182).
+              Image named 'None' with state 'None' at position (788, 292).
+              StaticText named 'None' with state 'Screenshot' at position (840, 300).
+              StaticText named 'None' with state 'star' at position (966, 298).
+            Group named 'None' with state 'None' at position (770, 388).
+              StaticText named 'None' with state '🎞' at position (788, 406).
+              StaticText named 'None' with state 'Set Screenshot Location' at position (864, 406).
+              StaticText named 'None' with state 'Set default location for screenshots' at position (864, 440).
+              Button named 'None' with state 'None' at position (1344, 418).
+              Image named 'None' with state 'None' at position (788, 540).
+              StaticText named 'None' with state 'Screenshot' at position (840, 550).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (418, 0).
+      Button named 'None' with state 'None' at position (436, 28).
+    Group named 'None' with state 'None' at position (1118, 0).
+      TextField named 'None' with state '' at position (1124, 22).
+        Button named '' with state 'None' at position (1128, 30).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Almighty' at position (502, 0).

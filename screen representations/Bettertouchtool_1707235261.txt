@@ -1,0 +1,117 @@
+Description for the Bettertouchtool application:
+Window named 'BetterTouchTool Settings' with state 'None' at position (0, 0).
+  ScrollArea named 'None' with state 'None' at position (0, 56).
+    Table named 'None' with state 'None' at position (2, 58).
+      Row named 'None' with state 'None' at position (2, 58).
+        Cell named 'None' with state 'None' at position (14, 60).
+          StaticText named 'None' with state 'Standard Settings' at position (26, 90).
+      Row named 'None' with state 'None' at position (2, 134).
+        Cell named 'None' with state 'None' at position (14, 136).
+          Image named 'None' with state 'None' at position (28, 128).
+          StaticText named 'None' with state 'Basic' at position (88, 152).
+      Row named 'None' with state 'None' at position (2, 198).
+        Cell named 'None' with state 'None' at position (14, 200).
+          Image named 'None' with state 'None' at position (28, 196).
+          StaticText named 'None' with state 'User Interface' at position (88, 216).
+      Row named 'None' with state 'None' at position (2, 262).
+        Cell named 'None' with state 'None' at position (14, 264).
+          Image named 'None' with state 'None' at position (28, 268).
+          StaticText named 'None' with state 'Touch Bar' at position (88, 280).
+      Row named 'None' with state 'None' at position (2, 326).
+        Cell named 'None' with state 'None' at position (14, 328).
+          Image named 'None' with state 'None' at position (28, 332).
+          StaticText named 'None' with state 'Stream Deck' at position (88, 344).
+      Row named 'None' with state 'None' at position (2, 390).
+        Cell named 'None' with state 'None' at position (14, 392).
+          Image named 'None' with state 'None' at position (28, 410).
+          StaticText named 'None' with state 'Notch / Action Menu Bar' at position (88, 408).
+      Row named 'None' with state 'None' at position (2, 482).
+        Cell named 'None' with state 'None' at position (14, 484).
+          Image named 'None' with state 'None' at position (28, 502).
+          StaticText named 'None' with state 'Window Snapping & Moving' at position (88, 500).
+      Row named 'None' with state 'None' at position (2, 574).
+        Cell named 'None' with state 'None' at position (14, 576).
+          Image named 'None' with state 'None' at position (28, 580).
+          StaticText named 'None' with state 'BTT Remote' at position (88, 592).
+      Row named 'None' with state 'None' at position (2, 638).
+        Cell named 'None' with state 'None' at position (14, 640).
+          StaticText named 'None' with state 'Advanced Settings' at position (26, 670).
+      Row named 'None' with state 'None' at position (2, 714).
+        Cell named 'None' with state 'None' at position (14, 716).
+          Image named 'None' with state 'None' at position (28, 708).
+          StaticText named 'None' with state 'General' at position (88, 732).
+      Row named 'None' with state 'None' at position (2, 778).
+        Cell named 'None' with state 'None' at position (14, 780).
+          Image named 'None' with state 'None' at position (28, 784).
+          StaticText named 'None' with state 'Trackpad' at position (88, 796).
+      Row named 'None' with state 'None' at position (2, 842).
+        Cell named 'None' with state 'None' at position (14, 844).
+          Image named 'None' with state 'None' at position (28, 848).
+          StaticText named 'None' with state 'Magic Mouse' at position (88, 860).
+      Row named 'None' with state 'None' at position (2, 906).
+        Cell named 'None' with state 'None' at position (14, 908).
+          Image named 'None' with state 'None' at position (28, 912).
+          StaticText named 'None' with state 'Keyboard' at position (88, 924).
+      Row named 'None' with state 'None' at position (2, 970).
+        Cell named 'None' with state 'None' at position (14, 972).
+          Image named 'None' with state 'None' at position (28, 990).
+          StaticText named 'None' with state 'Drawings / Mouse Gestures' at position (88, 988).
+      Row named 'None' with state 'None' at position (2, 1062).
+        Cell named 'None' with state 'None' at position (14, 1064).
+          Image named 'None' with state 'None' at position (28, 1068).
+          StaticText named 'None' with state 'MIDI Settings' at position (88, 1080).
+      Row named 'None' with state 'None' at position (2, 1126).
+        Cell named 'None' with state 'None' at position (14, 1128).
+          Image named 'None' with state 'None' at position (28, 1132).
+          StaticText named 'None' with state 'Scripting BTT' at position (88, 1144).
+      Row named 'None' with state 'None' at position (2, 1190).
+        Cell named 'None' with state 'None' at position (14, 1192).
+          Image named 'None' with state 'None' at position (28, 1196).
+          StaticText named 'None' with state 'Web Server' at position (88, 1208).
+      Row named 'None' with state 'None' at position (2, 1254).
+        Cell named 'None' with state 'None' at position (14, 1256).
+          Image named 'None' with state 'None' at position (28, 1260).
+          StaticText named 'None' with state 'Normal Mouse' at position (88, 1272).
+      Row named 'None' with state 'None' at position None.
+        Cell named 'None' with state 'None' at position None.
+          Image named 'None' with state 'None' at position None.
+          StaticText named 'None' with state 'Sync' at position None.
+      Column named 'None' with state 'None' at position (2, 58).
+    ScrollBar named 'None' with state '0.0' at position (306, 58).
+      ValueIndicator named 'None' with state '0.0' at position (314, 60).
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (314, 1228).
+      Button named 'None' with state 'None' at position (314, 58).
+  CheckBox named 'Enable Touch Bar support (disabling requires you to restart BTT)' with state '1' at position (374, 76).
+  TabGroup named 'None' with state '<AXUIElement 0x12b635840> {pid=18369}' at position (364, 118).
+    RadioButton named 'Default Settings' with state '1' at position (940, 128).
+    RadioButton named 'Advanced' with state '0' at position (1180, 128).
+    Group named 'None' with state 'None' at position (396, 174).
+      CheckBox named 'Hide global actions if app specific actions are configured in BTT' with state '0' at position (456, 582).
+      TextField named 'None' with state '10 px' at position (824, 514).
+      CheckBox named 'Hide BetterTouchTool Touch Bar if nothing to show (no actions configured)' with state '1' at position (456, 698).
+      CheckBox named 'Show macOS Control Strip' with state '1' at position (456, 210).
+      StaticText named 'None' with state 'Free space after BTT Icon:' at position (526, 424).
+      CheckBox named 'Show BetterTouchTool Icon on the left side (only if not showing macOS Control Strip)' with state '1' at position (456, 380).
+      TextField named 'None' with state '20 px' at position (824, 418).
+      CheckBox named 'Show ESC Button on the left side of the Touch Bar' with state '1' at position (456, 472).
+      StaticText named 'None' with state 'Free space after ESC button:' at position (500, 520).
+      CheckBox named 'Show BetterTouchTool Icon in Control Strip' with state '1' at position (456, 266).
+      StaticText named 'None' with state 'You can set a display order for every trigger. This allows you to specify whether global triggers should show before or after app specific ones.' at position (456, 630).
+      CheckBox named 'Hide left close / X button  (requires BTT restart)' with state '0' at position (878, 210).
+      StaticText named 'None' with state '' at position (418, 174).
+    StaticText named 'None' with state '🔶 To completely disable the system Touch Bar uncheck "Show macOS Control Strip" on the top. Then only the BTT Touch Bar will be shown. This will also get rid of the "X button" on the left side of the Touch Bar.
+
+🔶 You can easily show/hide the BTT Touch Bar using the predefined action "Toggle BetterTouchTool Touch Bar"
+
+🔶 You can decide per-app whether you want the BTT TouchBar to show up. This can be done by clicking on an app in the left side-bar in the BTT Preferences.
+
+🔶 Users have shared great Touch Bar presets on https://community.folivora.ai, you should definitely check them out!' at position (414, 958).
+    StaticText named 'None' with state 'Some tips:' at position (414, 908).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'BetterTouchTool Settings' at position (826, 10).

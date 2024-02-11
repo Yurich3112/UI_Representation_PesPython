@@ -1,0 +1,32 @@
+Description for the Bartender application:
+Window named 'Window' with state 'None' at position (0, 0).
+  StaticText named 'None' with state 'Bartender needs your permission to manage menu bar items. Follow these steps to grant access:' at position (36, 180).
+  StaticText named 'None' with state 'macOS Permissions for Bartender' at position (368, 70).
+  Group named 'None' with state 'None' at position (676, 1048).
+    Group named 'None' with state 'None' at position (630, 1030).
+      Image named 'None' with state 'None' at position (714, 1066).
+      StaticText named 'None' with state 'Bartender 5' at position (804, 1072).
+      Button named 'None' with state '1' at position (1380, 1076).
+      Button named '' with state 'None' at position (678, 1044).
+  StaticText named 'None' with state 'If the checkbox is disabled, click the 􀎠 and enter your password.' at position (672, 1152).
+  StaticText named 'None' with state 'This is how correctly set permissions should look:' at position (50, 1068).
+  StaticText named 'None' with state 'Having problems with permissions:' at position (50, 1204).
+  Button named 'Solutions for Permissons Issues' with state 'None' at position (486, 1192).
+  Group named 'None' with state 'None' at position (40, 266).
+    StaticText named 'None' with state 'Accessibility' at position (38, 282).
+    StaticText named 'None' with state 'Bartender requires accessibility access so that it can:' at position (38, 372).
+    Button named 'Open macOS Accessibility Settings' with state 'None' at position (520, 494).
+    StaticText named 'None' with state '• Arrange your menu bar items.
+• Show and hide menu bar items.' at position (474, 408).
+    StaticText named 'None' with state 'Then in System Settings check Bartender to grant access.' at position (38, 560).
+    Button named 'Find out why Bartender needs this' with state 'None' at position (1038, 290).
+  Group named 'None' with state 'None' at position (42, 658).
+    StaticText named 'None' with state 'Screen Recording' at position (40, 676).
+    StaticText named 'None' with state 'Bartender requires Screen Recording access on your Mac so that it can: ' at position (40, 764).
+    Button named 'Open macOS Screen Recording Settings' with state 'None' at position (490, 880).
+    StaticText named 'None' with state '• Get a list of the menu items in your menu bar to control them. 
+• Capture images of menu bar items for display in Settings, Bartender Bar, Search etc.' at position (362, 796).
+    StaticText named 'None' with state 'Then in System Settings check Bartender to grant access.' at position (40, 942).
+    Button named 'Find out why Bartender needs this' with state 'None' at position (1040, 684).
+  Button named 'Open System Preferences' with state 'None' at position (1192, 1304).
+  Button named 'Quit Bartender' with state 'None' at position (26, 1322).

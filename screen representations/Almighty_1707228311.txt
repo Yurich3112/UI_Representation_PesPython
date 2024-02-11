@@ -1,0 +1,41 @@
+Description for the Almighty application:
+Window named 'Almighty' with state 'None' at position (0, 0).
+  Group named 'None' with state 'None' at position (0, 0).
+    SplitGroup named 'None' with state 'None' at position (0, 0).
+      Splitter named 'None' with state '-1.0' at position None.
+      Group named 'None' with state 'None' at position (0, 0).
+        ScrollArea named 'None' with state 'None' at position (32, 136).
+          Table named 'None' with state 'None' at position (32, 136).
+            Row named 'None' with state 'None' at position (32, 156).
+              Cell named 'None' with state 'None' at position (64, 156).
+                Image named 'None' with state 'None' at position (72, 176).
+                StaticText named 'None' with state 'General' at position (120, 172).
+            Row named 'None' with state 'None' at position (32, 220).
+              Cell named 'None' with state 'None' at position (64, 220).
+                Image named 'None' with state 'None' at position (76, 240).
+                StaticText named 'None' with state 'Workflows' at position (120, 236).
+            Row named 'None' with state 'None' at position (32, 284).
+              Cell named 'None' with state 'None' at position (64, 284).
+                Image named 'None' with state 'None' at position (72, 308).
+                StaticText named 'None' with state 'Shortcuts' at position (120, 300).
+            Row named 'None' with state 'None' at position (32, 348).
+              Cell named 'None' with state 'None' at position (64, 348).
+                Image named 'None' with state 'None' at position (72, 368).
+                StaticText named 'None' with state 'License' at position (120, 364).
+            Column named 'None' with state 'None' at position (52, 136).
+        ScrollArea named 'None' with state 'None' at position (332, 136).
+          Heading named 'None' with state 'None' at position (392, 180).
+          Button named 'None' with state 'None' at position (1664, 178).
+          Group named 'None' with state 'None' at position (366, 232).
+            StaticText named 'None' with state 'star' at position (392, 256).
+            StaticText named 'None' with state 'Favorite' at position (452, 260).
+          StaticText named 'None' with state 'Organize tweaks with workflows' at position (1340, 338).
+  Toolbar named 'None' with state 'None' at position (0, 0).
+    Button named 'None' with state 'None' at position (174, 0).
+      Button named 'None' with state 'None' at position (192, 28).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 36).
+  Button named 'None' with state 'None' at position (78, 36).
+  StaticText named 'None' with state 'Almighty' at position (258, 0).

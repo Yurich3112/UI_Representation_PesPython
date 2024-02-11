@@ -1,0 +1,118 @@
+Description for the Bartender application:
+Window named 'Bartender 5' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    StaticText named 'None' with state 'Bartender' at position (178, 16).
+    StaticText named 'None' with state '5' at position (330, 10).
+    ScrollArea named 'None' with state 'None' at position (0, 76).
+      Outline named 'None' with state 'None' at position (0, 76).
+        Row named 'None' with state 'None' at position (0, 96).
+          Cell named 'None' with state 'None' at position (20, 96).
+            Image named 'None' with state 'None' at position (32, 108).
+            StaticText named 'None' with state 'General' at position (114, 130).
+        Row named 'None' with state 'None' at position (0, 196).
+          Cell named 'None' with state 'None' at position (20, 196).
+            Image named 'None' with state 'None' at position (32, 212).
+            StaticText named 'None' with state 'Menu Bar Items' at position (114, 230).
+        Row named 'None' with state 'None' at position (0, 296).
+          Cell named 'None' with state 'None' at position (20, 296).
+            Image named 'None' with state 'None' at position (32, 308).
+            StaticText named 'None' with state 'Menu Bar Style' at position (114, 330).
+        Row named 'None' with state 'None' at position (0, 396).
+          Cell named 'None' with state 'None' at position (20, 396).
+            Image named 'None' with state 'None' at position (32, 412).
+            StaticText named 'None' with state 'Presets' at position (114, 430).
+        Row named 'None' with state 'None' at position (0, 496).
+          Cell named 'None' with state 'None' at position (20, 496).
+            Image named 'None' with state 'None' at position (32, 506).
+            StaticText named 'None' with state 'Triggers' at position (114, 530).
+        Row named 'None' with state 'None' at position (0, 596).
+          Cell named 'None' with state 'None' at position (20, 596).
+            Image named 'None' with state 'None' at position (32, 612).
+            StaticText named 'None' with state 'Hotkeys' at position (114, 630).
+        Row named 'None' with state 'None' at position (0, 696).
+          Cell named 'None' with state 'None' at position (20, 696).
+            Image named 'None' with state 'None' at position (32, 708).
+            StaticText named 'None' with state 'Advanced' at position (114, 730).
+        Row named 'None' with state 'None' at position (0, 796).
+          Cell named 'None' with state 'None' at position (20, 796).
+            Image named 'None' with state 'None' at position (32, 818).
+            StaticText named 'None' with state 'About' at position (114, 830).
+        Column named 'None' with state 'None' at position (20, 76).
+    Splitter named 'None' with state '240.0' at position (480, 56).
+    StaticText named 'None' with state 'Menu Bar Items' at position (518, 40).
+    StaticText named 'None' with state 'Drag menu bar item icons between the sections below to arrange them as you want' at position (518, 96).
+    StaticText named 'None' with state 'You can also arrange the menu bar items quickly by ⌘ + dragging them in the menu bar' at position (518, 136).
+    StaticText named 'None' with state '' at position (518, 176).
+    StaticText named 'None' with state 'Shown menu bar items' at position (518, 216).
+    ScrollArea named 'None' with state 'None' at position (522, 270).
+      List named 'None' with state 'None' at position (522, 270).
+        List named 'None' with state 'None' at position (1342, 284).
+          Group named 'None' with state 'None' at position (1342, 284).
+            Image named 'None' with state 'None' at position (1342, 284).
+          Group named 'None' with state 'None' at position (1414, 284).
+            Image named 'None' with state 'None' at position (1414, 284).
+          Group named 'None' with state 'None' at position (1482, 284).
+            Image named 'None' with state 'None' at position (1482, 284).
+    StaticText named 'None' with state 'Hidden menu bar items ' at position (518, 386).
+    ScrollArea named 'None' with state 'None' at position (522, 440).
+      List named 'None' with state 'None' at position (0, 440).
+        List named 'None' with state 'None' at position (0, 454).
+          Group named 'None' with state 'None' at position (0, 454).
+            None named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position (20, 454).
+            None named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position (84, 454).
+            None named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position (160, 454).
+            None named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position (224, 454).
+            None named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position (300, 454).
+            None named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position (360, 454).
+            None named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position (428, 454).
+            None named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position (504, 454).
+            Image named 'None' with state 'None' at position (504, 454).
+          Group named 'None' with state 'None' at position (708, 454).
+            Image named 'None' with state 'None' at position (708, 454).
+          Group named 'None' with state 'None' at position (784, 454).
+            Image named 'None' with state 'None' at position (784, 454).
+          Group named 'None' with state 'None' at position (850, 454).
+            Image named 'None' with state 'None' at position (850, 454).
+          Group named 'None' with state 'None' at position (938, 454).
+            Image named 'None' with state 'None' at position (938, 454).
+          Group named 'None' with state 'None' at position (1002, 454).
+            Image named 'None' with state 'None' at position (1002, 454).
+          Group named 'None' with state 'None' at position (1086, 454).
+            Image named 'None' with state 'None' at position (1086, 454).
+          Group named 'None' with state 'None' at position (1162, 454).
+            Image named 'None' with state 'None' at position (1162, 454).
+          Group named 'None' with state 'None' at position (1226, 454).
+            Image named 'None' with state 'None' at position (1226, 454).
+      ScrollBar named 'None' with state '1.0' at position (522, 508).
+        ValueIndicator named 'None' with state '1.0' at position (1072, 516).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (1740, 516).
+        Button named 'None' with state 'None' at position (522, 516).
+    StaticText named 'None' with state 'Always Hidden menu bar items' at position (518, 556).
+    ScrollArea named 'None' with state 'None' at position (522, 610).
+      List named 'None' with state 'None' at position (522, 610).
+        List named 'None' with state 'None' at position None.
+    StaticText named 'None' with state 'Menu bar items palette' at position (518, 726).
+    ScrollArea named 'None' with state 'None' at position (522, 780).
+      List named 'None' with state 'None' at position (522, 780).
+        List named 'None' with state 'None' at position (534, 792).
+          Group named 'None' with state 'None' at position (534, 792).
+            Image named 'None' with state 'None' at position (534, 792).
+          Group named 'None' with state 'None' at position (794, 792).
+            Image named 'None' with state 'None' at position (794, 792).
+        List named 'None' with state 'None' at position None.
+    StaticText named 'None' with state '' at position (518, 948).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

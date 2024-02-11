@@ -1,0 +1,56 @@
+Description for the Bartender application:
+Window named 'Bartender 5' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    StaticText named 'None' with state 'Bartender' at position (178, 16).
+    StaticText named 'None' with state '5' at position (330, 10).
+    ScrollArea named 'None' with state 'None' at position (0, 76).
+      Outline named 'None' with state 'None' at position (0, 76).
+        Row named 'None' with state 'None' at position (0, 96).
+          Cell named 'None' with state 'None' at position (20, 96).
+            Image named 'None' with state 'None' at position (32, 108).
+            StaticText named 'None' with state 'General' at position (114, 130).
+        Row named 'None' with state 'None' at position (0, 196).
+          Cell named 'None' with state 'None' at position (20, 196).
+            Image named 'None' with state 'None' at position (32, 212).
+            StaticText named 'None' with state 'Menu Bar Items' at position (114, 230).
+        Row named 'None' with state 'None' at position (0, 296).
+          Cell named 'None' with state 'None' at position (20, 296).
+            Image named 'None' with state 'None' at position (32, 308).
+            StaticText named 'None' with state 'Menu Bar Style' at position (114, 330).
+        Row named 'None' with state 'None' at position (0, 396).
+          Cell named 'None' with state 'None' at position (20, 396).
+            Image named 'None' with state 'None' at position (32, 412).
+            StaticText named 'None' with state 'Presets' at position (114, 430).
+        Row named 'None' with state 'None' at position (0, 496).
+          Cell named 'None' with state 'None' at position (20, 496).
+            Image named 'None' with state 'None' at position (32, 506).
+            StaticText named 'None' with state 'Triggers' at position (114, 530).
+        Row named 'None' with state 'None' at position (0, 596).
+          Cell named 'None' with state 'None' at position (20, 596).
+            Image named 'None' with state 'None' at position (32, 612).
+            StaticText named 'None' with state 'Hotkeys' at position (114, 630).
+        Row named 'None' with state 'None' at position (0, 696).
+          Cell named 'None' with state 'None' at position (20, 696).
+            Image named 'None' with state 'None' at position (32, 708).
+            StaticText named 'None' with state 'Advanced' at position (114, 730).
+        Row named 'None' with state 'None' at position (0, 796).
+          Cell named 'None' with state 'None' at position (20, 796).
+            Image named 'None' with state 'None' at position (32, 818).
+            StaticText named 'None' with state 'About' at position (114, 830).
+        Column named 'None' with state 'None' at position (20, 76).
+    Splitter named 'None' with state '240.0' at position (480, 56).
+    Button named 'Acknowledgements' with state 'None' at position (1480, 974).
+    StaticText named 'None' with state 'Version: 5.0.48' at position (518, 256).
+    Group named 'None' with state 'None' at position (1090, 1036).
+      Button named 'None' with state 'None' at position (1090, 1036).
+      Button named 'None' with state 'None' at position (1404, 1036).
+      Button named 'None' with state 'None' at position (1534, 1036).
+    Button named 'Quit Bartender' with state 'None' at position (508, 1030).
+    StaticText named 'None' with state 'Bartender' at position (518, 92).
+    StaticText named 'None' with state '5' at position (1316, 76).
+    StaticText named 'None' with state 'About' at position (518, 26).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

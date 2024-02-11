@@ -1,0 +1,78 @@
+Description for the Bettertouchtool application:
+Window named 'BetterTouchTool Configuration' with state 'None' at position (0, 0).
+  Button named '<<<' with state 'None' at position (150, 50).
+  Button named '' with state 'None' at position (2, 926).
+  Button named '' with state 'None' at position (64, 926).
+  ScrollArea named 'None' with state 'None' at position (0, 94).
+    Table named 'None' with state 'None' at position (0, 94).
+      Row named 'None' with state 'None' at position (0, 94).
+        Cell named 'None' with state 'None' at position (2, 96).
+          Image named 'None' with state 'None' at position (16, 100).
+          StaticText named 'None' with state 'All Apps' at position (62, 106).
+      Row named 'None' with state 'None' at position (0, 146).
+        Cell named 'None' with state 'None' at position (2, 148).
+          Image named 'None' with state 'None' at position (16, 152).
+          StaticText named 'None' with state 'Finder' at position (62, 158).
+      Column named 'None' with state 'None' at position (0, 94).
+  Group named 'None' with state 'None' at position (370, 0).
+    Button named '' with state 'None' at position (372, 20).
+    PopUpButton named 'None' with state ' • Touch Bar' at position (438, 28).
+    Button named '' with state 'None' at position (1644, 0).
+    CheckBox named 'Preset: Default ▾' with state '0' at position (1392, 28).
+    Button named 'Touch Bar Settings' with state 'None' at position (908, 20).
+    RadioGroup named 'None' with state '<AXUIElement 0x1266a56a0> {pid=18369}' at position (1208, 26).
+      RadioButton named 'None' with state '1' at position (1208, 26).
+      RadioButton named 'None' with state '0' at position (1282, 26).
+  SplitGroup named 'None' with state 'None' at position (370, 94).
+    ScrollArea named 'None' with state 'None' at position (370, 94).
+      Table named 'None' with state 'None' at position (370, 150).
+        Row named 'None' with state 'None' at position (370, 150).
+          Cell named 'None' with state 'None' at position (370, 150).
+            StaticText named 'None' with state '›' at position (804, 188).
+            StaticText named 'None' with state 'Enter Touch Bar Button Name' at position (476, 156).
+            StaticText named 'None' with state 'Action: Move/Resize:  - ' at position (476, 222).
+        Row named 'None' with state 'None' at position (370, 258).
+          Cell named 'None' with state 'None' at position (370, 258).
+            StaticText named 'None' with state 'Please Select a Trigger ►' at position (472, 288).
+        Row named 'None' with state 'None' at position (370, 348).
+          Cell named 'None' with state 'None' at position (370, 348).
+            Button named '+' with state 'None' at position (570, 378).
+        Column named 'None' with state 'None' at position (370, 150).
+        Group named 'None' with state 'None' at position (370, 94).
+          Button named 'Groups & Top Level Triggers' with state 'None' at position (370, 94).
+    Button named '' with state 'None' at position (622, 940).
+    Button named '' with state 'None' at position (698, 940).
+    Button named '' with state 'None' at position (774, 940).
+    Button named '' with state 'None' at position (388, 940).
+    Splitter named 'None' with state '235.5' at position None.
+    ScrollArea named 'None' with state 'None' at position (838, 94).
+      Table named 'None' with state 'None' at position (838, 150).
+        Row named 'None' with state 'None' at position (838, 150).
+          Cell named 'None' with state 'None' at position (840, 152).
+            StaticText named 'None' with state 'Move/Resize:  - ' at position (942, 180).
+        Row named 'None' with state 'None' at position (838, 250).
+          Cell named 'None' with state 'None' at position (840, 252).
+            Button named '+' with state 'None' at position (1038, 282).
+        Column named 'None' with state 'None' at position (838, 150).
+        Group named 'None' with state 'None' at position (838, 94).
+          Button named 'Actions Assigned to Selected Trigger' with state 'None' at position (838, 94).
+    Button named '' with state 'None' at position (1244, 940).
+    Button named '' with state 'None' at position (1168, 940).
+    Button named '' with state 'None' at position (858, 940).
+    Splitter named 'None' with state '234.5' at position None.
+    Image named 'None' with state 'None' at position (1326, 96).
+    StaticText named 'None' with state 'Action Configuration' at position (1422, 124).
+    StaticText named 'None' with state '' at position (1422, 158).
+    Button named '' with state 'None' at position (1636, 98).
+    ScrollArea named 'None' with state 'None' at position (1310, 204).
+      StaticText named 'None' with state 'Select a predefined action or keyboard shortcut' at position (1324, 214).
+      Button named 'Custom Move / Resize Window' with state 'None' at position (1320, 296).
+      Button named 'Add additional action' with state 'None' at position (1426, 358).
+      StaticText named 'None' with state 'Click here to configure the custom move / resize:' at position (1324, 420).
+      Button named 'Configure Move / Resize' with state 'None' at position (1308, 496).
+      StaticText named 'None' with state 'Move/Resize:  - ' at position (1324, 570).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

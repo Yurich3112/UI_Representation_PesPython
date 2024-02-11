@@ -1,0 +1,115 @@
+Description for the Bettertouchtool application:
+Window named 'BetterTouchTool Settings' with state 'None' at position (0, 0).
+  ScrollArea named 'None' with state 'None' at position (0, 56).
+    Table named 'None' with state 'None' at position (2, 58).
+      Row named 'None' with state 'None' at position (2, 58).
+        Cell named 'None' with state 'None' at position (14, 60).
+          StaticText named 'None' with state 'Standard Settings' at position (26, 90).
+      Row named 'None' with state 'None' at position (2, 134).
+        Cell named 'None' with state 'None' at position (14, 136).
+          Image named 'None' with state 'None' at position (28, 128).
+          StaticText named 'None' with state 'Basic' at position (88, 152).
+      Row named 'None' with state 'None' at position (2, 198).
+        Cell named 'None' with state 'None' at position (14, 200).
+          Image named 'None' with state 'None' at position (28, 196).
+          StaticText named 'None' with state 'User Interface' at position (88, 216).
+      Row named 'None' with state 'None' at position (2, 262).
+        Cell named 'None' with state 'None' at position (14, 264).
+          Image named 'None' with state 'None' at position (28, 268).
+          StaticText named 'None' with state 'Touch Bar' at position (88, 280).
+      Row named 'None' with state 'None' at position (2, 326).
+        Cell named 'None' with state 'None' at position (14, 328).
+          Image named 'None' with state 'None' at position (28, 332).
+          StaticText named 'None' with state 'Stream Deck' at position (88, 344).
+      Row named 'None' with state 'None' at position (2, 390).
+        Cell named 'None' with state 'None' at position (14, 392).
+          Image named 'None' with state 'None' at position (28, 410).
+          StaticText named 'None' with state 'Notch / Action Menu Bar' at position (88, 408).
+      Row named 'None' with state 'None' at position (2, 482).
+        Cell named 'None' with state 'None' at position (14, 484).
+          Image named 'None' with state 'None' at position (28, 502).
+          StaticText named 'None' with state 'Window Snapping & Moving' at position (88, 500).
+      Row named 'None' with state 'None' at position (2, 574).
+        Cell named 'None' with state 'None' at position (14, 576).
+          Image named 'None' with state 'None' at position (28, 580).
+          StaticText named 'None' with state 'BTT Remote' at position (88, 592).
+      Row named 'None' with state 'None' at position (2, 638).
+        Cell named 'None' with state 'None' at position (14, 640).
+          StaticText named 'None' with state 'Advanced Settings' at position (26, 670).
+      Row named 'None' with state 'None' at position (2, 714).
+        Cell named 'None' with state 'None' at position (14, 716).
+          Image named 'None' with state 'None' at position (28, 708).
+          StaticText named 'None' with state 'General' at position (88, 732).
+      Row named 'None' with state 'None' at position (2, 778).
+        Cell named 'None' with state 'None' at position (14, 780).
+          Image named 'None' with state 'None' at position (28, 784).
+          StaticText named 'None' with state 'Trackpad' at position (88, 796).
+      Row named 'None' with state 'None' at position (2, 842).
+        Cell named 'None' with state 'None' at position (14, 844).
+          Image named 'None' with state 'None' at position (28, 848).
+          StaticText named 'None' with state 'Magic Mouse' at position (88, 860).
+      Row named 'None' with state 'None' at position (2, 906).
+        Cell named 'None' with state 'None' at position (14, 908).
+          Image named 'None' with state 'None' at position (28, 912).
+          StaticText named 'None' with state 'Keyboard' at position (88, 924).
+      Row named 'None' with state 'None' at position (2, 970).
+        Cell named 'None' with state 'None' at position (14, 972).
+          Image named 'None' with state 'None' at position (28, 990).
+          StaticText named 'None' with state 'Drawings / Mouse Gestures' at position (88, 988).
+      Row named 'None' with state 'None' at position (2, 1062).
+        Cell named 'None' with state 'None' at position (14, 1064).
+          Image named 'None' with state 'None' at position (28, 1068).
+          StaticText named 'None' with state 'MIDI Settings' at position (88, 1080).
+      Row named 'None' with state 'None' at position (2, 1126).
+        Cell named 'None' with state 'None' at position (14, 1128).
+          Image named 'None' with state 'None' at position (28, 1132).
+          StaticText named 'None' with state 'Scripting BTT' at position (88, 1144).
+      Row named 'None' with state 'None' at position (2, 1190).
+        Cell named 'None' with state 'None' at position (14, 1192).
+          Image named 'None' with state 'None' at position (28, 1196).
+          StaticText named 'None' with state 'Web Server' at position (88, 1208).
+      Row named 'None' with state 'None' at position (2, 1254).
+        Cell named 'None' with state 'None' at position (14, 1256).
+          Image named 'None' with state 'None' at position (28, 1260).
+          StaticText named 'None' with state 'Normal Mouse' at position (88, 1272).
+      Row named 'None' with state 'None' at position None.
+        Cell named 'None' with state 'None' at position None.
+          Image named 'None' with state 'None' at position None.
+          StaticText named 'None' with state 'Sync' at position None.
+      Column named 'None' with state 'None' at position (2, 58).
+    ScrollBar named 'None' with state '0.0' at position (306, 58).
+      ValueIndicator named 'None' with state '0.0' at position (314, 60).
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (314, 1228).
+      Button named 'None' with state 'None' at position (314, 58).
+  TabGroup named 'None' with state '<AXUIElement 0x14becae00> {pid=18369}' at position (358, 60).
+    RadioButton named 'Snapping' with state '1' at position (390, 70).
+    RadioButton named 'Appearance' with state '0' at position (550, 70).
+    RadioButton named 'Stage Manager' with state '0' at position (740, 70).
+    RadioButton named 'Advanced Snap Settings' with state '0' at position (968, 70).
+    RadioButton named 'Moving & Resizing Modifier Keys' with state '0' at position (1308, 70).
+    RadioButton named 'Snap Areas' with state '0' at position (1748, 70).
+    CheckBox named 'Snap to left' with state '1' at position (640, 552).
+    CheckBox named 'Snap to bottom left' with state '1' at position (640, 778).
+    CheckBox named 'Snap to top' with state '1' at position (1084, 272).
+    CheckBox named 'Snap to top right' with state '1' at position (1430, 262).
+    CheckBox named 'Snap to right' with state '1' at position (1476, 552).
+    CheckBox named 'Snap to bottom right' with state '1' at position (1382, 778).
+    Image named 'None' with state 'None' at position (926, 366).
+    StaticText named 'None' with state 'Instructions: in order to snap a window to one of the above mentioned positions click on its titlebar and drag it to the screen's edges. As soon as the mouse cursor touches the corners or edges of the screen a graphic will show you how the window will be resized after you release the drag.' at position (674, 864).
+    CheckBox named 'Snap to top left' with state '1' at position (640, 290).
+    Button named 'Using BetterTouchTool and Spaces / Mission Control at the same time?' with state 'None' at position (690, 1020).
+    CheckBox named 'Left edge: resize to left half' with state '1' at position (762, 1134).
+    CheckBox named 'Top edge: maximize' with state '1' at position (1164, 1134).
+    StaticText named 'None' with state 'Advanced: While using predefined actions start/stop moving:' at position (760, 1086).
+    CheckBox named 'Corners: resize to quarters' with state '1' at position (1164, 1188).
+    CheckBox named 'Right edge: resize to right half' with state '1' at position (762, 1188).
+    CheckBox named 'Enable window snapping' with state '1' at position (970, 164).
+    CheckBox named 'Haptic Feedback' with state '0' at position (1048, 212).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'BetterTouchTool Settings' at position (826, 10).

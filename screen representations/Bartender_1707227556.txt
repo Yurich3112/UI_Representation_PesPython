@@ -1,0 +1,78 @@
+Description for the Bartender application:
+Window named 'Bartender 5' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    StaticText named 'None' with state 'Bartender' at position (178, 16).
+    StaticText named 'None' with state '5' at position (330, 10).
+    ScrollArea named 'None' with state 'None' at position (0, 76).
+      Outline named 'None' with state 'None' at position (0, 76).
+        Row named 'None' with state 'None' at position (0, 96).
+          Cell named 'None' with state 'None' at position (20, 96).
+            Image named 'None' with state 'None' at position (32, 108).
+            StaticText named 'None' with state 'General' at position (114, 130).
+        Row named 'None' with state 'None' at position (0, 196).
+          Cell named 'None' with state 'None' at position (20, 196).
+            Image named 'None' with state 'None' at position (32, 212).
+            StaticText named 'None' with state 'Menu Bar Items' at position (114, 230).
+        Row named 'None' with state 'None' at position (0, 296).
+          Cell named 'None' with state 'None' at position (20, 296).
+            Image named 'None' with state 'None' at position (32, 308).
+            StaticText named 'None' with state 'Menu Bar Style' at position (114, 330).
+        Row named 'None' with state 'None' at position (0, 396).
+          Cell named 'None' with state 'None' at position (20, 396).
+            Image named 'None' with state 'None' at position (32, 412).
+            StaticText named 'None' with state 'Presets' at position (114, 430).
+        Row named 'None' with state 'None' at position (0, 496).
+          Cell named 'None' with state 'None' at position (20, 496).
+            Image named 'None' with state 'None' at position (32, 506).
+            StaticText named 'None' with state 'Triggers' at position (114, 530).
+        Row named 'None' with state 'None' at position (0, 596).
+          Cell named 'None' with state 'None' at position (20, 596).
+            Image named 'None' with state 'None' at position (32, 612).
+            StaticText named 'None' with state 'Hotkeys' at position (114, 630).
+        Row named 'None' with state 'None' at position (0, 696).
+          Cell named 'None' with state 'None' at position (20, 696).
+            Image named 'None' with state 'None' at position (32, 708).
+            StaticText named 'None' with state 'Advanced' at position (114, 730).
+        Row named 'None' with state 'None' at position (0, 796).
+          Cell named 'None' with state 'None' at position (20, 796).
+            Image named 'None' with state 'None' at position (32, 818).
+            StaticText named 'None' with state 'About' at position (114, 830).
+        Column named 'None' with state 'None' at position (20, 76).
+    Splitter named 'None' with state '240.0' at position (480, 56).
+    StaticText named 'None' with state 'Menu Bar Style' at position (518, 40).
+    StaticText named 'None' with state 'Right click on empty menu bar space on any menu bar to set its styling' at position (518, 104).
+    Group named 'None' with state 'None' at position (516, 156).
+      StaticText named 'None' with state 'Menu bar tint' at position (560, 178).
+      Button named 'Add Color Stop for gradient' with state 'None' at position (998, 286).
+      Button named 'Color the menu bar' with state 'None' at position (564, 296).
+    Group named 'None' with state 'None' at position (516, 390).
+      StaticText named 'None' with state 'Border Thickness' at position (560, 424).
+      ComboBox named 'None' with state 'No Border' at position (1208, 418).
+        Button named '' with state 'None' at position (1360, 418).
+      StaticText named 'None' with state 'Border Color' at position (560, 486).
+      ColorWell named 'None' with state 'rgb 0 0 0 1' at position (1204, 474).
+      StaticText named 'None' with state 'Shadow' at position (560, 546).
+      Button named 'None' with state '0' at position (1332, 542).
+    Group named 'None' with state 'None' at position (516, 618).
+      StaticText named 'None' with state 'Rounded menu bar' at position (560, 640).
+      Image named 'None' with state 'None' at position (1094, 640).
+      Button named 'None' with state '0' at position (1332, 638).
+      StaticText named 'None' with state 'Rounded separate sides' at position (560, 700).
+      Image named 'None' with state 'None' at position (1094, 700).
+      Button named 'None' with state '0' at position (1332, 698).
+    Group named 'None' with state 'None' at position (516, 786).
+      StaticText named 'None' with state 'Rounded corners' at position (560, 808).
+      Image named 'None' with state 'None' at position (848, 808).
+      StaticText named 'None' with state 'top of display' at position (1154, 810).
+      Button named 'None' with state '0' at position (1332, 806).
+      StaticText named 'None' with state 'below menu bar' at position (1108, 874).
+      Button named 'None' with state '0' at position (1332, 870).
+      StaticText named 'None' with state 'bottom of display' at position (1108, 938).
+      Button named 'None' with state '0' at position (1332, 934).
+    Button named 'Reset menu bar' with state 'None' at position (510, 1012).
+    Button named 'Apply to all menu bars' with state 'None' at position (814, 1012).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

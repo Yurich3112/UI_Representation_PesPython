@@ -1,0 +1,138 @@
+Description for the Bettertouchtool application:
+Window named 'BetterTouchTool Settings' with state 'None' at position (0, 0).
+  ScrollArea named 'None' with state 'None' at position (0, 56).
+    Table named 'None' with state 'None' at position (2, 58).
+      Row named 'None' with state 'None' at position (2, 58).
+        Cell named 'None' with state 'None' at position (14, 60).
+          StaticText named 'None' with state 'Standard Settings' at position (26, 90).
+      Row named 'None' with state 'None' at position (2, 134).
+        Cell named 'None' with state 'None' at position (14, 136).
+          Image named 'None' with state 'None' at position (28, 128).
+          StaticText named 'None' with state 'Basic' at position (88, 152).
+      Row named 'None' with state 'None' at position (2, 198).
+        Cell named 'None' with state 'None' at position (14, 200).
+          Image named 'None' with state 'None' at position (28, 196).
+          StaticText named 'None' with state 'User Interface' at position (88, 216).
+      Row named 'None' with state 'None' at position (2, 262).
+        Cell named 'None' with state 'None' at position (14, 264).
+          Image named 'None' with state 'None' at position (28, 268).
+          StaticText named 'None' with state 'Touch Bar' at position (88, 280).
+      Row named 'None' with state 'None' at position (2, 326).
+        Cell named 'None' with state 'None' at position (14, 328).
+          Image named 'None' with state 'None' at position (28, 332).
+          StaticText named 'None' with state 'Stream Deck' at position (88, 344).
+      Row named 'None' with state 'None' at position (2, 390).
+        Cell named 'None' with state 'None' at position (14, 392).
+          Image named 'None' with state 'None' at position (28, 410).
+          StaticText named 'None' with state 'Notch / Action Menu Bar' at position (88, 408).
+      Row named 'None' with state 'None' at position (2, 482).
+        Cell named 'None' with state 'None' at position (14, 484).
+          Image named 'None' with state 'None' at position (28, 502).
+          StaticText named 'None' with state 'Window Snapping & Moving' at position (88, 500).
+      Row named 'None' with state 'None' at position (2, 574).
+        Cell named 'None' with state 'None' at position (14, 576).
+          Image named 'None' with state 'None' at position (28, 580).
+          StaticText named 'None' with state 'BTT Remote' at position (88, 592).
+      Row named 'None' with state 'None' at position (2, 638).
+        Cell named 'None' with state 'None' at position (14, 640).
+          StaticText named 'None' with state 'Advanced Settings' at position (26, 670).
+      Row named 'None' with state 'None' at position (2, 714).
+        Cell named 'None' with state 'None' at position (14, 716).
+          Image named 'None' with state 'None' at position (28, 708).
+          StaticText named 'None' with state 'General' at position (88, 732).
+      Row named 'None' with state 'None' at position (2, 778).
+        Cell named 'None' with state 'None' at position (14, 780).
+          Image named 'None' with state 'None' at position (28, 784).
+          StaticText named 'None' with state 'Trackpad' at position (88, 796).
+      Row named 'None' with state 'None' at position (2, 842).
+        Cell named 'None' with state 'None' at position (14, 844).
+          Image named 'None' with state 'None' at position (28, 848).
+          StaticText named 'None' with state 'Magic Mouse' at position (88, 860).
+      Row named 'None' with state 'None' at position (2, 906).
+        Cell named 'None' with state 'None' at position (14, 908).
+          Image named 'None' with state 'None' at position (28, 912).
+          StaticText named 'None' with state 'Keyboard' at position (88, 924).
+      Row named 'None' with state 'None' at position (2, 970).
+        Cell named 'None' with state 'None' at position (14, 972).
+          Image named 'None' with state 'None' at position (28, 990).
+          StaticText named 'None' with state 'Drawings / Mouse Gestures' at position (88, 988).
+      Row named 'None' with state 'None' at position (2, 1062).
+        Cell named 'None' with state 'None' at position (14, 1064).
+          Image named 'None' with state 'None' at position (28, 1068).
+          StaticText named 'None' with state 'MIDI Settings' at position (88, 1080).
+      Row named 'None' with state 'None' at position (2, 1126).
+        Cell named 'None' with state 'None' at position (14, 1128).
+          Image named 'None' with state 'None' at position (28, 1132).
+          StaticText named 'None' with state 'Scripting BTT' at position (88, 1144).
+      Row named 'None' with state 'None' at position (2, 1190).
+        Cell named 'None' with state 'None' at position (14, 1192).
+          Image named 'None' with state 'None' at position (28, 1196).
+          StaticText named 'None' with state 'Web Server' at position (88, 1208).
+      Row named 'None' with state 'None' at position (2, 1254).
+        Cell named 'None' with state 'None' at position (14, 1256).
+          Image named 'None' with state 'None' at position (28, 1260).
+          StaticText named 'None' with state 'Normal Mouse' at position (88, 1272).
+      Row named 'None' with state 'None' at position None.
+        Cell named 'None' with state 'None' at position None.
+          Image named 'None' with state 'None' at position None.
+          StaticText named 'None' with state 'Sync' at position None.
+      Column named 'None' with state 'None' at position (2, 58).
+    ScrollBar named 'None' with state '0.0' at position (306, 58).
+      ValueIndicator named 'None' with state '0.0' at position (314, 60).
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (314, 1228).
+      Button named 'None' with state 'None' at position (314, 58).
+  Group named 'None' with state 'None' at position (366, 82).
+    CheckBox named 'Launch BetterTouchTool on startup' with state '0' at position (526, 130).
+    Image named 'None' with state 'None' at position (394, 132).
+    CheckBox named 'Allow crash log and anonymized usage data collection' with state '0' at position (1076, 130).
+    StaticText named 'None' with state 'General' at position (388, 82).
+  Group named 'None' with state 'None' at position (368, 292).
+    Image named 'None' with state 'None' at position (566, 336).
+    Image named 'None' with state 'None' at position (392, 364).
+    Slider named 'None' with state '3.0' at position (988, 362).
+      ValueIndicator named 'None' with state '3.0' at position (1348, 362).
+    StaticText named 'None' with state 'Gesture sensitivity:' at position (582, 368).
+    StaticText named 'None' with state 'This slider will change the settings you made in the advanced preferences!' at position (966, 420).
+    StaticText named 'None' with state 'Easier to trigger' at position (794, 368).
+    StaticText named 'None' with state 'Set mouse speed' at position (562, 508).
+    Slider named 'None' with state '0.0' at position (770, 500).
+      ValueIndicator named 'None' with state '0.0' at position (770, 500).
+    StaticText named 'None' with state 'Harder to trigger' at position (1740, 368).
+    StaticText named 'None' with state '' at position (1620, 506).
+    StaticText named 'None' with state 'Magic Mouse' at position (390, 292).
+  Group named 'None' with state 'None' at position (370, 588).
+    Image named 'None' with state 'None' at position (582, 634).
+    Image named 'None' with state 'None' at position (392, 744).
+    StaticText named 'None' with state 'Gesture sensitivity: ' at position (598, 682).
+    Slider named 'None' with state '3.0' at position (1008, 670).
+      ValueIndicator named 'None' with state '3.0' at position (1350, 676).
+    StaticText named 'None' with state 'This slider will change the settings you made in the advanced preferences!' at position (966, 736).
+    StaticText named 'None' with state 'Easier to trigger' at position (812, 682).
+    StaticText named 'None' with state 'Set trackpad speed' at position (578, 962).
+    Slider named 'None' with state '5.0' at position (814, 956).
+      ValueIndicator named 'None' with state '5.0' at position (1140, 956).
+    StaticText named 'None' with state '' at position (1762, 962).
+    Image named 'None' with state 'None' at position (582, 828).
+    StaticText named 'None' with state 'Force Touch sensitivity & feedback can be changed in the Advanced Trackpad Settings.' at position (650, 796).
+    StaticText named 'None' with state 'Harder to trigger' at position (1728, 682).
+    StaticText named 'None' with state 'Trackpad & Magic Trackpad' at position (392, 588).
+  Group named 'None' with state 'None' at position (372, 1048).
+    Image named 'None' with state 'None' at position (380, 1066).
+    CheckBox named 'Enable window snapping' with state '1' at position (682, 1162).
+    StaticText named 'None' with state 'Window Snapping' at position (394, 1048).
+  Group named 'None' with state 'None' at position (1194, 1048).
+    PopUpButton named 'None' with state 'System Language (if available)' at position (1366, 1102).
+    StaticText named 'None' with state 'Language:' at position (1226, 1108).
+    PopUpButton named 'None' with state 'None' at position (1430, 1154).
+    StaticText named 'None' with state 'Region Settings' at position (1226, 1160).
+    StaticText named 'None' with state 'Changes require restart:' at position (1226, 1226).
+    Button named 'Restart BTT' with state 'None' at position (1526, 1212).
+    StaticText named 'None' with state 'Language & Region' at position (1216, 1048).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'BetterTouchTool Settings' at position (826, 10).

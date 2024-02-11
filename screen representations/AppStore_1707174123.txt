@@ -1,0 +1,182 @@
+Description for the AppStore application:
+Window named 'App Store' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (20, 104).
+      TextField named 'None' with state '' at position (80, 104).
+    Outline named 'None' with state 'None' at position (0, 176).
+      Row named 'None' with state 'None' at position (0, 196).
+        Cell named 'None' with state 'None' at position (20, 196).
+          Button named 'None' with state 'None' at position (0, 196).
+      Row named 'None' with state 'None' at position (0, 268).
+        Cell named 'None' with state 'None' at position (20, 268).
+          Button named 'None' with state 'None' at position (0, 268).
+      Row named 'None' with state 'None' at position (0, 340).
+        Cell named 'None' with state 'None' at position (20, 340).
+          Button named 'None' with state 'None' at position (0, 340).
+      Row named 'None' with state 'None' at position (0, 412).
+        Cell named 'None' with state 'None' at position (20, 412).
+          Button named 'None' with state 'None' at position (0, 412).
+      Row named 'None' with state 'None' at position (0, 484).
+        Cell named 'None' with state 'None' at position (20, 484).
+          Button named 'None' with state 'None' at position (0, 484).
+      Row named 'None' with state 'None' at position (0, 556).
+        Cell named 'None' with state 'None' at position (20, 556).
+          Button named 'None' with state 'None' at position (0, 556).
+      Row named 'None' with state 'None' at position (0, 628).
+        Cell named 'None' with state 'None' at position (20, 628).
+          Button named 'None' with state 'None' at position (0, 628).
+      Row named 'None' with state 'None' at position (0, 700).
+        Cell named 'None' with state 'None' at position (20, 700).
+          Button named 'None' with state 'None' at position (0, 700).
+      Column named 'None' with state 'None' at position (20, 176).
+      Group named 'None' with state 'None' at position None.
+        Button named 'Field' with state 'None' at position None.
+    Button named 'Mariya Hirna' with state 'None' at position (0, 1336).
+      Image named 'None' with state 'None' at position (20, 1356).
+      StaticText named 'None' with state 'Mariya Hirna' at position (104, 1376).
+    ScrollArea named 'None' with state 'None' at position (442, 218).
+      List named 'None' with state 'None' at position (442, 218).
+        List named 'None' with state 'None' at position (522, 254).
+          Group named 'None' with state 'None' at position (522, 254).
+            Button named 'Business' with state 'None' at position (522, 254).
+          Group named 'None' with state 'None' at position (1122, 254).
+            Button named 'Developer Tools' with state 'None' at position (1122, 254).
+          Group named 'None' with state 'None' at position (1722, 254).
+            Button named 'Education' with state 'None' at position (1722, 254).
+          Group named 'None' with state 'None' at position (522, 348).
+            Button named 'Entertainment' with state 'None' at position (522, 348).
+          Group named 'None' with state 'None' at position (1122, 348).
+            Button named 'Finance' with state 'None' at position (1122, 348).
+          Group named 'None' with state 'None' at position (1722, 348).
+            Button named 'Games' with state 'None' at position (1722, 348).
+          Group named 'None' with state 'None' at position (522, 442).
+            Button named 'Graphics & Design' with state 'None' at position (522, 442).
+          Group named 'None' with state 'None' at position (1122, 442).
+            Button named 'Health & Fitness' with state 'None' at position (1122, 442).
+          Group named 'None' with state 'None' at position (1722, 442).
+            Button named 'Lifestyle' with state 'None' at position (1722, 442).
+          Group named 'None' with state 'None' at position (522, 536).
+            Button named 'Medical' with state 'None' at position (522, 536).
+          Group named 'None' with state 'None' at position (1122, 536).
+            Button named 'Music' with state 'None' at position (1122, 536).
+          Group named 'None' with state 'None' at position (1722, 536).
+            Button named 'News' with state 'None' at position (1722, 536).
+          Group named 'None' with state 'None' at position (522, 630).
+            Button named 'Photo & Video' with state 'None' at position (522, 630).
+          Group named 'None' with state 'None' at position (1122, 630).
+            Button named 'Productivity' with state 'None' at position (1122, 630).
+          Group named 'None' with state 'None' at position (1722, 630).
+            Button named 'Reference' with state 'None' at position (1722, 630).
+          Group named 'None' with state 'None' at position (522, 724).
+            Button named 'Safari Extensions' with state 'None' at position (522, 724).
+          Group named 'None' with state 'None' at position (1122, 724).
+            Button named 'Social Networking' with state 'None' at position (1122, 724).
+          Group named 'None' with state 'None' at position (1722, 724).
+            Button named 'Sports' with state 'None' at position (1722, 724).
+          Group named 'None' with state 'None' at position (522, 818).
+            Button named 'Travel' with state 'None' at position (522, 818).
+          Group named 'None' with state 'None' at position (1122, 818).
+            Button named 'Utilities' with state 'None' at position (1122, 818).
+        List named 'None' with state 'None' at position (442, 984).
+          Group named 'None' with state 'None' at position (442, 984).
+            StaticText named 'None' with state 'Editors’ Choice' at position (522, 1010).
+            Button named 'See All' with state 'None' at position (2170, 1018).
+          Group named 'None' with state 'None' at position (442, 1090).
+            Group named 'None' with state 'None' at position (442, 1090).
+              ScrollArea named 'None' with state 'None' at position (442, 1090).
+                List named 'None' with state 'None' at position (442, 1090).
+                  Button named 'Photomator, Your photo editing powerhouse, Get, In-App Purchases' with state 'None' at position (522, 1090).
+                    Button named 'Get, In-App Purchases' with state 'None' at position (1244, 1090).
+                  Button named 'Things 3, Organize your life, £49.99' with state 'None' at position (522, 1228).
+                    Button named '£49.99' with state 'None' at position (1244, 1228).
+                  Button named 'Pixelmator Pro, Pro image editing for everyone, £49.99' with state 'None' at position (522, 1366).
+                    Button named '£49.99' with state 'None' at position (1244, 1366).
+                  Button named 'Acorn 7, Image editing for humans, £29.99' with state 'None' at position (1420, 1090).
+                    Button named '£29.99' with state 'None' at position (2142, 1090).
+                  Button named 'Drafts, Where text starts, Get, In-App Purchases' with state 'None' at position (1420, 1228).
+                    Button named 'Get, In-App Purchases' with state 'None' at position (2142, 1228).
+                  Button named 'Adobe Lightroom, Edit, manage and share photos, Get, In-App Purchases' with state 'None' at position (1420, 1366).
+                    Button named 'Get, In-App Purchases' with state 'None' at position (2142, 1366).
+                  Button named 'Fantastical - Calendar, Reminders & Todo List, Get, In-App Purchases' with state 'None' at position (2318, 1090).
+                    Button named 'Get, In-App Purchases' with state 'None' at position None.
+                  Button named 'MacFamilyTree 10, The Best in Genealogy, £69.99' with state 'None' at position (2318, 1228).
+                    Button named '£69.99' with state 'None' at position None.
+                  Button named 'PCalc, The Best Calculator, £9.99' with state 'None' at position (2318, 1366).
+                    Button named '£9.99' with state 'None' at position None.
+                  Button named 'BetterSnapTool, Easy window resize & organize, £2.99' with state 'None' at position None.
+                    Button named '£2.99' with state 'None' at position None.
+                  Button named 'Microsoft OneNote, Capture Notes, Ideas and Memos, Get, In-App Purchases' with state 'None' at position None.
+                    Button named 'Get, In-App Purchases' with state 'None' at position None.
+                  Button named 'Day One, Your journal for life, Get, In-App Purchases' with state 'None' at position None.
+                    Button named 'Get, In-App Purchases' with state 'None' at position None.
+                  Button named 'PDF Expert – Edit, Sign PDFs, The go-to PDF editor, £129.99, In-App Purchases' with state 'None' at position None.
+                    Button named '£129.99, In-App Purchases' with state 'None' at position None.
+                  Button named 'Parcel - Delivery Tracking, Package Tracker, Get, In-App Purchases' with state 'None' at position None.
+                    Button named 'Get, In-App Purchases' with state 'None' at position None.
+                  Button named 'Ulysses: Writing App, Write a novel, story, book, Get, In-App Purchases' with state 'None' at position None.
+                    Button named 'Get, In-App Purchases' with state 'None' at position None.
+                  Button named 'Agenda - Notes meets Calendar, Organise your days, Get, In-App Purchases' with state 'None' at position None.
+                    Button named 'Get, In-App Purchases' with state 'None' at position None.
+                  Button named 'BBEdit, Legendary text and code editor, Get, In-App Purchases' with state 'None' at position None.
+                    Button named 'Get, In-App Purchases' with state 'None' at position None.
+                  Button named 'Bear Markdown Notes, Create, Tag, Export, Encrypt, Get, In-App Purchases' with state 'None' at position None.
+                    Button named 'Get, In-App Purchases' with state 'None' at position None.
+                  Button named 'DaisyDisk, Recover disk space, £9.99' with state 'None' at position None.
+                    Button named '£9.99' with state 'None' at position None.
+                  Button named 'iA Writer, Laser-focused writing, £49.99' with state 'None' at position None.
+                    Button named '£49.99' with state 'None' at position None.
+                  Button named 'Capo, Learn more songs in less time, Get, In-App Purchases' with state 'None' at position None.
+                    Button named 'Get, In-App Purchases' with state 'None' at position None.
+                  Button named 'Paprika Recipe Manager 3, Lifestyle, £29.99' with state 'None' at position None.
+                    Button named '£29.99' with state 'None' at position None.
+                  Button named 'Scrivener 3, The go-to app for writers, £59.99' with state 'None' at position None.
+                    Button named '£59.99' with state 'None' at position None.
+                  Button named 'Clocker, Menubar World Clock, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named 'TextSniper - OCR, Copy & Paste, PDF, Screen & Image to text, £11.99' with state 'None' at position None.
+                    Button named '£11.99' with state 'None' at position None.
+                  Button named 'Craft: Write docs, AI editing, Journal ideas, meeting notes, Re-download' with state 'None' at position None.
+                    Button named 'Re-download' with state 'None' at position None.
+                  Button named 'Darkroom: Photo & Video Editor, Pro Editing, AI&Preset Filters, Get, In-App Purchases' with state 'None' at position None.
+                    Button named 'Get, In-App Purchases' with state 'None' at position None.
+                  Button named 'Essayist - APA, MLA & More, The Academic Writing App, Get, In-App Purchases' with state 'None' at position None.
+                    Button named 'Get, In-App Purchases' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Unknown named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+      ScrollBar named 'None' with state '0.0' at position (2328, 0).
+        ValueIndicator named 'None' with state '0.0' at position (2336, 2).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (2336, 476).
+        Button named 'None' with state 'None' at position (2336, 0).
+    Toolbar named 'None' with state 'None' at position (442, 0).
+      StaticText named 'None' with state 'Categories' at position (522, 118).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 38).
+  Button named 'None' with state 'None' at position (78, 36).

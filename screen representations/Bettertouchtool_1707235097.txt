@@ -1,0 +1,98 @@
+Description for the Bettertouchtool application:
+Window named 'BetterTouchTool Configuration' with state 'None' at position (0, 0).
+  Button named '<<<' with state 'None' at position (150, 50).
+  Button named '' with state 'None' at position (2, 926).
+  Button named '' with state 'None' at position (64, 926).
+  ScrollArea named 'None' with state 'None' at position (0, 94).
+    Table named 'None' with state 'None' at position (0, 94).
+      Row named 'None' with state 'None' at position (0, 94).
+        Cell named 'None' with state 'None' at position (2, 96).
+          Image named 'None' with state 'None' at position (16, 100).
+          StaticText named 'None' with state 'All Apps' at position (62, 106).
+      Row named 'None' with state 'None' at position (0, 146).
+        Cell named 'None' with state 'None' at position (2, 148).
+          Image named 'None' with state 'None' at position (16, 152).
+          StaticText named 'None' with state 'Finder' at position (62, 158).
+      Column named 'None' with state 'None' at position (0, 94).
+  Group named 'None' with state 'None' at position (370, 0).
+    Button named '' with state 'None' at position (372, 20).
+    PopUpButton named 'None' with state ' • Touch Bar' at position (438, 28).
+    Button named '' with state 'None' at position (1644, 0).
+    CheckBox named 'Preset: Default ▾' with state '0' at position (1392, 28).
+    Button named 'Touch Bar Settings' with state 'None' at position (908, 20).
+    RadioGroup named 'None' with state '<AXUIElement 0x13f6d0650> {pid=18369}' at position (1208, 26).
+      RadioButton named 'None' with state '0' at position (1208, 26).
+      RadioButton named 'None' with state '1' at position (1282, 26).
+  SplitGroup named 'None' with state 'None' at position (370, 94).
+    ScrollArea named 'None' with state 'None' at position (370, 94).
+      Outline named 'None' with state 'None' at position (372, 152).
+        Row named 'None' with state 'None' at position (372, 152).
+          Cell named 'None' with state 'None' at position (376, 154).
+            StaticText named 'None' with state '' at position (392, 166).
+          Cell named 'None' with state 'None' at position (750, 154).
+            StaticText named 'None' with state 'Two Finger Swipe Left' at position (822, 160).
+          Cell named 'None' with state 'None' at position (1094, 154).
+            StaticText named 'None' with state 'Move/Resize:  - ' at position (1106, 176).
+        Row named 'None' with state 'None' at position (372, 228).
+          Cell named 'None' with state 'None' at position (376, 230).
+            StaticText named 'None' with state '￼ ' at position (392, 242).
+          Cell named 'None' with state 'None' at position (750, 230).
+            StaticText named 'None' with state 'Brightness Slider Widget' at position (822, 236).
+          Cell named 'None' with state 'None' at position (1094, 230).
+            StaticText named 'None' with state 'Click here & select action ►' at position (1106, 252).
+        Column named 'None' with state 'None' at position (372, 152).
+        Column named 'None' with state 'None' at position (710, 152).
+        Column named 'None' with state 'None' at position (1090, 152).
+        Group named 'None' with state 'None' at position (372, 96).
+          Button named 'Config' with state 'None' at position (372, 96).
+          Button named 'Trigger Name' with state 'None' at position (710, 96).
+          Button named 'Assigned Action(s)' with state 'None' at position (1090, 96).
+      ScrollBar named 'None' with state '0.0' at position (372, 898).
+        ValueIndicator named 'None' with state '0.0' at position (374, 906).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (978, 906).
+        Button named 'None' with state 'None' at position (372, 906).
+    Button named '' with state 'None' at position (788, 940).
+    Button named '' with state 'None' at position (1224, 940).
+    Button named '' with state 'None' at position (716, 940).
+    Button named 'Attach additional action' with state 'None' at position (864, 940).
+    Splitter named 'None' with state '470.0' at position None.
+    Image named 'None' with state 'None' at position (1326, 116).
+    StaticText named 'None' with state 'Touch Bar Trigger Configuration' at position (1422, 124).
+    StaticText named 'None' with state '' at position (1422, 190).
+    Button named '' with state 'None' at position (1636, 98).
+    ScrollArea named 'None' with state 'None' at position (1310, 220).
+      Button named 'Two Finger Swipe Left' with state 'None' at position (1320, 230).
+      Button named '2 actions assigned +' with state 'None' at position (1428, 292).
+      CheckBox named 'Enabled / Visible on Touch Bar' with state '1' at position (1326, 350).
+      TextField named 'None' with state '1' at position (1562, 428).
+      StaticText named 'None' with state 'Retrigger after sliding' at position (1324, 434).
+      Incrementor named 'None' with state '1.0' at position (1698, 428).
+        Button named 'None' with state 'None' at position (1698, 428).
+        Button named 'None' with state 'None' at position (1698, 450).
+      StaticText named 'None' with state '%' at position (1732, 434).
+      StaticText named 'None' with state 'Only trigger while holding modifier keys:' at position (1324, 500).
+      CheckBox named '⌘ cmd' with state '0' at position (1670, 586).
+      CheckBox named '⌥ opt' with state '0' at position (1578, 586).
+      CheckBox named '⌃ ctrl' with state '0' at position (1486, 586).
+      CheckBox named '  fn' with state '0' at position (1422, 586).
+      CheckBox named '⇧(shift)' with state '0' at position (1330, 586).
+      CheckBox named 'Global gesture - works even BTT
+Touch Bar is hidden.' with state '0' at position (1326, 678).
+      StaticText named 'None' with state 'Only enable the global checkbox if you absolutely need the gesture to work on the system Touch Bar. Activating the global option will make the gestures a bit less responsive.' at position (1324, 752).
+      StaticText named 'None' with state 'Execute Named Trigger after Gesture has ended:' at position (1324, 928).
+      StaticText named 'None' with state 'Named Trigger:' at position None.
+      PopUpButton named 'None' with state 'No Reusable Named Triggers:' at position None.
+      StaticText named 'None' with state 'Hint (Advanced):' at position None.
+      StaticText named 'None' with state 'If you assign the "Run Apple Script In Background" action, BTT will automatically pass the moved percentage to the script. This can be used in Apple Script like this:
+
+on bttWidgetSliderMoved(percentageMoved, absolutePositionNormalized)
+   #example to change system volume:
+  set volume output volume absolutePositionNormalized * 100
+end bttWidgetSliderMoved}' at position None.
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

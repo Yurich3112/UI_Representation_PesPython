@@ -1,0 +1,127 @@
+Description for the Bettertouchtool application:
+Window named 'BetterTouchTool Settings' with state 'None' at position (0, 0).
+  ScrollArea named 'None' with state 'None' at position (0, 56).
+    Table named 'None' with state 'None' at position (2, 58).
+      Row named 'None' with state 'None' at position (2, 58).
+        Cell named 'None' with state 'None' at position (14, 60).
+          StaticText named 'None' with state 'Standard Settings' at position (26, 90).
+      Row named 'None' with state 'None' at position (2, 134).
+        Cell named 'None' with state 'None' at position (14, 136).
+          Image named 'None' with state 'None' at position (28, 128).
+          StaticText named 'None' with state 'Basic' at position (88, 152).
+      Row named 'None' with state 'None' at position (2, 198).
+        Cell named 'None' with state 'None' at position (14, 200).
+          Image named 'None' with state 'None' at position (28, 196).
+          StaticText named 'None' with state 'User Interface' at position (88, 216).
+      Row named 'None' with state 'None' at position (2, 262).
+        Cell named 'None' with state 'None' at position (14, 264).
+          Image named 'None' with state 'None' at position (28, 268).
+          StaticText named 'None' with state 'Touch Bar' at position (88, 280).
+      Row named 'None' with state 'None' at position (2, 326).
+        Cell named 'None' with state 'None' at position (14, 328).
+          Image named 'None' with state 'None' at position (28, 332).
+          StaticText named 'None' with state 'Stream Deck' at position (88, 344).
+      Row named 'None' with state 'None' at position (2, 390).
+        Cell named 'None' with state 'None' at position (14, 392).
+          Image named 'None' with state 'None' at position (28, 410).
+          StaticText named 'None' with state 'Notch / Action Menu Bar' at position (88, 408).
+      Row named 'None' with state 'None' at position (2, 482).
+        Cell named 'None' with state 'None' at position (14, 484).
+          Image named 'None' with state 'None' at position (28, 502).
+          StaticText named 'None' with state 'Window Snapping & Moving' at position (88, 500).
+      Row named 'None' with state 'None' at position (2, 574).
+        Cell named 'None' with state 'None' at position (14, 576).
+          Image named 'None' with state 'None' at position (28, 580).
+          StaticText named 'None' with state 'BTT Remote' at position (88, 592).
+      Row named 'None' with state 'None' at position (2, 638).
+        Cell named 'None' with state 'None' at position (14, 640).
+          StaticText named 'None' with state 'Advanced Settings' at position (26, 670).
+      Row named 'None' with state 'None' at position (2, 714).
+        Cell named 'None' with state 'None' at position (14, 716).
+          Image named 'None' with state 'None' at position (28, 708).
+          StaticText named 'None' with state 'General' at position (88, 732).
+      Row named 'None' with state 'None' at position (2, 778).
+        Cell named 'None' with state 'None' at position (14, 780).
+          Image named 'None' with state 'None' at position (28, 784).
+          StaticText named 'None' with state 'Trackpad' at position (88, 796).
+      Row named 'None' with state 'None' at position (2, 842).
+        Cell named 'None' with state 'None' at position (14, 844).
+          Image named 'None' with state 'None' at position (28, 848).
+          StaticText named 'None' with state 'Magic Mouse' at position (88, 860).
+      Row named 'None' with state 'None' at position (2, 906).
+        Cell named 'None' with state 'None' at position (14, 908).
+          Image named 'None' with state 'None' at position (28, 912).
+          StaticText named 'None' with state 'Keyboard' at position (88, 924).
+      Row named 'None' with state 'None' at position (2, 970).
+        Cell named 'None' with state 'None' at position (14, 972).
+          Image named 'None' with state 'None' at position (28, 990).
+          StaticText named 'None' with state 'Drawings / Mouse Gestures' at position (88, 988).
+      Row named 'None' with state 'None' at position (2, 1062).
+        Cell named 'None' with state 'None' at position (14, 1064).
+          Image named 'None' with state 'None' at position (28, 1068).
+          StaticText named 'None' with state 'MIDI Settings' at position (88, 1080).
+      Row named 'None' with state 'None' at position (2, 1126).
+        Cell named 'None' with state 'None' at position (14, 1128).
+          Image named 'None' with state 'None' at position (28, 1132).
+          StaticText named 'None' with state 'Scripting BTT' at position (88, 1144).
+      Row named 'None' with state 'None' at position (2, 1190).
+        Cell named 'None' with state 'None' at position (14, 1192).
+          Image named 'None' with state 'None' at position (28, 1196).
+          StaticText named 'None' with state 'Web Server' at position (88, 1208).
+      Row named 'None' with state 'None' at position (2, 1254).
+        Cell named 'None' with state 'None' at position (14, 1256).
+          Image named 'None' with state 'None' at position (28, 1260).
+          StaticText named 'None' with state 'Normal Mouse' at position (88, 1272).
+      Row named 'None' with state 'None' at position None.
+        Cell named 'None' with state 'None' at position None.
+          Image named 'None' with state 'None' at position None.
+          StaticText named 'None' with state 'Sync' at position None.
+      Column named 'None' with state 'None' at position (2, 58).
+    ScrollBar named 'None' with state '0.0' at position (306, 58).
+      ValueIndicator named 'None' with state '0.0' at position (314, 60).
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position None.
+      Button named 'None' with state 'None' at position (314, 1228).
+      Button named 'None' with state 'None' at position (314, 58).
+  StaticText named 'None' with state 'Increase / Decrease Base Font Size by:' at position (374, 264).
+  TextField named 'None' with state '' at position (862, 258).
+  PopUpButton named 'None' with state 'Use Default Dark Translucent Side-Bar' at position (372, 422).
+  StaticText named 'None' with state 'Font Sizes in the Main User Interface:' at position (374, 216).
+  StaticText named 'None' with state 'App Side-Bar:' at position (374, 376).
+  StaticText named 'None' with state 'Hidden Trigger Sections:' at position (1282, 216).
+  StaticText named 'None' with state 'Language & Region' at position (374, 506).
+  StaticText named 'None' with state 'Various things:' at position (374, 814).
+  StaticText named 'None' with state 'pt' at position (1024, 264).
+  CheckBox named 'Show Menu Bar Icon' with state '1' at position (374, 92).
+  CheckBox named 'Show Dock Icon while running (may require restart)' with state '0' at position (374, 140).
+  Group named 'None' with state 'None' at position (372, 550).
+    PopUpButton named 'None' with state 'System Language (if available)' at position (544, 580).
+    StaticText named 'None' with state 'Language:' at position (404, 586).
+    PopUpButton named 'None' with state 'None' at position (608, 632).
+    StaticText named 'None' with state 'Region Settings' at position (404, 638).
+    Button named 'Restart BTT to Apply Changes' with state 'None' at position (396, 684).
+  StaticText named 'None' with state '(If you hide the icon you can access the preferences by starting BTT again)' at position (690, 96).
+  CheckBox named 'Only show recently used colors in side-bar color picker dropdown' with state '0' at position (374, 860).
+  Button named 'Restart BTT to Apply Changes' with state 'None' at position (366, 304).
+  CheckBox named 'Touch Bar' with state '0' at position (1282, 266).
+  CheckBox named 'Stream Deck' with state '0' at position (1282, 308).
+  CheckBox named 'Magic Mouse' with state '0' at position (1282, 352).
+  CheckBox named 'Trackpad' with state '0' at position (1282, 396).
+  CheckBox named 'Keyboard Shortcuts' with state '0' at position (1282, 440).
+  CheckBox named 'Key Sequences / Typed Words' with state '0' at position (1282, 484).
+  CheckBox named 'Normal Mouse' with state '0' at position (1282, 528).
+  CheckBox named 'Siri Remote' with state '0' at position (1282, 572).
+  CheckBox named 'BTT Remote' with state '0' at position (1282, 616).
+  CheckBox named 'Automations, Named & Other Triggers' with state '0' at position (1282, 660).
+  CheckBox named 'MIDI Triggers' with state '0' at position (1282, 704).
+  CheckBox named 'Drawings / Mouse Gestures' with state '0' at position (1282, 748).
+  CheckBox named 'Notch Bar / Menu Bar Replacement' with state '0' at position (1282, 792).
+  Button named 'Restart BTT to Apply Changes' with state 'None' at position (1274, 924).
+  CheckBox named 'Generic Devices' with state '0' at position (1282, 836).
+  CheckBox named 'Floating Menus' with state '0' at position (1282, 882).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).
+  StaticText named 'None' with state 'BetterTouchTool Settings' at position (826, 10).

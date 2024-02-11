@@ -1,0 +1,76 @@
+Description for the Bettertouchtool application:
+Window named 'BetterTouchTool Configuration' with state 'None' at position (0, 0).
+  Button named '<<<' with state 'None' at position (150, 50).
+  Button named '' with state 'None' at position (2, 926).
+  Button named '' with state 'None' at position (64, 926).
+  ScrollArea named 'None' with state 'None' at position (0, 94).
+    Table named 'None' with state 'None' at position (0, 94).
+      Row named 'None' with state 'None' at position (0, 94).
+        Cell named 'None' with state 'None' at position (2, 96).
+          Image named 'None' with state 'None' at position (16, 100).
+          StaticText named 'None' with state 'All Apps' at position (62, 106).
+      Row named 'None' with state 'None' at position (0, 146).
+        Cell named 'None' with state 'None' at position (2, 148).
+          Image named 'None' with state 'None' at position (16, 152).
+          StaticText named 'None' with state 'Finder' at position (62, 158).
+      Column named 'None' with state 'None' at position (0, 94).
+  Group named 'None' with state 'None' at position (370, 0).
+    Button named '' with state 'None' at position (372, 20).
+    PopUpButton named 'None' with state ' ◦ Touch Bar' at position (438, 28).
+    Button named '' with state 'None' at position (1644, 0).
+    CheckBox named 'Preset: Default ▾' with state '0' at position (1392, 28).
+    Button named 'Touch Bar Settings' with state 'None' at position (908, 20).
+    RadioGroup named 'None' with state '<AXUIElement 0x137ef2b50> {pid=18369}' at position (1208, 26).
+      RadioButton named 'None' with state '1' at position (1208, 26).
+      RadioButton named 'None' with state '0' at position (1282, 26).
+  SplitGroup named 'None' with state 'None' at position (370, 94).
+    ScrollArea named 'None' with state 'None' at position (370, 94).
+      Table named 'None' with state 'None' at position (370, 150).
+        Row named 'None' with state 'None' at position (370, 150).
+          Cell named 'None' with state 'None' at position (370, 150).
+            Button named '+' with state 'None' at position (774, 480).
+            StaticText named 'None' with state 'Add first Touch Bar Button/Widget for
+ Finder' at position (408, 322).
+        Column named 'None' with state 'None' at position (370, 150).
+        Group named 'None' with state 'None' at position (370, 94).
+          Button named 'Groups & Top Level Triggers' with state 'None' at position (370, 94).
+    Button named '' with state 'None' at position (388, 940).
+    Image named 'None' with state 'None' at position (1326, 182).
+    StaticText named 'None' with state 'Finder
+(App Specific Settings)' at position (1422, 114).
+    StaticText named 'None' with state 'Advanced options to override specific BTT functionality for the selected app.' at position (1422, 212).
+    Button named '' with state 'None' at position (1636, 98).
+    ScrollArea named 'None' with state 'None' at position (1310, 352).
+      StaticText named 'None' with state 'For Finder:' at position (1324, 362).
+      CheckBox named 'Disable Single Finger Scrolling
+(Magic Mouse)' with state '0' at position (1326, 410).
+      CheckBox named 'Disable Single Finger Horizontal
+Scrolling (Magic Mouse)' with state '0' at position (1326, 482).
+      CheckBox named 'Disable Window Snapping' with state '0' at position (1326, 552).
+      CheckBox named 'Disable Drawings / Mouse Gestures' with state '0' at position (1326, 596).
+      CheckBox named 'Disable AX Observation (advanced)' with state '0' at position (1326, 640).
+      CheckBox named 'Disable Clipboard Manager' with state '0' at position (1326, 684).
+      CheckBox named 'Disable BetterTouchTool completely' with state '0' at position (1326, 728).
+      CheckBox named 'Shortcut Sending Compatibility
+Mode' with state '0' at position (1326, 774).
+      StaticText named 'None' with state 'Touch Bar' at position (1324, 866).
+      StaticText named 'None' with state 'Touch Bar Configuration For:  (Finder)' at position (1324, 916).
+      StaticText named 'None' with state '' at position None.
+      PopUpButton named 'None' with state 'Default (No Special Handling)' at position (1314, 994).
+      StaticText named 'None' with state 'Allow to show hidden Touch Bar with modifier keys:' at position None.
+      StaticText named 'None' with state '' at position None.
+      PopUpButton named 'None' with state 'Default (keep last active mode)' at position None.
+      StaticText named 'None' with state 'Notch / Action Bar' at position None.
+      StaticText named 'None' with state 'Notch / Action Bar Configuration For:  (Finder)' at position None.
+      StaticText named 'None' with state '' at position None.
+      PopUpButton named 'None' with state 'Default (No Special Handling)' at position None.
+      StaticText named 'None' with state 'Allow to show hidden Notch / Action Bar with modifier keys:' at position None.
+      StaticText named 'None' with state '' at position None.
+      PopUpButton named 'None' with state 'Default (As defined in settings)' at position None.
+      StaticText named 'None' with state 'Notch / Action Bar & Stream Deck' at position None.
+      CheckBox named 'Hide Global Triggers' with state '0' at position None.
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

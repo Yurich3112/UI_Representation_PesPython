@@ -1,0 +1,79 @@
+Description for the Bettertouchtool application:
+Window named 'BetterTouchTool Configuration' with state 'None' at position (0, 0).
+  Button named '<<<' with state 'None' at position (150, 50).
+  Button named '' with state 'None' at position (2, 926).
+  Button named '' with state 'None' at position (64, 926).
+  ScrollArea named 'None' with state 'None' at position (0, 94).
+    Table named 'None' with state 'None' at position (0, 94).
+      Row named 'None' with state 'None' at position (0, 94).
+        Cell named 'None' with state 'None' at position (2, 96).
+          Image named 'None' with state 'None' at position (16, 100).
+          StaticText named 'None' with state 'All Apps' at position (62, 106).
+      Row named 'None' with state 'None' at position (0, 146).
+        Cell named 'None' with state 'None' at position (2, 148).
+          Image named 'None' with state 'None' at position (16, 152).
+          StaticText named 'None' with state 'Finder' at position (62, 158).
+      Column named 'None' with state 'None' at position (0, 94).
+  Group named 'None' with state 'None' at position (370, 0).
+    Button named '' with state 'None' at position (372, 20).
+    PopUpButton named 'None' with state ' ◦ Normal Mouse' at position (438, 28).
+    Button named '' with state 'None' at position (1644, 0).
+    CheckBox named 'Preset: Default ▾' with state '0' at position (1392, 28).
+    Button named 'Normal Mouse Settings' with state 'None' at position (854, 20).
+    RadioGroup named 'None' with state '<AXUIElement 0x129f40750> {pid=18369}' at position (1208, 26).
+      RadioButton named 'None' with state '0' at position (1208, 26).
+      RadioButton named 'None' with state '1' at position (1282, 26).
+  SplitGroup named 'None' with state 'None' at position (370, 94).
+    ScrollArea named 'None' with state 'None' at position (370, 94).
+      Outline named 'None' with state 'None' at position (372, 152).
+        Row named 'None' with state 'None' at position (372, 152).
+          Cell named 'None' with state 'None' at position (376, 154).
+            StaticText named 'None' with state '' at position (392, 166).
+          Cell named 'None' with state 'None' at position (750, 154).
+            StaticText named 'None' with state 'Please click below to select button' at position (766, 164).
+          Cell named 'None' with state 'None' at position (1094, 154).
+            StaticText named 'None' with state 'Click here & select action ►' at position (1106, 180).
+        Column named 'None' with state 'None' at position (372, 152).
+        Column named 'None' with state 'None' at position (710, 152).
+        Column named 'None' with state 'None' at position (1090, 152).
+        Group named 'None' with state 'None' at position (372, 96).
+          Button named 'Config' with state 'None' at position (372, 96).
+          Button named 'Trigger Name' with state 'None' at position (710, 96).
+          Button named 'Assigned Action(s)' with state 'None' at position (1090, 96).
+      ScrollBar named 'None' with state '0.0' at position (372, 898).
+        ValueIndicator named 'None' with state '0.0' at position (374, 906).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (978, 906).
+        Button named 'None' with state 'None' at position (372, 906).
+    Button named '' with state 'None' at position (788, 940).
+    Button named '' with state 'None' at position (1224, 940).
+    Button named '' with state 'None' at position (716, 940).
+    Button named 'Attach additional action' with state 'None' at position (864, 940).
+    Splitter named 'None' with state '470.0' at position None.
+    Image named 'None' with state 'None' at position (1326, 116).
+    StaticText named 'None' with state 'Normal Mouse Configuration' at position (1422, 124).
+    StaticText named 'None' with state '' at position (1422, 190).
+    Button named '' with state 'None' at position (1636, 98).
+    ScrollArea named 'None' with state 'None' at position (1310, 220).
+      RadioGroup named 'None' with state '<AXUIElement 0x129f3ff00> {pid=18369}' at position (1316, 232).
+        RadioButton named 'None' with state '1' at position (1316, 232).
+        RadioButton named 'None' with state '0' at position (1540, 232).
+      StaticText named 'None' with state 'Click to record a mouse button:' at position (1324, 318).
+      StaticText named 'None' with state 'Please Select a Trigger ' at position (1330, 366).
+      StaticText named 'None' with state 'Select Required Modifiers:' at position (1324, 498).
+      CheckBox named '⌘ cmd' with state '0' at position (1670, 552).
+      CheckBox named '⌥ opt' with state '0' at position (1578, 552).
+      CheckBox named '⌃ ctrl' with state '0' at position (1486, 552).
+      CheckBox named '  fn' with state '0' at position (1422, 552).
+      CheckBox named '⇧(shift)' with state '0' at position (1330, 552).
+      TextField named 'None' with state '' at position (1402, 640).
+      StaticText named 'None' with state 'Notes:' at position (1324, 646).
+      Button named '😀' with state 'None' at position (1702, 640).
+      CheckBox named 'Show notes instead of description' with state '0' at position (1326, 690).
+      Button named 'Problems with click recognition?' with state 'None' at position (1308, 750).
+  Button named 'None' with state 'None' at position (14, 12).
+  Button named 'None' with state 'None' at position (94, 12).
+    Group named 'None' with state 'None' at position (94, 12).
+      Group named 'None' with state 'None' at position (94, 12).
+  Button named 'None' with state 'None' at position (54, 12).

@@ -1,0 +1,215 @@
+Description for the AppStore application:
+Window named 'App Store' with state 'None' at position (0, 0).
+  SplitGroup named 'None' with state 'None' at position (0, 0).
+    Group named 'None' with state 'None' at position (20, 104).
+      TextField named 'None' with state '' at position (80, 104).
+    Outline named 'None' with state 'None' at position (0, 176).
+      Row named 'None' with state 'None' at position (0, 196).
+        Cell named 'None' with state 'None' at position (20, 196).
+          Button named 'None' with state 'None' at position (0, 196).
+      Row named 'None' with state 'None' at position (0, 268).
+        Cell named 'None' with state 'None' at position (20, 268).
+          Button named 'None' with state 'None' at position (0, 268).
+      Row named 'None' with state 'None' at position (0, 340).
+        Cell named 'None' with state 'None' at position (20, 340).
+          Button named 'None' with state 'None' at position (0, 340).
+      Row named 'None' with state 'None' at position (0, 412).
+        Cell named 'None' with state 'None' at position (20, 412).
+          Button named 'None' with state 'None' at position (0, 412).
+      Row named 'None' with state 'None' at position (0, 484).
+        Cell named 'None' with state 'None' at position (20, 484).
+          Button named 'None' with state 'None' at position (0, 484).
+      Row named 'None' with state 'None' at position (0, 556).
+        Cell named 'None' with state 'None' at position (20, 556).
+          Button named 'None' with state 'None' at position (0, 556).
+      Row named 'None' with state 'None' at position (0, 628).
+        Cell named 'None' with state 'None' at position (20, 628).
+          Button named 'None' with state 'None' at position (0, 628).
+      Row named 'None' with state 'None' at position (0, 700).
+        Cell named 'None' with state 'None' at position (20, 700).
+          Button named 'None' with state 'None' at position (0, 700).
+      Column named 'None' with state 'None' at position (20, 176).
+      Group named 'None' with state 'None' at position None.
+        Button named 'Field' with state 'None' at position None.
+    Button named 'Mariya Hirna' with state 'None' at position (0, 1336).
+      Image named 'None' with state 'None' at position (20, 1356).
+      StaticText named 'None' with state 'Mariya Hirna' at position (104, 1376).
+    ScrollArea named 'None' with state 'None' at position (442, 0).
+      List named 'None' with state 'None' at position (442, 0).
+        List named 'None' with state 'None' at position (522, 0).
+          Unknown named 'None' with state 'None' at position (522, 0).
+            Image named 'None' with state 'None' at position (522, 0).
+            StaticText named 'None' with state 'Play 200+ games. 
+No in-app purchases. 
+No ads.' at position (602, 546).
+            StaticText named 'None' with state '' at position None.
+            Button named '' with state 'None' at position None.
+            Image named 'None' with state 'None' at position (1318, 498).
+            Button named 'Try It Free' with state 'None' at position (1132, 812).
+            StaticText named 'None' with state '1 month free, then £6.99/month.' at position (1222, 926).
+        List named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position (442, 1012).
+          Unknown named 'None' with state 'None' at position (442, 1012).
+            ScrollArea named 'None' with state 'None' at position (442, 1012).
+              List named 'None' with state 'None' at position (442, 1012).
+                List named 'None' with state 'None' at position (522, 1028).
+                  Unknown named 'None' with state 'None' at position (522, 1028).
+                    Image named 'None' with state 'None' at position (534, 1038).
+                    StaticText named 'None' with state 'Action ' at position (598, 1044).
+                  Unknown named 'None' with state 'None' at position (724, 1028).
+                    Image named 'None' with state 'None' at position (736, 1038).
+                    StaticText named 'None' with state 'Adventure ' at position (800, 1044).
+                  Unknown named 'None' with state 'None' at position (970, 1028).
+                    Image named 'None' with state 'None' at position (982, 1038).
+                    StaticText named 'None' with state 'Casual ' at position (1046, 1044).
+                  Unknown named 'None' with state 'None' at position (1174, 1028).
+                    Image named 'None' with state 'None' at position (1186, 1038).
+                    StaticText named 'None' with state 'Family ' at position (1250, 1044).
+                  Unknown named 'None' with state 'None' at position (1378, 1028).
+                    Image named 'None' with state 'None' at position (1390, 1038).
+                    StaticText named 'None' with state 'Puzzle' at position (1454, 1044).
+                  Unknown named 'None' with state 'None' at position (1576, 1028).
+                    Image named 'None' with state 'None' at position (1588, 1038).
+                    StaticText named 'None' with state 'Racing ' at position (1652, 1044).
+                  Unknown named 'None' with state 'None' at position (1784, 1028).
+                    Image named 'None' with state 'None' at position (1796, 1038).
+                    StaticText named 'None' with state 'Role-Playing ' at position (1860, 1044).
+                  Unknown named 'None' with state 'None' at position (2054, 1028).
+                    Image named 'None' with state 'None' at position (2066, 1038).
+                    StaticText named 'None' with state 'Simulation' at position (2130, 1044).
+                  Unknown named 'None' with state 'None' at position (2296, 1028).
+                    Image named 'None' with state 'None' at position (2308, 1038).
+                    StaticText named 'None' with state 'Sports ' at position None.
+                  Unknown named 'None' with state 'None' at position None.
+                    None named 'None' with state 'None' at position None.
+                    None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position (442, 1136).
+          StaticText named 'None' with state 'None' at position (442, 1136).
+          Group named 'None' with state 'None' at position (442, 1242).
+            Group named 'None' with state 'None' at position (442, 1242).
+              ScrollArea named 'None' with state 'None' at position (442, 1242).
+                List named 'None' with state 'None' at position (442, 1242).
+                  Button named '1, Apple Arcade, Football Manager 2024 Touch, Elite football management, Get' with state 'None' at position (522, 1242).
+                    Button named 'Get' with state 'None' at position (1244, 1242).
+                  Button named '2, Apple Arcade, Snake.io+, Fun Battle Royale Arcade Game, Get' with state 'None' at position (522, 1380).
+                    Button named 'Get' with state 'None' at position (1244, 1380).
+                  Button named '3, Apple Arcade, Words in Progress, Word, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '4, Apple Arcade, BEAST: Bio Exo Arena Suit Team, Hero Shooter: PVP Battles, Get' with state 'None' at position (1420, 1242).
+                    Button named 'Get' with state 'None' at position (2142, 1242).
+                  Button named '5, Apple Arcade, Disney Dreamlight Valley, Arcade Edition, Get' with state 'None' at position (1420, 1380).
+                    Button named 'Get' with state 'None' at position (2142, 1380).
+                  Button named '6, Apple Arcade, Mini Motorways, Draw roads that drive the city, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '7, Apple Arcade, Sonic Dream Team, 3D Prime Adventure, Get' with state 'None' at position (2318, 1242).
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '8, Apple Arcade, Hello Kitty Island Adventure, Island adventures await, Get' with state 'None' at position (2318, 1380).
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '9, Apple Arcade, Angry Birds Reloaded, Classic Slingshot Action, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '10, Apple Arcade, Cooking Mama: Cuisine, Master the kitchen, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '11, Apple Arcade, stitch, Stitch it up to puzzle out, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '12, Apple Arcade, Tamagotchi Adventure Kingdom, Explore, Collect, Decorate, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '13, Apple Arcade, Sneaky Sasquatch, Stealthy shenanigans, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '14, Apple Arcade, NBA 2K24 Arcade Edition, Your Court, Your Way, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '15, Apple Arcade, LEGO® Star Wars™ Battles, RTS multiplayer PVP games, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '16, Apple Arcade, Crossy Road Castle, Endless co-op platform fun, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '17, Apple Arcade, Cityscapes: Sim Builder, Build the best cities, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '18, Apple Arcade, Asphalt 8: Airborne+, Racing cars and motorcycles, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '19, Apple Arcade, Sonic Racing, Super Speed Racing, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+                  Button named '20, Apple Arcade, Jetpack Joyride 2, Jetpacks Unleashed, Get' with state 'None' at position None.
+                    Button named 'Get' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Unknown named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Unknown named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            StaticText named 'None' with state '' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Unknown named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+        List named 'None' with state 'None' at position None.
+          Group named 'None' with state 'None' at position None.
+            None named 'None' with state 'None' at position None.
+      ScrollBar named 'None' with state '0.0' at position (2328, 0).
+        ValueIndicator named 'None' with state '0.0' at position (2336, 2).
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position None.
+        Button named 'None' with state 'None' at position (2336, 194).
+        Button named 'None' with state 'None' at position (2336, 0).
+    Toolbar named 'None' with state 'None' at position (442, 0).
+  Button named 'None' with state 'None' at position (38, 36).
+  Button named 'None' with state 'None' at position (118, 36).
+    Group named 'None' with state 'None' at position (118, 36).
+      Group named 'None' with state 'None' at position (118, 38).
+  Button named 'None' with state 'None' at position (78, 36).

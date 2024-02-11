@@ -1,0 +1,13 @@
+Detected elements for the 24hourwallpaper application:
+ImageView (0.87 confidence) at position (1828, 711)
+ImageView (0.86 confidence) at position (1814, 980)
+ImageView (0.78 confidence) at position (1828, 467)
+TextView (0.76 confidence) at position (1870, 918)
+TextView (0.73 confidence) at position (1873, 1206)
+TextView (0.73 confidence) at position (121, 38)
+TextView (0.73 confidence) at position (1850, 631)
+ImageView (0.69 confidence) at position (1822, 192)
+TextView (0.65 confidence) at position (1242, 64)
+TextView (0.65 confidence) at position (1870, 351)
+TextView (0.56 confidence) at position (1360, 132)
+TextView (0.33 confidence) at position (1811, 45)
